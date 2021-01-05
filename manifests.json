@@ -1,0 +1,28 @@
+{
+	"testing-new-plugin": {
+		"manifest_version": 1,
+		"id": "MyPlugin",
+		"app_min_version": "1.6",
+		"version": "1.0.0",
+		"name": "Testing New Plugin",
+		"description": "bla",
+		"author": "bla",
+		"homepage_url": "bla",
+		"repository_url": "bla",
+		"_publish_hash": "sha256:065285d06ea3c084e7f8f8c23583de8d70c4d586274a242c4c750f6faad8c7cb",
+		"_publish_commit": ""
+	},
+	"toggle-side-bars": {
+		"manifest_version": 1,
+		"id": "org.joplinapp.plugins.ToggleSideBars",
+		"app_min_version": "1.6",
+		"version": "1.0.0",
+		"name": "Note list and side bar toggle buttons",
+		"description": "Adds buttons to toggle note list and side bar",
+		"author": "Laurent Cozic",
+		"homepage_url": "https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSideBars",
+		"repository_url": "https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSideBars",
+		"_publish_hash": "sha256:077f7f9e21e3d8873d3f2ca502f043cafedd6a8ff7569f6ee23ccfa4389f7ad3",
+		"_publish_commit": "dev:ceb252b9ada700fa4423816fc06523ecd1a29895"
+	}
+}

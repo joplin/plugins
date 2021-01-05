@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "MyPlugin",
+	"app_min_version": "1.6",
+	"version": "1.0.0",
+	"name": "Testing New Plugin",
+	"description": "bla",
+	"author": "bla",
+	"homepage_url": "bla",
+	"repository_url": "bla",
+	"_publish_hash": "sha256:065285d06ea3c084e7f8f8c23583de8d70c4d586274a242c4c750f6faad8c7cb",
+	"_publish_commit": ""
+}
