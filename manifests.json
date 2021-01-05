@@ -24,5 +24,29 @@
 		"repository_url": "https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSideBars",
 		"_publish_hash": "sha256:077f7f9e21e3d8873d3f2ca502f043cafedd6a8ff7569f6ee23ccfa4389f7ad3",
 		"_publish_commit": "dev:ceb252b9ada700fa4423816fc06523ecd1a29895"
+	},
+	"backlinks": {
+		"manifest_version": 1,
+		"id": "ambrt.backlinksToNote",
+		"app_min_version": "1.5",
+		"version": "1.0.2",
+		"name": "Backlinks to note",
+		"description": "Creates backlinks to opened note",
+		"author": "a",
+		"homepage_url": "https://discourse.joplinapp.org/t/insert-referencing-notes-backlinks-plugin/13632",
+		"_publish_hash": "sha256:5676da6b9ad71fc5a9779d3bde13f17de5352344711e135f0db8c62c6dbb5696",
+		"_publish_commit": "master:19e515bd67e51cc37bd270a32d2898ca009a0de2"
+	},
+	"copytags": {
+		"manifest_version": 1,
+		"id": "joplin-plugin.copytags",
+		"app_min_version": "1.6.2",
+		"version": "0.3.0",
+		"name": "Copy Tags",
+		"description": "Plugin to extend the Joplin tagging menu with a coppy all tags and tagging list with more control.",
+		"author": "JackGruber",
+		"homepage_url": "https://github.com/JackGruber/joplin-plugin-copytags",
+		"_publish_hash": "sha256:e810ff37626e3d76c3f7e0dd24d24d1a4743ee7a83c27378b6497c0be52c2b81",
+		"_publish_commit": "develop:d22b409219953ca6b785649d1dbad8f55a1afb9e"
 	}
 }
