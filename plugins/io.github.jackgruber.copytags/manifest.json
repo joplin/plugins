@@ -8,5 +8,6 @@
 	"author": "JackGruber",
 	"homepage_url": "https://github.com/JackGruber/joplin-plugin-copytags",
 	"_publish_hash": "sha256:36a63b7e9a2bbc1ea8f6bafc4d06a91f27370dc4f949e2abdb5100b6a94e2f28",
-	"_publish_commit": "master:a04e9e4ecf8bbaa6e2f1a54bfa8434b4416c3a32"
+	"_publish_commit": "master:a04e9e4ecf8bbaa6e2f1a54bfa8434b4416c3a32",
+	"_npm_package_name": "joplin-plugin-copytags"
 }
