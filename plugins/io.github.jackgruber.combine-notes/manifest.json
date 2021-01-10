@@ -1,0 +1,14 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.jackgruber.combine-notes",
+	"app_min_version": "1.6",
+	"version": "0.2.0",
+	"name": "combine",
+	"description": "Combine one or more notes",
+	"author": "JackGruber",
+	"homepage_url": "https://github.com/JackGruber/joplin-plugin-combine-notes",
+	"repository_url": "https://github.com/JackGruber/joplin-plugin-combine-notes",
+	"_publish_hash": "sha256:2f77e17eb0e1bfe8bf7aa4bd14332222c52ef2dc308dd685f2d3ea5fe59f62ed",
+	"_publish_commit": "master:a19bc99edd9d1acce432d8bc7cbb25ea16ead100",
+	"_npm_package_name": "joplin-plugin-combine-notes"
+}
