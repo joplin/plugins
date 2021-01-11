@@ -11,7 +11,7 @@ To install any of these plugins, open the desktop application, then go to the "P
 This repository contains the following plugins:
 
 <!-- PLUGIN_LIST -->
-.   | Name | Version | Description | Author
+    | Name | Version | Description | Author
 --- | --- | --- | --- | ---
 [🏠](https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSideBars) | Note list and side bar toggle buttons | 1.0.0 | Adds buttons to toggle note list and side bar | Laurent Cozic
 [🏠](https://discourse.joplinapp.org/t/insert-referencing-notes-backlinks-plugin/13632) | Backlinks to note | 1.0.2 | Creates backlinks to opened note | a  
