@@ -66,5 +66,19 @@
 		"_publish_hash": "sha256:e0d833b7ef1bb8f02ee4cb861ef1989621358c45a5614911071302dc0527a3b4",
 		"_publish_commit": "dev:1b5b2342fc25717b77ad9f1627c1a334e5bbae54",
 		"_npm_package_name": "@joplin/joplin-plugin-toggle-sidebars"
+	},
+	"joplin.plugin.note.tabs": {
+		"manifest_version": 1,
+		"id": "joplin.plugin.note.tabs",
+		"app_min_version": "1.5",
+		"version": "1.1.1",
+		"name": "Note Tabs",
+		"description": "Allows to open several notes at once in tabs and pin them. (v1.1.1)",
+		"author": "Benji300",
+		"homepage_url": "https://github.com/benji300/joplin-note-tabs",
+		"repository_url": "https://github.com/benji300/joplin-note-tabs",
+		"_publish_hash": "sha256:e68a75fa2711f9bd011bf998e1da18f2a5bc5044c478b91c69c288ebd6f98ed2",
+		"_publish_commit": "master:63cc646852ab6434b08e335f4409487d8773a527",
+		"_npm_package_name": "joplin-plugin-note-tabs"
 	}
 }
