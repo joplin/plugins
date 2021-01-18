@@ -109,5 +109,19 @@
 		"_publish_hash": "sha256:045facf54f20e39556031101b92b2904fec8406af6e15820b5cc4258c7f7f4cc",
 		"_publish_commit": "master:ff54380080a2174ad572ff9641d720cbe4379f18",
 		"_npm_package_name": "joplin-plugin-note-overview"
+	},
+	"joplin.plugin.benji.favorites": {
+		"manifest_version": 1,
+		"id": "joplin.plugin.benji.favorites",
+		"app_min_version": "1.6.5",
+		"version": "1.0.0",
+		"name": "Favorites",
+		"description": "Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access. (v1.0.0)",
+		"author": "Benji300",
+		"homepage_url": "https://github.com/benji300/joplin-favorites",
+		"repository_url": "https://github.com/benji300/joplin-favorites",
+		"_publish_hash": "sha256:0f57dbf73b9b903e10babfbfd735405ea6269f0073842da36c875c9b6c44fd0b",
+		"_publish_commit": "master:fff1d4550821269768b0ddab0bc7c6db2aa2f7a8",
+		"_npm_package_name": "joplin-plugin-benji-favorites"
 	}
 }
