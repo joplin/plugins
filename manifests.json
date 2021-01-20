@@ -136,18 +136,5 @@
 		"_publish_hash": "sha256:b2391a9bd45c9605e354a244b320c02c6058919fb35365abb9a0c471e5ce4eb8",
 		"_publish_commit": "main:24f7d8a3c3c6d715778fccf48cb73df05ca71d2a",
 		"_npm_package_name": "joplin-plugin-outline"
-	},
-	"Outline": {
-		"manifest_version": 1,
-		"id": "Outline",
-		"app_min_version": "1.6.7",
-		"version": "1.0.9",
-		"name": "outline",
-		"description": "Outline sidebar plugin for joplin.",
-		"author": "cqroot",
-		"homepage_url": "https://github.com/cqroot/joplin-outline",
-		"_publish_hash": "sha256:fb1b2803a08ae0e53b61e19ac18487e558878f3696abb8be509e5ebface0a0c7",
-		"_publish_commit": "main:24f7d8a3c3c6d715778fccf48cb73df05ca71d2a",
-		"_npm_package_name": "joplin-plugin-outline"
 	}
 }
