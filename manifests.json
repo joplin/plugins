@@ -136,6 +136,7 @@
 		"_publish_hash": "sha256:b2391a9bd45c9605e354a244b320c02c6058919fb35365abb9a0c471e5ce4eb8",
 		"_publish_commit": "main:24f7d8a3c3c6d715778fccf48cb73df05ca71d2a",
 		"_npm_package_name": "joplin-plugin-outline"
+	},
 	"plugin.calebjohn.MathMode": {
 		"manifest_version": 1,
 		"id": "plugin.calebjohn.MathMode",
