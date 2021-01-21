@@ -2,12 +2,12 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.ambrt.convertToNewNote",
 	"app_min_version": "1.4",
-	"version": "1.4.0",
+	"version": "1.4.3",
 	"name": "Convert Text To New Note",
 	"description": "Converts highlighted text to new one in same folder",
 	"author": "a",
-	"homepage_url": "https://discourse.joplinapp.org/t/create-note-from-highlighted-text/12511/13",
-	"_publish_hash": "sha256:1baee9fe17b8d4ac88993b7f01d5f1cd67e242e5538d5677e99dd5e2ad1adbf7",
-	"_publish_commit": "master:923dbdff962e6d66441d932b1e2ac6052e82f9b2",
+	"homepage_url": "https://discourse.joplinapp.org/t/create-note-from-highlighted-text/12511",
+	"_publish_hash": "sha256:2d1b4bc0d567c3fb5bea773e1657af2e458a777a5fb5ba48c15693378ae63d10",
+	"_publish_commit": "master:e7dd146e37318dd0e44351f5231f543e35f9788e",
 	"_npm_package_name": "joplin-plugin-create-from-text"
 }
