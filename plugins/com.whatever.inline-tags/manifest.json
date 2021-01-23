@@ -1,0 +1,14 @@
+{
+	"manifest_version": 1,
+	"id": "com.whatever.inline-tags",
+	"app_min_version": "1.6",
+	"version": "0.0.3",
+	"name": "Inline tags",
+	"description": "Inline tags plugin",
+	"author": "Roman Musin",
+	"homepage_url": "https://github.com/roman-r-m/joplin-inline-tags-plugin",
+	"repository_url": "https://github.com/roman-r-m/joplin-inline-tags-plugin",
+	"_publish_hash": "sha256:fe4e41c893339f64467c1216998c5cfefaaae293c73097603179c04286b7047c",
+	"_publish_commit": "master:f4a40fb52a3f45157bb0854d5445d33e321513cb",
+	"_npm_package_name": "joplin-plugin-inline-tags"
+}
