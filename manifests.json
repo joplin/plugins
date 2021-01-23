@@ -194,5 +194,20 @@
 		"_publish_hash": "sha256:082e7f2029415351fd393eb9b9f2e9d264956ab173150cfdeb0cf66f41a7fc9f",
 		"_publish_commit": "master:7942a1c9a1154db51848a6cb9f6ecf2c179b7106",
 		"_npm_package_name": "joplin-plugin-create-from-text"
+	},
+	"com.whatever.quick-links": {
+		"manifest_version": 1,
+		"id": "com.whatever.quick-links",
+		"app_min_version": "1.7",
+		"version": "0.0.2",
+		"name": "Quick Links",
+		"description": "Create links to other notes",
+		"author": "Roman Musin",
+		"homepage_url": "https://github.com/roman-r-m/joplin-plugin-quick-links",
+		"repository_url": "https://github.com/roman-r-m/joplin-plugin-quick-links",
+		"keywords": [],
+		"_publish_hash": "sha256:4a895268b724d8192d777d7cee47551fca8c69f4c4feb2fdf84fd801edbf6a21",
+		"_publish_commit": "main:e7c8db0eb35b5013139d755113293399832e4295",
+		"_npm_package_name": "joplin-plugin-quick-links"
 	}
 }

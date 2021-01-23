@@ -25,5 +25,6 @@ This repository contains the following plugins:
 [🏠](https://github.com/JackGruber/joplin-plugin-note-overview) | Note overview | 1.2.1 | A note overview is created based on the defined search and the specified fields | JackGruber
 [🏠](https://github.com/benji300/joplin-note-tabs) | Note Tabs | 1.1.1 | Allows to open several notes at once in tabs and pin them. (v1.1.1) | Benji300
 [🏠](https://github.com/cqroot/joplin-outline) | Outline | 1.0.10 | Outline sidebar plugin for joplin. | cqroot
+[🏠](https://github.com/roman-r-m/joplin-plugin-quick-links) | Quick Links | 0.0.2 | Create links to other notes | Roman Musin
 [🏠](https://github.com/JackGruber/joplin-plugin-backup) | Simple Backup | 0.4.1 | Plugin to create manual and automatic backups | JackGruber
 <!-- PLUGIN_LIST -->
