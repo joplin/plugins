@@ -20,7 +20,7 @@ This repository contains the following plugins:
 [🏠](https://discourse.joplinapp.org/t/go-to-note-tag-or-notebook-via-highlighting-text-in-editor/12731) | Create and go to #tags and @notebooks | 1.3.4 | Go to tag,notebook or note via links or via text | a  
 [🏠](https://github.com/benji300/joplin-favorites) | Favorites | 1.1.0 | Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access. (v1.1.0) | Benji300
 [🏠](https://github.com/roman-r-m/joplin-inline-tags-plugin) | Inline tags | 0.0.3 | Inline tags plugin | Roman Musin
-[🏠](https://github.com/oswida/joplin-markdown-calc) | markdown-calc | 1.0.1 | Plugin for automatic calculations of markdown table formulas. | Oskar Świda
+[🏠](https://github.com/oswida/joplin-markdown-calc) | Markdown table calculations | 1.0.2 | Plugin for automatic calculations of markdown table formulas. | Oskar Świda
 [🏠](github.com/CalebJohn/joplin-math-mode) | Math Mode | 0.2.0 | Turn your notes into a powerful calculator with inline math. | Caleb John
 [🏠](https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSidebars) | Note list and side bar toggle buttons | 1.0.2 | Adds buttons to toggle note list and sidebar | Laurent Cozic
 [🏠](https://github.com/JackGruber/joplin-plugin-note-overview) | Note overview | 1.2.1 | A note overview is created based on the defined search and the specified fields | JackGruber
