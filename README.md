@@ -19,7 +19,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/JackGruber/joplin-plugin-copytags) | Copy Tags | 0.3.3 | Plugin to extend the Joplin tagging menu with a copy all tags and tagging list with more control. | JackGruber
 [🏠](https://discourse.joplinapp.org/t/go-to-note-tag-or-notebook-via-highlighting-text-in-editor/12731) | Create and go to #tags and @notebooks | 1.3.4 | Go to tag,notebook or note via links or via text | a  
 [🏠](https://github.com/benji300/joplin-favorites) | Favorites | 1.1.0 | Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access. (v1.1.0) | Benji300
-[🏠](https://github.com/JackGruber/joplin-plugin-hotfolder) | Hotfolder | 0.1.0 | Monitors a locale folder and import the fiels as a new note. | JackGruber
+[🏠](https://github.com/JackGruber/joplin-plugin-hotfolder) | Hotfolder | 0.1.1 | Monitors a locale folder and import the files as a new note. | JackGruber
 [🏠](https://github.com/roman-r-m/joplin-inline-tags-plugin) | Inline tags | 0.0.4 | Inline tags plugin | Roman Musin
 [🏠](https://github.com/oswida/joplin-markdown-calc) | Markdown table calculations | 1.0.2 | Plugin for automatic calculations of markdown table formulas. | Oskar Świda
 [🏠](github.com/CalebJohn/joplin-math-mode) | Math Mode | 0.2.0 | Turn your notes into a powerful calculator with inline math. | Caleb John
