@@ -238,5 +238,24 @@
 		"_publish_hash": "sha256:62a27dbe5f526ead74f2db9c7987168616966a2481576b5368e438966030e81a",
 		"_publish_commit": "main:0d2e629fa86c54c8b4e010af948864a175068f30",
 		"_npm_package_name": "joplin-plugin-tags-generator"
+	},
+	"io.github.jackgruber.hotfolder": {
+		"manifest_version": 1,
+		"id": "io.github.jackgruber.hotfolder",
+		"app_min_version": "1.7",
+		"version": "0.1.0",
+		"name": "Hotfolder",
+		"description": "Monitors a locale folder and import the fiels as a new note.",
+		"author": "JackGruber",
+		"homepage_url": "https://github.com/JackGruber/joplin-plugin-hotfolder",
+		"repository_url": "https://github.com/JackGruber/joplin-plugin-hotfolder",
+		"keywords": [
+			"hotfolder",
+			"import",
+			"monitor"
+		],
+		"_publish_hash": "sha256:785ea3ba8e955491d0a8018d600c98a8de341ea46fc01307223fd87cd4f9d5ed",
+		"_publish_commit": "master:549edeb9e284f10128bc61a6b395dface9c38bd7",
+		"_npm_package_name": "joplin-plugin-hotfolder"
 	}
 }
