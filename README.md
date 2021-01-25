@@ -28,4 +28,5 @@ This repository contains the following plugins:
 [🏠](https://github.com/cqroot/joplin-outline) | Outline | 1.0.10 | Outline sidebar plugin for joplin. | cqroot
 [🏠](https://github.com/roman-r-m/joplin-plugin-quick-links) | Quick Links | 0.0.2 | Create links to other notes | Roman Musin
 [🏠](https://github.com/JackGruber/joplin-plugin-backup) | Simple Backup | 0.4.1 | Plugin to create manual and automatic backups | JackGruber
+[🏠](https://github.com/forcewake/joplin-tags-generator) | Tags Generator | 1.0.0 | Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags | forcewake
 <!-- PLUGIN_LIST -->

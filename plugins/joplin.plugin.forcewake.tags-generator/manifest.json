@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.forcewake.tags-generator",
+	"app_min_version": "1.5.4",
+	"version": "1.0.0",
+	"name": "Tags Generator",
+	"description": "Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags",
+	"author": "forcewake",
+	"homepage_url": "https://github.com/forcewake/joplin-tags-generator",
+	"repository_url": "https://github.com/forcewake/joplin-tags-generator",
+	"keywords": [],
+	"_publish_hash": "sha256:62a27dbe5f526ead74f2db9c7987168616966a2481576b5368e438966030e81a",
+	"_publish_commit": "main:0d2e629fa86c54c8b4e010af948864a175068f30",
+	"_npm_package_name": "joplin-plugin-tags-generator"
+}
