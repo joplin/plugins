@@ -257,5 +257,20 @@
 		"_publish_hash": "sha256:b26bb9e0280d7df00416236a17a8a852ca16ab464eb13e71ef557d3918e8913d",
 		"_publish_commit": "master:08c84f23ffc6cc7883d28e1dd552aed822b9ede2",
 		"_npm_package_name": "joplin-plugin-hotfolder"
+	},
+	"joplin.plugin.ambrt.embedSearch": {
+		"manifest_version": 1,
+		"id": "joplin.plugin.ambrt.embedSearch",
+		"app_min_version": "1.7",
+		"version": "1.0.0",
+		"name": "Embed Search",
+		"description": "Embeds list of links specified by search inside of note",
+		"author": "ambrt",
+		"homepage_url": "",
+		"repository_url": "https://github.com/ambrt/joplin-plugin-embed-search",
+		"keywords": [],
+		"_publish_hash": "sha256:5f46012b4333ff310915faa0357c3bc4d3d2a3f13311cea4dd899f993429c4ea",
+		"_publish_commit": "master:961fca47417fe3336341cf70d231eb286e4a331d",
+		"_npm_package_name": "joplin-plugin-embed-search"
 	}
 }
