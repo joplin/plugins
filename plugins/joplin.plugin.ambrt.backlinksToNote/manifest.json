@@ -2,12 +2,12 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.ambrt.backlinksToNote",
 	"app_min_version": "1.7",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"name": "Automatic Backlinks to note",
 	"description": "Creates backlinks to opened note, also in automatic way",
 	"author": "ambrt",
 	"homepage_url": "https://discourse.joplinapp.org/t/insert-referencing-notes-backlinks-plugin/13632",
-	"_publish_hash": "sha256:e392caf2a114cd72935e1162aa139f0546bba1e76866badd6dc0523f4e58d0f5",
-	"_publish_commit": "master:5e4426b0c123a84afbafeaf75b665c8329cc1b06",
+	"_publish_hash": "sha256:aad7569b7a83ba199a9e11c6a98bc8d54849137be2ca079d27924e587baca1cb",
+	"_publish_commit": "master:6c5dddf3afc3f30af459d17ac15e6b9a579029b2",
 	"_npm_package_name": "joplin-plugin-backlinks"
 }
