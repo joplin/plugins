@@ -23,14 +23,14 @@
 	"joplin.plugin.ambrt.backlinksToNote": {
 		"manifest_version": 1,
 		"id": "joplin.plugin.ambrt.backlinksToNote",
-		"app_min_version": "1.5",
-		"version": "1.0.4",
-		"name": "Backlinks to note",
-		"description": "Creates backlinks to opened note",
-		"author": "a",
+		"app_min_version": "1.7",
+		"version": "2.0.0",
+		"name": "Automatic Backlinks to note",
+		"description": "Creates backlinks to opened note, also in automatic way",
+		"author": "ambrt",
 		"homepage_url": "https://discourse.joplinapp.org/t/insert-referencing-notes-backlinks-plugin/13632",
-		"_publish_hash": "sha256:ab9c9bc776e167a3b1a9ec40a4927d93da14514c0508f46dd6e5ea3f8a3a6c3b",
-		"_publish_commit": "master:5b74f93c687463572c46200292fa911e0ba96033",
+		"_publish_hash": "sha256:61ddaea306d00b0738e9cf2138c8422703c9254e83878a025121d80942359207",
+		"_publish_commit": "master:bc4d8b26931538ddd0efe9d38cad629e2de961fd",
 		"_npm_package_name": "joplin-plugin-backlinks"
 	},
 	"io.github.jackgruber.combine-notes": {

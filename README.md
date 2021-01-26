@@ -13,7 +13,7 @@ This repository contains the following plugins:
 <!-- PLUGIN_LIST -->
 &nbsp; | Name | Version | Description | Author
 --- | --- | --- | --- | ---
-[🏠](https://discourse.joplinapp.org/t/insert-referencing-notes-backlinks-plugin/13632) | Backlinks to note | 1.0.4 | Creates backlinks to opened note | a  
+[🏠](https://discourse.joplinapp.org/t/insert-referencing-notes-backlinks-plugin/13632) | Automatic Backlinks to note | 2.0.0 | Creates backlinks to opened note, also in automatic way | ambrt
 [🏠](https://github.com/JackGruber/joplin-plugin-combine-notes) | Combine notes | 0.2.1 | Combine one or more notes | JackGruber
 [🏠](https://discourse.joplinapp.org/t/create-note-from-highlighted-text/12511) | Convert Text To New Note | 1.4.5 | Converts highlighted text to new one in same folder | ambrt
 [🏠](https://github.com/JackGruber/joplin-plugin-copytags) | Copy Tags | 0.3.3 | Plugin to extend the Joplin tagging menu with a copy all tags and tagging list with more control. | JackGruber
