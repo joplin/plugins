@@ -24,7 +24,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/roman-r-m/joplin-inline-tags-plugin) | Inline tags | 0.0.4 | Inline tags plugin | Roman Musin
 [🏠](https://github.com/oswida/joplin-markdown-calc) | Markdown table calculations | 1.0.2 | Plugin for automatic calculations of markdown table formulas. | Oskar Świda
 [🏠](github.com/CalebJohn/joplin-math-mode) | Math Mode | 0.2.0 | Turn your notes into a powerful calculator with inline math. | Caleb John
-[🏠](https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSidebars) | Note list and side bar toggle buttons | 1.0.2 | Adds buttons to toggle note list and sidebar | Laurent Cozic
+[🏠](https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSidebars) | Note list and sidebar toggle buttons | 1.0.3 | Adds buttons to toggle note list and sidebar | Laurent Cozic
 [🏠](https://github.com/JackGruber/joplin-plugin-note-overview) | Note overview | 1.2.1 | A note overview is created based on the defined search and the specified fields | JackGruber
 [🏠](https://github.com/benji300/joplin-note-tabs) | Note Tabs | 1.1.1 | Allows to open several notes at once in tabs and pin them. (v1.1.1) | Benji300
 [🏠](https://github.com/cqroot/joplin-outline) | Outline | 1.0.10 | Outline sidebar plugin for joplin. | cqroot
