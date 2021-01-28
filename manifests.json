@@ -285,5 +285,28 @@
 		"_publish_hash": "sha256:e265d718cf14a0b55a7eb94fb0326ee422bf0cb207ce5435b52d1a9056fcb15c",
 		"_publish_commit": "master:efb881670026d396ead2ab7e9c1040639a515650",
 		"_npm_package_name": "joplin-plugin-copy-note-link"
+	},
+	"joplin.plugin.benji.persistentLayout": {
+		"manifest_version": 1,
+		"id": "joplin.plugin.benji.persistentLayout",
+		"app_min_version": "1.6.8",
+		"version": "1.0.0",
+		"name": "Persistent Editor Layout",
+		"description": "Save the editor layout (editor/split view/viewer) for each note separately with special tags.",
+		"author": "Benji300",
+		"homepage_url": "https://github.com/benji300/joplin-persistent-layout",
+		"repository_url": "https://github.com/benji300/joplin-persistent-layout",
+		"keywords": [
+			"notes",
+			"editor",
+			"split",
+			"viewer",
+			"view",
+			"save",
+			"store"
+		],
+		"_publish_hash": "sha256:6751717cc08e90bcb1f463e5071ceb26b31218f1620067688213e7601c1728dc",
+		"_publish_commit": "master:96ea32c10b9b62e4c15973b05400bbaf3a81af8e",
+		"_npm_package_name": "joplin-plugin-persistent-editor-layout"
 	}
 }
