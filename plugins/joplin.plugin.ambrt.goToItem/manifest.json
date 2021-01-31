@@ -2,12 +2,12 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.ambrt.goToItem",
 	"app_min_version": "1.6",
-	"version": "1.3.4",
+	"version": "1.3.6",
 	"name": "Create and go to #tags and @notebooks",
 	"description": "Go to tag,notebook or note via links or via text",
 	"author": "a",
 	"homepage_url": "https://discourse.joplinapp.org/t/go-to-note-tag-or-notebook-via-highlighting-text-in-editor/12731",
-	"_publish_hash": "sha256:039ac43c99000e82e2881375a673ab0acae6cb53a428503ac7e62e6dd5e0820d",
-	"_publish_commit": "1.6.8-or-up:4501e5d6f63d1042c8ad12dbf4fb4abe5a476a24",
+	"_publish_hash": "sha256:dc8d83536ac81d7bef49d7240eb6f41f6c1a0d21f9a35a884a0597c903c88d13",
+	"_publish_commit": "main:f1f1776609af513f028221d3e583c9685b29c0ca",
 	"_npm_package_name": "joplin-plugin-tag-and-notebook-links"
 }
