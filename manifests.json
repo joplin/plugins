@@ -308,5 +308,26 @@
 		"_publish_hash": "sha256:52effae339a54beda9487059d2924a536e433c064d3c23159a5154ea1667a072",
 		"_publish_commit": "master:b6dbfbda33694928fcd6d047fe66c13b78165dd4",
 		"_npm_package_name": "joplin-plugin-persistent-editor-layout"
+	},
+	"io.treymo.LinkGraph": {
+		"manifest_version": 1,
+		"id": "io.treymo.LinkGraph",
+		"app_min_version": "1.7",
+		"version": "0.5.1",
+		"name": "Link Graph UI",
+		"description": "View the connections between Joplin notes.",
+		"author": "Trey Moore",
+		"homepage_url": "treymo.io/joplin-link-graph",
+		"repository_url": "github.com/treymo/joplin-link-graph",
+		"keywords": [
+			"joplin",
+			"link",
+			"graph",
+			"ui",
+			"zettelkasten"
+		],
+		"_publish_hash": "sha256:6e2b28c0dec20f4aad42c8192ac896db17009d09a9ad421aa30be34e58b8e93b",
+		"_publish_commit": "master:32d3c717ad49d4aee808ce451068b23a77e7c120",
+		"_npm_package_name": "joplin-plugin-link-graph-ui"
 	}
 }
