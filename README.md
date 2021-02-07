@@ -32,6 +32,6 @@ This repository contains the following plugins:
 [🏠](https://github.com/cqroot/joplin-outline) | Outline | 1.1.0 | Outline sidebar plugin for joplin. | cqroot
 [🏠](https://github.com/benji300/joplin-persistent-layout) | Persistent Editor Layout | 1.1.1 | Save the editor layout (editor/split view/viewer) for each note separately with special tags. | Benji300
 [🏠](https://discourse.joplinapp.org/t/quick-links-plugin/14214) | Quick Links | 1.1.1 | Create links to other notes | Roman Musin
-[🏠](https://github.com/JackGruber/joplin-plugin-backup) | Simple Backup | 0.4.1 | Plugin to create manual and automatic backups | JackGruber
+[🏠](https://github.com/JackGruber/joplin-plugin-backup/blob/master/README.md) | Simple Backup | 0.5.0 | Plugin to create manual and automatic backups. | JackGruber
 [🏠](https://github.com/forcewake/joplin-tags-generator) | Tags Generator | 1.0.0 | Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags | forcewake
 <!-- PLUGIN_LIST -->
