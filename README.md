@@ -23,7 +23,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/benji300/joplin-favorites) | Favorites | 1.1.0 | Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access. (v1.1.0) | Benji300
 [🏠](https://github.com/JackGruber/joplin-plugin-hotfolder/blob/master/README.md) | Hotfolder | 0.3.1 | Monitors a locale folder and import the files as a new note. | JackGruber
 [🏠](https://discourse.joplinapp.org/t/plugin-inline-tags/14192) | Inline tags | 1.1.0 | Inline tags plugin | Roman Musin
-[🏠](https://github.com/treymo/joplin-link-graph) | Link Graph UI | 0.9.4 | View the connections between Joplin notes. | Trey Moore
+[🏠](https://github.com/treymo/joplin-link-graph) | Link Graph UI | 0.9.5 | View the connections between Joplin notes. | Trey Moore
 [🏠](https://github.com/oswida/joplin-markdown-calc) | Markdown table calculations | 1.0.2 | Plugin for automatic calculations of markdown table formulas. | Oskar Świda
 [🏠](https://github.com/CalebJohn/joplin-math-mode/blob/main/README.md) | Math Mode | 0.3.1 | Turn your notes into a powerful calculator with inline math. | Caleb John
 [🏠](https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSidebars) | Note list and sidebar toggle buttons | 1.0.3 | Adds buttons to toggle note list and sidebar | Laurent Cozic
