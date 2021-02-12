@@ -233,14 +233,14 @@
 		"manifest_version": 1,
 		"id": "com.whatever.inline-tags",
 		"app_min_version": "1.7",
-		"version": "1.1.0",
+		"version": "1.1.1",
 		"name": "Inline tags",
 		"description": "Inline tags plugin",
 		"author": "Roman Musin",
 		"homepage_url": "https://discourse.joplinapp.org/t/plugin-inline-tags/14192",
 		"repository_url": "https://github.com/roman-r-m/joplin-inline-tags-plugin",
-		"_publish_hash": "sha256:1fc6f6038086dd012cfb0e928731234259363867f33d8b16a1f474fc4afeb16b",
-		"_publish_commit": "master:86920979a543934b3a34732e42539c120f90915f",
+		"_publish_hash": "sha256:946d4142b6303d3df8d4b700d3b6f0328b9362debd48effeb2176d275282469c",
+		"_publish_commit": "master:169937fca9885843745121e96c59788baa0bf488",
 		"_npm_package_name": "joplin-plugin-inline-tags"
 	},
 	"joplin.plugin.forcewake.tags-generator": {
