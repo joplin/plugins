@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "joplin-insert-date",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "Insert Date",
+	"description": "Adds a button to insert the current date (without time) into the editor.",
+	"author": "herdsothom",
+	"homepage_url": "https://github.com/herdsothom/joplin-insert-date",
+	"repository_url": "https://discourse.joplinapp.org/t/plugin-insert-date/14902",
+	"keywords": [],
+	"_publish_hash": "sha256:1905fb5e39919997c99a00b93ab5e5c05f1541fba678d0ede7814482f12a87eb",
+	"_publish_commit": "main:0da5ba71fca7b52195b30a069e80dff73cdd4c8d",
+	"_npm_package_name": "joplin-plugin-insert-date"
+}
