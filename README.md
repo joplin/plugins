@@ -16,7 +16,7 @@ This repository contains the following plugins:
 [🏠](https://discourse.joplinapp.org/t/insert-referencing-notes-backlinks-plugin/13632) | Automatic Backlinks to note | 2.0.9 | Creates backlinks to opened note, also in automatic way | ambrt
 [🏠](https://github.com/JackGruber/joplin-plugin-combine-notes) | Combine notes | 0.2.1 | Combine one or more notes | JackGruber
 [🏠](https://discourse.joplinapp.org/t/create-note-from-highlighted-text/12511) | Convert Text To New Note | 1.4.9 | Converts highlighted text to new one in same folder | ambrt
-[🏠]() | Copy link to active note | 1.0.0 | Adds entry to right click menu in editor to get link to active note | a  
+[🏠](https://github.com/ambrt/joplin-plugin-get-link-to-note) | Copy link to active note | 1.0.0 | Adds entry to right click menu in editor to get link to active note | a  
 [🏠](https://github.com/JackGruber/joplin-plugin-copytags) | Copy Tags | 0.3.3 | Plugin to extend the Joplin tagging menu with a copy all tags and tagging list with more control. | JackGruber
 [🏠](https://discourse.joplinapp.org/t/go-to-note-tag-or-notebook-via-highlighting-text-in-editor/12731) | Create and go to #tags and @notebooks | 1.3.6 | Go to tag,notebook or note via links or via text | a  
 [🏠]() | Embed Search | 1.0.8 | Embeds list of links specified by search inside of note | ambrt
