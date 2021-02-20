@@ -392,5 +392,23 @@
 		"_publish_hash": "sha256:ce94e5d5337e9bb88edc6434400685456cd58e3955576b5dc34a0906d93b19b2",
 		"_publish_commit": "main:0da5ba71fca7b52195b30a069e80dff73cdd4c8d",
 		"_npm_package_name": "joplin-plugin-insert-date"
+	},
+	"plugin.calebjohn.rich-markdown": {
+		"manifest_version": 1,
+		"id": "plugin.calebjohn.rich-markdown",
+		"app_min_version": "1.7",
+		"version": "0.1.0",
+		"name": "Rich Markdown",
+		"description": "Add inline and other images to the markdown editor.",
+		"author": "Caleb John",
+		"homepage_url": "https://github.com/CalebJohn/joplin-rich-markdown/blob/main/README.md",
+		"repository_url": "https://github.com/CalebJohn/joplin-rich-markdown",
+		"keywords": [
+			"editor",
+			"visual"
+		],
+		"_publish_hash": "sha256:9c80572ab8f6f7b6e37be09a7409a2c0d2a6f83a3da661bb96f25d379d2fbc7f",
+		"_publish_commit": "main:cac2611f1f104ba3bc2c8eeab9ff91d6eaca3688",
+		"_npm_package_name": "joplin-plugin-rich-markdown"
 	}
 }
