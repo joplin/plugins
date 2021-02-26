@@ -19,7 +19,7 @@ This repository contains the following plugins:
 [🏠]() | Copy link to active note | 1.0.0 | Adds entry to right click menu in editor to get link to active note | a  
 [🏠](https://github.com/JackGruber/joplin-plugin-copytags) | Copy Tags | 0.3.3 | Plugin to extend the Joplin tagging menu with a copy all tags and tagging list with more control. | JackGruber
 [🏠](https://discourse.joplinapp.org/t/go-to-note-tag-or-notebook-via-highlighting-text-in-editor/12731) | Create and go to #tags and @notebooks | 1.3.6 | Go to tag,notebook or note via links or via text | a  
-[🏠]() | Embed Search | 1.0.8 | Embeds list of links specified by search inside of note | ambrt
+[🏠]() | Embed Search | 1.0.9 | Embeds list of links specified by search inside of note | ambrt
 [🏠](https://github.com/benji300/joplin-favorites) | Favorites | 1.2.1 | Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access. | Benji300
 [🏠](https://github.com/JackGruber/joplin-plugin-hotfolder/blob/master/README.md) | Hotfolder | 0.3.2 | Monitors a locale folder and import the files as a new note. | JackGruber
 [🏠](https://discourse.joplinapp.org/t/plugin-inline-tags/14192) | Inline tags | 1.1.3 | Inline tags plugin | Roman Musin
