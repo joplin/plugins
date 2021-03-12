@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "b53da1f6-868c-468d-b60c-2897a27166ac",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "Joplin User Link Plugin",
+	"description": "",
+	"author": "Cologler",
+	"homepage_url": "Homepage URL",
+	"repository_url": "Repository URL",
+	"keywords": [],
+	"_publish_hash": "sha256:7a2e5c5bd1bd2502816d70f0ac9aab486f33d32cbd8e7896f89176df14696a31",
+	"_publish_commit": "main:70c15c9b11f4ca9e09280568c75fe645bf0eecb0",
+	"_npm_package_name": "joplin-plugin-user-link"
+}
