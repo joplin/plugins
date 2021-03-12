@@ -180,19 +180,19 @@
 		"manifest_version": 1,
 		"id": "plugin.calebjohn.MathMode",
 		"app_min_version": "1.7",
-		"version": "0.4.0",
+		"version": "0.4.1",
 		"name": "Math Mode",
 		"description": "Turn your notes into a powerful calculator with inline math.",
 		"author": "Caleb John",
-		"homepage_url": "https://github.com/CalebJohn/joplin-math-mode/blob/main/README.md",
+		"homepage_url": "https://github.com/CalebJohn/joplin-math-mode#readme",
 		"repository_url": "https://github.com/CalebJohn/joplin-math-mode",
 		"keywords": [
 			"calculator",
 			"math",
 			"mathjs"
 		],
-		"_publish_hash": "sha256:ae1606e90b8e4497ad98451506a640821b99790d342787cab1346908302b58b0",
-		"_publish_commit": "main:10e6b2834bb3e4f0cc856620d3ac90471119e60d",
+		"_publish_hash": "sha256:e589d646966dc2a001488d6963b271e5e3f4069d19be5abb4b33ffa507d4b894",
+		"_publish_commit": "main:07e9b96f64ced989ebd8b666d5147026810e38d0",
 		"_npm_package_name": "joplin-plugin-math-mode"
 	},
 	"osw.joplin.markdowncalc": {
