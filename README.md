@@ -24,7 +24,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/JackGruber/joplin-plugin-hotfolder/blob/master/README.md) | Hotfolder | 0.3.2 | Monitors a locale folder and import the files as a new note. | JackGruber
 [🏠](https://discourse.joplinapp.org/t/plugin-inline-tags/14192) | Inline tags | 1.1.3 | Inline tags plugin | Roman Musin
 [🏠](https://github.com/herdsothom/joplin-insert-date) | Insert Date | 1.0.1 | Adds a button to insert the current date (without time) into the editor. | herdsothom
-[🏠](Homepage%20URL) | Joplin User Link Plugin | 1.0.0 |     | Cologler
+[🏠](https://github.com/Cologler/userlink-joplin) | Joplin User Link Plugin | 1.0.1 | A Joplin plugin for custom links, like `jump://?query=blabla`. | Cologler
 [🏠](https://github.com/treymo/joplin-link-graph) | Link Graph UI | 0.9.6 | View the connections between Joplin notes. | Trey Moore
 [🏠](https://github.com/oswida/joplin-markdown-calc) | Markdown table calculations | 1.0.2 | Plugin for automatic calculations of markdown table formulas. | Oskar Świda
 [🏠](https://github.com/CalebJohn/joplin-math-mode#readme) | Math Mode | 0.4.2 | Turn your notes into a powerful calculator with inline math. | Caleb John
