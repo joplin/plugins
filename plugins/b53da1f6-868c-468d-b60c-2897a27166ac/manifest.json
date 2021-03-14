@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "b53da1f6-868c-468d-b60c-2897a27166ac",
 	"app_min_version": "1.7",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"name": "Joplin User Link Plugin",
 	"description": "A Joplin plugin for custom links, like `jump://?query=blabla`.",
 	"author": "Cologler",
@@ -11,7 +11,7 @@
 	"keywords": [
 		"link"
 	],
-	"_publish_hash": "sha256:f3ed6c8b22be06feb82298a1ff5438fa4649fbed9c1186a3e995afbac115cd27",
-	"_publish_commit": "main:cf859da21a9a7298e28131bb433c7c882a2a8eaa",
+	"_publish_hash": "sha256:e94cb4155f32e991a1f9587e1ba1315a7f9adfcd97b81f0f59be9f02d989ad10",
+	"_publish_commit": "main:57832baebdf2d16a8409fc566eec73fb995fa0b6",
 	"_npm_package_name": "joplin-plugin-user-link"
 }
