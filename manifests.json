@@ -397,7 +397,7 @@
 		"manifest_version": 1,
 		"id": "plugin.calebjohn.rich-markdown",
 		"app_min_version": "1.7",
-		"version": "0.3.1",
+		"version": "0.3.2",
 		"name": "Rich Markdown",
 		"description": "Add inline and other images to the markdown editor.",
 		"author": "Caleb John",
@@ -407,8 +407,8 @@
 			"editor",
 			"visual"
 		],
-		"_publish_hash": "sha256:bed3b84ed625853e7cef76349cf557dbb21c4d93032db789ca6da83845cc0178",
-		"_publish_commit": "main:c6157893f363092981146f089944dc6354ca8546",
+		"_publish_hash": "sha256:1e86bb99018643babbaee1b756e2eb98b372931ff6af026e4d00d900ab296db9",
+		"_publish_commit": "main:8d6d578f11315eafd92eed1a9cb2ce2891a676bd",
 		"_npm_package_name": "joplin-plugin-rich-markdown"
 	},
 	"com.github.uphy.PlantUmlPlugin": {
