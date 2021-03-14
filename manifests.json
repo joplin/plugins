@@ -457,5 +457,24 @@
 		"_publish_hash": "sha256:075817f286a1abb145c69af87e8f8f19bc186f6ffb8e9ec0f517e548ce3f32b3",
 		"_publish_commit": "master:3a2b8b143786547fea8d3636940508c926bb38c3",
 		"_npm_package_name": "joplin-plugin-table-formatter"
+	},
+	"com.github.marc0l92.joplin-plugin-jira-issue": {
+		"manifest_version": 1,
+		"id": "com.github.marc0l92.joplin-plugin-jira-issue",
+		"app_min_version": "1.7",
+		"version": "1.5.0",
+		"name": "Jira Issue",
+		"description": "Retrieve Atlassian Jira issues information using their api in order to track the status of them from your Joplin notes.",
+		"author": "Marco LUCARELLA",
+		"homepage_url": "https://github.com/marc0l92/joplin-plugin-jira-issue/README.md",
+		"repository_url": "https://github.com/marc0l92/joplin-plugin-jira-issue",
+		"keywords": [
+			"atlassian",
+			"jira",
+			"issue"
+		],
+		"_publish_hash": "sha256:0c18b061da8ce3d9099eabc7bda6bb73956b43bd79ba8c892a332623935ae590",
+		"_publish_commit": "main:eaba5c9575296a34d803435ac77c98f5fbf203df",
+		"_npm_package_name": "joplin-plugin-jira-issue"
 	}
 }
