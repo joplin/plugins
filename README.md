@@ -29,7 +29,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/Cologler/userlink-joplin) | Joplin User Link Plugin | 1.2.0 | A Joplin plugin for custom links, like `jump://?query=blabla`. | Cologler
 [🏠](https://github.com/treymo/joplin-link-graph) | Link Graph UI | 0.9.6 | View the connections between Joplin notes. | Trey Moore
 [🏠](https://github.com/oswida/joplin-markdown-calc) | Markdown table calculations | 1.0.2 | Plugin for automatic calculations of markdown table formulas. | Oskar Świda
-[🏠](https://github.com/CalebJohn/joplin-math-mode#readme) | Math Mode | 0.4.2 | Turn your notes into a powerful calculator with inline math. | Caleb John
+[🏠](https://github.com/CalebJohn/joplin-math-mode#readme) | Math Mode | 0.4.3 | Turn your notes into a powerful calculator with inline math. | Caleb John
 [🏠](https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSidebars) | Note list and sidebar toggle buttons | 1.0.3 | Adds buttons to toggle note list and sidebar | Laurent Cozic
 [🏠](https://github.com/JackGruber/joplin-plugin-note-overview/blob/master/README.md) | Note overview | 1.3.3 | A note overview is created based on the defined search and the specified fields. | JackGruber
 [🏠](https://github.com/benji300/joplin-note-tabs) | Note Tabs | 1.3.0 | Allows to open several notes at once in tabs and pin them. | Benji300
