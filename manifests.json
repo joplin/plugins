@@ -476,20 +476,5 @@
 		"_publish_hash": "sha256:0c18b061da8ce3d9099eabc7bda6bb73956b43bd79ba8c892a332623935ae590",
 		"_publish_commit": "main:eaba5c9575296a34d803435ac77c98f5fbf203df",
 		"_npm_package_name": "joplin-plugin-jira-issue"
-	},
-	"org.joplin.bug-test": {
-		"manifest_version": 1,
-		"id": "org.joplin.bug-test",
-		"app_min_version": "1.7",
-		"version": "1.0.0",
-		"name": "Bug Test",
-		"description": "a plugin for testing the bug",
-		"author": "benji",
-		"homepage_url": " https://github.com/StinkyBenji/test.git",
-		"repository_url": " https://github.com/StinkyBenji/test.git",
-		"keywords": [],
-		"_publish_hash": "sha256:64e341b2ef34ee06d3843b593e4d3f98056e1850161c5ea6a986fa4893163746",
-		"_publish_commit": "master:91eb31ca1e40ee556ed730dbd8b75e5531826c61",
-		"_npm_package_name": "joplin-plugin-bug-test"
 	}
 }
