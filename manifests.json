@@ -491,5 +491,26 @@
 		"_publish_hash": "sha256:501ca636a713b126254b8e1f134865158fe1c76683aa5cd0ede281bbafe555ca",
 		"_publish_commit": "master:2445545a0caeab99289272de5648bcdd8c0cb78b",
 		"_npm_package_name": "joplin-plugin-fold-cm"
+	},
+	"joplin.plugin.benji.quick-move": {
+		"manifest_version": 1,
+		"id": "joplin.plugin.benji.quick-move",
+		"app_min_version": "1.7.10",
+		"version": "1.0.0",
+		"name": "Quick Move",
+		"description": "Collection of commands to quickly move notes to other notebooks.",
+		"author": "Benji300",
+		"homepage_url": "https://github.com/benji300/joplin-quick-move",
+		"repository_url": "https://github.com/benji300/joplin-quick-move",
+		"keywords": [
+			"commands",
+			"keyboard",
+			"shortcut",
+			"notebook",
+			"note"
+		],
+		"_publish_hash": "sha256:e7abdb18d3789200f1d2e210e9c856194d2016d564ebafb5f712dc0f491e33a2",
+		"_publish_commit": "master:f8ecd6531625d0941152e70850951b5389fabdfc",
+		"_npm_package_name": "joplin-plugin-quick-move"
 	}
 }
