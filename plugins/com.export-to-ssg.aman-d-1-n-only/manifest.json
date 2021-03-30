@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "com.export-to-ssg.aman-d-1-n-only",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "export-to-ssg",
+	"description": "Export a collection of notes to static site generator project.",
+	"author": "aman-d-1-n-only",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"_publish_hash": "sha256:f3e6616bd7c76727b30df3353bff6d3eed42a1b56dfd782f0453a4822948eca5",
+	"_publish_commit": "main:899f9781ea4cf8a2c686e21568db32ff3e05b723",
+	"_npm_package_name": "joplin-plugin-export-to-ssg"
+}
