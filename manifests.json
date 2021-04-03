@@ -527,5 +527,24 @@
 		"_publish_hash": "sha256:fca40bcafccc5d7aa4ae050050a27b4f6af428409fbff29c800996cee49237f4",
 		"_publish_commit": "main:20a94bd1498e7ea67dfbd08ab23d2584af31de19",
 		"_npm_package_name": "joplin-plugin-export-to-ssg"
+	},
+	"plugin.azamahJunior.note-statistics": {
+		"manifest_version": 1,
+		"id": "plugin.azamahJunior.note-statistics",
+		"app_min_version": "1.7",
+		"version": "1.0.0",
+		"name": "Note Statistics",
+		"description": "Plugin to get note statistics",
+		"author": "Azamah Junior",
+		"homepage_url": "https://github.com/Kaid00/joplin-note-statistics#readme",
+		"repository_url": "https://github.com/Kaid00/joplin-note-statistics",
+		"keywords": [
+			"statistics",
+			"notes",
+			"note-statistics"
+		],
+		"_publish_hash": "sha256:fe2d7aec1441cbefb44f53bc7ac84117be42b4d1f43edfdca71662ee4922f37b",
+		"_publish_commit": "master:1429aa929dcd27c6c8a0bcd4d7836daa6f97681c",
+		"_npm_package_name": "joplin-plugin-note-statistics"
 	}
 }

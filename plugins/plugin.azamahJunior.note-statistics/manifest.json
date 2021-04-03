@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "plugin.azamahJunior.note-statistics",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "Note Statistics",
+	"description": "Plugin to get note statistics",
+	"author": "Azamah Junior",
+	"homepage_url": "https://github.com/Kaid00/joplin-note-statistics#readme",
+	"repository_url": "https://github.com/Kaid00/joplin-note-statistics",
+	"keywords": [
+		"statistics",
+		"notes",
+		"note-statistics"
+	],
+	"_publish_hash": "sha256:fe2d7aec1441cbefb44f53bc7ac84117be42b4d1f43edfdca71662ee4922f37b",
+	"_publish_commit": "master:1429aa929dcd27c6c8a0bcd4d7836daa6f97681c",
+	"_npm_package_name": "joplin-plugin-note-statistics"
+}
