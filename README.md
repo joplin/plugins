@@ -42,7 +42,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/benji300/joplin-quick-move) | Quick Move | 1.0.0 | Collection of commands to quickly move notes to other notebooks. | Benji300
 [🏠](https://github.com/roman-r-m/joplin-plugin-resource-search) | Resource Search Plugin | 0.1.1 | Search in Attached Resources | Roman Musin
 [🏠](https://github.com/CalebJohn/joplin-rich-markdown#readme) | Rich Markdown | 0.3.2 | Add inline and other images to the markdown editor. | Caleb John
-[🏠](https://github.com/JackGruber/joplin-plugin-backup/blob/master/README.md) | Simple Backup | 0.5.2 | Plugin to create manual and automatic backups. | JackGruber
+[🏠](https://github.com/JackGruber/joplin-plugin-backup/blob/master/README.md) | Simple Backup | 0.5.3 | Plugin to create manual and automatic backups. | JackGruber
 [🏠](https://github.com/roman-r-m/joplin-plugin-table-formatter) | Table Formatter Plugin | 1.1.1 | Format the table under the cursor in Markdown editor | Roman Musin
 [🏠](https://github.com/forcewake/joplin-tags-generator) | Tags Generator | 1.0.0 | Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags | forcewake
 <!-- PLUGIN_LIST -->
