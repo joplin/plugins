@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.ambrt.embedSearch",
 	"app_min_version": "1.7",
-	"version": "1.0.10",
+	"version": "1.0.11",
 	"name": "Embed Search",
 	"description": "Embeds list of links specified by search inside of note",
 	"author": "ambrt",
-	"homepage_url": "",
+	"homepage_url": "https://discourse.joplinapp.org/t/embed-any-search-with-content/14328",
 	"repository_url": "https://github.com/ambrt/joplin-plugin-embed-search",
 	"keywords": [],
-	"_publish_hash": "sha256:a903a3870343608528b07a38aa4d2f1b2d47c0a6151052a1d2d6f79909b83ac6",
-	"_publish_commit": "master:16f47c4908e460e4ff5cdb158d560ac95bef9773",
+	"_publish_hash": "sha256:c599adba66fc7713c602072f1e58d62e6eecb6d70bfdcd6cf477e13e1d92249d",
+	"_publish_commit": "master:3c68fd8feba8e84c93e499d4eaf6e3b11d7e907f",
 	"_npm_package_name": "joplin-plugin-embed-search"
 }
