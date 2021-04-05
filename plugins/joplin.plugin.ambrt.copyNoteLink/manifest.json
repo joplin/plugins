@@ -2,12 +2,12 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.ambrt.copyNoteLink",
 	"app_min_version": "1.4",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Copy link to active note",
 	"description": "Adds entry to right click menu in editor to get link to active note",
 	"author": "a",
-	"homepage_url": "",
-	"_publish_hash": "sha256:e265d718cf14a0b55a7eb94fb0326ee422bf0cb207ce5435b52d1a9056fcb15c",
-	"_publish_commit": "master:efb881670026d396ead2ab7e9c1040639a515650",
+	"homepage_url": "https://discourse.joplinapp.org/t/copy-markdown-link-to-active-note/14402",
+	"_publish_hash": "sha256:c74c9ecadf63ca30df8fa2623bc6bf08ea11a07a38ccda164197cddfce488a72",
+	"_publish_commit": "master:a4a88fccdd5ee3a58aa86d255a620dd842dcf6f4",
 	"_npm_package_name": "joplin-plugin-copy-note-link"
 }
