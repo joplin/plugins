@@ -18,7 +18,7 @@ This repository contains the following plugins:
 [🏠](https://discourse.joplinapp.org/t/create-note-from-highlighted-text/12511) | Convert Text To New Note | 1.4.9 | Converts highlighted text to new one in same folder | ambrt
 [🏠]() | Copy link to active note | 1.0.0 | Adds entry to right click menu in editor to get link to active note | a  
 [🏠](https://github.com/JackGruber/joplin-plugin-copytags) | Copy Tags | 0.3.3 | Plugin to extend the Joplin tagging menu with a copy all tags and tagging list with more control. | JackGruber
-[🏠](https://discourse.joplinapp.org/t/go-to-note-tag-or-notebook-via-highlighting-text-in-editor/12731) | Create and go to #tags and @notebooks | 1.3.6 | Go to tag,notebook or note via links or via text | a  
+[🏠](https://discourse.joplinapp.org/t/go-to-note-tag-or-notebook-via-highlighting-text-in-editor/12731) | Create and go to #tags and @notebooks | 1.3.7 | Go to tag,notebook or note via links or via text | a  
 [🏠](https://discourse.joplinapp.org/t/embed-any-search-with-content/14328) | Embed Search | 1.0.11 | Embeds list of links specified by search inside of note | ambrt
 [🏠](https://github.com/aman-d-1-n-only/joplin-exports-to-ssg#readme) | Export To SSG | 1.0.3 | Export a collection of notes to static site generator project. | aman-d-1-n-only
 [🏠](https://github.com/benji300/joplin-favorites) | Favorites | 1.2.1 | Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access. | Benji300
