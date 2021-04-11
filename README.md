@@ -33,6 +33,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/CalebJohn/joplin-math-mode#readme) | Math Mode | 0.4.3 | Turn your notes into a powerful calculator with inline math. | Caleb John
 [🏠](https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSidebars) | Note list and sidebar toggle buttons | 1.0.3 | Adds buttons to toggle note list and sidebar | Laurent Cozic
 [🏠](https://github.com/JackGruber/joplin-plugin-note-overview/blob/master/README.md) | Note overview | 1.4.0 | A note overview is created based on the defined search and the specified fields. | JackGruber
+[🏠](https://github.com/Kaid00/joplin-note-statistics#readme) | Note Statistics | 1.0.4 | Plugin to get note statistics | Azamah Junior
 [🏠](https://github.com/benji300/joplin-note-tabs) | Note Tabs | 1.3.0 | Allows to open several notes at once in tabs and pin them. | Benji300
 [🏠](https://github.com/cqroot/joplin-outline) | Outline | 1.1.8 | Outline sidebar plugin for joplin. | cqroot
 [🏠](https://github.com/benji300/joplin-persistent-layout) | Persistent Editor Layout | 2.0.0 | Save the editor layout (editor/split view/viewer/rich text) for each note separately with custom tags. | Benji300
