@@ -551,10 +551,10 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.spoiler.cards",
 		"app_min_version": "1.7",
-		"version": "0.2.0",
+		"version": "0.3.0",
 		"name": "Spoiler cards",
 		"description": "Create spoiler cards with title and extendable body.",
-		"author": "martinkorelic",
+		"author": "Martin Korelič",
 		"homepage_url": "https://github.com/martinkorelic/joplin-plugin-spoiler-cards",
 		"repository_url": "https://github.com/martinkorelic/joplin-plugin-spoiler-cards",
 		"keywords": [
@@ -563,8 +563,8 @@
 			"cards",
 			"spoiler"
 		],
-		"_publish_hash": "sha256:731434e1ad8483467326f464461b2b77b7ed63f7ae77ab1d6b4d80b2801cec44",
-		"_publish_commit": "master:d14b3a272313974fad93b8a543239cb8678c7e49",
+		"_publish_hash": "sha256:f19e99fa07e2f3fee8f1d9a07ff9bdb648aa8fabc2e721ddb9054d95aafaedc3",
+		"_publish_commit": "master:7d2e6c47ada5420322854ea0809c55fd81ac2cd4",
 		"_npm_package_name": "joplin-plugin-spoiler-cards"
 	}
 }
