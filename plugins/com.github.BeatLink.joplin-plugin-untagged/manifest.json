@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "com.github.BeatLink.joplin-plugin-untagged",
 	"app_min_version": "1.7",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"name": "Untagged",
 	"description": "This is a joplin plugin to find notes and todos without a tag.",
 	"author": "BeatLink",
 	"homepage_url": "https://discourse.joplinapp.org/t/untagged/16680",
 	"repository_url": "https://github.com/BeatLink/joplin-plugin-untagged",
 	"keywords": [],
-	"_publish_hash": "sha256:481f73b2dad763bb02d56542190ca836b6e8ec43f8df33f8771440f2acf77a67",
-	"_publish_commit": "main:2c09ccd9f6c23d791970129f320623444f79a7dc",
+	"_publish_hash": "sha256:7d9e98922a7577b0bba52183851c1e7f3af45248959e096e6314c2b03e5a9018",
+	"_publish_commit": "main:c0680fff8887568ed5c2b6d520c84b1a15939d77",
 	"_npm_package_name": "joplin-plugin-untagged"
 }
