@@ -44,7 +44,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/CalebJohn/joplin-rich-markdown#readme) | Rich Markdown | 0.3.2 | Add inline and other images to the markdown editor. | Caleb John
 [🏠](https://github.com/JackGruber/joplin-plugin-backup/blob/master/README.md) | Simple Backup | 0.5.3 | Plugin to create manual and automatic backups. | JackGruber
 [🏠](https://github.com/martinkorelic/joplin-plugin-spoiler-cards) | Spoiler cards | 0.3.1 | Create spoiler cards with title and extendable body. | Martin Korelič
-[🏠](https://github.com/roman-r-m/joplin-plugin-table-formatter) | Table Formatter Plugin | 1.1.1 | Format the table under the cursor in Markdown editor | Roman Musin
+[🏠](https://github.com/roman-r-m/joplin-plugin-table-formatter) | Table Formatter Plugin | 1.1.2 | Format the table under the cursor in Markdown editor | Roman Musin
 [🏠](https://github.com/forcewake/joplin-tags-generator) | Tags Generator | 1.0.0 | Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags | forcewake
 [🏠](https://discourse.joplinapp.org/t/untagged/16680) | Untagged | 2.0.1 | This is a joplin plugin to find notes and todos without a tag. | BeatLink
 <!-- PLUGIN_LIST -->
