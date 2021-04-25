@@ -38,7 +38,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/cqroot/joplin-outline) | Outline | 1.1.8 | Outline sidebar plugin for joplin. | cqroot
 [🏠](https://github.com/benji300/joplin-persistent-layout) | Persistent Editor Layout | 2.0.0 | Save the editor layout (editor/split view/viewer/rich text) for each note separately with custom tags. | Benji300
 [🏠](https://github.com/uphy/joplin-plantuml-plugin) | PlantUML | 0.0.1 | Markdown extension plugin to render PlantUML diagrams. | uphy
-[🏠](https://discourse.joplinapp.org/t/quick-links-plugin/14214) | Quick Links | 1.1.1 | Create links to other notes | Roman Musin
+[🏠](https://discourse.joplinapp.org/t/quick-links-plugin/14214) | Quick Links | 1.2.0 | Create links to other notes | Roman Musin
 [🏠](https://github.com/benji300/joplin-quick-move) | Quick Move | 1.0.0 | Collection of commands to quickly move notes to other notebooks. | Benji300
 [🏠](https://github.com/roman-r-m/joplin-plugin-resource-search) | Resource Search Plugin | 0.1.1 | Search in Attached Resources | Roman Musin
 [🏠](https://github.com/CalebJohn/joplin-rich-markdown#readme) | Rich Markdown | 0.3.2 | Add inline and other images to the markdown editor. | Caleb John
