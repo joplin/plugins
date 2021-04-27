@@ -595,7 +595,7 @@
 		"keywords": [
 			"joplin_plugin"
 		],
-		"_publish_hash": "sha256:b4a78630559f162086f6a46340e26784395ee57d8adb356cbec182d04bfc8ecd",
+		"_publish_hash": "sha256:d31e2e3a58e59347d5a7a18cd63fde9c6ce974cb9fdfb8d1fa22c2aeb90a96cf",
 		"_publish_commit": "master:502eedb6caddd3e51badfd884e3ce658eddc292b",
 		"_npm_package_name": "joplin-plugin-nlr"
 	}
