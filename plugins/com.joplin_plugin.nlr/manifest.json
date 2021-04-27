@@ -1,0 +1,17 @@
+{
+	"manifest_version": 1,
+	"id": "com.joplin_plugin.nlr",
+	"app_min_version": "1.7.10",
+	"version": "1.0.0",
+	"name": "NLR",
+	"description": "将joplin在记笔记的同时，变成一个网文小说阅读器,a chinese net literature downloader and reader plugin for joplin.",
+	"author": "fengQ",
+	"homepage_url": "https://github.com/fengqiaozhu/joplin_plugin_nlr.git",
+	"repository_url": "https://github.com/fengqiaozhu/joplin_plugin_nlr.git",
+	"keywords": [
+		"joplin_plugin"
+	],
+	"_publish_hash": "sha256:b4a78630559f162086f6a46340e26784395ee57d8adb356cbec182d04bfc8ecd",
+	"_publish_commit": "master:502eedb6caddd3e51badfd884e3ce658eddc292b",
+	"_npm_package_name": "joplin-plugin-nlr"
+}
