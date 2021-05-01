@@ -47,5 +47,5 @@ This repository contains the following plugins:
 [🏠](https://github.com/martinkorelic/joplin-plugin-spoiler-cards) | Spoiler cards | 0.3.1 | Create spoiler cards with title and extendable body. | Martin Korelič
 [🏠](https://github.com/roman-r-m/joplin-plugin-table-formatter) | Table Formatter Plugin | 1.1.2 | Format the table under the cursor in Markdown editor | Roman Musin
 [🏠](https://github.com/forcewake/joplin-tags-generator) | Tags Generator | 1.0.0 | Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags | forcewake
-[🏠](https://discourse.joplinapp.org/t/untagged/16680) | Untagged | 2.0.1 | This is a joplin plugin to find notes and todos without a tag. | BeatLink
+[🏠](https://discourse.joplinapp.org/t/untagged/16680) | Untagged | 2.1.1 | This is a joplin plugin to find notes and todos without a tag. | BeatLink
 <!-- PLUGIN_LIST -->
