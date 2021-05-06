@@ -276,7 +276,7 @@
 		"manifest_version": 1,
 		"id": "io.github.jackgruber.hotfolder",
 		"app_min_version": "1.7.1",
-		"version": "0.3.3",
+		"version": "0.4.0",
 		"name": "Hotfolder",
 		"description": "Monitors a locale folder and import the files as a new note.",
 		"author": "JackGruber",
@@ -287,8 +287,8 @@
 			"import",
 			"monitor"
 		],
-		"_publish_hash": "sha256:78b282341c4007469bff1eff367e5026037d90e23b9188f5e7f77ed3c37229e8",
-		"_publish_commit": "master:3beabd890a1549782a2b051bf5ae255368b2cf35",
+		"_publish_hash": "sha256:18b1217f407b886c7ac27ac31a9786b3798027f2ab83908da9ae92f4d12a128b",
+		"_publish_commit": "master:338859c9721bb9418487dfa04dab5b0a61827336",
 		"_npm_package_name": "joplin-plugin-hotfolder"
 	},
 	"joplin.plugin.ambrt.embedSearch": {
