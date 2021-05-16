@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.anki-sync",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "Joplin Anki Sync",
+	"description": "Bidirectional sync between Joplin and Anki",
+	"author": "Lijun Chen",
+	"homepage_url": "https://github.com/chenlijun99/autoanki/packages/joplin-plugin",
+	"repository_url": "https://github.com/chenlijun99/autoanki",
+	"keywords": [],
+	"_publish_hash": "sha256:994841a6003049bbd0669509db4a32d0aadfecddc7c38bfe71520911eea00e9f",
+	"_publish_commit": "main:f5a5d2778e72017f335347fdb4660fc0ee52da2e",
+	"_npm_package_name": "joplin-plugin-anki-sync"
+}
