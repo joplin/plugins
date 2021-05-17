@@ -35,7 +35,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/tessus/joplin-plugin-menu-shortcut-toolbar#readme) | Menu items, Shortcuts, Toolbar icons | 0.1.0 | Additional menu items, shortcuts, and toolbar icons, which are not part of Joplin core | Helmut K. C. Tessarek
 [🏠](https://github.com/fengqiaozhu/joplin_plugin_nlr.git) | NLR | 1.0.2 | 将joplin在记笔记的同时，变成一个网文小说阅读器,a chinese net literature downloader and reader plugin for joplin. | fengQ
 [🏠](https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSidebars) | Note list and sidebar toggle buttons | 1.0.3 | Adds buttons to toggle note list and sidebar | Laurent Cozic
-[🏠](https://github.com/JackGruber/joplin-plugin-note-overview/blob/master/README.md) | Note overview | 1.4.2 | A note overview is created based on the defined search and the specified fields. | JackGruber
+[🏠](https://github.com/JackGruber/joplin-plugin-note-overview/blob/master/README.md) | Note overview | 1.4.3 | A note overview is created based on the defined search and the specified fields. | JackGruber
 [🏠](https://github.com/Kaid00/joplin-note-statistics#readme) | Note Statistics | 1.0.4 | Plugin to get note statistics | Azamah Junior
 [🏠](https://github.com/benji300/joplin-note-tabs) | Note Tabs | 1.3.0 | Allows to open several notes at once in tabs and pin them. | Benji300
 [🏠](https://github.com/cqroot/joplin-outline) | Outline | 1.2.0 | Outline sidebar plugin for joplin. | cqroot

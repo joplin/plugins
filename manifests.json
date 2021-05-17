@@ -122,7 +122,7 @@
 		"manifest_version": 1,
 		"id": "io.github.jackgruber.note-overview",
 		"app_min_version": "1.8.1",
-		"version": "1.4.2",
+		"version": "1.4.3",
 		"name": "Note overview",
 		"description": "A note overview is created based on the defined search and the specified fields.",
 		"author": "JackGruber",
@@ -135,8 +135,8 @@
 			"saved",
 			"query"
 		],
-		"_publish_hash": "sha256:10c9040111f08668a7b02e541a51355080444514b86047011d355e8e20affe5f",
-		"_publish_commit": "master:a5cf7625eb02f0f289c7d44f834e24b4b44004ff",
+		"_publish_hash": "sha256:524c1cc12b4a13c676f7ab3818f9178e9167e7474caedcf6590190e654325338",
+		"_publish_commit": "master:9e80a2b3abc65e140f5750a75d6efb062d317374",
 		"_npm_package_name": "joplin-plugin-note-overview"
 	},
 	"joplin.plugin.benji.favorites": {
