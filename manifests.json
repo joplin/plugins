@@ -3,21 +3,21 @@
 		"manifest_version": 1,
 		"id": "io.github.jackgruber.copytags",
 		"app_min_version": "1.6.2",
-		"version": "0.3.3",
-		"name": "Copy Tags",
-		"description": "Plugin to extend the Joplin tagging menu with a copy all tags and tagging list with more control.",
+		"version": "1.0.0",
+		"name": "Tagging",
+		"description": "Plugin to extend the Joplin tagging menu with a coppy all tags and a tagging dialog with more control. (Formerly Copy Tags).",
 		"author": "JackGruber",
-		"homepage_url": "https://github.com/JackGruber/joplin-plugin-copytags",
-		"repository_url": "https://github.com/JackGruber/joplin-plugin-copytags",
+		"homepage_url": "https://github.com/JackGruber/joplin-plugin-tagging/blob/master/README.md",
+		"repository_url": "https://github.com/JackGruber/joplin-plugin-tagging",
 		"keywords": [
-			"tag",
+			"duplicate",
+			"copy",
 			"tags",
 			"tagging",
-			"duplicate",
-			"copy"
+			"tag"
 		],
-		"_publish_hash": "sha256:27f5124b35dbdf00604992f633edfcdd6c480285e8972f8ffa79945dc172235f",
-		"_publish_commit": "master:b52b01f6d3b709a811ac214253636a7c207c87dd",
+		"_publish_hash": "sha256:799bbb4dff75aa2d6e7d3f4691a64e30925d8b575e2679d1c1d8f78e9a65d121",
+		"_publish_commit": "develop:c404c83afa14a2e3fd7b7ab56347eb18ddacf983",
 		"_npm_package_name": "joplin-plugin-copytags"
 	},
 	"joplin.plugin.ambrt.backlinksToNote": {

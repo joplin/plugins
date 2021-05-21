@@ -17,7 +17,6 @@ This repository contains the following plugins:
 [🏠](https://github.com/JackGruber/joplin-plugin-combine-notes) | Combine notes | 0.2.2 | Combine one or more notes | JackGruber
 [🏠](https://discourse.joplinapp.org/t/create-note-from-highlighted-text/12511) | Convert Text To New Note | 1.5.0 | Converts highlighted text to new one in same folder | ambrt
 [🏠](https://discourse.joplinapp.org/t/copy-markdown-link-to-active-note/14402) | Copy link to active note | 1.0.1 | Adds entry to right click menu in editor to get link to active note | a  
-[🏠](https://github.com/JackGruber/joplin-plugin-copytags) | Copy Tags | 0.3.3 | Plugin to extend the Joplin tagging menu with a copy all tags and tagging list with more control. | JackGruber
 [🏠](https://discourse.joplinapp.org/t/go-to-note-tag-or-notebook-via-highlighting-text-in-editor/12731) | Create and go to #tags and @notebooks | 1.3.7 | Go to tag,notebook or note via links or via text | a  
 [🏠](https://discourse.joplinapp.org/t/embed-any-search-with-content/14328) | Embed Search | 1.0.11 | Embeds list of links specified by search inside of note | ambrt
 [🏠](https://github.com/aman-d-1-n-only/joplin-exports-to-ssg#readme) | Export To SSG | 1.0.3 | Export a collection of notes to static site generator project. | aman-d-1-n-only
@@ -49,6 +48,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/JackGruber/joplin-plugin-backup/blob/master/README.md) | Simple Backup | 0.5.3 | Plugin to create manual and automatic backups. | JackGruber
 [🏠](https://github.com/martinkorelic/joplin-plugin-spoilers) | Spoilers | 1.0.3 | Create inline spoilers and spoiler blocks with title and extendable body. | Martin Korelič
 [🏠](https://github.com/roman-r-m/joplin-plugin-table-formatter) | Table Formatter Plugin | 1.1.2 | Format the table under the cursor in Markdown editor | Roman Musin
+[🏠](https://github.com/JackGruber/joplin-plugin-tagging/blob/master/README.md) | Tagging | 1.0.0 | Plugin to extend the Joplin tagging menu with a coppy all tags and a tagging dialog with more control. (Formerly Copy Tags). | JackGruber
 [🏠](https://github.com/forcewake/joplin-tags-generator) | Tags Generator | 1.0.0 | Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags | forcewake
 [🏠](https://discourse.joplinapp.org/t/untagged/16680) | Untagged | 2.1.1 | This is a joplin plugin to find notes and todos without a tag. | BeatLink
 <!-- PLUGIN_LIST -->
