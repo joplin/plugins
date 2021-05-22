@@ -30,7 +30,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/Cologler/userlink-joplin) | Joplin User Link Plugin | 1.2.0 | A Joplin plugin for custom links, like `jump://?query=blabla`. | Cologler
 [🏠](https://github.com/treymo/joplin-link-graph) | Link Graph UI | 0.9.8 | View the connections between Joplin notes. | Trey Moore
 [🏠](https://github.com/oswida/joplin-markdown-calc) | Markdown table calculations | 1.0.3 | Plugin for automatic calculations of markdown table formulas. | Oskar Świda
-[🏠](https://github.com/CalebJohn/joplin-math-mode#readme) | Math Mode | 0.4.3 | Turn your notes into a powerful calculator with inline math. | Caleb John
+[🏠](https://github.com/CalebJohn/joplin-math-mode#readme) | Math Mode | 0.5.0 | Turn your notes into a powerful calculator with inline math. | Caleb John
 [🏠](https://github.com/tessus/joplin-plugin-menu-shortcut-toolbar#readme) | Menu items, Shortcuts, Toolbar icons | 0.1.1 | Additional menu items, shortcuts, and toolbar icons, which are not part of Joplin core | Helmut K. C. Tessarek
 [🏠](https://github.com/fengqiaozhu/joplin_plugin_nlr.git) | NLR | 1.0.2 | 将joplin在记笔记的同时，变成一个网文小说阅读器,a chinese net literature downloader and reader plugin for joplin. | fengQ
 [🏠](https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSidebars) | Note list and sidebar toggle buttons | 1.0.3 | Adds buttons to toggle note list and sidebar | Laurent Cozic
