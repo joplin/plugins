@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "cx.evermeet.tessus.menu-shortcut-toolbar",
 	"app_min_version": "1.7",
-	"version": "0.1.1",
+	"version": "0.2.0",
 	"name": "Menu items, Shortcuts, Toolbar icons",
 	"description": "Additional menu items, shortcuts, and toolbar icons, which are not part of Joplin core",
 	"author": "Helmut K. C. Tessarek",
 	"homepage_url": "https://github.com/tessus/joplin-plugin-menu-shortcut-toolbar#readme",
 	"repository_url": "https://github.com/tessus/joplin-plugin-menu-shortcut-toolbar",
 	"keywords": [],
-	"_publish_hash": "sha256:706f2ea9a93d27429e22ce4e14e090b7ca7b5f92eebfdf86a381def3d6db9eb9",
-	"_publish_commit": "master:5fd52f138210d9138ee7c8a1ff321940eefd8ef2",
+	"_publish_hash": "sha256:df5efc60aa8b5ee27b92c38285aa38675ea1330b18ad69da85a619d0f329d87e",
+	"_publish_commit": "master:7ba4a6acaeb990a5523ffc192165e85c28e6866a",
 	"_npm_package_name": "joplin-plugin-menu-shortcut-toolbar"
 }
