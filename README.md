@@ -28,7 +28,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/marc0l92/joplin-plugin-jira-issue#readme) | Jira Issue | 1.6.0 | Retrieve Atlassian Jira issues information using their api in order to track the status of them from your Joplin notes. | Marco LUCARELLA
 [🏠](https://github.com/chenlijun99/autoanki/packages/joplin-plugin) | Joplin Anki Sync | 1.0.0 | Bidirectional sync between Joplin and Anki | Lijun Chen
 [🏠](https://github.com/Cologler/userlink-joplin) | Joplin User Link Plugin | 1.2.0 | A Joplin plugin for custom links, like `jump://?query=blabla`. | Cologler
-[🏠](https://github.com/treymo/joplin-link-graph) | Link Graph UI | 0.9.8 | View the connections between Joplin notes. | Trey Moore
+[🏠](https://github.com/treymo/joplin-link-graph) | Link Graph UI | 0.9.9 | View the connections between Joplin notes. | Trey Moore
 [🏠](https://github.com/oswida/joplin-markdown-calc) | Markdown table calculations | 1.0.3 | Plugin for automatic calculations of markdown table formulas. | Oskar Świda
 [🏠](https://github.com/CalebJohn/joplin-math-mode#readme) | Math Mode | 0.5.0 | Turn your notes into a powerful calculator with inline math. | Caleb John
 [🏠](https://github.com/tessus/joplin-plugin-menu-shortcut-toolbar#readme) | Menu items, Shortcuts, Toolbar icons | 1.0.0 | Additional menu items, shortcuts, and toolbar icons, which are not part of Joplin core | Helmut K. C. Tessarek
