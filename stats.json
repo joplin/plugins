@@ -1,7 +1,7 @@
 {
 	"ambrt.backlinksToNote": {
 		"1.0.2": {
-			"downloadCount": 0,
+			"downloadCount": 1,
 			"createdAt": "2021-06-01T08:35:12Z"
 		},
 		"1.0.1": {
@@ -35,7 +35,7 @@
 	},
 	"com.github.uphy.PlantUmlPlugin": {
 		"0.0.1": {
-			"downloadCount": 0,
+			"downloadCount": 1,
 			"createdAt": "2021-06-01T08:30:35Z"
 		}
 	},
@@ -47,7 +47,7 @@
 	},
 	"com.plugin.randomNotePlugin": {
 		"1.0.0": {
-			"downloadCount": 0,
+			"downloadCount": 1,
 			"createdAt": "2021-06-01T08:30:39Z"
 		}
 	},
@@ -59,7 +59,7 @@
 	},
 	"com.whatever.quick-links": {
 		"1.2.1": {
-			"downloadCount": 0,
+			"downloadCount": 2,
 			"createdAt": "2021-06-01T08:30:41Z"
 		}
 	},
@@ -67,6 +67,10 @@
 		"1.0.0": {
 			"downloadCount": 0,
 			"createdAt": "2021-06-01T08:30:41Z"
+		},
+		"1.1.0": {
+			"downloadCount": 0,
+			"createdAt": "2021-06-01T08:37:32Z"
 		}
 	},
 	"io.github.jackgruber.backup": {
@@ -77,7 +81,7 @@
 	},
 	"io.github.jackgruber.combine-notes": {
 		"0.2.2": {
-			"downloadCount": 0,
+			"downloadCount": 1,
 			"createdAt": "2021-06-01T08:30:43Z"
 		}
 	},
@@ -101,19 +105,19 @@
 	},
 	"io.treymo.LinkGraph": {
 		"0.9.9": {
-			"downloadCount": 0,
+			"downloadCount": 1,
 			"createdAt": "2021-06-01T08:30:46Z"
 		}
 	},
 	"joplin-insert-date": {
 		"1.0.1": {
-			"downloadCount": 0,
+			"downloadCount": 1,
 			"createdAt": "2021-06-01T08:30:47Z"
 		}
 	},
 	"joplin.plugin.ambrt.backlinksToNote": {
 		"2.0.10": {
-			"downloadCount": 0,
+			"downloadCount": 1,
 			"createdAt": "2021-06-01T08:30:48Z"
 		}
 	},
@@ -155,7 +159,7 @@
 	},
 	"joplin.plugin.benji.favorites": {
 		"1.2.1": {
-			"downloadCount": 0,
+			"downloadCount": 1,
 			"createdAt": "2021-06-01T08:30:53Z"
 		}
 	},
@@ -227,7 +231,7 @@
 	},
 	"outline": {
 		"1.2.0": {
-			"downloadCount": 0,
+			"downloadCount": 1,
 			"createdAt": "2021-06-01T08:31:09Z"
 		}
 	},
