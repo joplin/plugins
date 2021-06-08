@@ -401,7 +401,7 @@
 		"manifest_version": 1,
 		"id": "plugin.calebjohn.rich-markdown",
 		"app_min_version": "1.7",
-		"version": "0.4.4",
+		"version": "0.4.5",
 		"name": "Rich Markdown",
 		"description": "Helping you ditch the markdown viewer for good.",
 		"author": "Caleb John",
@@ -411,8 +411,8 @@
 			"editor",
 			"visual"
 		],
-		"_publish_hash": "sha256:c46f9d3ff6a31e92c6d96b4cc5c78371a7b8a5294896eccd9462d2f75a53bb1a",
-		"_publish_commit": "main:e7a53a13749c16923c321939edf29aa92ff9c2ed",
+		"_publish_hash": "sha256:0ce4ae83f19e70f4c84b2b5ca380754358bb1d1784878ea562f75395701ac3b7",
+		"_publish_commit": "main:7ef30007296eaf071401f765e2938baf6328d73e",
 		"_npm_package_name": "joplin-plugin-rich-markdown"
 	},
 	"com.github.uphy.PlantUmlPlugin": {
