@@ -44,7 +44,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/benji300/joplin-quick-move) | Quick Move | 1.0.0 | Collection of commands to quickly move notes to other notebooks. | Benji300
 [🏠](https://github.com/Kaid00/joplin-random-note/blob/master/README.md) | Random note | 1.0.0 | Opens a random note from your vault | Azamah Junior
 [🏠](https://github.com/roman-r-m/joplin-plugin-resource-search) | Resource Search Plugin | 0.1.1 | Search in Attached Resources | Roman Musin
-[🏠](https://github.com/CalebJohn/joplin-rich-markdown#readme) | Rich Markdown | 0.4.5 | Helping you ditch the markdown viewer for good. | Caleb John
+[🏠](https://github.com/CalebJohn/joplin-rich-markdown#readme) | Rich Markdown | 0.4.6 | Helping you ditch the markdown viewer for good. | Caleb John
 [🏠](https://github.com/JackGruber/joplin-plugin-backup/blob/master/README.md) | Simple Backup | 0.5.3 | Plugin to create manual and automatic backups. | JackGruber
 [🏠](https://github.com/martinkorelic/joplin-plugin-spoilers) | Spoilers | 1.0.3 | Create inline spoilers and spoiler blocks with title and extendable body. | Martin Korelič
 [🏠](https://github.com/roman-r-m/joplin-plugin-table-formatter) | Table Formatter Plugin | 1.1.2 | Format the table under the cursor in Markdown editor | Roman Musin
