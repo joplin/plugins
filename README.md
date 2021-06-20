@@ -37,7 +37,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/JackGruber/joplin-plugin-note-overview/blob/master/README.md) | Note overview | 1.4.3 | A note overview is created based on the defined search and the specified fields. | JackGruber
 [🏠](https://github.com/Kaid00/joplin-note-statistics#readme) | Note Statistics | 1.0.4 | Plugin to get note statistics | Azamah Junior
 [🏠](https://github.com/benji300/joplin-note-tabs) | Note Tabs | 1.3.0 | Allows to open several notes at once in tabs and pin them. | Benji300
-[🏠](https://github.com/cqroot/joplin-outline) | Outline | 1.2.1 | Outline sidebar plugin for joplin. | cqroot
+[🏠](https://github.com/cqroot/joplin-outline) | Outline | 1.2.2 | Outline sidebar plugin for joplin. | cqroot
 [🏠](https://github.com/benji300/joplin-persistent-layout) | Persistent Editor Layout | 2.0.0 | Save the editor layout (editor/split view/viewer/rich text) for each note separately with custom tags. | Benji300
 [🏠](https://github.com/uphy/joplin-plantuml-plugin) | PlantUML | 0.0.1 | Markdown extension plugin to render PlantUML diagrams. | uphy
 [🏠](https://discourse.joplinapp.org/t/quick-links-plugin/14214) | Quick Links | 1.2.1 | Create links to other notes | Roman Musin
