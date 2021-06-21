@@ -661,7 +661,7 @@
 		"manifest_version": 1,
 		"id": "org.joplinapp.plugins.admonition",
 		"app_min_version": "1.8",
-		"version": "1.0.1",
+		"version": "1.0.2",
 		"name": "Custom containers",
 		"description": "Admonition markdown plugin",
 		"author": "Massimiliano Masserelli",
@@ -671,8 +671,8 @@
 			"markdown",
 			"admonition"
 		],
-		"_publish_hash": "sha256:97a9a90a84f7df6b031c44a1c0ab38237c2cae30f8f248ca8d4353fdbb3f0e70",
-		"_publish_commit": "main:4b7fd9fc28d33b013eb80693a25c4425eb2d8a54",
+		"_publish_hash": "sha256:3730d3b037a33da7488abc0115168eb4c4e734f35cec0d1c8b5bb7c63293f1f7",
+		"_publish_commit": "main:d25e164c8c65387fe5ddbd600466e5cefdc0b800",
 		"_npm_package_name": "joplin-plugin-admonition"
 	}
 }
