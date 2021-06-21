@@ -656,5 +656,23 @@
 		"_publish_hash": "sha256:fc6685a4e9184a1848f2a88160985b8a6435f6bca2130a7888e0421beeb7ed14",
 		"_publish_commit": "master:a3e0638ee261a28c3b03b53c692329ff1c679f03",
 		"_npm_package_name": "joplin-plugin-menu-shortcut-toolbar"
+	},
+	"org.joplinapp.plugins.admonition": {
+		"manifest_version": 1,
+		"id": "org.joplinapp.plugins.admonition",
+		"app_min_version": "1.8",
+		"version": "1.0.1",
+		"name": "Custom containers",
+		"description": "Admonition markdown plugin",
+		"author": "Massimiliano Masserelli",
+		"homepage_url": "https://github.com/maxnegro/joplin-plugin-admonition",
+		"repository_url": "https://github.com/maxnegro/joplin-plugin-admonition",
+		"keywords": [
+			"markdown",
+			"admonition"
+		],
+		"_publish_hash": "sha256:97a9a90a84f7df6b031c44a1c0ab38237c2cae30f8f248ca8d4353fdbb3f0e70",
+		"_publish_commit": "main:4b7fd9fc28d33b013eb80693a25c4425eb2d8a54",
+		"_npm_package_name": "joplin-plugin-admonition"
 	}
 }
