@@ -13,13 +13,13 @@ This repository contains the following plugins:
 <!-- PLUGIN_LIST -->
 &nbsp; | Name | Version | Description | Author
 --- | --- | --- | --- | ---
+[🏠](https://github.com/maxnegro/joplin-plugin-admonition) | Admonition markdown extension | 1.0.3 | Enables markdownIt admonition plugin, which enables formatting notes | Massimiliano Masserelli
 [🏠](https://discourse.joplinapp.org/t/insert-referencing-notes-backlinks-plugin/13632) | Automatic Backlinks to note | 2.0.10 | Creates backlinks to opened note, also in automatic way | ambrt
 [🏠]() | BibTeX | 0.1.0 | Use locally stored BibTeX files to insert citations into the current note. | Abdallah Ahmed
 [🏠](https://github.com/JackGruber/joplin-plugin-combine-notes) | Combine notes | 0.2.2 | Combine one or more notes | JackGruber
 [🏠](https://discourse.joplinapp.org/t/create-note-from-highlighted-text/12511) | Convert Text To New Note | 1.5.0 | Converts highlighted text to new one in same folder | ambrt
 [🏠](https://discourse.joplinapp.org/t/copy-markdown-link-to-active-note/14402) | Copy link to active note | 1.0.1 | Adds entry to right click menu in editor to get link to active note | a  
 [🏠](https://discourse.joplinapp.org/t/go-to-note-tag-or-notebook-via-highlighting-text-in-editor/12731) | Create and go to #tags and @notebooks | 1.3.7 | Go to tag,notebook or note via links or via text | a  
-[🏠](https://github.com/maxnegro/joplin-plugin-admonition) | Custom containers | 1.0.2 | Admonition markdown plugin | Massimiliano Masserelli
 [🏠](https://discourse.joplinapp.org/t/embed-any-search-with-content/14328) | Embed Search | 1.0.11 | Embeds list of links specified by search inside of note | ambrt
 [🏠](https://github.com/aman-d-1-n-only/joplin-exports-to-ssg#readme) | Export To SSG | 1.0.3 | Export a collection of notes to static site generator project. | aman-d-1-n-only
 [🏠](https://github.com/benji300/joplin-favorites) | Favorites | 1.2.1 | Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access. | Benji300
