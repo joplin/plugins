@@ -14,6 +14,7 @@ This repository contains the following plugins:
 &nbsp; | Name | Version | Description | Author
 --- | --- | --- | --- | ---
 [🏠](https://discourse.joplinapp.org/t/insert-referencing-notes-backlinks-plugin/13632) | Automatic Backlinks to note | 2.0.10 | Creates backlinks to opened note, also in automatic way | ambrt
+[🏠]() | BibTeX | 0.1.0 | Use locally stored BibTeX files to insert citations into the current note. | Abdallah Ahmed
 [🏠](https://github.com/JackGruber/joplin-plugin-combine-notes) | Combine notes | 0.2.2 | Combine one or more notes | JackGruber
 [🏠](https://discourse.joplinapp.org/t/create-note-from-highlighted-text/12511) | Convert Text To New Note | 1.5.0 | Converts highlighted text to new one in same folder | ambrt
 [🏠](https://discourse.joplinapp.org/t/copy-markdown-link-to-active-note/14402) | Copy link to active note | 1.0.1 | Adds entry to right click menu in editor to get link to active note | a  

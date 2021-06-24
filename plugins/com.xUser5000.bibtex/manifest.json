@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "com.xUser5000.bibtex",
+	"app_min_version": "1.7",
+	"version": "0.1.0",
+	"name": "BibTeX",
+	"description": "Use locally stored BibTeX files to insert citations into the current note.",
+	"author": "Abdallah Ahmed",
+	"homepage_url": "",
+	"repository_url": "https://github.com/joplin/plugin-bibtex",
+	"keywords": [],
+	"_publish_hash": "sha256:19664e34313b855d4f107e66dc673d3aa76162e5312718e467a0d5c9211cb8ff",
+	"_publish_commit": "main:0a6c48b2b72aaf2bfc9522d1ab6a46b994fdbf50",
+	"_npm_package_name": "joplin-plugin-bibtex"
+}
