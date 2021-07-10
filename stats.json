@@ -11,25 +11,25 @@
 	},
 	"b53da1f6-868c-468d-b60c-2897a27166ac": {
 		"1.2.0": {
-			"downloadCount": 56,
+			"downloadCount": 57,
 			"createdAt": "2021-06-01T08:30:32Z"
 		}
 	},
 	"com.export-to-ssg.aman-d-1-n-only": {
 		"1.0.3": {
-			"downloadCount": 70,
+			"downloadCount": 71,
 			"createdAt": "2021-06-01T08:30:33Z"
 		}
 	},
 	"com.github.BeatLink.joplin-plugin-untagged": {
 		"2.1.1": {
-			"downloadCount": 176,
+			"downloadCount": 177,
 			"createdAt": "2021-06-01T08:30:34Z"
 		}
 	},
 	"com.github.marc0l92.joplin-plugin-jira-issue": {
 		"1.6.0": {
-			"downloadCount": 50,
+			"downloadCount": 51,
 			"createdAt": "2021-06-01T08:30:35Z"
 		}
 	},
@@ -47,19 +47,19 @@
 	},
 	"com.plugin.randomNotePlugin": {
 		"1.0.0": {
-			"downloadCount": 39,
+			"downloadCount": 40,
 			"createdAt": "2021-06-01T08:30:39Z"
 		}
 	},
 	"com.whatever.inline-tags": {
 		"1.1.3": {
-			"downloadCount": 172,
+			"downloadCount": 177,
 			"createdAt": "2021-06-01T08:30:40Z"
 		}
 	},
 	"com.whatever.quick-links": {
 		"1.2.1": {
-			"downloadCount": 523,
+			"downloadCount": 528,
 			"createdAt": "2021-06-01T08:30:41Z"
 		}
 	},
@@ -69,7 +69,7 @@
 			"createdAt": "2021-06-01T08:30:41Z"
 		},
 		"1.1.0": {
-			"downloadCount": 339,
+			"downloadCount": 343,
 			"createdAt": "2021-06-01T08:37:32Z"
 		}
 	},
@@ -79,61 +79,61 @@
 			"createdAt": "2021-06-01T08:30:42Z"
 		},
 		"1.0.1": {
-			"downloadCount": 202,
+			"downloadCount": 209,
 			"createdAt": "2021-07-03T08:01:35Z"
 		}
 	},
 	"io.github.jackgruber.combine-notes": {
 		"0.2.2": {
-			"downloadCount": 240,
+			"downloadCount": 246,
 			"createdAt": "2021-06-01T08:30:43Z"
 		}
 	},
 	"io.github.jackgruber.copytags": {
 		"1.0.1": {
-			"downloadCount": 219,
+			"downloadCount": 222,
 			"createdAt": "2021-06-01T08:30:44Z"
 		}
 	},
 	"io.github.jackgruber.hotfolder": {
 		"0.4.0": {
-			"downloadCount": 143,
+			"downloadCount": 145,
 			"createdAt": "2021-06-01T08:30:44Z"
 		}
 	},
 	"io.github.jackgruber.note-overview": {
 		"1.4.3": {
-			"downloadCount": 225,
+			"downloadCount": 228,
 			"createdAt": "2021-06-01T08:30:45Z"
 		}
 	},
 	"io.treymo.LinkGraph": {
 		"0.9.9": {
-			"downloadCount": 420,
+			"downloadCount": 422,
 			"createdAt": "2021-06-01T08:30:46Z"
 		}
 	},
 	"joplin-insert-date": {
 		"1.0.1": {
-			"downloadCount": 220,
+			"downloadCount": 222,
 			"createdAt": "2021-06-01T08:30:47Z"
 		}
 	},
 	"joplin.plugin.ambrt.backlinksToNote": {
 		"2.0.10": {
-			"downloadCount": 311,
+			"downloadCount": 314,
 			"createdAt": "2021-06-01T08:30:48Z"
 		}
 	},
 	"joplin.plugin.ambrt.convertToNewNote": {
 		"1.5.0": {
-			"downloadCount": 159,
+			"downloadCount": 161,
 			"createdAt": "2021-06-01T08:30:49Z"
 		}
 	},
 	"joplin.plugin.ambrt.copyNoteLink": {
 		"1.0.1": {
-			"downloadCount": 156,
+			"downloadCount": 160,
 			"createdAt": "2021-06-01T08:30:49Z"
 		}
 	},
@@ -145,13 +145,13 @@
 	},
 	"joplin.plugin.ambrt.fold-cm": {
 		"1.2.5": {
-			"downloadCount": 199,
+			"downloadCount": 200,
 			"createdAt": "2021-06-01T08:30:51Z"
 		}
 	},
 	"joplin.plugin.ambrt.goToItem": {
 		"1.3.7": {
-			"downloadCount": 229,
+			"downloadCount": 232,
 			"createdAt": "2021-06-01T08:30:51Z"
 		}
 	},
@@ -163,37 +163,37 @@
 	},
 	"joplin.plugin.benji.favorites": {
 		"1.2.1": {
-			"downloadCount": 393,
+			"downloadCount": 398,
 			"createdAt": "2021-06-01T08:30:53Z"
 		}
 	},
 	"joplin.plugin.benji.persistentLayout": {
 		"2.0.0": {
-			"downloadCount": 105,
+			"downloadCount": 106,
 			"createdAt": "2021-06-01T08:30:56Z"
 		}
 	},
 	"joplin.plugin.benji.quick-move": {
 		"1.0.0": {
-			"downloadCount": 103,
+			"downloadCount": 104,
 			"createdAt": "2021-06-01T08:30:56Z"
 		}
 	},
 	"joplin.plugin.forcewake.tags-generator": {
 		"1.0.0": {
-			"downloadCount": 192,
+			"downloadCount": 194,
 			"createdAt": "2021-06-01T08:30:57Z"
 		}
 	},
 	"joplin.plugin.note.tabs": {
 		"1.3.0": {
-			"downloadCount": 579,
+			"downloadCount": 584,
 			"createdAt": "2021-06-01T08:31:01Z"
 		}
 	},
 	"joplin.plugin.spoiler.cards": {
 		"1.0.3": {
-			"downloadCount": 131,
+			"downloadCount": 134,
 			"createdAt": "2021-06-01T08:31:03Z"
 		}
 	},
@@ -205,7 +205,7 @@
 	},
 	"net.rmusin.joplin-table-formatter": {
 		"1.1.2": {
-			"downloadCount": 294,
+			"downloadCount": 297,
 			"createdAt": "2021-06-01T08:31:03Z"
 		}
 	},
@@ -223,13 +223,13 @@
 	},
 	"org.joplinapp.plugins.ToggleSidebars": {
 		"1.0.3": {
-			"downloadCount": 204,
+			"downloadCount": 208,
 			"createdAt": "2021-06-01T08:31:07Z"
 		}
 	},
 	"osw.joplin.markdowncalc": {
 		"1.0.3": {
-			"downloadCount": 159,
+			"downloadCount": 163,
 			"createdAt": "2021-06-01T08:31:08Z"
 		}
 	},
@@ -243,7 +243,7 @@
 			"createdAt": "2021-06-02T19:54:49Z"
 		},
 		"1.2.2": {
-			"downloadCount": 499,
+			"downloadCount": 503,
 			"createdAt": "2021-06-20T08:31:17Z"
 		}
 	},
@@ -255,7 +255,7 @@
 	},
 	"plugin.calebjohn.MathMode": {
 		"0.5.0": {
-			"downloadCount": 274,
+			"downloadCount": 277,
 			"createdAt": "2021-06-01T08:31:12Z"
 		}
 	},
@@ -273,7 +273,7 @@
 			"createdAt": "2021-06-19T00:01:13Z"
 		},
 		"0.4.7": {
-			"downloadCount": 460,
+			"downloadCount": 464,
 			"createdAt": "2021-06-19T01:31:17Z"
 		}
 	},
@@ -287,7 +287,7 @@
 			"createdAt": "2021-06-21T14:01:24Z"
 		},
 		"1.0.3": {
-			"downloadCount": 133,
+			"downloadCount": 135,
 			"createdAt": "2021-06-24T13:31:23Z"
 		}
 	},
@@ -297,7 +297,7 @@
 			"createdAt": "2021-06-24T13:01:28Z"
 		},
 		"0.2.0": {
-			"downloadCount": 47,
+			"downloadCount": 51,
 			"createdAt": "2021-07-03T12:31:36Z"
 		}
 	},
@@ -305,6 +305,12 @@
 		"1.0.0": {
 			"downloadCount": 25,
 			"createdAt": "2021-07-03T12:31:36Z"
+		}
+	},
+	"com.lki.homenote": {
+		"1.0.0": {
+			"downloadCount": 2,
+			"createdAt": "2021-07-10T16:02:10Z"
 		}
 	}
 }
