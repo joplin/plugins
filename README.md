@@ -25,6 +25,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/aman-d-1-n-only/joplin-exports-to-ssg#readme) | Export To SSG | 1.0.3 | Export a collection of notes to static site generator project. | aman-d-1-n-only
 [🏠](https://github.com/benji300/joplin-favorites) | Favorites | 1.2.1 | Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access. | Benji300
 [🏠](https://discourse.joplinapp.org/t/persistent-text-folding-in-editor/16183) | Folding in Code Mirror Editor | 1.2.5 | Allows to fold parts of markdown text displayed in editor | ambrt
+[🏠]() | Home Note | 1.0.0 | Plugin to open a choosen note each time joplin starts. It is like homepages on browsers. | Adarsh Singh(lki)
 [🏠](https://github.com/JackGruber/joplin-plugin-hotfolder/blob/master/README.md) | Hotfolder | 0.4.0 | Monitors a locale folder and import the files as a new note. | JackGruber
 [🏠](https://discourse.joplinapp.org/t/plugin-inline-tags/14192) | Inline tags | 1.1.3 | Inline tags plugin | Roman Musin
 [🏠](https://github.com/herdsothom/joplin-insert-date) | Insert Date | 1.0.1 | Adds a button to insert the current date (without time) into the editor. | herdsothom
