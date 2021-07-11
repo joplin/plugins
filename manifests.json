@@ -726,5 +726,20 @@
 		"_publish_hash": "sha256:bb1c904745d181fc512981be9ee99b903a390b953a5f5d4c4bf76908c575d2cf",
 		"_publish_commit": "master:762ad5c2986c513819bb316c1617d24dadd8076d",
 		"_npm_package_name": "joplin-plugin-home-note"
+	},
+	"joplin-plugin-conflict-resolution": {
+		"manifest_version": 1,
+		"id": "joplin-plugin-conflict-resolution",
+		"app_min_version": "1.8",
+		"version": "1.0.0",
+		"name": "Conflict Resolution",
+		"description": "A plugin that makes process of resolving conflicts easier.",
+		"author": "Ahmed Alwasifey",
+		"homepage_url": "https://github.com/joplin/plugin-conflict-resolution",
+		"repository_url": "https://github.com/joplin/plugin-conflict-resolution",
+		"keywords": [],
+		"_publish_hash": "sha256:a8bfe95c74eaa082cdddf40892d370ed713c515a2fd0aa842c9562ad63eb7c13",
+		"_publish_commit": "master:12a7dfe30a85c961060281adcbed87c5dc09f16e",
+		"_npm_package_name": "joplin-plugin-conflict-resolution"
 	}
 }
