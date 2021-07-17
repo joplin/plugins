@@ -48,6 +48,7 @@ This repository contains the following plugins:
 [🏠](https://discourse.joplinapp.org/t/quick-links-plugin/14214) | Quick Links | 1.2.1 | Create links to other notes | Roman Musin
 [🏠](https://github.com/benji300/joplin-quick-move) | Quick Move | 1.0.0 | Collection of commands to quickly move notes to other notebooks. | Benji300
 [🏠](https://github.com/Kaid00/joplin-random-note/blob/master/README.md) | Random note | 1.0.0 | Opens a random note from your vault | Azamah Junior
+[🏠](https://discourse.joplinapp.org/t/plugin-repeating-to-dos/16470) | Repeating To-Dos | 0.0.1 | A powerful and comprehensive plugin for to-do repetition/recurrence | BeatLink
 [🏠](https://github.com/roman-r-m/joplin-plugin-resource-search) | Resource Search Plugin | 0.1.1 | Search in Attached Resources | Roman Musin
 [🏠](https://github.com/CalebJohn/joplin-rich-markdown#readme) | Rich Markdown | 0.5.2 | Helping you ditch the markdown viewer for good. | Caleb John
 [🏠](https://github.com/JackGruber/joplin-plugin-backup/blob/master/README.md) | Simple Backup | 1.0.1 | Plugin to create manual and automatic backups. | JackGruber
