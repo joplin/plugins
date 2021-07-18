@@ -763,5 +763,26 @@
 		"_publish_hash": "sha256:72a4b5e2babeb4c445b1afa2cb0cf343e8262f44f8c38f5cd1f874eb69b4c497",
 		"_publish_commit": "main:5933451c4f3e41f368a5b61ebf0f6907ccbdd23b",
 		"_npm_package_name": "joplin-plugin-repeating-to-dos"
+	},
+	"joplin.plugin.quick.html.tags": {
+		"manifest_version": 1,
+		"id": "joplin.plugin.quick.html.tags",
+		"app_min_version": "1.7",
+		"version": "0.1.0",
+		"name": "Quick HTML tags",
+		"description": "Create quick HTML tags.",
+		"author": "Martin Korelič",
+		"homepage_url": "https://github.com/martinkorelic/joplin-plugin-quick-html-tags",
+		"repository_url": "https://github.com/martinkorelic/joplin-plugin-quick-html-tags",
+		"keywords": [
+			"html",
+			"tags",
+			"quick",
+			"joplin",
+			"plugin"
+		],
+		"_publish_hash": "sha256:7beef45dd4a28937e9493a4dd0f44c2999ea20802043a51b2e37ab066ff184e0",
+		"_publish_commit": "main:8b6d23f4f6c0314642993ed7d47f22c2e8e5f2fd",
+		"_npm_package_name": "joplin-plugin-quick-html-tags"
 	}
 }
