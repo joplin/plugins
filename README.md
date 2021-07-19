@@ -52,7 +52,7 @@ This repository contains the following plugins:
 [🏠](https://discourse.joplinapp.org/t/plugin-repeating-to-dos/16470) | Repeating To-Dos | 0.0.1 | A powerful and comprehensive plugin for to-do repetition/recurrence | BeatLink
 [🏠](https://github.com/roman-r-m/joplin-plugin-resource-search) | Resource Search Plugin | 0.1.1 | Search in Attached Resources | Roman Musin
 [🏠](https://github.com/CalebJohn/joplin-rich-markdown#readme) | Rich Markdown | 0.5.2 | Helping you ditch the markdown viewer for good. | Caleb John
-[🏠](https://github.com/JackGruber/joplin-plugin-backup/blob/master/README.md) | Simple Backup | 1.0.1 | Plugin to create manual and automatic backups. | JackGruber
+[🏠](https://github.com/JackGruber/joplin-plugin-backup/blob/master/README.md) | Simple Backup | 1.0.2 | Plugin to create manual and automatic backups. | JackGruber
 [🏠](https://github.com/martinkorelic/joplin-plugin-spoilers) | Spoilers | 1.0.3 | Create inline spoilers and spoiler blocks with title and extendable body. | Martin Korelič
 [🏠](https://github.com/roman-r-m/joplin-plugin-table-formatter) | Table Formatter Plugin | 1.1.2 | Format the table under the cursor in Markdown editor | Roman Musin
 [🏠](https://github.com/JackGruber/joplin-plugin-tagging/blob/master/README.md) | Tagging | 1.0.1 | Plugin to extend the Joplin tagging menu with a coppy all tags and a tagging dialog with more control. (Formerly Copy Tags). | JackGruber
