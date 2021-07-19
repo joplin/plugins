@@ -682,15 +682,15 @@
 		"manifest_version": 1,
 		"id": "com.xUser5000.bibtex",
 		"app_min_version": "1.7",
-		"version": "0.3.0",
+		"version": "0.4.0",
 		"name": "BibTeX",
 		"description": "Use locally stored BibTeX files to integrate citation into Joplin",
 		"author": "Abdallah Ahmed",
 		"homepage_url": "",
 		"repository_url": "https://github.com/joplin/plugin-bibtex",
 		"keywords": [],
-		"_publish_hash": "sha256:c27cfb4657d4c8b7bfae73fb5ca99be19f703424fc5dbc6e839b938cce8dd52e",
-		"_publish_commit": "main:38a34ec79975f8f891f21fb2e66dd87ca21e5cef",
+		"_publish_hash": "sha256:18c1eee4850bc6702ad8a0ab160daca4f76d6cc2a289b3f0fa8e5e2c6c0f1117",
+		"_publish_commit": "release-0.4.0:d423601f766f7a896b2540ef25d86e7e8a6ca011",
 		"_npm_package_name": "joplin-plugin-bibtex"
 	},
 	"fd117a99-b165-4824-893c-5825439a842d": {
