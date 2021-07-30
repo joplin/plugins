@@ -1,0 +1,21 @@
+{
+	"manifest_version": 1,
+	"id": "com.github.joplin.kanban",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "Kanban",
+	"description": "Flexible kanban board plugin for all your tasks",
+	"author": "Balint Magyar",
+	"homepage_url": "https://discourse.joplinapp.org/t/kanban-board-project/17469",
+	"repository_url": "https://github.com/joplin/plugin-kanban",
+	"keywords": [
+		"kanban",
+		"board",
+		"task",
+		"todo",
+		"project"
+	],
+	"_publish_hash": "sha256:ba4f80e406b4712dfa9546a4be8fe13278f08f2cfbdf51f8266c283f3a8da278",
+	"_publish_commit": "dev:ab9e7b4bea7dc3ebd9b1c9dc6f2e55a65440817a",
+	"_npm_package_name": "joplin-plugin-kanban"
+}
