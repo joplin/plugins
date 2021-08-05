@@ -47,7 +47,7 @@ This repository contains the following plugins:
 [🏠](https://github.com/benji300/joplin-persistent-layout) | Persistent Editor Layout | 2.0.0 | Save the editor layout (editor/split view/viewer/rich text) for each note separately with custom tags. | Benji300
 [🏠](https://github.com/uphy/joplin-plantuml-plugin) | PlantUML | 0.0.1 | Markdown extension plugin to render PlantUML diagrams. | uphy
 [🏠](https://github.com/martinkorelic/joplin-plugin-quick-html-tags) | Quick HTML tags | 0.1.0 | Create quick HTML tags. | Martin Korelič
-[🏠](https://discourse.joplinapp.org/t/quick-links-plugin/14214) | Quick Links | 1.2.1 | Create links to other notes | Roman Musin
+[🏠](https://discourse.joplinapp.org/t/quick-links-plugin/14214) | Quick Links | 1.2.2 | Create links to other notes | Roman Musin
 [🏠](https://github.com/benji300/joplin-quick-move) | Quick Move | 1.0.0 | Collection of commands to quickly move notes to other notebooks. | Benji300
 [🏠](https://github.com/Kaid00/joplin-random-note/blob/master/README.md) | Random note | 1.0.0 | Opens a random note from your vault | Azamah Junior
 [🏠](https://discourse.joplinapp.org/t/plugin-repeating-to-dos/16470) | Repeating To-Dos | 0.0.1 | A powerful and comprehensive plugin for to-do repetition/recurrence | BeatLink
