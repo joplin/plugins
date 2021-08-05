@@ -29,13 +29,13 @@
 	},
 	"com.github.marc0l92.joplin-plugin-jira-issue": {
 		"1.6.0": {
-			"downloadCount": 102,
+			"downloadCount": 104,
 			"createdAt": "2021-06-01T08:30:35Z"
 		}
 	},
 	"com.github.uphy.PlantUmlPlugin": {
 		"0.0.1": {
-			"downloadCount": 369,
+			"downloadCount": 370,
 			"createdAt": "2021-06-01T08:30:35Z"
 		}
 	},
@@ -59,7 +59,7 @@
 	},
 	"com.whatever.quick-links": {
 		"1.2.1": {
-			"downloadCount": 1059,
+			"downloadCount": 1060,
 			"createdAt": "2021-06-01T08:30:41Z"
 		}
 	},
@@ -83,7 +83,7 @@
 			"createdAt": "2021-07-03T08:01:35Z"
 		},
 		"1.0.2": {
-			"downloadCount": 422,
+			"downloadCount": 425,
 			"createdAt": "2021-07-19T20:33:28Z"
 		}
 	},
@@ -95,7 +95,7 @@
 	},
 	"io.github.jackgruber.copytags": {
 		"1.0.1": {
-			"downloadCount": 445,
+			"downloadCount": 446,
 			"createdAt": "2021-06-01T08:30:44Z"
 		}
 	},
@@ -125,7 +125,7 @@
 	},
 	"joplin.plugin.ambrt.backlinksToNote": {
 		"2.0.10": {
-			"downloadCount": 664,
+			"downloadCount": 665,
 			"createdAt": "2021-06-01T08:30:48Z"
 		}
 	},
@@ -167,7 +167,7 @@
 	},
 	"joplin.plugin.benji.favorites": {
 		"1.2.1": {
-			"downloadCount": 803,
+			"downloadCount": 804,
 			"createdAt": "2021-06-01T08:30:53Z"
 		}
 	},
@@ -227,13 +227,13 @@
 	},
 	"org.joplinapp.plugins.ToggleSidebars": {
 		"1.0.3": {
-			"downloadCount": 413,
+			"downloadCount": 414,
 			"createdAt": "2021-06-01T08:31:07Z"
 		}
 	},
 	"osw.joplin.markdowncalc": {
 		"1.0.3": {
-			"downloadCount": 368,
+			"downloadCount": 369,
 			"createdAt": "2021-06-01T08:31:08Z"
 		}
 	},
@@ -251,7 +251,7 @@
 			"createdAt": "2021-06-20T08:31:17Z"
 		},
 		"1.2.3": {
-			"downloadCount": 229,
+			"downloadCount": 230,
 			"createdAt": "2021-07-29T15:35:09Z"
 		}
 	},
@@ -263,7 +263,7 @@
 	},
 	"plugin.calebjohn.MathMode": {
 		"0.5.0": {
-			"downloadCount": 543,
+			"downloadCount": 544,
 			"createdAt": "2021-06-01T08:31:12Z"
 		}
 	},
@@ -303,6 +303,10 @@
 		"0.6.1": {
 			"downloadCount": 131,
 			"createdAt": "2021-08-02T19:05:25Z"
+		},
+		"0.6.2": {
+			"downloadCount": 3,
+			"createdAt": "2021-08-05T16:05:46Z"
 		}
 	},
 	"org.joplinapp.plugins.admonition": {
@@ -349,7 +353,7 @@
 	},
 	"com.lki.homenote": {
 		"1.0.0": {
-			"downloadCount": 191,
+			"downloadCount": 192,
 			"createdAt": "2021-07-10T16:02:10Z"
 		}
 	},
@@ -363,13 +367,13 @@
 			"createdAt": "2021-07-18T21:33:36Z"
 		},
 		"1.2.0": {
-			"downloadCount": 55,
+			"downloadCount": 57,
 			"createdAt": "2021-08-02T14:05:17Z"
 		}
 	},
 	"com.gitlab.BeatLink.joplin-plugin-repeating-todos": {
 		"0.0.1": {
-			"downloadCount": 149,
+			"downloadCount": 151,
 			"createdAt": "2021-07-17T15:33:31Z"
 		}
 	},
@@ -381,7 +385,7 @@
 	},
 	"com.github.joplin.kanban": {
 		"1.0.0": {
-			"downloadCount": 185,
+			"downloadCount": 186,
 			"createdAt": "2021-07-30T12:05:18Z"
 		}
 	}
