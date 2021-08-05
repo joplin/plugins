@@ -35,7 +35,7 @@
 	},
 	"com.github.uphy.PlantUmlPlugin": {
 		"0.0.1": {
-			"downloadCount": 370,
+			"downloadCount": 371,
 			"createdAt": "2021-06-01T08:30:35Z"
 		}
 	},
@@ -69,7 +69,7 @@
 			"createdAt": "2021-06-01T08:30:41Z"
 		},
 		"1.1.0": {
-			"downloadCount": 700,
+			"downloadCount": 701,
 			"createdAt": "2021-06-01T08:37:32Z"
 		}
 	},
@@ -91,6 +91,10 @@
 		"0.2.2": {
 			"downloadCount": 507,
 			"createdAt": "2021-06-01T08:30:43Z"
+		},
+		"1.0.1": {
+			"downloadCount": 3,
+			"createdAt": "2021-08-05T17:35:58Z"
 		}
 	},
 	"io.github.jackgruber.copytags": {
@@ -251,7 +255,7 @@
 			"createdAt": "2021-06-20T08:31:17Z"
 		},
 		"1.2.3": {
-			"downloadCount": 232,
+			"downloadCount": 233,
 			"createdAt": "2021-07-29T15:35:09Z"
 		}
 	},
@@ -267,7 +271,7 @@
 			"createdAt": "2021-06-01T08:31:12Z"
 		},
 		"0.5.1": {
-			"downloadCount": 2,
+			"downloadCount": 3,
 			"createdAt": "2021-08-05T17:05:52Z"
 		}
 	},
@@ -309,7 +313,7 @@
 			"createdAt": "2021-08-02T19:05:25Z"
 		},
 		"0.6.2": {
-			"downloadCount": 5,
+			"downloadCount": 9,
 			"createdAt": "2021-08-05T16:05:46Z"
 		}
 	},
@@ -345,7 +349,7 @@
 			"createdAt": "2021-07-19T14:03:31Z"
 		},
 		"0.5.0": {
-			"downloadCount": 31,
+			"downloadCount": 32,
 			"createdAt": "2021-08-02T11:05:17Z"
 		}
 	},
