@@ -58,5 +58,6 @@ This repository contains the following plugins:
 [🏠](https://github.com/roman-r-m/joplin-plugin-table-formatter) | Table Formatter Plugin | 1.1.2 | Format the table under the cursor in Markdown editor | Roman Musin
 [🏠](https://github.com/JackGruber/joplin-plugin-tagging/blob/master/README.md) | Tagging | 1.0.1 | Plugin to extend the Joplin tagging menu with a coppy all tags and a tagging dialog with more control. (Formerly Copy Tags). | JackGruber
 [🏠](https://github.com/forcewake/joplin-tags-generator) | Tags Generator | 1.0.0 | Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags | forcewake
+[🏠](https://github.com/joplin/plugin-templates) | Templates | 1.0.0 | This plugin allows you to create and use templates in Joplin. | Nishant Mittal
 [🏠](https://discourse.joplinapp.org/t/untagged/16680) | Untagged | 2.1.1 | This is a joplin plugin to find notes and todos without a tag. | BeatLink
 <!-- PLUGIN_LIST -->
