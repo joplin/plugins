@@ -28,7 +28,7 @@ This repository contains the following plugins:
 [🏠](https://discourse.joplinapp.org/t/persistent-text-folding-in-editor/16183) | Folding in Code Mirror Editor | 1.2.5 | Allows to fold parts of markdown text displayed in editor | ambrt
 [🏠]() | Home Note | 1.0.0 | Plugin to open a choosen note each time joplin starts. It is like homepages on browsers. | Adarsh Singh(lki)
 [🏠](https://github.com/JackGruber/joplin-plugin-hotfolder/blob/master/README.md) | Hotfolder | 1.0.0 | Monitors a locale folder and import the files as a new note. | JackGruber
-[🏠](https://discourse.joplinapp.org/t/plugin-inline-tags/14192) | Inline tags | 1.1.3 | Inline tags plugin | Roman Musin
+[🏠](https://discourse.joplinapp.org/t/plugin-inline-tags/14192) | Inline tags | 1.2.0 | Inline tags plugin | Roman Musin
 [🏠](https://github.com/herdsothom/joplin-insert-date) | Insert Date | 1.0.1 | Adds a button to insert the current date (without time) into the editor. | herdsothom
 [🏠](https://github.com/marc0l92/joplin-plugin-jira-issue#readme) | Jira Issue | 1.6.0 | Retrieve Atlassian Jira issues information using their api in order to track the status of them from your Joplin notes. | Marco LUCARELLA
 [🏠](https://github.com/chenlijun99/autoanki/packages/joplin-plugin) | Joplin Anki Sync | 1.0.0 | Bidirectional sync between Joplin and Anki | Lijun Chen
