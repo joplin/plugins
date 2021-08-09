@@ -838,8 +838,8 @@
 			"css",
 			"macos"
 		],
-		"_publish_hash": "sha256:0da005f0769f86857155441552995c59130ee8a9ec0c398a79396ebc606d25cb",
-		"_publish_commit": "feature/joplin-plugin:e4613696bbe0300335db882d2da20cb40dbe9ea1",
+		"_publish_hash": "sha256:1eb14a312bc524408079b14442e16405cd637120f1f36cfe1ac1a8019b499fa1",
+		"_publish_commit": "feature/joplin-plugin:b434eeaf3730c1695b32dd0e9dfb3a135fdab4ee",
 		"_npm_package_name": "joplin-plugin-macos-theme"
 	}
 }
