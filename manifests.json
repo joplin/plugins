@@ -502,8 +502,8 @@
 	"joplin.plugin.benji.quick-move": {
 		"manifest_version": 1,
 		"id": "joplin.plugin.benji.quick-move",
-		"app_min_version": "1.7.10",
-		"version": "1.0.0",
+		"app_min_version": "1.8.2",
+		"version": "1.1.0",
 		"name": "Quick Move",
 		"description": "Collection of commands to quickly move notes to other notebooks.",
 		"author": "Benji300",
@@ -516,8 +516,8 @@
 			"notebook",
 			"note"
 		],
-		"_publish_hash": "sha256:e7abdb18d3789200f1d2e210e9c856194d2016d564ebafb5f712dc0f491e33a2",
-		"_publish_commit": "master:f8ecd6531625d0941152e70850951b5389fabdfc",
+		"_publish_hash": "sha256:2b6cdc468a3f7fdf2238641db755820137e3641cecac80c1bc07a17fd3f5e4cd",
+		"_publish_commit": "master:a528320345de4340f3fb47d1390493361f1bb0c4",
 		"_npm_package_name": "joplin-plugin-quick-move"
 	},
 	"com.export-to-ssg.aman-d-1-n-only": {
