@@ -814,15 +814,15 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.templates",
 		"app_min_version": "2.2.5",
-		"version": "1.0.0",
+		"version": "1.1.1",
 		"name": "Templates",
 		"description": "This plugin allows you to create and use templates in Joplin.",
 		"author": "Nishant Mittal",
 		"homepage_url": "https://github.com/joplin/plugin-templates",
 		"repository_url": "https://github.com/joplin/plugin-templates",
 		"keywords": [],
-		"_publish_hash": "sha256:4cc6112c1c610dfd6d2af75cf63684e540a725767dee527186de7869110bbcd4",
-		"_publish_commit": "master:b3cc159ba002675dada2e778aa89ddcbc9ce7f98",
+		"_publish_hash": "sha256:237548dd6a5998c4356bb8c8d95a0e622d6f1fd5071b13af0538a4660ece8a9a",
+		"_publish_commit": "master:c93da20cb0b1e1f85f01e1898b71f74d97653999",
 		"_npm_package_name": "joplin-plugin-templates"
 	},
 	"com.andrejilderda.macOSTheme": {
