@@ -13,6 +13,7 @@ This repository contains the following plugins:
 <!-- PLUGIN_LIST -->
 | &nbsp; | &nbsp; | Name  | Version | Description | Author |
 | ----- | ----- | ----- | ----- | ----- | ----- |
+| [🏠](https://github.com/joplin/plugin-abc-sheet-music) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.AbcSheetMusic/plugin.jpl) | ABC Sheet Music Plugin | 1.0.0 | Turns ABC text notation into sheet music | Laurent Cozic |
 | [🏠](https://github.com/maxnegro/joplin-plugin-admonition) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.admonition/plugin.jpl) | Admonition markdown extension | 1.0.3 | Enables markdownIt admonition plugin, which enables formatting notes | Massimiliano Masserelli |
 | [🏠](https://discourse.joplinapp.org/t/insert-referencing-notes-backlinks-plugin/13632) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/joplin.plugin.ambrt.backlinksToNote/plugin.jpl) | Automatic Backlinks to note | 2.0.10 | Creates backlinks to opened note, also in automatic way | ambrt |
 | -     | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/com.xUser5000.bibtex/plugin.jpl) | BibTeX | 0.5.0 | Use locally stored BibTeX files to integrate citation into Joplin | Abdallah Ahmed |
