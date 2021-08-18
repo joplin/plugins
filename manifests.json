@@ -771,8 +771,8 @@
 	"joplin.plugin.quick.html.tags": {
 		"manifest_version": 1,
 		"id": "joplin.plugin.quick.html.tags",
-		"app_min_version": "1.7",
-		"version": "0.1.0",
+		"app_min_version": "2.1",
+		"version": "0.1.1",
 		"name": "Quick HTML tags",
 		"description": "Create quick HTML tags.",
 		"author": "Martin Korelič",
@@ -785,8 +785,8 @@
 			"joplin",
 			"plugin"
 		],
-		"_publish_hash": "sha256:7beef45dd4a28937e9493a4dd0f44c2999ea20802043a51b2e37ab066ff184e0",
-		"_publish_commit": "main:8b6d23f4f6c0314642993ed7d47f22c2e8e5f2fd",
+		"_publish_hash": "sha256:d6a8f7e0d73aa046d60eb2e03bfb2775755f50f8a7aae2fa9dc6ee9ddc358a00",
+		"_publish_commit": "main:7fec125136c40fca19fba79a61820ba408e3a5a0",
 		"_npm_package_name": "joplin-plugin-quick-html-tags"
 	},
 	"com.github.joplin.kanban": {
