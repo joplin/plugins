@@ -23,7 +23,7 @@
 	},
 	"com.github.BeatLink.joplin-plugin-untagged": {
 		"2.1.1": {
-			"downloadCount": 406,
+			"downloadCount": 408,
 			"createdAt": "2021-06-01T08:30:34Z"
 		}
 	},
@@ -57,7 +57,7 @@
 			"createdAt": "2021-06-01T08:30:40Z"
 		},
 		"1.2.0": {
-			"downloadCount": 215,
+			"downloadCount": 217,
 			"createdAt": "2021-08-09T20:36:33Z"
 		}
 	},
@@ -67,7 +67,7 @@
 			"createdAt": "2021-06-01T08:30:41Z"
 		},
 		"1.2.2": {
-			"downloadCount": 742,
+			"downloadCount": 743,
 			"createdAt": "2021-08-05T20:05:59Z"
 		}
 	},
@@ -95,7 +95,7 @@
 			"createdAt": "2021-07-19T20:33:28Z"
 		},
 		"1.0.3": {
-			"downloadCount": 338,
+			"downloadCount": 341,
 			"createdAt": "2021-08-11T19:32:15Z"
 		}
 	},
@@ -105,13 +105,13 @@
 			"createdAt": "2021-06-01T08:30:43Z"
 		},
 		"1.0.1": {
-			"downloadCount": 331,
+			"downloadCount": 336,
 			"createdAt": "2021-08-05T17:35:58Z"
 		}
 	},
 	"io.github.jackgruber.copytags": {
 		"1.0.1": {
-			"downloadCount": 572,
+			"downloadCount": 574,
 			"createdAt": "2021-06-01T08:30:44Z"
 		}
 	},
@@ -125,7 +125,7 @@
 			"createdAt": "2021-08-05T18:05:49Z"
 		},
 		"1.0.1": {
-			"downloadCount": 124,
+			"downloadCount": 127,
 			"createdAt": "2021-08-12T20:32:24Z"
 		}
 	},
@@ -143,7 +143,7 @@
 			"createdAt": "2021-08-07T22:36:05Z"
 		},
 		"1.5.2": {
-			"downloadCount": 172,
+			"downloadCount": 177,
 			"createdAt": "2021-08-12T20:02:23Z"
 		}
 	},
@@ -153,7 +153,7 @@
 			"createdAt": "2021-06-01T08:30:46Z"
 		},
 		"1.0.1": {
-			"downloadCount": 299,
+			"downloadCount": 302,
 			"createdAt": "2021-08-12T01:32:45Z"
 		}
 	},
@@ -165,13 +165,13 @@
 	},
 	"joplin.plugin.ambrt.backlinksToNote": {
 		"2.0.10": {
-			"downloadCount": 901,
+			"downloadCount": 902,
 			"createdAt": "2021-06-01T08:30:48Z"
 		}
 	},
 	"joplin.plugin.ambrt.convertToNewNote": {
 		"1.5.0": {
-			"downloadCount": 448,
+			"downloadCount": 449,
 			"createdAt": "2021-06-01T08:30:49Z"
 		}
 	},
@@ -183,19 +183,19 @@
 	},
 	"joplin.plugin.ambrt.embedSearch": {
 		"1.0.11": {
-			"downloadCount": 435,
+			"downloadCount": 437,
 			"createdAt": "2021-06-01T08:30:50Z"
 		}
 	},
 	"joplin.plugin.ambrt.fold-cm": {
 		"1.2.5": {
-			"downloadCount": 548,
+			"downloadCount": 550,
 			"createdAt": "2021-06-01T08:30:51Z"
 		}
 	},
 	"joplin.plugin.ambrt.goToItem": {
 		"1.3.7": {
-			"downloadCount": 601,
+			"downloadCount": 602,
 			"createdAt": "2021-06-01T08:30:51Z"
 		}
 	},
@@ -211,7 +211,7 @@
 			"createdAt": "2021-06-01T08:30:53Z"
 		},
 		"1.3.0": {
-			"downloadCount": 335,
+			"downloadCount": 341,
 			"createdAt": "2021-08-12T20:32:24Z"
 		}
 	},
@@ -221,7 +221,7 @@
 			"createdAt": "2021-06-01T08:30:56Z"
 		},
 		"2.1.0": {
-			"downloadCount": 143,
+			"downloadCount": 144,
 			"createdAt": "2021-08-10T17:32:14Z"
 		}
 	},
@@ -231,13 +231,13 @@
 			"createdAt": "2021-06-01T08:30:56Z"
 		},
 		"1.1.0": {
-			"downloadCount": 112,
+			"downloadCount": 114,
 			"createdAt": "2021-08-10T17:02:42Z"
 		}
 	},
 	"joplin.plugin.forcewake.tags-generator": {
 		"1.0.0": {
-			"downloadCount": 513,
+			"downloadCount": 514,
 			"createdAt": "2021-06-01T08:30:57Z"
 		}
 	},
@@ -247,13 +247,13 @@
 			"createdAt": "2021-06-01T08:31:01Z"
 		},
 		"1.4.0": {
-			"downloadCount": 779,
+			"downloadCount": 783,
 			"createdAt": "2021-08-10T18:32:14Z"
 		}
 	},
 	"joplin.plugin.spoiler.cards": {
 		"1.0.3": {
-			"downloadCount": 366,
+			"downloadCount": 367,
 			"createdAt": "2021-06-01T08:31:03Z"
 		}
 	},
@@ -265,13 +265,13 @@
 	},
 	"net.rmusin.joplin-table-formatter": {
 		"1.1.2": {
-			"downloadCount": 795,
+			"downloadCount": 797,
 			"createdAt": "2021-06-01T08:31:03Z"
 		}
 	},
 	"net.rmusin.resource-search": {
 		"0.1.1": {
-			"downloadCount": 245,
+			"downloadCount": 246,
 			"createdAt": "2021-06-01T08:31:04Z"
 		}
 	},
@@ -283,13 +283,13 @@
 	},
 	"org.joplinapp.plugins.ToggleSidebars": {
 		"1.0.3": {
-			"downloadCount": 537,
+			"downloadCount": 538,
 			"createdAt": "2021-06-01T08:31:07Z"
 		}
 	},
 	"osw.joplin.markdowncalc": {
 		"1.0.3": {
-			"downloadCount": 462,
+			"downloadCount": 463,
 			"createdAt": "2021-06-01T08:31:08Z"
 		}
 	},
@@ -311,13 +311,13 @@
 			"createdAt": "2021-07-29T15:35:09Z"
 		},
 		"1.2.4": {
-			"downloadCount": 515,
+			"downloadCount": 520,
 			"createdAt": "2021-08-09T16:06:33Z"
 		}
 	},
 	"plugin.azamahJunior.note-statistics": {
 		"1.0.4": {
-			"downloadCount": 375,
+			"downloadCount": 377,
 			"createdAt": "2021-06-01T08:31:11Z"
 		}
 	},
@@ -327,7 +327,7 @@
 			"createdAt": "2021-06-01T08:31:12Z"
 		},
 		"0.5.1": {
-			"downloadCount": 317,
+			"downloadCount": 320,
 			"createdAt": "2021-08-05T17:05:52Z"
 		}
 	},
@@ -373,7 +373,7 @@
 			"createdAt": "2021-08-05T16:05:46Z"
 		},
 		"0.6.3": {
-			"downloadCount": 390,
+			"downloadCount": 394,
 			"createdAt": "2021-08-11T23:02:18Z"
 		}
 	},
@@ -415,7 +415,7 @@
 	},
 	"fd117a99-b165-4824-893c-5825439a842d": {
 		"1.0.0": {
-			"downloadCount": 177,
+			"downloadCount": 178,
 			"createdAt": "2021-07-03T12:31:36Z"
 		}
 	},
@@ -443,7 +443,7 @@
 			"createdAt": "2021-08-02T14:05:17Z"
 		},
 		"1.2.1": {
-			"downloadCount": 176,
+			"downloadCount": 177,
 			"createdAt": "2021-08-05T22:05:58Z"
 		}
 	},
@@ -453,7 +453,7 @@
 			"createdAt": "2021-07-17T15:33:31Z"
 		},
 		"0.0.3": {
-			"downloadCount": 104,
+			"downloadCount": 105,
 			"createdAt": "2021-08-08T14:36:10Z"
 		}
 	},
@@ -461,6 +461,10 @@
 		"0.1.0": {
 			"downloadCount": 177,
 			"createdAt": "2021-07-18T09:33:06Z"
+		},
+		"0.1.1": {
+			"downloadCount": 5,
+			"createdAt": "2021-08-18T20:02:20Z"
 		}
 	},
 	"com.github.joplin.kanban": {
@@ -469,7 +473,7 @@
 			"createdAt": "2021-07-30T12:05:18Z"
 		},
 		"1.0.1": {
-			"downloadCount": 220,
+			"downloadCount": 221,
 			"createdAt": "2021-08-11T23:02:16Z"
 		}
 	},
@@ -491,7 +495,7 @@
 			"createdAt": "2021-08-14T19:02:52Z"
 		},
 		"1.1.4": {
-			"downloadCount": 277,
+			"downloadCount": 284,
 			"createdAt": "2021-08-16T18:02:07Z"
 		}
 	},
@@ -505,7 +509,7 @@
 			"createdAt": "2021-08-09T17:36:28Z"
 		},
 		"1.1.0": {
-			"downloadCount": 135,
+			"downloadCount": 139,
 			"createdAt": "2021-08-16T13:02:05Z"
 		}
 	},
