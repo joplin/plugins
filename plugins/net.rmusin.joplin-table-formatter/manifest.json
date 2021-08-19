@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "net.rmusin.joplin-table-formatter",
 	"app_min_version": "1.8",
-	"version": "1.1.2",
+	"version": "1.2.0",
 	"name": "Table Formatter Plugin",
 	"description": "Format the table under the cursor in Markdown editor",
 	"author": "Roman Musin",
 	"homepage_url": "https://github.com/roman-r-m/joplin-plugin-table-formatter",
 	"repository_url": "https://github.com/roman-r-m/joplin-plugin-table-formatter",
 	"keywords": [],
-	"_publish_hash": "sha256:23ae09a2b244c5e4d2362ad931a2c8c4ef75c3a85594ca250668670f73ac38d9",
-	"_publish_commit": "master:5e82b980b2842a2715fe7ab199833df41c8ab377",
+	"_publish_hash": "sha256:8b1676c4dc0847044501aaf35d3c65a28a61102bc9f3e1e6c05ecf1c5c49d3f3",
+	"_publish_commit": "master:14715a0b54cea06fd08a9b2fca76701d30a6ea5d",
 	"_npm_package_name": "joplin-plugin-table-formatter"
 }
