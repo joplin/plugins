@@ -621,8 +621,8 @@
 			"random",
 			"random note"
 		],
-		"_publish_hash": "sha256:77cec98db9c0436ec2183e51290f7359e60b4e4532b0d3b696bcebdb27e19575",
-		"_publish_commit": "master:494a51e9d39576102eb93ae42770d875fcdde70f",
+		"_publish_hash": "sha256:40bf1888683fbbe6cc4bade7528559d902c56c4ec3de82df7bfcd09e87ec1ccb",
+		"_publish_commit": "master:44a8e5aa7fa363b651a013bd49c80c097012b9a4",
 		"_npm_package_name": "joplin-plugin-random-note"
 	},
 	"joplin.plugin.anki-sync": {
