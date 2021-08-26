@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.plugin.randomNotePlugin",
 	"app_min_version": "1.7",
-	"version": "1.0.0",
+	"version": "1.0.3",
 	"name": "Random note",
 	"description": "Opens a random note from your vault",
 	"author": "Azamah Junior",
@@ -13,7 +13,7 @@
 		"random",
 		"random note"
 	],
-	"_publish_hash": "sha256:40bf1888683fbbe6cc4bade7528559d902c56c4ec3de82df7bfcd09e87ec1ccb",
-	"_publish_commit": "master:44a8e5aa7fa363b651a013bd49c80c097012b9a4",
+	"_publish_hash": "sha256:f07f42ba958dac8d0d16326086f5a32c3416f929110d262b324afc49baedf712",
+	"_publish_commit": "master:cc94af19890324303e068807d194349fb4da9c44",
 	"_npm_package_name": "joplin-plugin-random-note"
 }
