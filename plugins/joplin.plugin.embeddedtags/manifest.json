@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.embeddedtags",
+	"app_min_version": "2.2.2",
+	"version": "1.0.0",
+	"name": "embedded tags",
+	"description": "embeded tags",
+	"author": "Dave Edwards",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"_publish_hash": "sha256:a6b5c646549e6458e3ab35a06bfdd77b539f9eb4cd2053cebd369ebf6a9ad18e",
+	"_publish_commit": "main:83b6149f3d60873034ccdae1a46e97594fe50158",
+	"_npm_package_name": "joplin-plugin-embedded-tags"
+}
