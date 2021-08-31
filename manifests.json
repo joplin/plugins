@@ -18,7 +18,8 @@
 		],
 		"_publish_hash": "sha256:88daaf234a9b47e5644a8de6f830a801d12edbe41ea5364d994773e89eeafeef",
 		"_publish_commit": "master:64c0510e3236df7788a8d10ec28dcfbb4c2bdbb7",
-		"_npm_package_name": "joplin-plugin-copytags"
+		"_npm_package_name": "joplin-plugin-copytags",
+		"_recommended": true
 	},
 	"joplin.plugin.ambrt.backlinksToNote": {
 		"manifest_version": 1,
@@ -49,7 +50,8 @@
 		],
 		"_publish_hash": "sha256:a243e702a3af8390ebeec4321435c2dc003dcbc55bfd16d53fd84cf3dcd8d86f",
 		"_publish_commit": "master:472f41374ea3c14a7342044a218e8e57028277c4",
-		"_npm_package_name": "joplin-plugin-combine-notes"
+		"_npm_package_name": "joplin-plugin-combine-notes",
+		"_recommended": true
 	},
 	"joplin.plugin.ambrt.goToItem": {
 		"manifest_version": 1,
@@ -76,7 +78,8 @@
 		"repository_url": "https://github.com/laurent22/joplin/tree/dev/packages/plugins/ToggleSidebars",
 		"_publish_hash": "sha256:0ff54037d73f160c02b6ebe7af2ee56a89ab8241707965eb60e8d1bb41c19489",
 		"_publish_commit": "git_compare_url:90103d135188995b08bff3c2c44006eae32e038d",
-		"_npm_package_name": "@joplin/joplin-plugin-toggle-sidebars"
+		"_npm_package_name": "@joplin/joplin-plugin-toggle-sidebars",
+		"_recommended": true
 	},
 	"joplin.plugin.note.tabs": {
 		"manifest_version": 1,
@@ -119,7 +122,8 @@
 		],
 		"_publish_hash": "sha256:99f57ce2e8c6fb3b86c825f99493239f643590730356b2a981667586a3ca2b2e",
 		"_publish_commit": "master:ebf47d68156e58af11997df87c7073345785ea83",
-		"_npm_package_name": "joplin-plugin-backup"
+		"_npm_package_name": "joplin-plugin-backup",
+		"_recommended": true
 	},
 	"io.github.jackgruber.note-overview": {
 		"manifest_version": 1,
@@ -140,7 +144,8 @@
 		],
 		"_publish_hash": "sha256:20a285ef4622fcb9cdf54614b2c321b0f618ae039a2e06f90842275b10f41910",
 		"_publish_commit": "master:6c0ffd061609384de8ac7c16d1b80f581d769b34",
-		"_npm_package_name": "joplin-plugin-note-overview"
+		"_npm_package_name": "joplin-plugin-note-overview",
+		"_recommended": true
 	},
 	"joplin.plugin.benji.favorites": {
 		"manifest_version": 1,
@@ -200,7 +205,8 @@
 		],
 		"_publish_hash": "sha256:303f82b190f2c32573fb3904d0bd470592b88e585679ec67a6260e4214799fe6",
 		"_publish_commit": "main:716038cc1f9aff5488e03d7d270dd24ac938e779",
-		"_npm_package_name": "joplin-plugin-math-mode"
+		"_npm_package_name": "joplin-plugin-math-mode",
+		"_recommended": true
 	},
 	"osw.joplin.markdowncalc": {
 		"manifest_version": 1,
@@ -248,7 +254,8 @@
 		"keywords": [],
 		"_publish_hash": "sha256:d7e3ed3d1c00236a511f1f2191dcc6d5934d0e1a2caeddb1f5f1a43f10341644",
 		"_publish_commit": "master:e162c65e8c81f215fcf1c5d5575f097fd0396b59",
-		"_npm_package_name": "joplin-plugin-quick-links"
+		"_npm_package_name": "joplin-plugin-quick-links",
+		"_recommended": true
 	},
 	"com.whatever.inline-tags": {
 		"manifest_version": 1,
@@ -262,7 +269,8 @@
 		"repository_url": "https://github.com/roman-r-m/joplin-inline-tags-plugin",
 		"_publish_hash": "sha256:885a887f8ba225ae7e3177ffddf1eb4a703bb47c155fafb0054b12ef0ea950b1",
 		"_publish_commit": "master:f4eb5c005231a64b1e4f5ee6b6297f0c5476642b",
-		"_npm_package_name": "joplin-plugin-inline-tags"
+		"_npm_package_name": "joplin-plugin-inline-tags",
+		"_recommended": true
 	},
 	"joplin.plugin.forcewake.tags-generator": {
 		"manifest_version": 1,
@@ -296,7 +304,8 @@
 		],
 		"_publish_hash": "sha256:ca3009bd857d13e229204635fa2216b9de1dd70cc7e624812700a653f8ac0781",
 		"_publish_commit": "master:7f919e7cd15c8c48ba4887fcfec7dfc99ec97c1a",
-		"_npm_package_name": "joplin-plugin-hotfolder"
+		"_npm_package_name": "joplin-plugin-hotfolder",
+		"_recommended": true
 	},
 	"joplin.plugin.ambrt.embedSearch": {
 		"manifest_version": 1,
@@ -383,7 +392,8 @@
 		"keywords": [],
 		"_publish_hash": "sha256:9286481450efed98265a7773ac97e292f66d65cb35f3f5137cf180f2c3dd64eb",
 		"_publish_commit": "master:14d1e5d4d45b71345b670aac245d6fe54f0d51d9",
-		"_npm_package_name": "joplin-plugin-resource-search"
+		"_npm_package_name": "joplin-plugin-resource-search",
+		"_recommended": true
 	},
 	"joplin-insert-date": {
 		"manifest_version": 1,
@@ -416,7 +426,8 @@
 		],
 		"_publish_hash": "sha256:b7ab3b3441ee8cc2cafba443e3715d3edee3164c26b02e1b1ae526448400b09d",
 		"_publish_commit": "main:4071b14e27655c8fbfa5dfaed2a84692eca0f8e7",
-		"_npm_package_name": "joplin-plugin-rich-markdown"
+		"_npm_package_name": "joplin-plugin-rich-markdown",
+		"_recommended": true
 	},
 	"com.github.uphy.PlantUmlPlugin": {
 		"manifest_version": 1,
@@ -463,7 +474,8 @@
 		"keywords": [],
 		"_publish_hash": "sha256:a039efd9892e65605df939fa7f5427871e6904ed2545280bf87e40231bb5441e",
 		"_publish_commit": "master:8842cc27968fc70e2ee09b1defa1969f3bdbc58d",
-		"_npm_package_name": "joplin-plugin-table-formatter"
+		"_npm_package_name": "joplin-plugin-table-formatter",
+		"_recommended": true
 	},
 	"com.github.marc0l92.joplin-plugin-jira-issue": {
 		"manifest_version": 1,
@@ -658,7 +670,8 @@
 		],
 		"_publish_hash": "sha256:fc6685a4e9184a1848f2a88160985b8a6435f6bca2130a7888e0421beeb7ed14",
 		"_publish_commit": "master:a3e0638ee261a28c3b03b53c692329ff1c679f03",
-		"_npm_package_name": "joplin-plugin-menu-shortcut-toolbar"
+		"_npm_package_name": "joplin-plugin-menu-shortcut-toolbar",
+		"_recommended": true
 	},
 	"org.joplinapp.plugins.admonition": {
 		"manifest_version": 1,
@@ -691,7 +704,8 @@
 		"keywords": [],
 		"_publish_hash": "sha256:3f5e3606127f8df1403e50f4d428f906d7e07555f43a3bc7d7fc47921e581f33",
 		"_publish_commit": "release-0.5.0:02bfbdeec2429c38d64fcd2dc059bb25978e7e79",
-		"_npm_package_name": "joplin-plugin-bibtex"
+		"_npm_package_name": "joplin-plugin-bibtex",
+		"_recommended": true
 	},
 	"fd117a99-b165-4824-893c-5825439a842d": {
 		"manifest_version": 1,
@@ -744,7 +758,8 @@
 		"keywords": [],
 		"_publish_hash": "sha256:75c44bc3d7408733f9d25d187bef55b418ac0389c0b3a307e862aea42ca11ef7",
 		"_publish_commit": "master:9071f7966112a162acdae383272212ef08a6b8ea",
-		"_npm_package_name": "joplin-plugin-conflict-resolution"
+		"_npm_package_name": "joplin-plugin-conflict-resolution",
+		"_recommended": true
 	},
 	"com.gitlab.BeatLink.joplin-plugin-repeating-todos": {
 		"manifest_version": 1,
@@ -808,7 +823,8 @@
 		],
 		"_publish_hash": "sha256:e8fc0b0c5f536bc0e1961cbe1a9abc551a27d380752ccc8d37553b1fc0a4db6f",
 		"_publish_commit": "dev:c80d1194b6ac39590dfdb8c14d0e9a0d6532ae4d",
-		"_npm_package_name": "joplin-plugin-kanban"
+		"_npm_package_name": "joplin-plugin-kanban",
+		"_recommended": true
 	},
 	"joplin.plugin.templates": {
 		"manifest_version": 1,
@@ -823,7 +839,8 @@
 		"keywords": [],
 		"_publish_hash": "sha256:25d34052760aca0a721d5c6f0f31d46a3c58d79eea802a8dcb525280eb1c3142",
 		"_publish_commit": "master:c33ac112ff806bf2cc7483a4e722fbd0b824b9f2",
-		"_npm_package_name": "joplin-plugin-templates"
+		"_npm_package_name": "joplin-plugin-templates",
+		"_recommended": true
 	},
 	"com.andrejilderda.macOSTheme": {
 		"manifest_version": 1,
@@ -844,7 +861,8 @@
 		],
 		"_publish_hash": "sha256:7e4b6321d3c9878cd17671111d4a66f5dcebc275266e7bf925c338bd940cfcf9",
 		"_publish_commit": "v1.2.5:2a0b98d806dc4360d2c1c5e111323bb57ff500f9",
-		"_npm_package_name": "joplin-plugin-macos-theme"
+		"_npm_package_name": "joplin-plugin-macos-theme",
+		"_recommended": true
 	},
 	"org.joplinapp.plugins.AbcSheetMusic": {
 		"manifest_version": 1,
@@ -863,7 +881,8 @@
 		],
 		"_publish_hash": "sha256:7aec2e284db20162f67d7e7fd8e7dd9c6644aff1195af609ad1343e4f50d6015",
 		"_publish_commit": "master:f47c1688833d903cb7dbc2eeb12fdcf45d2c2a6c",
-		"_npm_package_name": "joplin-plugin-abc-sheet-music"
+		"_npm_package_name": "joplin-plugin-abc-sheet-music",
+		"_recommended": true
 	},
 	"com.shantanugoel.JoplinCMLineNumbersPlugin": {
 		"manifest_version": 1,
