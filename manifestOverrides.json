@@ -10,7 +10,8 @@
 		"homepage_url": "https://discourse.joplinapp.org/t/insert-referencing-notes-backlinks-plugin/13632",
 		"_publish_hash": "sha256:5676da6b9ad71fc5a9779d3bde13f17de5352344711e135f0db8c62c6dbb5696",
 		"_publish_commit": "master:19e515bd67e51cc37bd270a32d2898ca009a0de2",
-		"_npm_package_name": "joplin-plugin-backlinks"
+		"_npm_package_name": "joplin-plugin-backlinks",
+		"_obsolete": true
 	},
 	"MyPlugin": {
 		"manifest_version": 1,
@@ -24,7 +25,8 @@
 		"repository_url": "bla",
 		"_publish_hash": "sha256:065285d06ea3c084e7f8f8c23583de8d70c4d586274a242c4c750f6faad8c7cb",
 		"_publish_commit": "",
-		"_npm_package_name": "joplin-plugin-testing-new-plugin"
+		"_npm_package_name": "joplin-plugin-testing-new-plugin",
+		"_obsolete": true
 	},
 	"Outline": {
 		"manifest_version": 1,
@@ -37,7 +39,8 @@
 		"homepage_url": "https://github.com/cqroot/joplin-outline",
 		"_publish_hash": "sha256:fb1b2803a08ae0e53b61e19ac18487e558878f3696abb8be509e5ebface0a0c7",
 		"_publish_commit": "main:24f7d8a3c3c6d715778fccf48cb73df05ca71d2a",
-		"_npm_package_name": "joplin-plugin-outline"
+		"_npm_package_name": "joplin-plugin-outline",
+		"_obsolete": true
 	},
 	"org.joplin.bug-test": {
 		"manifest_version": 1,
@@ -52,6 +55,64 @@
 		"keywords": [],
 		"_publish_hash": "sha256:64e341b2ef34ee06d3843b593e4d3f98056e1850161c5ea6a986fa4893163746",
 		"_publish_commit": "master:91eb31ca1e40ee556ed730dbd8b75e5531826c61",
-		"_npm_package_name": "joplin-plugin-bug-test"
+		"_npm_package_name": "joplin-plugin-bug-test",
+		"_obsolete": true
+	},
+	"io.github.jackgruber.copytags": {
+		"_recommended": true
+	},
+	"io.github.jackgruber.combine-notes": {
+		"_recommended": true
+	},
+	"org.joplinapp.plugins.ToggleSidebars": {
+		"_recommended": true
+	},
+	"io.github.jackgruber.backup": {
+		"_recommended": true
+	},
+	"io.github.jackgruber.note-overview": {
+		"_recommended": true
+	},
+	"plugin.calebjohn.MathMode": {
+		"_recommended": true
+	},
+	"com.whatever.quick-links": {
+		"_recommended": true
+	},
+	"com.whatever.inline-tags": {
+		"_recommended": true
+	},
+	"io.github.jackgruber.hotfolder": {
+		"_recommended": true
+	},
+	"net.rmusin.resource-search": {
+		"_recommended": true
+	},
+	"plugin.calebjohn.rich-markdown": {
+		"_recommended": true
+	},
+	"net.rmusin.joplin-table-formatter": {
+		"_recommended": true
+	},
+	"cx.evermeet.tessus.menu-shortcut-toolbar": {
+		"_recommended": true
+	},
+	"com.xUser5000.bibtex": {
+		"_recommended": true
+	},
+	"joplin-plugin-conflict-resolution": {
+		"_recommended": true
+	},
+	"com.github.joplin.kanban": {
+		"_recommended": true
+	},
+	"joplin.plugin.templates": {
+		"_recommended": true
+	},
+	"com.andrejilderda.macOSTheme": {
+		"_recommended": true
+	},
+	"org.joplinapp.plugins.AbcSheetMusic": {
+		"_recommended": true
 	}
 }
