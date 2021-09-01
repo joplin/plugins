@@ -114,5 +114,17 @@
 	},
 	"org.joplinapp.plugins.AbcSheetMusic": {
 		"_recommended": true
+	},
+	"joplin.plugin.note.tabs": {
+		"_recommended": true
+	},
+	"joplin.plugin.benji.favorites": {
+		"_recommended": true
+	},
+	"joplin.plugin.benji.persistentLayout": {
+		"_recommended": true
+	},
+	"joplin.plugin.benji.quick-move": {
+		"_recommended": true
 	}
 }
