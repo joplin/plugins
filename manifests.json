@@ -100,7 +100,8 @@
 		],
 		"_publish_hash": "sha256:2bd51daa5197bb434d80fe2804de22c98605529872e94ae4dee8ebd189adf279",
 		"_publish_commit": "master:19563855feddb3d2e2714c052382a57261368a4b",
-		"_npm_package_name": "joplin-plugin-note-tabs"
+		"_npm_package_name": "joplin-plugin-note-tabs",
+		"_recommended": true
 	},
 	"io.github.jackgruber.backup": {
 		"manifest_version": 1,
@@ -173,7 +174,8 @@
 		],
 		"_publish_hash": "sha256:6f906638826f2d6c6b681af1f53c5e3c4fb2b86c30d98c12b08b76e40a3d1695",
 		"_publish_commit": "master:9bd4f8592ff521ab6329b80e2155307e3d48153c",
-		"_npm_package_name": "joplin-plugin-benji-favorites"
+		"_npm_package_name": "joplin-plugin-benji-favorites",
+		"_recommended": true
 	},
 	"outline": {
 		"manifest_version": 1,
@@ -356,7 +358,8 @@
 		],
 		"_publish_hash": "sha256:c2856b7272c8d20674dc161c3da97ea72812e0ecdbfac2bc7c57fac69ccdf0c5",
 		"_publish_commit": "master:1f3216ea697a0ff6be867b127936e9631b9da11f",
-		"_npm_package_name": "joplin-plugin-persistent-editor-layout"
+		"_npm_package_name": "joplin-plugin-persistent-editor-layout",
+		"_recommended": true
 	},
 	"io.treymo.LinkGraph": {
 		"manifest_version": 1,
@@ -530,7 +533,8 @@
 		],
 		"_publish_hash": "sha256:2b6cdc468a3f7fdf2238641db755820137e3641cecac80c1bc07a17fd3f5e4cd",
 		"_publish_commit": "master:a528320345de4340f3fb47d1390493361f1bb0c4",
-		"_npm_package_name": "joplin-plugin-quick-move"
+		"_npm_package_name": "joplin-plugin-quick-move",
+		"_recommended": true
 	},
 	"com.export-to-ssg.aman-d-1-n-only": {
 		"manifest_version": 1,
