@@ -75,7 +75,7 @@
 			"createdAt": "2021-06-01T08:30:41Z"
 		},
 		"1.2.2": {
-			"downloadCount": 1319,
+			"downloadCount": 1320,
 			"createdAt": "2021-08-05T20:05:59Z"
 		}
 	},
@@ -133,7 +133,7 @@
 			"createdAt": "2021-08-05T18:05:49Z"
 		},
 		"1.0.1": {
-			"downloadCount": 295,
+			"downloadCount": 296,
 			"createdAt": "2021-08-12T20:32:24Z"
 		}
 	},
@@ -193,6 +193,10 @@
 		"1.5.0": {
 			"downloadCount": 569,
 			"createdAt": "2021-06-01T08:30:49Z"
+		},
+		"1.5.1": {
+			"downloadCount": 2,
+			"createdAt": "2021-09-03T16:02:44Z"
 		}
 	},
 	"joplin.plugin.ambrt.copyNoteLink": {
@@ -213,7 +217,7 @@
 	},
 	"joplin.plugin.ambrt.fold-cm": {
 		"1.2.5": {
-			"downloadCount": 697,
+			"downloadCount": 699,
 			"createdAt": "2021-06-01T08:30:51Z"
 		}
 	},
@@ -271,7 +275,7 @@
 			"createdAt": "2021-06-01T08:31:01Z"
 		},
 		"1.4.0": {
-			"downloadCount": 1607,
+			"downloadCount": 1608,
 			"createdAt": "2021-08-10T18:32:14Z"
 		}
 	},
