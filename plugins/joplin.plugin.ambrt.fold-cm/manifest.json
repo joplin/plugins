@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.ambrt.fold-cm",
 	"app_min_version": "1.7",
-	"version": "1.2.5",
+	"version": "2.0.1",
 	"name": "Folding in Code Mirror Editor",
 	"description": "Allows to fold parts of markdown text displayed in editor",
 	"author": "ambrt",
 	"homepage_url": "https://discourse.joplinapp.org/t/persistent-text-folding-in-editor/16183",
 	"repository_url": "https://github.com/ambrt/joplin-plugin-fold-cm",
 	"keywords": [],
-	"_publish_hash": "sha256:ba648afeb3324329a1e7aa30c7552da3e1f519419b9d352c043ea1e7f387b9b9",
-	"_publish_commit": "master:a28db62ba1de289f1297cbf588037ca1fb1ee5a4",
+	"_publish_hash": "sha256:d70fdba91e8f0912f25c117fe799c8250508aec57ba030193bc875310748a84e",
+	"_publish_commit": "master:3ad74b70d29da5fec1236f8edb360d4ca5e0be25",
 	"_npm_package_name": "joplin-plugin-fold-cm"
 }
