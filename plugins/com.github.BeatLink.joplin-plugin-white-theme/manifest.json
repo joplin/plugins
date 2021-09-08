@@ -1,0 +1,21 @@
+{
+	"manifest_version": 1,
+	"id": "com.github.BeatLink.joplin-plugin-white-theme",
+	"app_min_version": "2.0",
+	"version": "0.0.1",
+	"name": "White Theme",
+	"description": "A white theme for joplin",
+	"author": "BeatLink",
+	"homepage_url": "https://discourse.joplinapp.org/t/joplin-white-theme",
+	"repository_url": "https://github.com/BeatLink/joplin-plugin-white-theme",
+	"keywords": [
+		"white",
+		"light",
+		"theme",
+		"joplin",
+		"plugin"
+	],
+	"_publish_hash": "sha256:55b0aa5a440c67027be3a329d265e89a96b3ab61c3937767902bba2a758524d9",
+	"_publish_commit": "main:165a2e9afd33670122bb6d759264d75bd6567008",
+	"_npm_package_name": "joplin-plugin-white-theme"
+}
