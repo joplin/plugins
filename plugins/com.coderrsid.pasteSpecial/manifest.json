@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "com.coderrsid.pasteSpecial",
+	"app_min_version": "1.1.2",
+	"version": "1.1.2",
+	"name": "Paste Special",
+	"description": "A plugin used to paste special text into Joplin",
+	"author": "coderrsid",
+	"homepage_url": "",
+	"repository_url": "https://github.com/joplin/plugin-paste-special",
+	"keywords": [],
+	"_publish_hash": "sha256:b2150fbd2bc952148b31a3b3c9c13c16740fce66de0258e23cccf3f03e2758f3",
+	"_publish_commit": "master:e1b5ab3181b88c93c24f7ea3f6c45072c40dfa77",
+	"_npm_package_name": "joplin-plugin-pastespecial"
+}
