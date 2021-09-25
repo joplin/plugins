@@ -1033,5 +1033,20 @@
 		"_publish_hash": "sha256:727744f7c78198fd3da6597a1d3189003cb7e9de269836f29e604c9e3bafa7ec",
 		"_publish_commit": "main:4d8111c1607519db1e596e2ae6c5100076e6ee8c",
 		"_npm_package_name": "joplin-plugin-make-all-links"
+	},
+	"com.s73ph4n.day_review": {
+		"manifest_version": 1,
+		"id": "com.s73ph4n.day_review",
+		"app_min_version": "2.0",
+		"version": "1.0.0",
+		"name": "Day Review",
+		"description": "This plugin adds an icon to the toolbar. When clicked, it makes a review of the day&#39;s created/updated/completed notes and todos.",
+		"author": "S73ph4n",
+		"homepage_url": "https://github.com/S73ph4n",
+		"repository_url": "https://github.com/S73ph4n/joplin_day_review",
+		"keywords": [],
+		"_publish_hash": "sha256:c88c0404bed54059f38bb63de54664493c72a3e5cf0cbad6ce2e9e7b2cc297e6",
+		"_publish_commit": "master:0966809db3b968516766478a5b9d3d662d2cce83",
+		"_npm_package_name": "joplin-plugin-day-review"
 	}
 }
