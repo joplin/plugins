@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.benji.persistentLayout",
 	"app_min_version": "1.8.2",
-	"version": "2.1.0",
+	"version": "2.2.0",
 	"name": "Persistent Editor Layout",
 	"description": "Save the editor layout (editor/split view/viewer/rich text) for each note separately with custom tags.",
 	"author": "Benji300",
@@ -17,7 +17,7 @@
 		"save",
 		"store"
 	],
-	"_publish_hash": "sha256:c2856b7272c8d20674dc161c3da97ea72812e0ecdbfac2bc7c57fac69ccdf0c5",
-	"_publish_commit": "master:1f3216ea697a0ff6be867b127936e9631b9da11f",
+	"_publish_hash": "sha256:f9d8d577bf17f98ed0f0f28f9149b17fb70278f0f165494bf97a323efdbcdad5",
+	"_publish_commit": "master:89705479ff3459e365ab47327d0d2af02d9d5044",
 	"_npm_package_name": "joplin-plugin-persistent-editor-layout"
 }
