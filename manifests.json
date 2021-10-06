@@ -1066,5 +1066,26 @@
 		"_publish_hash": "sha256:29993ccc1bbe8b5c335fbca1d8f5f1a0ffa9fff0d6bb72c75112fcb93b188fcf",
 		"_publish_commit": "main:b7eb0dc7d3f317c8952c087d76b22d254302c75f",
 		"_npm_package_name": "joplin-plugin-pages-publisher"
+	},
+	"com.hieuthi.joplin.rubi-and-furigana": {
+		"manifest_version": 1,
+		"id": "com.hieuthi.joplin.rubi-and-furigana",
+		"app_min_version": "2.2",
+		"version": "1.0.0",
+		"name": "Rubi and Furigana",
+		"description": "A command that inserts <ruby> tags to formatted text to display furigana.",
+		"author": "Hieu-Thi Luong",
+		"homepage_url": "https://github.com/hieuthi/joplin-plugin-rubi-and-furigana",
+		"repository_url": "https://github.com/hieuthi/joplin-plugin-rubi-and-furigana",
+		"keywords": [
+			"joplin-plugin",
+			"ruby",
+			"furigana",
+			"shortcut",
+			"joplin"
+		],
+		"_publish_hash": "sha256:53fb82b7b97b2cb5448fdae2f46b209487e6da772ec11df13b36ba4b42ad19f4",
+		"_publish_commit": "main:f52a91ead62bd28622583ebc847144a0d607e435",
+		"_npm_package_name": "joplin-plugin-rubi-and-furigana"
 	}
 }
