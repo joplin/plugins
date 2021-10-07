@@ -1030,8 +1030,8 @@
 		"homepage_url": "https://github.com/S73ph4n",
 		"repository_url": "https://github.com/S73ph4n/joplin_make_all_links",
 		"keywords": [],
-		"_publish_hash": "sha256:727744f7c78198fd3da6597a1d3189003cb7e9de269836f29e604c9e3bafa7ec",
-		"_publish_commit": "main:4d8111c1607519db1e596e2ae6c5100076e6ee8c",
+		"_publish_hash": "sha256:3bc365ffc6edac5febc9804c0bb1b1084c4e16e00f0cef9b830d66739c5ad5ce",
+		"_publish_commit": "main:84c3861ff8cce09eb1182b44b47928c7bfc43146",
 		"_npm_package_name": "joplin-plugin-make-all-links"
 	},
 	"com.s73ph4n.day_review": {
