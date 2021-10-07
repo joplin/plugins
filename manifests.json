@@ -1023,15 +1023,15 @@
 		"manifest_version": 1,
 		"id": "com.s73ph4n.make_all_links",
 		"app_min_version": "2.0",
-		"version": "1.0.0",
+		"version": "1.0.3",
 		"name": "Make All Links",
 		"description": "Searches the current note for mentions of other notes, then makes the corresponding links. Just click the new icon in the toolbar.",
 		"author": "S73ph4n",
 		"homepage_url": "https://github.com/S73ph4n",
 		"repository_url": "https://github.com/S73ph4n/joplin_make_all_links",
 		"keywords": [],
-		"_publish_hash": "sha256:3bc365ffc6edac5febc9804c0bb1b1084c4e16e00f0cef9b830d66739c5ad5ce",
-		"_publish_commit": "main:84c3861ff8cce09eb1182b44b47928c7bfc43146",
+		"_publish_hash": "sha256:6e9b20c681352c565725510a8931a9d2bf48fbca9f302e1e7e8b3765f7468ec4",
+		"_publish_commit": "main:225cc8590db44631ea1a50e84ea0309d9e6f4c27",
 		"_npm_package_name": "joplin-plugin-make-all-links"
 	},
 	"com.s73ph4n.day_review": {
