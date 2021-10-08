@@ -1055,7 +1055,7 @@
 		"app_min_version": "2.0",
 		"version": "1.0.0",
 		"name": "Pages Publisher",
-		"description": "Generate static website from your Joplin notes, and publish to Github Pages, with a little mouse clicks",
+		"description": "Generate static blog website from your picked Joplin notes, and publish to Github Pages, with a few mouse clicks",
 		"author": "ylc395",
 		"homepage_url": "https://github.com/ylc395/joplin-plugin-pages-publisher/wiki/User-Guide",
 		"repository_url": "https://github.com/ylc395/joplin-plugin-pages-publisher",
@@ -1063,8 +1063,8 @@
 			"site generator",
 			"github pages"
 		],
-		"_publish_hash": "sha256:29993ccc1bbe8b5c335fbca1d8f5f1a0ffa9fff0d6bb72c75112fcb93b188fcf",
-		"_publish_commit": "main:b7eb0dc7d3f317c8952c087d76b22d254302c75f",
+		"_publish_hash": "sha256:4a7e3dbc55ca16650e4f3fda2e69e55a615d97aa88b9a9b9568cee18d1116a40",
+		"_publish_commit": "main:f7bd6e9f25894693c5b687909deded5b479f118d",
 		"_npm_package_name": "joplin-plugin-pages-publisher"
 	},
 	"com.hieuthi.joplin.rubi-and-furigana": {
