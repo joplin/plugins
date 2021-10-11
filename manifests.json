@@ -1087,5 +1087,22 @@
 		"_publish_hash": "sha256:53fb82b7b97b2cb5448fdae2f46b209487e6da772ec11df13b36ba4b42ad19f4",
 		"_publish_commit": "main:f52a91ead62bd28622583ebc847144a0d607e435",
 		"_npm_package_name": "joplin-plugin-rubi-and-furigana"
+	},
+	"ylc395.betterMarkdownViewer": {
+		"manifest_version": 1,
+		"id": "ylc395.betterMarkdownViewer",
+		"app_min_version": "2.2",
+		"version": "1.0.0",
+		"name": "Better Markdown Viewer",
+		"description": "Keep Cursor Synced Between Editor and MD Viewer",
+		"author": "ylc395",
+		"homepage_url": "https://github.com/ylc395/joplin-plugin-better-markdown-viewer",
+		"repository_url": "https://github.com/ylc395/joplin-plugin-better-markdown-viewer",
+		"keywords": [
+			"markdown viewer"
+		],
+		"_publish_hash": "sha256:53420ee06e975f5b921a7ee0e249c9b312d52c4076e9d4223d6f624360bdfd4e",
+		"_publish_commit": "main:d724c315ebd9da0806505a66cf415a1bfbd5ad14",
+		"_npm_package_name": "joplin-plugin-better-markdown-viewer"
 	}
 }
