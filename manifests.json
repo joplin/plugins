@@ -1101,8 +1101,8 @@
 		"keywords": [
 			"markdown viewer"
 		],
-		"_publish_hash": "sha256:53420ee06e975f5b921a7ee0e249c9b312d52c4076e9d4223d6f624360bdfd4e",
-		"_publish_commit": "main:d724c315ebd9da0806505a66cf415a1bfbd5ad14",
+		"_publish_hash": "sha256:51fc6c96889155a2d6b9d895ee6dcb56312a91dfa8202d4593300f1b10bced41",
+		"_publish_commit": "main:193bde4d16f4eb1d994056e0e54a32eb31a0479d",
 		"_npm_package_name": "joplin-plugin-better-markdown-viewer"
 	}
 }
