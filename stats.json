@@ -209,7 +209,7 @@
 			"createdAt": "2021-08-31T17:02:32Z"
 		},
 		"3.0.3": {
-			"downloadCount": 1028,
+			"downloadCount": 1029,
 			"createdAt": "2021-08-31T18:02:36Z"
 		}
 	},
@@ -391,7 +391,7 @@
 			"createdAt": "2021-09-04T17:33:05Z"
 		},
 		"1.2.7": {
-			"downloadCount": 191,
+			"downloadCount": 192,
 			"createdAt": "2021-10-08T13:03:42Z"
 		}
 	},
@@ -639,7 +639,7 @@
 			"createdAt": "2021-10-09T06:03:47Z"
 		},
 		"2.2.0": {
-			"downloadCount": 169,
+			"downloadCount": 170,
 			"createdAt": "2021-10-09T19:03:48Z"
 		}
 	},
@@ -787,6 +787,10 @@
 		"1.0.2": {
 			"downloadCount": 11,
 			"createdAt": "2021-10-08T05:03:36Z"
+		},
+		"1.0.3": {
+			"downloadCount": 0,
+			"createdAt": "2021-10-12T11:03:30Z"
 		}
 	},
 	"com.hieuthi.joplin.rubi-and-furigana": {
@@ -809,7 +813,7 @@
 			"createdAt": "2021-10-11T11:33:33Z"
 		},
 		"1.2.2": {
-			"downloadCount": 17,
+			"downloadCount": 20,
 			"createdAt": "2021-10-12T02:33:32Z"
 		}
 	}
