@@ -185,7 +185,7 @@
 			"createdAt": "2021-10-02T17:33:44Z"
 		},
 		"1.1.1": {
-			"downloadCount": 259,
+			"downloadCount": 260,
 			"createdAt": "2021-10-03T19:33:20Z"
 		}
 	},
@@ -267,7 +267,7 @@
 			"createdAt": "2021-06-01T08:30:53Z"
 		},
 		"1.3.0": {
-			"downloadCount": 1663,
+			"downloadCount": 1664,
 			"createdAt": "2021-08-12T20:32:24Z"
 		}
 	},
@@ -391,7 +391,7 @@
 			"createdAt": "2021-09-04T17:33:05Z"
 		},
 		"1.2.7": {
-			"downloadCount": 175,
+			"downloadCount": 177,
 			"createdAt": "2021-10-08T13:03:42Z"
 		}
 	},
@@ -639,7 +639,7 @@
 			"createdAt": "2021-10-09T06:03:47Z"
 		},
 		"2.2.0": {
-			"downloadCount": 148,
+			"downloadCount": 149,
 			"createdAt": "2021-10-09T19:03:48Z"
 		}
 	},
@@ -691,7 +691,7 @@
 			"createdAt": "2021-08-16T22:02:11Z"
 		},
 		"1.0.1": {
-			"downloadCount": 118,
+			"downloadCount": 119,
 			"createdAt": "2021-08-29T17:32:30Z"
 		}
 	},
@@ -793,6 +793,10 @@
 		"1.0.0": {
 			"downloadCount": 2,
 			"createdAt": "2021-10-06T14:03:39Z"
+		},
+		"1.0.1": {
+			"downloadCount": 1,
+			"createdAt": "2021-10-12T02:03:22Z"
 		}
 	},
 	"ylc395.betterMarkdownViewer": {
