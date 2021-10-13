@@ -41,7 +41,7 @@
 			"createdAt": "2021-09-26T17:02:43Z"
 		},
 		"2.1.0": {
-			"downloadCount": 39,
+			"downloadCount": 40,
 			"createdAt": "2021-10-01T20:33:27Z"
 		}
 	},
@@ -93,7 +93,7 @@
 			"createdAt": "2021-06-01T08:30:41Z"
 		},
 		"1.1.0": {
-			"downloadCount": 1504,
+			"downloadCount": 1506,
 			"createdAt": "2021-06-01T08:37:32Z"
 		}
 	},
@@ -167,7 +167,7 @@
 			"createdAt": "2021-10-09T09:33:57Z"
 		},
 		"1.5.4": {
-			"downloadCount": 114,
+			"downloadCount": 115,
 			"createdAt": "2021-10-09T14:03:57Z"
 		}
 	},
@@ -185,7 +185,7 @@
 			"createdAt": "2021-10-02T17:33:44Z"
 		},
 		"1.1.1": {
-			"downloadCount": 313,
+			"downloadCount": 314,
 			"createdAt": "2021-10-03T19:33:20Z"
 		}
 	},
@@ -209,7 +209,7 @@
 			"createdAt": "2021-08-31T17:02:32Z"
 		},
 		"3.0.3": {
-			"downloadCount": 1044,
+			"downloadCount": 1045,
 			"createdAt": "2021-08-31T18:02:36Z"
 		}
 	},
@@ -245,7 +245,7 @@
 			"createdAt": "2021-06-01T08:30:51Z"
 		},
 		"2.0.1": {
-			"downloadCount": 508,
+			"downloadCount": 509,
 			"createdAt": "2021-09-08T14:32:32Z"
 		}
 	},
@@ -291,7 +291,7 @@
 			"createdAt": "2021-06-01T08:30:56Z"
 		},
 		"1.1.0": {
-			"downloadCount": 380,
+			"downloadCount": 381,
 			"createdAt": "2021-08-10T17:02:42Z"
 		}
 	},
@@ -391,7 +391,7 @@
 			"createdAt": "2021-09-04T17:33:05Z"
 		},
 		"1.2.7": {
-			"downloadCount": 262,
+			"downloadCount": 265,
 			"createdAt": "2021-10-08T13:03:42Z"
 		}
 	},
@@ -579,7 +579,7 @@
 			"createdAt": "2021-07-18T09:33:06Z"
 		},
 		"0.1.1": {
-			"downloadCount": 245,
+			"downloadCount": 246,
 			"createdAt": "2021-08-18T20:02:20Z"
 		}
 	},
@@ -639,7 +639,7 @@
 			"createdAt": "2021-10-09T06:03:47Z"
 		},
 		"2.2.0": {
-			"downloadCount": 260,
+			"downloadCount": 263,
 			"createdAt": "2021-10-09T19:03:48Z"
 		}
 	},
@@ -681,7 +681,7 @@
 			"createdAt": "2021-08-30T19:02:27Z"
 		},
 		"1.2.6": {
-			"downloadCount": 619,
+			"downloadCount": 621,
 			"createdAt": "2021-09-28T06:03:03Z"
 		}
 	},
@@ -741,7 +741,7 @@
 	},
 	"com.coderrsid.pasteSpecial": {
 		"1.1.2": {
-			"downloadCount": 130,
+			"downloadCount": 131,
 			"createdAt": "2021-09-20T13:32:35Z"
 		}
 	},
@@ -759,7 +759,7 @@
 	},
 	"com.s73ph4n.complete_link": {
 		"1.0.0": {
-			"downloadCount": 47,
+			"downloadCount": 48,
 			"createdAt": "2021-09-25T15:33:16Z"
 		}
 	},
@@ -817,7 +817,7 @@
 			"createdAt": "2021-10-11T11:33:33Z"
 		},
 		"1.2.2": {
-			"downloadCount": 54,
+			"downloadCount": 55,
 			"createdAt": "2021-10-12T02:33:32Z"
 		}
 	},
@@ -825,6 +825,10 @@
 		"1.0.0": {
 			"downloadCount": 1,
 			"createdAt": "2021-10-13T19:03:31Z"
+		},
+		"1.1.0": {
+			"downloadCount": 1,
+			"createdAt": "2021-10-13T22:03:35Z"
 		}
 	}
 }
