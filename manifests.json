@@ -1104,5 +1104,24 @@
 		"_publish_hash": "sha256:b1386e402f249368118f0fa934881c4dd16c43513ac6314d07d437f8f1542005",
 		"_publish_commit": "main:89074467c2ba442f53e9ffbd95cc7ae70f0d38dd",
 		"_npm_package_name": "joplin-plugin-plantuml2"
+	},
+	"com.DanteCoder.JoplinBibleQuote": {
+		"manifest_version": 1,
+		"id": "com.DanteCoder.JoplinBibleQuote",
+		"app_min_version": "2.2",
+		"version": "0.3.0",
+		"name": "Bible Quote",
+		"description": "Quote the bible direct in text editor",
+		"author": "Dante G. Barboza",
+		"homepage_url": "https://github.com/DanteCoder/JoplinBibleQuote#readme",
+		"repository_url": "https://github.com/DanteCoder/JoplinBibleQuote",
+		"keywords": [
+			"Bible",
+			"citation",
+			"quote"
+		],
+		"_publish_hash": "sha256:847ae18fc9231ef4b56e322fe88059abf49416d94cc862e79ab06210014581cd",
+		"_publish_commit": "main:9a097e4328d854448ab15b75b31cfc9083dc38c2",
+		"_npm_package_name": "joplin-plugin-bible-quote"
 	}
 }
