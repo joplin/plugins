@@ -1,0 +1,20 @@
+{
+	"manifest_version": 1,
+	"id": "com.github.marc0l92.joplin-plugin-github-theme",
+	"app_min_version": "2.2",
+	"version": "0.1.0",
+	"name": "GitHub Theme",
+	"description": "Joplin theme with colors of GitHub",
+	"author": "Marco LUCARELLA",
+	"homepage_url": "https://github.com/marc0l92/joplin-plugin-github-theme#readme",
+	"repository_url": "https://github.com/marc0l92/joplin-plugin-github-theme",
+	"keywords": [
+		"GitHub",
+		"Theme",
+		"Dark",
+		"Light"
+	],
+	"_publish_hash": "sha256:2a6fd16c3e5b3c7cbc4689a45ed08e531c5035937695c637c97630d69f808692",
+	"_publish_commit": "main:6789d416b510691a4fef56a2eb91eae7854a8d7c",
+	"_npm_package_name": "joplin-plugin-github-theme"
+}
