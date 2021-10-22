@@ -1148,5 +1148,27 @@
 		"_publish_hash": "sha256:0c14002838369f6dca0d1f58169ea15ffa0fc91dcc894d4dd4478d803a1efafb",
 		"_publish_commit": "main:e9f0586fb816086317a7bd8976d0e4b5a7a9795d",
 		"_npm_package_name": "joplin-plugin-quick-goto"
+	},
+	"com.gitlab.BeatLink.joplin-plugin-agenda": {
+		"manifest_version": 1,
+		"id": "com.gitlab.BeatLink.joplin-plugin-agenda",
+		"app_min_version": "1.7",
+		"version": "1.0.3",
+		"name": "Agenda",
+		"description": "An agenda/calendar/schedule panel for joplin that shows all uncompleted to-dos with a due date.",
+		"author": "BeatLink",
+		"homepage_url": "https://discourse.joplinapp.org/t/agenda/21158",
+		"repository_url": "https://gitlab.com/beatlink-code/joplin-plugin-agenda",
+		"keywords": [
+			"joplin",
+			"schedule",
+			"calendar",
+			"agenda",
+			"upcoming",
+			"date"
+		],
+		"_publish_hash": "sha256:602235b008b13894b9bea464625bb98264645daeb6783f0fa98d6c4b7934df10",
+		"_publish_commit": "main:d169ca5a2909575ad3b8f24512148838253c5b8a",
+		"_npm_package_name": "joplin-plugin-agenda"
 	}
 }
