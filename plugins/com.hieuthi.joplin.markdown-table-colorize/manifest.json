@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.hieuthi.joplin.markdown-table-colorize",
 	"app_min_version": "2.2",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Markdown Table: Colorize",
 	"description": "Add colors to markdown table syntax to help distinguish different columns",
 	"author": "Hieu-Thi Luong",
@@ -15,7 +15,7 @@
 		"color",
 		"codemirror"
 	],
-	"_publish_hash": "sha256:13e3995d36cbc286d956b9cf21fb5830037b94ead2bf695b6b25955837647966",
-	"_publish_commit": "main:0e4e877af7b15670c5222474f1caa66c3a508b7b",
+	"_publish_hash": "sha256:936e3e4f720f15e799189c68914efc3fe971236206747ccb9689c6693215aef3",
+	"_publish_commit": "main:e6e3321a8ee177941827d746bfc677283f98afde",
 	"_npm_package_name": "joplin-plugin-markdown-table-colorize"
 }
