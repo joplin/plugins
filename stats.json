@@ -73,7 +73,7 @@
 			"createdAt": "2021-06-01T08:30:40Z"
 		},
 		"1.2.0": {
-			"downloadCount": 897,
+			"downloadCount": 898,
 			"createdAt": "2021-08-09T20:36:33Z"
 		}
 	},
@@ -93,7 +93,7 @@
 			"createdAt": "2021-06-01T08:30:41Z"
 		},
 		"1.1.0": {
-			"downloadCount": 1621,
+			"downloadCount": 1622,
 			"createdAt": "2021-06-01T08:37:32Z"
 		}
 	},
@@ -167,7 +167,7 @@
 			"createdAt": "2021-10-09T09:33:57Z"
 		},
 		"1.5.4": {
-			"downloadCount": 286,
+			"downloadCount": 287,
 			"createdAt": "2021-10-09T14:03:57Z"
 		}
 	},
@@ -189,7 +189,7 @@
 			"createdAt": "2021-10-03T19:33:20Z"
 		},
 		"1.1.2": {
-			"downloadCount": 129,
+			"downloadCount": 130,
 			"createdAt": "2021-10-19T21:33:20Z"
 		}
 	},
@@ -255,7 +255,7 @@
 	},
 	"joplin.plugin.ambrt.goToItem": {
 		"1.3.7": {
-			"downloadCount": 984,
+			"downloadCount": 985,
 			"createdAt": "2021-06-01T08:30:51Z"
 		}
 	},
@@ -271,7 +271,7 @@
 			"createdAt": "2021-06-01T08:30:53Z"
 		},
 		"1.3.0": {
-			"downloadCount": 1865,
+			"downloadCount": 1866,
 			"createdAt": "2021-08-12T20:32:24Z"
 		}
 	},
@@ -337,7 +337,7 @@
 			"createdAt": "2021-08-19T20:33:00Z"
 		},
 		"1.2.1": {
-			"downloadCount": 1166,
+			"downloadCount": 1167,
 			"createdAt": "2021-08-20T21:03:06Z"
 		}
 	},
@@ -419,7 +419,7 @@
 			"createdAt": "2021-08-21T16:03:13Z"
 		},
 		"0.5.3": {
-			"downloadCount": 351,
+			"downloadCount": 352,
 			"createdAt": "2021-10-04T06:03:23Z"
 		}
 	},
@@ -481,7 +481,7 @@
 			"createdAt": "2021-09-22T07:32:30Z"
 		},
 		"0.7.3": {
-			"downloadCount": 1105,
+			"downloadCount": 1106,
 			"createdAt": "2021-09-22T20:32:37Z"
 		}
 	},
@@ -523,7 +523,7 @@
 	},
 	"fd117a99-b165-4824-893c-5825439a842d": {
 		"1.0.0": {
-			"downloadCount": 365,
+			"downloadCount": 366,
 			"createdAt": "2021-07-03T12:31:36Z"
 		}
 	},
@@ -563,7 +563,7 @@
 			"createdAt": "2021-08-18T23:02:58Z"
 		},
 		"1.2.3": {
-			"downloadCount": 480,
+			"downloadCount": 481,
 			"createdAt": "2021-09-08T16:02:42Z"
 		}
 	},
@@ -575,6 +575,10 @@
 		"0.0.3": {
 			"downloadCount": 540,
 			"createdAt": "2021-08-08T14:36:10Z"
+		},
+		"0.1.0": {
+			"downloadCount": 2,
+			"createdAt": "2021-10-24T01:04:12Z"
 		}
 	},
 	"joplin.plugin.quick.html.tags": {
@@ -647,7 +651,7 @@
 			"createdAt": "2021-10-09T06:03:47Z"
 		},
 		"2.2.0": {
-			"downloadCount": 693,
+			"downloadCount": 694,
 			"createdAt": "2021-10-09T19:03:48Z"
 		}
 	},
@@ -697,7 +701,7 @@
 			"createdAt": "2021-10-15T13:03:36Z"
 		},
 		"1.2.9": {
-			"downloadCount": 363,
+			"downloadCount": 364,
 			"createdAt": "2021-10-15T13:33:23Z"
 		}
 	},
@@ -707,7 +711,7 @@
 			"createdAt": "2021-08-16T22:02:11Z"
 		},
 		"1.0.1": {
-			"downloadCount": 140,
+			"downloadCount": 141,
 			"createdAt": "2021-08-29T17:32:30Z"
 		}
 	},
@@ -915,7 +919,7 @@
 			"createdAt": "2021-10-23T03:04:07Z"
 		},
 		"1.0.6": {
-			"downloadCount": 1,
+			"downloadCount": 3,
 			"createdAt": "2021-10-24T00:04:04Z"
 		}
 	},
@@ -937,7 +941,7 @@
 			"createdAt": "2021-10-23T18:26:55Z"
 		},
 		"1.0.1": {
-			"downloadCount": 2,
+			"downloadCount": 3,
 			"createdAt": "2021-10-24T00:20:54Z"
 		}
 	}
