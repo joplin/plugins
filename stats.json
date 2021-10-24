@@ -73,7 +73,7 @@
 			"createdAt": "2021-06-01T08:30:40Z"
 		},
 		"1.2.0": {
-			"downloadCount": 896,
+			"downloadCount": 897,
 			"createdAt": "2021-08-09T20:36:33Z"
 		}
 	},
@@ -127,7 +127,7 @@
 	},
 	"io.github.jackgruber.copytags": {
 		"1.0.1": {
-			"downloadCount": 1041,
+			"downloadCount": 1042,
 			"createdAt": "2021-06-01T08:30:44Z"
 		}
 	},
@@ -311,7 +311,7 @@
 			"createdAt": "2021-06-01T08:31:01Z"
 		},
 		"1.4.0": {
-			"downloadCount": 3144,
+			"downloadCount": 3145,
 			"createdAt": "2021-08-10T18:32:14Z"
 		}
 	},
@@ -395,7 +395,7 @@
 			"createdAt": "2021-09-04T17:33:05Z"
 		},
 		"1.2.7": {
-			"downloadCount": 604,
+			"downloadCount": 605,
 			"createdAt": "2021-10-08T13:03:42Z"
 		}
 	},
@@ -481,7 +481,7 @@
 			"createdAt": "2021-09-22T07:32:30Z"
 		},
 		"0.7.3": {
-			"downloadCount": 1103,
+			"downloadCount": 1105,
 			"createdAt": "2021-09-22T20:32:37Z"
 		}
 	},
@@ -537,7 +537,7 @@
 			"createdAt": "2021-08-11T15:02:16Z"
 		},
 		"1.0.2": {
-			"downloadCount": 154,
+			"downloadCount": 155,
 			"createdAt": "2021-10-10T09:33:29Z"
 		}
 	},
@@ -647,7 +647,7 @@
 			"createdAt": "2021-10-09T06:03:47Z"
 		},
 		"2.2.0": {
-			"downloadCount": 690,
+			"downloadCount": 693,
 			"createdAt": "2021-10-09T19:03:48Z"
 		}
 	},
@@ -879,7 +879,7 @@
 			"createdAt": "2021-10-19T20:33:23Z"
 		},
 		"1.4.1": {
-			"downloadCount": 48,
+			"downloadCount": 49,
 			"createdAt": "2021-10-20T07:03:25Z"
 		}
 	},
@@ -913,6 +913,10 @@
 		"1.0.5": {
 			"downloadCount": 21,
 			"createdAt": "2021-10-23T03:04:07Z"
+		},
+		"1.0.6": {
+			"downloadCount": 0,
+			"createdAt": "2021-10-24T00:04:04Z"
 		}
 	},
 	"org.joplinapp.plugins.Victor": {
