@@ -229,7 +229,7 @@
 	},
 	"joplin.plugin.ambrt.copyNoteLink": {
 		"1.0.1": {
-			"downloadCount": 772,
+			"downloadCount": 773,
 			"createdAt": "2021-06-01T08:30:49Z"
 		}
 	},
@@ -249,7 +249,7 @@
 			"createdAt": "2021-06-01T08:30:51Z"
 		},
 		"2.0.1": {
-			"downloadCount": 605,
+			"downloadCount": 606,
 			"createdAt": "2021-09-08T14:32:32Z"
 		}
 	},
@@ -285,7 +285,7 @@
 			"createdAt": "2021-08-10T17:32:14Z"
 		},
 		"2.2.0": {
-			"downloadCount": 279,
+			"downloadCount": 280,
 			"createdAt": "2021-09-26T21:02:53Z"
 		}
 	},
@@ -301,7 +301,7 @@
 	},
 	"joplin.plugin.forcewake.tags-generator": {
 		"1.0.0": {
-			"downloadCount": 869,
+			"downloadCount": 870,
 			"createdAt": "2021-06-01T08:30:57Z"
 		}
 	},
@@ -311,7 +311,7 @@
 			"createdAt": "2021-06-01T08:31:01Z"
 		},
 		"1.4.0": {
-			"downloadCount": 3145,
+			"downloadCount": 3146,
 			"createdAt": "2021-08-10T18:32:14Z"
 		}
 	},
@@ -573,7 +573,7 @@
 			"createdAt": "2021-07-17T15:33:31Z"
 		},
 		"0.0.3": {
-			"downloadCount": 538,
+			"downloadCount": 540,
 			"createdAt": "2021-08-08T14:36:10Z"
 		}
 	},
@@ -605,7 +605,7 @@
 			"createdAt": "2021-09-11T13:33:17Z"
 		},
 		"1.0.4": {
-			"downloadCount": 248,
+			"downloadCount": 249,
 			"createdAt": "2021-10-17T00:03:43Z"
 		}
 	},
@@ -713,7 +713,7 @@
 	},
 	"com.shantanugoel.JoplinCMLineNumbersPlugin": {
 		"2.0.0": {
-			"downloadCount": 444,
+			"downloadCount": 445,
 			"createdAt": "2021-08-23T10:02:37Z"
 		}
 	},
@@ -879,7 +879,7 @@
 			"createdAt": "2021-10-19T20:33:23Z"
 		},
 		"1.4.1": {
-			"downloadCount": 49,
+			"downloadCount": 50,
 			"createdAt": "2021-10-20T07:03:25Z"
 		}
 	},
@@ -915,7 +915,7 @@
 			"createdAt": "2021-10-23T03:04:07Z"
 		},
 		"1.0.6": {
-			"downloadCount": 0,
+			"downloadCount": 1,
 			"createdAt": "2021-10-24T00:04:04Z"
 		}
 	},
@@ -935,6 +935,10 @@
 		"1.0.0": {
 			"downloadCount": 7,
 			"createdAt": "2021-10-23T18:26:55Z"
+		},
+		"1.0.1": {
+			"downloadCount": 2,
+			"createdAt": "2021-10-24T00:20:54Z"
 		}
 	}
 }
