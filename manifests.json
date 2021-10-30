@@ -1094,7 +1094,7 @@
 		"manifest_version": 1,
 		"id": "com.github.marc0l92.joplin-plugin-plantUML",
 		"app_min_version": "2.2",
-		"version": "1.4.1",
+		"version": "1.5.0",
 		"name": "PlantUML2",
 		"description": "Render PlantUML diagram inside your Joplin notes.",
 		"author": "Marco LUCARELLA",
@@ -1106,8 +1106,8 @@
 			"Mindmap",
 			"UML"
 		],
-		"_publish_hash": "sha256:51e5abaaae31e6b9730a46aad3d9ae6149afac3342f5abfc19d921800c529924",
-		"_publish_commit": "main:126603105d78969b70d4b4765401445d99c99c82",
+		"_publish_hash": "sha256:7cfa65aadfca88d0ab1965ac33f11a36f6cdbf8a0f5d248b267d59c383b2695c",
+		"_publish_commit": "main:693e524e6df02f5fb59377fe61b2d86c2d1ee9b8",
 		"_npm_package_name": "joplin-plugin-plantuml2"
 	},
 	"com.DanteCoder.JoplinBibleQuote": {
