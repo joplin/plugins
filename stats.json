@@ -111,7 +111,7 @@
 			"createdAt": "2021-07-19T20:33:28Z"
 		},
 		"1.0.3": {
-			"downloadCount": 1634,
+			"downloadCount": 1635,
 			"createdAt": "2021-08-11T19:32:15Z"
 		}
 	},
@@ -195,7 +195,7 @@
 	},
 	"joplin-insert-date": {
 		"1.0.1": {
-			"downloadCount": 1095,
+			"downloadCount": 1096,
 			"createdAt": "2021-06-01T08:30:47Z"
 		}
 	},
@@ -213,7 +213,7 @@
 			"createdAt": "2021-08-31T17:02:32Z"
 		},
 		"3.0.3": {
-			"downloadCount": 1298,
+			"downloadCount": 1299,
 			"createdAt": "2021-08-31T18:02:36Z"
 		}
 	},
@@ -499,7 +499,7 @@
 			"createdAt": "2021-06-21T14:01:24Z"
 		},
 		"1.0.3": {
-			"downloadCount": 886,
+			"downloadCount": 887,
 			"createdAt": "2021-06-24T13:31:23Z"
 		}
 	},
@@ -709,7 +709,7 @@
 			"createdAt": "2021-10-15T13:03:36Z"
 		},
 		"1.2.9": {
-			"downloadCount": 615,
+			"downloadCount": 618,
 			"createdAt": "2021-10-15T13:33:23Z"
 		}
 	},
@@ -861,7 +861,7 @@
 			"createdAt": "2021-10-12T02:33:32Z"
 		},
 		"1.2.3": {
-			"downloadCount": 262,
+			"downloadCount": 263,
 			"createdAt": "2021-10-15T10:03:40Z"
 		}
 	},
@@ -897,6 +897,10 @@
 		"1.5.0": {
 			"downloadCount": 7,
 			"createdAt": "2021-10-30T23:34:49Z"
+		},
+		"1.5.1": {
+			"downloadCount": 0,
+			"createdAt": "2021-10-31T09:34:11Z"
 		}
 	},
 	"com.DanteCoder.JoplinBibleQuote": {
@@ -927,6 +931,10 @@
 		"0.2.0": {
 			"downloadCount": 55,
 			"createdAt": "2021-10-26T07:03:42Z"
+		},
+		"0.3.0": {
+			"downloadCount": 1,
+			"createdAt": "2021-10-31T09:34:10Z"
 		}
 	},
 	"com.gitlab.BeatLink.joplin-plugin-agenda": {
@@ -969,7 +977,7 @@
 			"createdAt": "2021-10-23T18:26:55Z"
 		},
 		"1.0.1": {
-			"downloadCount": 95,
+			"downloadCount": 96,
 			"createdAt": "2021-10-24T00:20:54Z"
 		}
 	},
