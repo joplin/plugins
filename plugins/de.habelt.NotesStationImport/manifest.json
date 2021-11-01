@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "de.habelt.NotesStationImport",
+	"app_min_version": "2.2",
+	"version": "1.0.4",
+	"name": "Notes Station Import",
+	"description": "This plugin imports notes from QNAP Notes Station",
+	"author": "Jürgen Habelt",
+	"homepage_url": "https://juergen.habelt-jena.de",
+	"repository_url": "https://github.com/Mick2nd/Notes-Import-Joplin",
+	"keywords": [
+		"joplin-plugin",
+		"import-plugin",
+		"QNAP-Notes-Station-import"
+	],
+	"_publish_hash": "sha256:8d6bc115aff64d587ad2e020becba72da87da8902296e18199faaccf9089098d",
+	"_publish_commit": "main:1fa55103d1ac8844742fa29375c63dd07a3a17f9",
+	"_npm_package_name": "joplin-plugin-notes-station-import"
+}
