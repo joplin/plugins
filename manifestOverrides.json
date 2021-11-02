@@ -142,5 +142,21 @@
 		"_publish_commit": "master:a6a1c85748acc02f7c15eeb42926d134d26a3093",
 		"_npm_package_name": "joplin-plugin-plantuml",
 		"_obsolete": true
+	},
+	"com.gamalielbarboza.NoteVariables": {
+		"manifest_version": 1,
+		"id": "com.gamalielbarboza.NoteVariables",
+		"app_min_version": "2.2",
+		"version": "0.1.1",
+		"name": "Note Variables",
+		"description": "A plugin to create variables that can be accesed through all the notes.",
+		"author": "Dante G. Barboza",
+		"homepage_url": "https://github.com/DanteCoder/JoplinPluginNoteVariables#readme",
+		"repository_url": "https://github.com/DanteCoder/JoplinPluginNoteVariables",
+		"keywords": [],
+		"_publish_hash": "sha256:a97ef1192d12db4807c1bf39b593dc83359ca092660b207537b32769e661ca81",
+		"_publish_commit": "Dev:63ac1052c174251116bb1bdeab19a3f62869604a",
+		"_npm_package_name": "joplin-plugin-note-variables",
+		"_obsolete": true
 	}
 }
