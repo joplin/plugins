@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.hieuthi.joplin.quick-goto",
 	"app_min_version": "2.2",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"name": "Quick Goto",
 	"description": "Switch to designated notes using keyboard shortcuts",
 	"author": "Hieu-Thi Luong",
@@ -15,7 +15,7 @@
 		"hotkey",
 		"bookmark"
 	],
-	"_publish_hash": "sha256:0f0a282eb8288027b4c970311d0e746338f8881bec9a60a11caa71d11e0360b2",
-	"_publish_commit": "main:5d250869253e1fbd8a7876fbc0ee18dbda38b39d",
+	"_publish_hash": "sha256:227fa3c25eeb6721cda06493e06deabb0a6b6ba1d0c683ef9f5438b327505912",
+	"_publish_commit": "main:05a8cbc452e86ea05dd4a787f88d2e7981ed5a74",
 	"_npm_package_name": "joplin-plugin-quick-goto"
 }
