@@ -13,7 +13,7 @@ This repository contains the following plugins:
 <!-- PLUGIN_LIST -->
 | &nbsp; | &nbsp; | Name  | Version | Description | Author |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| [🏠](https://github.com/joplin/plugin-abc-sheet-music) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.AbcSheetMusic/plugin.jpl) | ABC Sheet Music Plugin | 1.0.1 | Turns ABC text notation into sheet music | Laurent Cozic |
+| [🏠](https://github.com/joplin/plugin-abc-sheet-music) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.AbcSheetMusic/plugin.jpl) | ABC Sheet Music Plugin | 1.0.2 | Turns ABC text notation into sheet music | Laurent Cozic |
 | [🏠](https://github.com/maxnegro/joplin-plugin-admonition) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.admonition/plugin.jpl) | Admonition markdown extension | 1.0.3 | Enables markdownIt admonition plugin, which enables formatting notes | Massimiliano Masserelli |
 | [🏠](https://discourse.joplinapp.org/t/agenda/21158) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/com.gitlab.BeatLink.joplin-plugin-agenda/plugin.jpl) | Agenda | 1.1.0 | An agenda/calendar/schedule panel for joplin that shows all uncompleted to-dos with a due date. | BeatLink |
 | [🏠](https://github.com/S73ph4n) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/com.s73ph4n.autolinker/plugin.jpl) | Autolinker | 1.0.0 | Adds an icon to the toolbar. When clicked, it creates a link to the note with a title matching the selected text. | S73ph4n |
