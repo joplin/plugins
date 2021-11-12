@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.gitlab.BeatLink.joplin-plugin-repeating-todos",
 	"app_min_version": "1.7",
-	"version": "0.1.2",
+	"version": "0.2.0",
 	"name": "Repeating To-Dos",
 	"description": "A powerful and comprehensive plugin for to-do repetition/recurrence",
 	"author": "BeatLink",
@@ -16,7 +16,7 @@
 		"recurring",
 		"reccur"
 	],
-	"_publish_hash": "sha256:9ac6a3faea0f25781b6fbe19228629ebdd7a0b9a46bc28182e4731bd83c5e196",
-	"_publish_commit": "main:5723bd244cc83d1e3d4e6ca50d2f0b373586422d",
+	"_publish_hash": "sha256:bd90140d4b65ae5cc06363674afa36a4bfac751fed0518e5cdf152515693bebe",
+	"_publish_commit": "main:88f804fa45c295137685d84b4398a69d29a371ce",
 	"_npm_package_name": "joplin-plugin-repeating-to-dos"
 }
