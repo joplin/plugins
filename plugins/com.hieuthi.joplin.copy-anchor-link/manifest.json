@@ -1,0 +1,21 @@
+{
+	"manifest_version": 1,
+	"id": "com.hieuthi.joplin.copy-anchor-link",
+	"app_min_version": "2.2",
+	"version": "1.0.0",
+	"name": "Copy Anchor Link",
+	"description": "Add a link icon near each heading. Copy Joplin markdown link of the specific heading to clipboard when click on the icon.",
+	"author": "Hieu-Thi Luong",
+	"homepage_url": "https://github.com/hieuthi/joplin-plugin-copy-anchor-link",
+	"repository_url": "https://github.com/hieuthi/joplin-plugin-copy-anchor-link",
+	"keywords": [
+		"joplin-plugin",
+		"link",
+		"anchor",
+		"copy",
+		"markdown-it"
+	],
+	"_publish_hash": "sha256:eaf301eec5650c391cc5a27717d4f1e45214ca25967e3cbbb96e5a4d90a84be6",
+	"_publish_commit": "main:7374030958024641711be9583a6eba3c7b0ec3ff",
+	"_npm_package_name": "joplin-plugin-copy-anchor-link"
+}
