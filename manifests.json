@@ -1341,5 +1341,24 @@
 		"_publish_hash": "sha256:eaf301eec5650c391cc5a27717d4f1e45214ca25967e3cbbb96e5a4d90a84be6",
 		"_publish_commit": "main:7374030958024641711be9583a6eba3c7b0ec3ff",
 		"_npm_package_name": "joplin-plugin-copy-anchor-link"
+	},
+	"io.github.manuerwin.replace-resources": {
+		"manifest_version": 1,
+		"id": "io.github.manuerwin.replace-resources",
+		"app_min_version": "2.2",
+		"version": "0.11.0",
+		"name": "Replace Resources",
+		"description": "Mass replacement of Joplin resources such as resized image files.",
+		"author": "Manu Erwin",
+		"homepage_url": "https://github.com/manuerwin/joplin-plugin-replace-resources/blob/master/readme.md",
+		"repository_url": "https://github.com/manuerwin/joplin-plugin-replace-resources",
+		"keywords": [
+			"joplin-plugin",
+			"replace",
+			"resources"
+		],
+		"_publish_hash": "sha256:4d467f4eab4c3ea152c9fad91eb098da919831d718d84e2ca6da1742f5491cef",
+		"_publish_commit": "trunk:2c8b088aa5b3557569764675cbb74969920f4c1a",
+		"_npm_package_name": "joplin-plugin-replace-resources"
 	}
 }
