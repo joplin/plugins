@@ -15,7 +15,7 @@
 		"color",
 		"codemirror"
 	],
-	"_publish_hash": "sha256:b103fa1d0640e2ecf3c9591d67385812e6120d5bba3c54dc404de6d7afdb9478",
-	"_publish_commit": "main:b529073a9c932e0bbb85580d842ff41fe0ff586d",
+	"_publish_hash": "sha256:e382954df8d828502ef0a07f2c09530ad1b7b8a4cd9119585617d42b5042c04f",
+	"_publish_commit": "main:aae7e6bde2ade1a5c3b8d7015d1a900d35ad8804",
 	"_npm_package_name": "joplin-plugin-markdown-table-colorize"
 }
