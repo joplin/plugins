@@ -1304,7 +1304,7 @@
 		"manifest_version": 1,
 		"id": "net.gagnepain.turnToChart",
 		"app_min_version": "1.8",
-		"version": "1.1.0",
+		"version": "1.2.0",
 		"name": "turnToChart",
 		"description": "Transform markdown table into d3js chart",
 		"author": "Samuel Gagnepain",
@@ -1317,8 +1317,8 @@
 			"chart",
 			"ui"
 		],
-		"_publish_hash": "sha256:d6e029abbd82e76a4ac41e2942797af38ef838d0d23c95d397198009a0fe2b7e",
-		"_publish_commit": "master:f1efdf5ddb1a1f120e569bca91dd87b4d25fcd9d",
+		"_publish_hash": "sha256:97979197dc96d52a4f8fb8f9ccdcb94b50a940dcec5e50b1609038489dcc7ada",
+		"_publish_commit": "master:0c40154644268a84fb7b89378dbe87e89a2503d0",
 		"_npm_package_name": "joplin-plugin-turn-to-chart"
 	},
 	"com.hieuthi.joplin.copy-anchor-link": {
