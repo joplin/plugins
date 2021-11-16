@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "org.joplinapp.plugins.admonition",
 	"app_min_version": "1.8",
-	"version": "1.0.3",
+	"version": "1.1.0",
 	"name": "Admonition markdown extension",
 	"description": "Enables markdownIt admonition plugin, which enables formatting notes",
 	"author": "Massimiliano Masserelli",
@@ -12,7 +12,7 @@
 		"markdown",
 		"admonition"
 	],
-	"_publish_hash": "sha256:4f5da96e51f9b0a655e7aa25431d5367ae3e2fa5d75d00e44cc94c0b9227bbbc",
-	"_publish_commit": "main:7083d34096a8fff31a1b3b401f27cc1fc5653569",
+	"_publish_hash": "sha256:339c526132821b11f5740bdbe3f0fe7ca3ca1d243249745b76272f8f9cf4e8e2",
+	"_publish_commit": "develop:effc7f8e3c7e1b9c09da8487f72c6e1a2ba4c101",
 	"_npm_package_name": "joplin-plugin-admonition"
 }
