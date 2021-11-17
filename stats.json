@@ -23,7 +23,7 @@
 	},
 	"com.github.BeatLink.joplin-plugin-untagged": {
 		"2.1.1": {
-			"downloadCount": 779,
+			"downloadCount": 780,
 			"createdAt": "2021-06-01T08:30:34Z"
 		}
 	},
@@ -97,7 +97,7 @@
 			"createdAt": "2021-06-01T08:30:41Z"
 		},
 		"1.1.0": {
-			"downloadCount": 1898,
+			"downloadCount": 1899,
 			"createdAt": "2021-06-01T08:37:32Z"
 		}
 	},
@@ -125,13 +125,13 @@
 			"createdAt": "2021-06-01T08:30:43Z"
 		},
 		"1.0.1": {
-			"downloadCount": 1156,
+			"downloadCount": 1157,
 			"createdAt": "2021-08-05T17:35:58Z"
 		}
 	},
 	"io.github.jackgruber.copytags": {
 		"1.0.1": {
-			"downloadCount": 1217,
+			"downloadCount": 1219,
 			"createdAt": "2021-06-01T08:30:44Z"
 		}
 	},
@@ -253,7 +253,7 @@
 			"createdAt": "2021-06-01T08:30:51Z"
 		},
 		"2.0.1": {
-			"downloadCount": 840,
+			"downloadCount": 841,
 			"createdAt": "2021-09-08T14:32:32Z"
 		}
 	},
@@ -299,7 +299,7 @@
 			"createdAt": "2021-06-01T08:30:56Z"
 		},
 		"1.1.0": {
-			"downloadCount": 505,
+			"downloadCount": 506,
 			"createdAt": "2021-08-10T17:02:42Z"
 		}
 	},
@@ -373,7 +373,7 @@
 			"createdAt": "2021-10-28T19:34:12Z"
 		},
 		"1.0.5": {
-			"downloadCount": 12,
+			"downloadCount": 14,
 			"createdAt": "2021-11-16T20:04:05Z"
 		}
 	},
@@ -493,7 +493,7 @@
 			"createdAt": "2021-09-22T07:32:30Z"
 		},
 		"0.7.3": {
-			"downloadCount": 1719,
+			"downloadCount": 1720,
 			"createdAt": "2021-09-22T20:32:37Z"
 		}
 	},
@@ -511,7 +511,7 @@
 			"createdAt": "2021-06-24T13:31:23Z"
 		},
 		"1.1.0": {
-			"downloadCount": 22,
+			"downloadCount": 23,
 			"createdAt": "2021-11-16T11:34:09Z"
 		}
 	},
@@ -557,7 +557,7 @@
 			"createdAt": "2021-10-10T09:33:29Z"
 		},
 		"1.0.3": {
-			"downloadCount": 14,
+			"downloadCount": 15,
 			"createdAt": "2021-11-16T15:04:21Z"
 		}
 	},
@@ -583,7 +583,7 @@
 			"createdAt": "2021-08-18T23:02:58Z"
 		},
 		"1.2.3": {
-			"downloadCount": 652,
+			"downloadCount": 653,
 			"createdAt": "2021-09-08T16:02:42Z"
 		}
 	},
@@ -733,7 +733,7 @@
 			"createdAt": "2021-10-15T13:33:23Z"
 		},
 		"1.2.10": {
-			"downloadCount": 153,
+			"downloadCount": 155,
 			"createdAt": "2021-11-14T17:34:23Z"
 		}
 	},
@@ -747,13 +747,13 @@
 			"createdAt": "2021-08-29T17:32:30Z"
 		},
 		"1.0.2": {
-			"downloadCount": 30,
+			"downloadCount": 31,
 			"createdAt": "2021-11-11T18:04:23Z"
 		}
 	},
 	"com.shantanugoel.JoplinCMLineNumbersPlugin": {
 		"2.0.0": {
-			"downloadCount": 601,
+			"downloadCount": 602,
 			"createdAt": "2021-08-23T10:02:37Z"
 		}
 	},
@@ -905,7 +905,7 @@
 			"createdAt": "2021-10-15T10:03:40Z"
 		},
 		"1.2.5": {
-			"downloadCount": 133,
+			"downloadCount": 134,
 			"createdAt": "2021-11-10T02:34:37Z"
 		}
 	},
@@ -1041,7 +1041,7 @@
 			"createdAt": "2021-11-04T15:04:43Z"
 		},
 		"1.1.3": {
-			"downloadCount": 71,
+			"downloadCount": 72,
 			"createdAt": "2021-11-13T07:04:56Z"
 		}
 	},
@@ -1099,7 +1099,7 @@
 			"createdAt": "2021-11-14T23:04:13Z"
 		},
 		"1.3.0": {
-			"downloadCount": 16,
+			"downloadCount": 17,
 			"createdAt": "2021-11-16T19:04:05Z"
 		}
 	},
@@ -1131,6 +1131,10 @@
 		"0.0.1": {
 			"downloadCount": 2,
 			"createdAt": "2021-11-17T06:34:11Z"
+		},
+		"0.0.2": {
+			"downloadCount": 1,
+			"createdAt": "2021-11-17T07:04:15Z"
 		}
 	}
 }
