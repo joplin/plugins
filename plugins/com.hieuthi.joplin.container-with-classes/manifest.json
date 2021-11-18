@@ -1,0 +1,21 @@
+{
+	"manifest_version": 1,
+	"id": "com.hieuthi.joplin.container-with-classes",
+	"app_min_version": "2.2",
+	"version": "1.0.0",
+	"name": "Container with Classes",
+	"description": "Plugin for creating block-level containers with classes for customization",
+	"author": "Hieu-Thi Luong",
+	"homepage_url": "https://github.com/hieuthi/joplin-plugin-container-with-classes",
+	"repository_url": "https://github.com/hieuthi/joplin-plugin-container-with-classes",
+	"keywords": [
+		"joplin-plugin",
+		"markdown-it",
+		"container",
+		"div",
+		"css"
+	],
+	"_publish_hash": "sha256:0ead83e743460af0662b30b991b77ccbc5f08f09e024f452939f7477b7062cd5",
+	"_publish_commit": "main:f6acc5d4e7f5503bbb5ff43af6d7dee698234e28",
+	"_npm_package_name": "joplin-plugin-container-with-classes"
+}
