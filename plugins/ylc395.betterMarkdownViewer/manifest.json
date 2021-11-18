@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "ylc395.betterMarkdownViewer",
 	"app_min_version": "2.2",
-	"version": "1.2.5",
+	"version": "2.0.0",
 	"name": "Better Markdown Viewer",
 	"description": "Keep Cursor Synced Between Editor and MD Viewer",
 	"author": "ylc395",
@@ -11,7 +11,7 @@
 	"keywords": [
 		"markdown viewer"
 	],
-	"_publish_hash": "sha256:90c4a69c786c8c981ffb9ccc10422b929690fd27c1fcce1ea21fa6a3ad0b1053",
-	"_publish_commit": "main:24b4a0b8fcf86e2b107d1d3c29850be2ea754b66",
+	"_publish_hash": "sha256:c5109dfe2445ef9571304faa518545b7e93702a679311f51670eb2d129a84211",
+	"_publish_commit": "main:4df3ffa531f8da506fe8070f2a488b41a89fffe6",
 	"_npm_package_name": "joplin-plugin-better-markdown-viewer"
 }
