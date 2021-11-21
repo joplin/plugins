@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "io.github.manuerwin.replace-resources",
 	"app_min_version": "2.2",
-	"version": "0.12.2",
+	"version": "0.13.1",
 	"name": "Replace Resources",
 	"description": "Mass replacement of Joplin resources such as resized image files.",
 	"author": "Manu Erwin",
@@ -13,7 +13,7 @@
 		"replace",
 		"resources"
 	],
-	"_publish_hash": "sha256:b7d09c732baaa24b4bfed42301e91b7a4a45d659ff1c330ed5902d416f843635",
-	"_publish_commit": "also-replace-by-filename:bc7259970ede090bf8cc9fc7156d02010699157d",
+	"_publish_hash": "sha256:53350e6382245785fc3ba095e63a55cada43c9fa1507d39bf52c69e4de3fed7c",
+	"_publish_commit": "trunk:02ad5b3bd87cc1e0030311b0f178754384b905e6",
 	"_npm_package_name": "joplin-plugin-replace-resources"
 }
