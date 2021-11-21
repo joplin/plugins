@@ -1401,5 +1401,25 @@
 		"_publish_hash": "sha256:0ead83e743460af0662b30b991b77ccbc5f08f09e024f452939f7477b7062cd5",
 		"_publish_commit": "main:f6acc5d4e7f5503bbb5ff43af6d7dee698234e28",
 		"_npm_package_name": "joplin-plugin-container-with-classes"
+	},
+	"com.hieuthi.joplin.markdown-table-sortable": {
+		"manifest_version": 1,
+		"id": "com.hieuthi.joplin.markdown-table-sortable",
+		"app_min_version": "2.2",
+		"version": "1.0.1",
+		"name": "Markdown Table: Sortable",
+		"description": "Add the ability to sort rendered tables on the fly",
+		"author": "Hieu-Thi Luong",
+		"homepage_url": "https://github.com/hieuthi/joplin-plugin-markdown-table-sortable",
+		"repository_url": "https://github.com/hieuthi/joplin-plugin-markdown-table-sortable",
+		"keywords": [
+			"joplin-plugin",
+			"markdown",
+			"table",
+			"sorting"
+		],
+		"_publish_hash": "sha256:68dffe9e518994e57684e41c2c0b6b4239d96906d79631f2c9da08fd3cf94875",
+		"_publish_commit": "main:c3f2b7066daa21c19054d196e3cfe2676c381b0b",
+		"_npm_package_name": "joplin-plugin-markdown-table-sortable"
 	}
 }
