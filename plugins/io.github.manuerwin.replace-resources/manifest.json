@@ -13,7 +13,7 @@
 		"replace",
 		"resources"
 	],
-	"_publish_hash": "sha256:2cda8a6ae1f009536ac66b6df8e0c16468e0a6680f7b2c796170527bce82b00e",
-	"_publish_commit": "trunk:45d28ab3f8707e971fe543800a93497b8751c627",
+	"_publish_hash": "sha256:b7d09c732baaa24b4bfed42301e91b7a4a45d659ff1c330ed5902d416f843635",
+	"_publish_commit": "also-replace-by-filename:bc7259970ede090bf8cc9fc7156d02010699157d",
 	"_npm_package_name": "joplin-plugin-replace-resources"
 }
