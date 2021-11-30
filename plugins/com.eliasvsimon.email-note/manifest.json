@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.eliasvsimon.email-note",
 	"app_min_version": "2.2",
-	"version": "1.2.1",
+	"version": "1.2.2",
 	"name": "Email Note",
 	"description": "Send a note as an email",
 	"author": "EliasVincent",
@@ -17,7 +17,7 @@
 		"outlook",
 		"gmail"
 	],
-	"_publish_hash": "sha256:3173929ffea60ec6068c9f7175a721f3e02ae8174d169adce29902ebcf8fff9e",
-	"_publish_commit": "main:8b8558769678ddddc147d9fcfa475b001ab5c2e2",
+	"_publish_hash": "sha256:3257d38131ccce95e78ea1f62b2b6c99072507acfeddeb253ef70c28e46dbf3f",
+	"_publish_commit": "main:c0700b31fe81c0e23de4372e1517f95350ab9aaf",
 	"_npm_package_name": "joplin-plugin-email-note"
 }
