@@ -1232,17 +1232,17 @@
 		"manifest_version": 1,
 		"id": "ylc395.joplinOcr",
 		"app_min_version": "2.2",
-		"version": "0.2.1",
+		"version": "0.3.1",
 		"name": "OCR",
-		"description": "offline OCR for images, videos, pdf documents in your Joplin notes",
+		"description": "offline OCR auto/manually for images, videos, pdf documents in your Joplin notes",
 		"author": "ylc395",
 		"homepage_url": "https://github.com/ylc395/joplin-plugin-ocr",
 		"repository_url": "https://github.com/ylc395/joplin-plugin-ocr",
 		"keywords": [
 			"OCR"
 		],
-		"_publish_hash": "sha256:e49360f288145d188eb429c8c9ad767ac0a5c45d645fc342a30bde1360a0919a",
-		"_publish_commit": "main:0eb722d0a6fa92374a96c03a72787c43f7e74181",
+		"_publish_hash": "sha256:49081c57e3a5ddf11556853e71e9cfad6c7553e497eb8a8cf2b1051e197f986e",
+		"_publish_commit": "main:af8f803bdf61c0ee7f96254f4d100071517c91e0",
 		"_npm_package_name": "joplin-plugin-ocr"
 	},
 	"de.habelt.NotesStationImport": {
