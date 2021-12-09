@@ -2,17 +2,18 @@
 	"manifest_version": 1,
 	"id": "com.github.marcgreen.joplin-plugin-semantically-similar-notes",
 	"app_min_version": "2.2",
-	"version": "0.1.1",
+	"version": "0.2.0",
 	"name": "Semantically Similar Notes",
 	"description": "Show user which notes are semantically similar to the one they are looking at",
 	"author": "marc green",
 	"homepage_url": "https://github.com/marcgreen/semantic-joplin/tree/master/similar-notes",
-	"repository_url": "https://github.com/marcgreen/semantic-joplin/similar-notes",
+	"repository_url": "https://github.com/marcgreen/semantic-joplin/tree/master/similar-notes",
 	"keywords": [
 		"semantic",
-		"similarity"
+		"similarity",
+		"search"
 	],
-	"_publish_hash": "sha256:374ef812aeeb9f8e3bf5308b999fce234bd0214c77eac227b54faa4e6eeef294",
-	"_publish_commit": "master:d54de3b28c60dad3508e4e48af636db9ce93398b",
+	"_publish_hash": "sha256:01b60c1d80ed7c0fd5272f07c28324664d26d7beb590f4e3a4141f6cbf88b50e",
+	"_publish_commit": "master:57ea6797a6ae307b74000e7b14f1c44d1f6ccb14",
 	"_npm_package_name": "joplin-plugin-semantically-similar-notes"
 }
