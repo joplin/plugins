@@ -71,7 +71,7 @@
 			"createdAt": "2021-06-01T08:30:39Z"
 		},
 		"1.0.3": {
-			"downloadCount": 155,
+			"downloadCount": 156,
 			"createdAt": "2021-08-26T15:32:52Z"
 		}
 	},
@@ -509,7 +509,7 @@
 			"createdAt": "2021-09-22T07:32:30Z"
 		},
 		"0.7.3": {
-			"downloadCount": 2271,
+			"downloadCount": 2273,
 			"createdAt": "2021-09-22T20:32:37Z"
 		}
 	},
@@ -549,7 +549,7 @@
 			"createdAt": "2021-07-19T14:03:31Z"
 		},
 		"0.5.0": {
-			"downloadCount": 494,
+			"downloadCount": 495,
 			"createdAt": "2021-08-02T11:05:17Z"
 		}
 	},
@@ -599,7 +599,7 @@
 			"createdAt": "2021-08-18T23:02:58Z"
 		},
 		"1.2.3": {
-			"downloadCount": 866,
+			"downloadCount": 867,
 			"createdAt": "2021-09-08T16:02:42Z"
 		}
 	},
@@ -1015,7 +1015,7 @@
 			"createdAt": "2021-12-06T22:04:12Z"
 		},
 		"1.7.0": {
-			"downloadCount": 93,
+			"downloadCount": 94,
 			"createdAt": "2021-12-09T22:34:16Z"
 		}
 	},
@@ -1236,7 +1236,7 @@
 		},
 		"0.14.1.DEPRECATED": {
 			"downloadCount": 0,
-			"createdAt": "2021-12-15T09:34:25Z"
+			"createdAt": "2021-12-15T10:04:20Z"
 		}
 	},
 	"ylc395.noteLinkSystem": {
@@ -1317,6 +1317,10 @@
 		"1.0.0": {
 			"downloadCount": 1,
 			"createdAt": "2021-12-15T09:04:22Z"
+		},
+		"1.0.1": {
+			"downloadCount": 0,
+			"createdAt": "2021-12-15T10:04:19Z"
 		}
 	}
 }
