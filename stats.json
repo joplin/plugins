@@ -91,7 +91,7 @@
 			"createdAt": "2021-06-01T08:30:41Z"
 		},
 		"1.2.2": {
-			"downloadCount": 3481,
+			"downloadCount": 3482,
 			"createdAt": "2021-08-05T20:05:59Z"
 		}
 	},
@@ -123,7 +123,7 @@
 			"createdAt": "2021-08-11T19:32:15Z"
 		},
 		"1.0.5": {
-			"downloadCount": 385,
+			"downloadCount": 386,
 			"createdAt": "2021-12-05T17:04:15Z"
 		}
 	},
@@ -245,7 +245,7 @@
 	},
 	"joplin.plugin.ambrt.copyNoteLink": {
 		"1.0.1": {
-			"downloadCount": 938,
+			"downloadCount": 939,
 			"createdAt": "2021-06-01T08:30:49Z"
 		}
 	},
@@ -353,7 +353,7 @@
 			"createdAt": "2021-08-19T20:33:00Z"
 		},
 		"1.2.1": {
-			"downloadCount": 1984,
+			"downloadCount": 1985,
 			"createdAt": "2021-08-20T21:03:06Z"
 		}
 	},
@@ -779,7 +779,7 @@
 			"createdAt": "2021-08-29T17:32:30Z"
 		},
 		"1.0.2": {
-			"downloadCount": 104,
+			"downloadCount": 105,
 			"createdAt": "2021-11-11T18:04:23Z"
 		}
 	},
@@ -857,7 +857,7 @@
 	},
 	"com.s73ph4n.day_review": {
 		"1.0.0": {
-			"downloadCount": 387,
+			"downloadCount": 388,
 			"createdAt": "2021-09-25T16:03:11Z"
 		}
 	},
@@ -1236,7 +1236,7 @@
 		},
 		"0.14.1.DEPRECATED": {
 			"downloadCount": 0,
-			"createdAt": "2021-12-16T10:04:34Z"
+			"createdAt": "2021-12-16T10:34:22Z"
 		}
 	},
 	"ylc395.noteLinkSystem": {
@@ -1309,7 +1309,7 @@
 	},
 	"eu.xardbaiz.joplin.HackMD": {
 		"1.0.1": {
-			"downloadCount": 0,
+			"downloadCount": 1,
 			"createdAt": "2021-12-11T07:04:21Z"
 		}
 	},
