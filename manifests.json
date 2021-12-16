@@ -1361,7 +1361,8 @@
 		],
 		"_publish_hash": "sha256:e55935d28b0ca843d0c941bc14cbb05bb287497397774ce7aeac2fce6ff4054a",
 		"_publish_commit": "deprecate:a06b47ac979cc4b747c0786a379d0725c06d4aa5",
-		"_npm_package_name": "joplin-plugin-replace-resources"
+		"_npm_package_name": "joplin-plugin-replace-resources",
+		"_obsolete": true
 	},
 	"ylc395.noteLinkSystem": {
 		"manifest_version": 1,
