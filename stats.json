@@ -101,7 +101,7 @@
 			"createdAt": "2021-06-01T08:30:41Z"
 		},
 		"1.1.0": {
-			"downloadCount": 2171,
+			"downloadCount": 2172,
 			"createdAt": "2021-06-01T08:37:32Z"
 		}
 	},
@@ -123,7 +123,7 @@
 			"createdAt": "2021-08-11T19:32:15Z"
 		},
 		"1.0.5": {
-			"downloadCount": 471,
+			"downloadCount": 472,
 			"createdAt": "2021-12-05T17:04:15Z"
 		}
 	},
@@ -133,13 +133,13 @@
 			"createdAt": "2021-06-01T08:30:43Z"
 		},
 		"1.0.1": {
-			"downloadCount": 1321,
+			"downloadCount": 1322,
 			"createdAt": "2021-08-05T17:35:58Z"
 		}
 	},
 	"io.github.jackgruber.copytags": {
 		"1.0.1": {
-			"downloadCount": 1396,
+			"downloadCount": 1397,
 			"createdAt": "2021-06-01T08:30:44Z"
 		}
 	},
@@ -205,7 +205,7 @@
 			"createdAt": "2021-10-19T21:33:20Z"
 		},
 		"1.1.3": {
-			"downloadCount": 601,
+			"downloadCount": 602,
 			"createdAt": "2021-11-21T17:04:25Z"
 		}
 	},
@@ -239,7 +239,7 @@
 			"createdAt": "2021-06-01T08:30:49Z"
 		},
 		"1.5.1": {
-			"downloadCount": 832,
+			"downloadCount": 833,
 			"createdAt": "2021-09-03T16:02:44Z"
 		}
 	},
@@ -287,7 +287,7 @@
 			"createdAt": "2021-06-01T08:30:53Z"
 		},
 		"1.3.0": {
-			"downloadCount": 2767,
+			"downloadCount": 2768,
 			"createdAt": "2021-08-12T20:32:24Z"
 		}
 	},
@@ -599,7 +599,7 @@
 			"createdAt": "2021-08-18T23:02:58Z"
 		},
 		"1.2.3": {
-			"downloadCount": 887,
+			"downloadCount": 888,
 			"createdAt": "2021-09-08T16:02:42Z"
 		}
 	},
@@ -765,7 +765,7 @@
 			"createdAt": "2021-11-22T20:05:02Z"
 		},
 		"1.2.13": {
-			"downloadCount": 730,
+			"downloadCount": 731,
 			"createdAt": "2021-11-30T16:34:25Z"
 		}
 	},
@@ -785,7 +785,7 @@
 	},
 	"com.shantanugoel.JoplinCMLineNumbersPlugin": {
 		"2.0.0": {
-			"downloadCount": 760,
+			"downloadCount": 761,
 			"createdAt": "2021-08-23T10:02:37Z"
 		}
 	},
@@ -1236,7 +1236,7 @@
 		},
 		"0.14.1.DEPRECATED": {
 			"downloadCount": 0,
-			"createdAt": "2021-12-18T12:04:37Z"
+			"createdAt": "2021-12-18T12:34:42Z"
 		}
 	},
 	"ylc395.noteLinkSystem": {
@@ -1275,7 +1275,7 @@
 	},
 	"joplin.plugin.ambrt.sendSnippet": {
 		"1.0.0": {
-			"downloadCount": 35,
+			"downloadCount": 36,
 			"createdAt": "2021-11-22T18:34:41Z"
 		}
 	},
