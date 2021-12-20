@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "joplin-plugin-knowledge-graph",
 	"app_min_version": "2.2",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Graph",
 	"description": "Notes as nodes. Explore your Joplin knowledge graph.",
 	"author": "Antoine Gerardin",
@@ -15,7 +15,7 @@
 		"plugin",
 		"joplin-plugin"
 	],
-	"_publish_hash": "sha256:091cfc3830cf86cab003195462dee5f239d819d4ce098a2e3eda22e4cdff9967",
-	"_publish_commit": "main:b8e2fd58f76089095fbb97632fcfb96cb50d6808",
+	"_publish_hash": "sha256:ba9783208427bb9829bfd99faebb5529d76fb90c2dabcb544a57ca8544449523",
+	"_publish_commit": "main:1af371c67d4a1547e6d4d5c2ac3527c1858c8921",
 	"_npm_package_name": "joplin-plugin-knowledge-graph"
 }
