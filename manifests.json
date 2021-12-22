@@ -365,7 +365,7 @@
 		"manifest_version": 1,
 		"id": "io.treymo.LinkGraph",
 		"app_min_version": "1.7",
-		"version": "1.1.3",
+		"version": "1.1.4",
 		"name": "Link Graph UI",
 		"description": "Visualize the connections between Joplin notes.",
 		"author": "Trey Mo",
@@ -378,8 +378,8 @@
 			"ui",
 			"zettelkasten"
 		],
-		"_publish_hash": "sha256:0e2f654015a0542c8177f71deb7cbdedd80cff4177b7576ba12a0191f356a875",
-		"_publish_commit": "master:d2cd423f506e7f1ab78e36e5d1914e79997dc4f8",
+		"_publish_hash": "sha256:a6fea946c8f5747a6b66b809456effb134351291ae4f8b84055e07cb2335692a",
+		"_publish_commit": "master:b00259655327c62ec1ec5f09c64ea6cebbe6f4a7",
 		"_npm_package_name": "joplin-plugin-link-graph-ui"
 	},
 	"net.rmusin.resource-search": {
