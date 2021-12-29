@@ -1,0 +1,20 @@
+{
+	"manifest_version": 1,
+	"id": "com.github.paperless.file.importer",
+	"app_min_version": "2.5",
+	"version": "1.0.0",
+	"name": "Paperless file importer",
+	"description": "Imports files as text or attachment to notes, for pdf text will be taken.",
+	"author": "Sebastian Schauer",
+	"homepage_url": "https://github.com/makaanneo/joplin-plugin-paperless-file-importer",
+	"repository_url": "https://github.com/makaanneo/joplin-plugin-paperless-file-importer",
+	"keywords": [
+		"paperless",
+		"import",
+		"hotfolder",
+		"pdf"
+	],
+	"_publish_hash": "sha256:0328101f2035fbf751986b094b9e9a4ac22e36d21c44d642da68d4017ece6ff6",
+	"_publish_commit": "main:3610bc88b248f1a79bed2cf991b6f589eb9d4bfe",
+	"_npm_package_name": "joplin-plugin-paperless-file-importer"
+}
