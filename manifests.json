@@ -1569,8 +1569,8 @@
 			"hotfolder",
 			"pdf"
 		],
-		"_publish_hash": "sha256:5e251f582c76bf95d5db9921ad177f5e87405da36a9441f48b1ab6515b18545c",
-		"_publish_commit": "beta:edfaeefea6bde77085594f1f70204f1c532b9c29",
+		"_publish_hash": "sha256:08f1d4dc50e45702ec8325f7f89db75fd98e9c4034085e9e15260d992f3a9dcb",
+		"_publish_commit": "main:6d084c099c5c3e57a031e66947e6dbe46eb02e4a",
 		"_npm_package_name": "joplin-plugin-paperless"
 	}
 }
