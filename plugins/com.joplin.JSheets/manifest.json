@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "com.joplin.JSheets",
+	"app_min_version": "2.6",
+	"version": "1.0.0",
+	"name": "JSheets",
+	"description": "JSheets - use to write secure spreadsheets like excel in Joplin",
+	"author": "Thibault Jan Beyer",
+	"homepage_url": "https://github.com/ThibaultJanBeyer/joplin-sheets",
+	"repository_url": "https://github.com/ThibaultJanBeyer/joplin-sheets",
+	"keywords": [],
+	"_publish_hash": "sha256:7fa88debe08a50fba813dd9a7c326bc895a7732575e070c02413c261b9f125f7",
+	"_publish_commit": "master:1f486ad94c6960d81f8648f05883fea26e434eae",
+	"_npm_package_name": "joplin-plugin-jsheets"
+}
