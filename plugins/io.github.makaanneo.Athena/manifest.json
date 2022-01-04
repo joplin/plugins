@@ -15,7 +15,7 @@
 		"pdf",
 		"athena"
 	],
-	"_publish_hash": "sha256:d9afb7d441fe6a3a4463385a9fea6206209d40441f502e7d047441110afb4f3b",
-	"_publish_commit": "main:65c682bb4698efe3fe98e9dfbd19d8945a4813eb",
+	"_publish_hash": "sha256:d5c9edd95b229371ac242d9cd96bba359535804474814c3f3ad7dcdda8fb96ea",
+	"_publish_commit": "main:d90de39687ebf68791015e891df42cb0c8527022",
 	"_npm_package_name": "joplin-plugin-athena"
 }
