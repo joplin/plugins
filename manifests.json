@@ -963,15 +963,15 @@
 		"manifest_version": 1,
 		"id": "com.s73ph4n.autolinker",
 		"app_min_version": "2.0",
-		"version": "1.0.0",
+		"version": "1.0.4",
 		"name": "Autolinker",
 		"description": "Adds an icon to the toolbar. When clicked, it creates a link to the note with a title matching the selected text.",
 		"author": "S73ph4n",
 		"homepage_url": "https://github.com/S73ph4n",
 		"repository_url": "https://github.com/S73ph4n/joplin_autolinker",
 		"keywords": [],
-		"_publish_hash": "sha256:ff5a911d1b2653b8d8cba8835ca08638d566f3f2b99e7d07b830946b4e76932f",
-		"_publish_commit": "main:5924a2eb5328608d31daaf12dc89977ac9381aa6",
+		"_publish_hash": "sha256:ade8b824112ef5225a673e03718bd91170880e93ef048ecde2b033fc23a6f60c",
+		"_publish_commit": "main:65abf798f6988eafa3da36a81b2659d37712f53c",
 		"_npm_package_name": "joplin-plugin-autolinker"
 	},
 	"com.s73ph4n.complete_link": {
