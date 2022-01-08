@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "io.xargs.JoplinPluginAutoTag",
+	"app_min_version": "2.6",
+	"version": "1.0.3-rc7",
+	"name": "Auto Tag",
+	"description": "Convert all octothorpe prefixed words into tags",
+	"author": "ZPH",
+	"homepage_url": "",
+	"repository_url": "github.com/zph/joplin-plugin-auto-tag",
+	"keywords": [],
+	"_publish_hash": "sha256:c4b0ebb0134216171554f5b0a3b9466d5beb0c81a50be782f24137900c1c72ad",
+	"_publish_commit": "heads/v1.0.3-rc7:a0539cc38a20e43357e936b57459807862b1c481",
+	"_npm_package_name": "joplin-plugin-auto-tag"
+}
