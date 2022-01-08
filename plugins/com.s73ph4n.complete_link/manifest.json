@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "com.s73ph4n.complete_link",
 	"app_min_version": "2.0",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Complete Link",
 	"description": "This plugin adds an icon to the toolbar. When clicked, it completes the selected text into a note title (in a markdown link).",
 	"author": "S73ph4n",
 	"homepage_url": "https://github.com/S73ph4n",
 	"repository_url": "https://github.com/S73ph4n/joplin_complete_link",
 	"keywords": [],
-	"_publish_hash": "sha256:61bd1c8576dade799cc055c17780717e2407bd1325e29aac8063758d48b78173",
-	"_publish_commit": "main:a1069fc73c476d75c0cdac7d8b85ce2e023ce6f3",
+	"_publish_hash": "sha256:70046397442ff9f9b90c1ea70e57ca64c79715d2392fc89dea14b881b283f68e",
+	"_publish_commit": "main:f222c9679896e2e80c5cfb633ec535c961a89d84",
 	"_npm_package_name": "joplin-plugin-complete-link"
 }
