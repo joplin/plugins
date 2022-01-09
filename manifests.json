@@ -1442,7 +1442,7 @@
 		"manifest_version": 1,
 		"id": "com.hieuthi.joplin.metis",
 		"app_min_version": "2.2",
-		"version": "0.1.3",
+		"version": "0.1.4",
 		"name": "Metis",
 		"description": "A Simple Task Manager Plugin for Joplin based on Todo.txt Specification",
 		"author": "Hieu-Thi Luong",
@@ -1454,8 +1454,8 @@
 			"todotxt",
 			"task management"
 		],
-		"_publish_hash": "sha256:c8bc56e8e7cde11179936e5afa28a79c23659041c9bc0615f408dbc0fa033ef4",
-		"_publish_commit": "main:a4017e98810622777d9aa958d3d0006cac15b195",
+		"_publish_hash": "sha256:a96671d1f52fc083e4cca4ed39b0c1c17aa4085fd466673d52dd3f0798e6efd2",
+		"_publish_commit": "main:8d6cf6e290e19d7d0c9891939b16abd8fb424613",
 		"_npm_package_name": "joplin-plugin-metis"
 	},
 	"eu.xardbaiz.joplin.HackMD": {
