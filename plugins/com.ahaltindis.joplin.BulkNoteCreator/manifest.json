@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "com.ahaltindis.joplin.BulkNoteCreator",
+	"app_min_version": "2.5",
+	"version": "1.0.0",
+	"name": "Bulk Note Creator",
+	"description": "Create notes as bulk",
+	"author": "Ahmet Altindis",
+	"homepage_url": "https://github.com/ahaltindis/joplin-plugin-bulk-note-creator",
+	"repository_url": "https://github.com/ahaltindis/joplin-plugin-bulk-note-creator",
+	"keywords": [],
+	"_publish_hash": "sha256:fe0394ede22bfb7c5e90f16e66d29dc624da276fb6e441b7164de5be567f1b20",
+	"_publish_commit": "main:a092fdbcc07dfe090fe90dc53b7abf7f481f6b81",
+	"_npm_package_name": "joplin-plugin-bulk-note-creator"
+}
