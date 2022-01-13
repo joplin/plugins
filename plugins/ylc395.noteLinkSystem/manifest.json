@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "ylc395.noteLinkSystem",
 	"app_min_version": "2.2",
-	"version": "0.3.0",
+	"version": "0.4.0",
 	"name": "Note Link System",
 	"description": "A complete Link System for Joplin. Referrer(aka. backlink), Quick Link, Copy Anchor, Hover to preview, and much more feature",
 	"author": "ylc395",
@@ -12,7 +12,7 @@
 		"link",
 		"bidi link"
 	],
-	"_publish_hash": "sha256:96390e6fd9b6d7fb329ce4203685bfb270f61fef9d477fc929d9193c530251b2",
-	"_publish_commit": "main:1a7a42b768c83f860d224dff9e18e49fd693348a",
+	"_publish_hash": "sha256:7420d4e404373198b7d2edc2c6ad34a001de9551be9b71bc8b1eb08f9b2eee03",
+	"_publish_commit": "main:6b42b92e2cb1ac58aa0f01c25f7110172a507a6a",
 	"_npm_package_name": "joplin-plugin-note-link-system"
 }
