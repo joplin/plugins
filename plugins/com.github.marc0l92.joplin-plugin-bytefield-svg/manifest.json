@@ -1,0 +1,24 @@
+{
+	"manifest_version": 1,
+	"id": "com.github.marc0l92.joplin-plugin-bytefield-svg",
+	"app_min_version": "2.2",
+	"version": "1.0.0",
+	"name": "bytefield-svg",
+	"description": "Add support for bytefield-svg diagrams used to describe network protocols, memory layouts and any other binary structure.",
+	"author": "marc0l92",
+	"homepage_url": "https://github.com/marc0l92/joplin-plugin-bytefield-svg#readme",
+	"repository_url": "https://github.com/marc0l92/joplin-plugin-bytefield-svg",
+	"keywords": [
+		"bytefield-svg",
+		"bytefield",
+		"svg",
+		"diagram",
+		"network",
+		"memory",
+		"binary",
+		"structure"
+	],
+	"_publish_hash": "sha256:cb1b19290243cf9301fbd4ded8d3552980bc6d44fadb59c4f7b3f277c9888d5b",
+	"_publish_commit": "master:ec30207cfd09ac0a8b6b5f668505b731482bb561",
+	"_npm_package_name": "joplin-plugin-bytefield-svg"
+}
