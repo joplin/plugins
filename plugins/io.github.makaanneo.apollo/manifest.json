@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "io.github.makaanneo.apollo",
 	"app_min_version": "2.5",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Joplin Note Attachement rename",
 	"description": "Joplin plugin to rename note attachments,",
 	"author": "makaanneo",
 	"homepage_url": "https://github.com/makaanneo/joplin-plugin-apollo",
 	"repository_url": "https://github.com/makaanneo/joplin-plugin-apollo",
 	"keywords": [],
-	"_publish_hash": "sha256:94b6486cb502807855fa5dbcda86bfcb015666ce7f642f2c32e8d1ad8de19e79",
-	"_publish_commit": "main:347a823edce3bb4b3c0888bf106045425d712db0",
+	"_publish_hash": "sha256:175a4874188cb87e6ffda6617680dec6cd063522d106bf3a809d517d34bb0424",
+	"_publish_commit": "main:e27ce9e28ca398bcf69ecda230baec726899a2cc",
 	"_npm_package_name": "joplin-plugin-apollo"
 }
