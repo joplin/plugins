@@ -127,7 +127,7 @@
 			"createdAt": "2021-08-11T19:32:15Z"
 		},
 		"1.0.5": {
-			"downloadCount": 1133,
+			"downloadCount": 1134,
 			"createdAt": "2021-12-05T17:04:15Z"
 		}
 	},
@@ -157,7 +157,7 @@
 			"createdAt": "2021-08-05T18:05:49Z"
 		},
 		"1.0.1": {
-			"downloadCount": 975,
+			"downloadCount": 976,
 			"createdAt": "2021-08-12T20:32:24Z"
 		}
 	},
@@ -213,7 +213,7 @@
 			"createdAt": "2021-11-21T17:04:25Z"
 		},
 		"1.1.4": {
-			"downloadCount": 573,
+			"downloadCount": 574,
 			"createdAt": "2021-12-22T11:08:50Z"
 		}
 	},
@@ -705,7 +705,7 @@
 			"createdAt": "2021-10-17T00:03:43Z"
 		},
 		"1.0.5": {
-			"downloadCount": 965,
+			"downloadCount": 967,
 			"createdAt": "2021-12-06T22:34:22Z"
 		}
 	},
@@ -1183,7 +1183,7 @@
 			"createdAt": "2022-01-06T04:35:03Z"
 		},
 		"2.4.1": {
-			"downloadCount": 278,
+			"downloadCount": 279,
 			"createdAt": "2022-01-06T05:05:00Z"
 		}
 	},
@@ -1521,7 +1521,7 @@
 			"createdAt": "2022-01-07T22:34:57Z"
 		},
 		"1.1.0": {
-			"downloadCount": 12,
+			"downloadCount": 13,
 			"createdAt": "2022-01-14T17:35:05Z"
 		}
 	},
@@ -1537,6 +1537,10 @@
 		"1.1.1": {
 			"downloadCount": 85,
 			"createdAt": "2021-12-30T13:04:34Z"
+		},
+		"1.2.0": {
+			"downloadCount": 1,
+			"createdAt": "2022-01-15T03:35:13Z"
 		}
 	},
 	"com.github.paperless.file.importer": {
@@ -1597,13 +1601,13 @@
 			"createdAt": "2022-01-07T07:05:04Z"
 		},
 		"1.0.7-rc10": {
-			"downloadCount": 24,
+			"downloadCount": 25,
 			"createdAt": "2022-01-08T00:05:16Z"
 		}
 	},
 	"io.xargs.JoplinPluginAutoTag": {
 		"1.0.3-rc7": {
-			"downloadCount": 14,
+			"downloadCount": 15,
 			"createdAt": "2022-01-08T07:05:07Z"
 		}
 	},
