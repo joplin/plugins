@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "io.github.makaanneo.Athena",
 	"app_min_version": "2.5",
-	"version": "1.3.0",
+	"version": "1.4.0",
 	"name": "Athena",
 	"description": "Import files in import folder into joplin notes (PDF text in note comment, no OCR)",
 	"author": "makaanneo",
@@ -15,7 +15,7 @@
 		"pdf",
 		"athena"
 	],
-	"_publish_hash": "sha256:6a1e53f6a50ceb950f095eb75b241dcd2be768e4bccadc2e605baea2066eaeef",
-	"_publish_commit": "main:e4b4c7a6a1f0e0b2a1d575448bb12f1d145802b8",
+	"_publish_hash": "sha256:4d886f8453bf6e2a36add7fa48a06b2e1673a95ac233dc73b3db524910d59363",
+	"_publish_commit": "main:8ab0450b3bfee9099cd3d135bc33a0673c0bb5b6",
 	"_npm_package_name": "joplin-plugin-athena"
 }
