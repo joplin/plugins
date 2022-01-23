@@ -285,7 +285,7 @@
 	},
 	"joplin.plugin.anki-sync": {
 		"1.0.0": {
-			"downloadCount": 317,
+			"downloadCount": 318,
 			"createdAt": "2021-06-01T08:30:52Z"
 		}
 	},
@@ -705,7 +705,7 @@
 			"createdAt": "2021-10-17T00:03:43Z"
 		},
 		"1.0.5": {
-			"downloadCount": 1174,
+			"downloadCount": 1175,
 			"createdAt": "2021-12-06T22:34:22Z"
 		}
 	},
@@ -885,6 +885,10 @@
 		"1.0.0": {
 			"downloadCount": 6,
 			"createdAt": "2022-01-23T07:05:05Z"
+		},
+		"1.1.0": {
+			"downloadCount": 0,
+			"createdAt": "2022-01-23T16:05:11Z"
 		}
 	},
 	"com.coderrsid.pasteSpecial": {
@@ -1045,7 +1049,7 @@
 			"createdAt": "2021-11-29T12:04:23Z"
 		},
 		"2.0.4": {
-			"downloadCount": 827,
+			"downloadCount": 828,
 			"createdAt": "2021-11-30T12:04:31Z"
 		}
 	},
@@ -1273,7 +1277,7 @@
 			"createdAt": "2021-11-11T12:34:32Z"
 		},
 		"1.2.2": {
-			"downloadCount": 309,
+			"downloadCount": 310,
 			"createdAt": "2021-11-30T12:04:30Z"
 		}
 	},
