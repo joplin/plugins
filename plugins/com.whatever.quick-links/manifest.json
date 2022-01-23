@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "com.whatever.quick-links",
 	"app_min_version": "1.8.1",
-	"version": "1.2.2",
+	"version": "1.2.3",
 	"name": "Quick Links",
 	"description": "Create links to other notes",
 	"author": "Roman Musin",
 	"homepage_url": "https://discourse.joplinapp.org/t/quick-links-plugin/14214",
 	"repository_url": "https://github.com/roman-r-m/joplin-plugin-quick-links",
 	"keywords": [],
-	"_publish_hash": "sha256:d7e3ed3d1c00236a511f1f2191dcc6d5934d0e1a2caeddb1f5f1a43f10341644",
-	"_publish_commit": "master:e162c65e8c81f215fcf1c5d5575f097fd0396b59",
+	"_publish_hash": "sha256:3c5e5eeaebcec8999911c423764d2a0d8269f827d726a4122cdc396c03d4e593",
+	"_publish_commit": "master:f4e4f14e1bbcd6aa818089692eadd3da7cbd6525",
 	"_npm_package_name": "joplin-plugin-quick-links"
 }
