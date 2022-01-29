@@ -99,7 +99,7 @@
 			"createdAt": "2021-08-05T20:05:59Z"
 		},
 		"1.2.3": {
-			"downloadCount": 352,
+			"downloadCount": 353,
 			"createdAt": "2022-01-23T22:35:10Z"
 		}
 	},
@@ -221,7 +221,7 @@
 			"createdAt": "2021-11-21T17:04:25Z"
 		},
 		"1.1.4": {
-			"downloadCount": 849,
+			"downloadCount": 850,
 			"createdAt": "2021-12-22T11:08:50Z"
 		}
 	},
@@ -713,7 +713,7 @@
 			"createdAt": "2021-10-17T00:03:43Z"
 		},
 		"1.0.5": {
-			"downloadCount": 1338,
+			"downloadCount": 1339,
 			"createdAt": "2021-12-06T22:34:22Z"
 		}
 	},
@@ -911,7 +911,7 @@
 			"createdAt": "2022-01-23T17:05:17Z"
 		},
 		"1.2.3": {
-			"downloadCount": 35,
+			"downloadCount": 36,
 			"createdAt": "2022-01-23T17:35:08Z"
 		}
 	},
@@ -1217,6 +1217,10 @@
 		"2.4.1": {
 			"downloadCount": 611,
 			"createdAt": "2022-01-06T05:05:00Z"
+		},
+		"3.0.0": {
+			"downloadCount": 1,
+			"createdAt": "2022-01-29T22:35:14Z"
 		}
 	},
 	"org.joplinapp.plugins.Victor": {
@@ -1729,7 +1733,7 @@
 	},
 	"com.remove.images.from.note": {
 		"0.0.1": {
-			"downloadCount": 4,
+			"downloadCount": 5,
 			"createdAt": "2022-01-29T12:35:11Z"
 		}
 	}
