@@ -99,7 +99,7 @@
 			"createdAt": "2021-08-05T20:05:59Z"
 		},
 		"1.2.3": {
-			"downloadCount": 395,
+			"downloadCount": 396,
 			"createdAt": "2022-01-23T22:35:10Z"
 		}
 	},
@@ -191,7 +191,7 @@
 			"createdAt": "2021-10-09T14:03:57Z"
 		},
 		"1.5.5": {
-			"downloadCount": 120,
+			"downloadCount": 122,
 			"createdAt": "2022-01-26T18:06:12Z"
 		}
 	},
@@ -281,7 +281,7 @@
 			"createdAt": "2021-06-01T08:30:51Z"
 		},
 		"2.0.1": {
-			"downloadCount": 1323,
+			"downloadCount": 1324,
 			"createdAt": "2021-09-08T14:32:32Z"
 		}
 	},
@@ -607,6 +607,10 @@
 		"1.0.3": {
 			"downloadCount": 537,
 			"createdAt": "2021-11-16T15:04:21Z"
+		},
+		"1.0.4": {
+			"downloadCount": 1,
+			"createdAt": "2022-01-31T04:35:17Z"
 		}
 	},
 	"joplin-plugin-conflict-resolution": {
@@ -849,7 +853,7 @@
 	},
 	"com.shantanugoel.JoplinCMLineNumbersPlugin": {
 		"2.0.0": {
-			"downloadCount": 967,
+			"downloadCount": 969,
 			"createdAt": "2021-08-23T10:02:37Z"
 		}
 	},
@@ -1685,7 +1689,7 @@
 	},
 	"de.habelt.CodeSection": {
 		"1.0.3": {
-			"downloadCount": 141,
+			"downloadCount": 142,
 			"createdAt": "2022-01-08T15:35:28Z"
 		}
 	},
@@ -1737,7 +1741,7 @@
 	},
 	"com.remove.images.from.note": {
 		"0.0.1": {
-			"downloadCount": 13,
+			"downloadCount": 14,
 			"createdAt": "2022-01-29T12:35:11Z"
 		}
 	}
