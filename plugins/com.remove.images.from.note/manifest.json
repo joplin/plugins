@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.remove.images.from.note",
 	"app_min_version": "2.6",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"name": "Remove Images",
 	"description": "Allows to remove images from selected note",
 	"author": "mak2002",
@@ -12,7 +12,7 @@
 		"joplin-plugin",
 		"image"
 	],
-	"_publish_hash": "sha256:ae1879f32538dead9688f0f37de57efd1486252d2e9d7dbda30031326d44a16f",
-	"_publish_commit": "master:d0d2106752966d3d827430540ad65105fe8f389a",
+	"_publish_hash": "sha256:d761aefe332ae507383119172e21b5f824b5088785d64b927afe43950c62f13e",
+	"_publish_commit": "master:72fed41ea4fa40107fd458218020b64cf58f701a",
 	"_npm_package_name": "joplin-plugin-remove-images"
 }
