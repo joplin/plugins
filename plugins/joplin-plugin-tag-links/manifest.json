@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "joplin-plugin-tag-links",
+	"app_min_version": "1.7",
+	"version": "0.1.0",
+	"name": "Tag Links",
+	"description": "Insert the link of tags at the footer automatically",
+	"author": "Ben Lau",
+	"homepage_url": "https://github.com/benlau/joplin-plugin-tag-links",
+	"repository_url": "https://github.com/benlau/joplin-plugin-tag-links",
+	"keywords": [],
+	"_publish_hash": "sha256:8a6f3fb728f1dcda975d89218f7aa9b2501c213e551c9cf48845ca070d50e541",
+	"_publish_commit": "main:af5b22e64e546f6d2b4c397197d8d670c61eefed",
+	"_npm_package_name": "joplin-plugin-tag-links"
+}
