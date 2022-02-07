@@ -1727,5 +1727,24 @@
 		"_publish_hash": "sha256:947a2bbf32abf83cec51f9ed468ec3780f207eaa4c312547bb43aa286ca27d38",
 		"_publish_commit": "main:1844f6148fd97e19996abd5e84ceed3221744901",
 		"_npm_package_name": "joplin-plugin-life-calendar"
+	},
+	"de.habelt.CsvImport": {
+		"manifest_version": 1,
+		"id": "de.habelt.CsvImport",
+		"app_min_version": "2.2",
+		"version": "1.0.0",
+		"name": "Csv Import",
+		"description": "Imports a Csv file or pastes a Csv text from Clipboard as table",
+		"author": "Jürgen Habelt",
+		"homepage_url": "https://github.com/Mick2nd/CsvImport#readme",
+		"repository_url": "https://github.com/Mick2nd/CsvImport",
+		"keywords": [
+			"joplin-plugin",
+			"import-plugin",
+			"csv-import"
+		],
+		"_publish_hash": "sha256:e74cd32a7e5112ad137216bf11e933a28675d8b427b90928413606d17c612454",
+		"_publish_commit": "master:cfe291df63ca52cd667bd84ac03be6567ea45c2b",
+		"_npm_package_name": "joplin-plugin-csv-import"
 	}
 }
