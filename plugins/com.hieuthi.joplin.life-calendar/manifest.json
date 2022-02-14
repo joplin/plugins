@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.hieuthi.joplin.life-calendar",
 	"app_min_version": "2.2",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"name": "Life Calendar",
 	"description": "Your Life in Week Plugin for Joplin",
 	"author": "Hieu-Thi Luong",
@@ -15,7 +15,7 @@
 		"life",
 		"timeline"
 	],
-	"_publish_hash": "sha256:947a2bbf32abf83cec51f9ed468ec3780f207eaa4c312547bb43aa286ca27d38",
-	"_publish_commit": "main:1844f6148fd97e19996abd5e84ceed3221744901",
+	"_publish_hash": "sha256:d5c0a77479e17aae7ac47ecf2a6f7b2b84c0c2f3be397c1ea34ac0c82c5949bf",
+	"_publish_commit": "main:195a894259b9ca521a343fb0215074b5e4b2ad21",
 	"_npm_package_name": "joplin-plugin-life-calendar"
 }
