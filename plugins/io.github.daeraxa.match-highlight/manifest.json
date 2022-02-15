@@ -1,0 +1,22 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.daeraxa.match-highlight",
+	"app_min_version": "2.6",
+	"version": "0.1.0",
+	"name": "Highlight Matching",
+	"description": "Marks words that match the highlighted selection",
+	"author": "Daeraxa",
+	"homepage_url": "https://discourse.joplinapp.org/t/highlight-matching-plugin/23747",
+	"repository_url": "https://github.com/Daeraxa/joplin-plugin-match-highlight",
+	"keywords": [
+		"highlight",
+		"match-highlight",
+		"highlighting",
+		"duplicate",
+		"matching",
+		"match"
+	],
+	"_publish_hash": "sha256:ac2d8055e57ea776f3bddb9bced91f49b4a1e69c90235c7c116c932af0563b4d",
+	"_publish_commit": "main:734a8edd19dae0da2f8870216b0c7fa0f4c570c6",
+	"_npm_package_name": "joplin-plugin-highlight-matching"
+}
