@@ -15,7 +15,7 @@
 		"todo",
 		"project"
 	],
-	"_publish_hash": "sha256:38525feda35cd117c10fa2a8dc5bbfbfe154f53e3ba2eabe2df8031a94b056c4",
-	"_publish_commit": "dev:f36a5735c8375cca20539f4f32417577eb690aa4",
+	"_publish_hash": "sha256:7b0aaa0eeb28620f1cab3867cfd264eb909014b9a2cc8adecc97860285f634e5",
+	"_publish_commit": "dev:761553203aca247b8da414317a613e03f9276e2e",
 	"_npm_package_name": "joplin-plugin-kanban"
 }
