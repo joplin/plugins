@@ -33,6 +33,10 @@
 		"2.4.0": {
 			"downloadCount": 406,
 			"createdAt": "2021-12-27T20:34:09Z"
+		},
+		"2.5.0": {
+			"downloadCount": 0,
+			"createdAt": "2022-03-12T18:35:31Z"
 		}
 	},
 	"com.github.marc0l92.joplin-plugin-jira-issue": {
@@ -319,7 +323,7 @@
 			"createdAt": "2021-06-01T08:30:53Z"
 		},
 		"1.3.0": {
-			"downloadCount": 4031,
+			"downloadCount": 4032,
 			"createdAt": "2021-08-12T20:32:24Z"
 		}
 	},
@@ -385,7 +389,7 @@
 			"createdAt": "2021-08-19T20:33:00Z"
 		},
 		"1.2.1": {
-			"downloadCount": 3252,
+			"downloadCount": 3253,
 			"createdAt": "2021-08-20T21:03:06Z"
 		}
 	},
@@ -459,7 +463,7 @@
 			"createdAt": "2021-12-05T07:04:22Z"
 		},
 		"1.3.1": {
-			"downloadCount": 2219,
+			"downloadCount": 2220,
 			"createdAt": "2022-01-01T13:04:41Z"
 		}
 	},
@@ -483,7 +487,7 @@
 			"createdAt": "2021-08-21T16:03:13Z"
 		},
 		"0.5.3": {
-			"downloadCount": 1797,
+			"downloadCount": 1798,
 			"createdAt": "2021-10-04T06:03:23Z"
 		}
 	},
@@ -557,7 +561,7 @@
 			"createdAt": "2021-12-28T10:04:42Z"
 		},
 		"0.8.3": {
-			"downloadCount": 2401,
+			"downloadCount": 2403,
 			"createdAt": "2021-12-28T22:04:30Z"
 		}
 	},
@@ -1175,7 +1179,7 @@
 			"createdAt": "2021-12-22T15:34:20Z"
 		},
 		"1.9.0": {
-			"downloadCount": 246,
+			"downloadCount": 248,
 			"createdAt": "2022-02-21T21:35:11Z"
 		}
 	},
@@ -1411,7 +1415,7 @@
 			"createdAt": "2021-12-06T22:34:25Z"
 		},
 		"1.6.0": {
-			"downloadCount": 397,
+			"downloadCount": 398,
 			"createdAt": "2021-12-24T23:04:30Z"
 		}
 	},
@@ -1781,7 +1785,7 @@
 			"createdAt": "2022-01-08T15:35:28Z"
 		},
 		"1.0.4": {
-			"downloadCount": 50,
+			"downloadCount": 51,
 			"createdAt": "2022-03-06T16:05:45Z"
 		}
 	},
@@ -1827,7 +1831,7 @@
 			"createdAt": "2022-01-14T23:35:17Z"
 		},
 		"1.1.0": {
-			"downloadCount": 78,
+			"downloadCount": 79,
 			"createdAt": "2022-01-18T17:37:56Z"
 		}
 	},
