@@ -1798,5 +1798,25 @@
 		"_publish_hash": "sha256:79fc889daaf1193f156fdd311103d76d5f71e2cc22ab56398bf5159821a73bd5",
 		"_publish_commit": "main:ea9edf97b445c2fbff44460f3d64a3aeee2ba2fb",
 		"_npm_package_name": "joplin-plugin-emoji"
+	},
+	"sadmice.TextColorize": {
+		"manifest_version": 1,
+		"id": "sadmice.TextColorize",
+		"app_min_version": "2.7",
+		"version": "1.0.0",
+		"name": "Text Colorize",
+		"description": "Easily apply color to text.",
+		"author": "Sadmice",
+		"homepage_url": "https://github.com/sadmice/Joplin-Plugin-Text-Colorize",
+		"repository_url": "https://github.com/sadmice/Joplin-Plugin-Text-Colorize",
+		"keywords": [
+			"text",
+			"color",
+			"joplin",
+			"plugin"
+		],
+		"_publish_hash": "sha256:636055d09ace2d746376d89c64fbb30cb97eae1a449217bb3c5ba4be10268f5d",
+		"_publish_commit": "main:5b294dab396f60ec5d5189549c58d2db162b3a11",
+		"_npm_package_name": "joplin-plugin-textcolorize"
 	}
 }
