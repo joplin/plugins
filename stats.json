@@ -369,7 +369,7 @@
 	},
 	"joplin.plugin.spoiler.cards": {
 		"1.0.3": {
-			"downloadCount": 1326,
+			"downloadCount": 1327,
 			"createdAt": "2021-06-01T08:31:03Z"
 		}
 	},
@@ -745,7 +745,7 @@
 			"createdAt": "2021-12-06T22:34:22Z"
 		},
 		"1.0.7": {
-			"downloadCount": 449,
+			"downloadCount": 451,
 			"createdAt": "2022-02-26T14:35:29Z"
 		}
 	},
@@ -791,7 +791,7 @@
 			"createdAt": "2021-10-09T19:03:48Z"
 		},
 		"2.2.1": {
-			"downloadCount": 1751,
+			"downloadCount": 1752,
 			"createdAt": "2022-01-25T21:34:55Z"
 		}
 	},
@@ -1183,7 +1183,7 @@
 			"createdAt": "2021-12-22T15:34:20Z"
 		},
 		"1.9.0": {
-			"downloadCount": 253,
+			"downloadCount": 254,
 			"createdAt": "2022-02-21T21:35:11Z"
 		}
 	},
@@ -1229,7 +1229,7 @@
 			"createdAt": "2021-10-26T07:03:42Z"
 		},
 		"0.3.0": {
-			"downloadCount": 1402,
+			"downloadCount": 1403,
 			"createdAt": "2021-10-31T09:34:10Z"
 		}
 	},
@@ -1533,7 +1533,7 @@
 			"createdAt": "2022-03-13T05:05:32Z"
 		},
 		"0.6.0": {
-			"downloadCount": 6,
+			"downloadCount": 7,
 			"createdAt": "2022-03-13T16:36:07Z"
 		}
 	},
@@ -1911,6 +1911,10 @@
 		"0.1.0": {
 			"downloadCount": 239,
 			"createdAt": "2022-02-26T19:06:42Z"
+		},
+		"0.1.1": {
+			"downloadCount": 1,
+			"createdAt": "2022-03-13T20:35:20Z"
 		}
 	},
 	"retr0ve.EmojiPlugin": {
@@ -1921,7 +1925,7 @@
 	},
 	"sadmice.TextColorize": {
 		"1.0.0": {
-			"downloadCount": 14,
+			"downloadCount": 15,
 			"createdAt": "2022-03-12T20:35:54Z"
 		}
 	}
