@@ -79,7 +79,7 @@
 			"createdAt": "2021-06-01T08:30:39Z"
 		},
 		"1.0.3": {
-			"downloadCount": 225,
+			"downloadCount": 226,
 			"createdAt": "2021-08-26T15:32:52Z"
 		}
 	},
@@ -711,6 +711,10 @@
 		"0.9.0": {
 			"downloadCount": 1,
 			"createdAt": "2022-03-19T06:35:07Z"
+		},
+		"0.10.0": {
+			"downloadCount": 1,
+			"createdAt": "2022-03-19T07:05:01Z"
 		}
 	},
 	"joplin.plugin.quick.html.tags": {
