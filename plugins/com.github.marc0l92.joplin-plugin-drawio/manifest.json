@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "com.github.marc0l92.joplin-plugin-drawio",
 	"app_min_version": "2.2",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"name": "Draw.io",
 	"description": "Draw.io (aka Diagram.net) integration for Joplin",
 	"author": "marc0l92",
 	"homepage_url": "https://github.com/marc0l92/joplin-plugin-drawio#readme",
 	"repository_url": "https://github.com/marc0l92/joplin-plugin-drawio",
 	"keywords": [],
-	"_publish_hash": "sha256:848c44c822ae6186de053a4320f71e71eba2d50aeab03f313f7dd29d642827ae",
-	"_publish_commit": "master:c3088a8c0a7fa86932b172045e896ed19c6f7d70",
+	"_publish_hash": "sha256:4d263b61152534fbae2a4741cdfa6ea03e9e5f9ef95cbd6782f71ac15d847d2e",
+	"_publish_commit": "master:990a1b9dae459189039ec739764445656c0aa82d",
 	"_npm_package_name": "joplin-plugin-drawio"
 }
