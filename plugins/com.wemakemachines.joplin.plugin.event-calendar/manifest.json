@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "com.wemakemachines.joplin.plugin.event-calendar",
+	"app_min_version": "2.7",
+	"version": "0.1.0",
+	"name": "Event Calendar",
+	"description": "A simple event calendar",
+	"author": "Franco Speziali",
+	"homepage_url": "https://github.com/WeMakeMachines/joplin-plugin-event-calendar",
+	"repository_url": "https://github.com/WeMakeMachines/joplin-plugin-event-calendar",
+	"keywords": [],
+	"_publish_hash": "sha256:e6ab45f26ecf861665b0e15daddc32dd31176e5fe69a12a03259c4317926d408",
+	"_publish_commit": "master:88a21c5cf2aa4df25a02ad67a727a4ecd94d51d4",
+	"_npm_package_name": "joplin-plugin-event-calendar"
+}
