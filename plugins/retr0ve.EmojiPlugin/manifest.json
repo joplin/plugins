@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "retr0ve.EmojiPlugin",
 	"app_min_version": "2.7",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Emoji",
 	"description": "A emoji picker.",
 	"author": "Retr0ve",
-	"homepage_url": "",
+	"homepage_url": "https://github.com/Retr0ve/joplin-plugin-emoji",
 	"repository_url": "https://github.com/Retr0ve/joplin-plugin-emoji",
 	"keywords": [],
-	"_publish_hash": "sha256:79fc889daaf1193f156fdd311103d76d5f71e2cc22ab56398bf5159821a73bd5",
-	"_publish_commit": "main:ea9edf97b445c2fbff44460f3d64a3aeee2ba2fb",
+	"_publish_hash": "sha256:fc3c12f58dd48ab19cf0be1d709edeb47b55e6bdeb4eeaedbb997cacd595468a",
+	"_publish_commit": "main:c52b543b12cae3f02d9b285e8cab63ff583ab33b",
 	"_npm_package_name": "joplin-plugin-emoji"
 }
