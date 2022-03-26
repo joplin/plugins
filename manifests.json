@@ -1838,5 +1838,20 @@
 		"_publish_hash": "sha256:e6ab45f26ecf861665b0e15daddc32dd31176e5fe69a12a03259c4317926d408",
 		"_publish_commit": "master:88a21c5cf2aa4df25a02ad67a727a4ecd94d51d4",
 		"_npm_package_name": "joplin-plugin-event-calendar"
+	},
+	"joplin.plugin.alondmnt.history-panel": {
+		"manifest_version": 1,
+		"id": "joplin.plugin.alondmnt.history-panel",
+		"app_min_version": "2.7",
+		"version": "0.2.0",
+		"name": "History Panel",
+		"description": "Joplin note browsing history",
+		"author": "alondmnt",
+		"homepage_url": "https://github.com/alondmnt/joplin-plugin-history-panel#readme",
+		"repository_url": "https://github.com/alondmnt/joplin-plugin-history-panel",
+		"keywords": [],
+		"_publish_hash": "sha256:d6cc4fc60534e3237c8f20d0223f87c88e2816848c5b0d12f1b88b8b4bb58759",
+		"_publish_commit": "main:3d3fc2a0b11599ec69a0929c12a3aab0034f4973",
+		"_npm_package_name": "joplin-plugin-history-panel"
 	}
 }
