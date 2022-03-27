@@ -1773,7 +1773,7 @@
 		"manifest_version": 1,
 		"id": "com.github.marc0l92.joplin-plugin-drawio",
 		"app_min_version": "2.2",
-		"version": "1.4.0",
+		"version": "2.0.0",
 		"name": "Draw.io",
 		"description": "Draw.io (aka Diagram.net) integration for Joplin",
 		"author": "marc0l92",
@@ -1785,8 +1785,8 @@
 			"diagram.net",
 			"diagram"
 		],
-		"_publish_hash": "sha256:821464bea795b4cc86cf159d728667a71f313377b26038157ccd186fa0e15fd1",
-		"_publish_commit": "master:904a9388a1e7ca637a7741dcb065cc48f3053bb8",
+		"_publish_hash": "sha256:72be76ff83142f8fcf9c42b1ad4bbd23e6b7b9c5cae67ee9f96c8383997695e4",
+		"_publish_commit": "master:a1603c596f8f64839b1ecc46630316074b505f9d",
 		"_npm_package_name": "joplin-plugin-drawio"
 	},
 	"retr0ve.EmojiPlugin": {
