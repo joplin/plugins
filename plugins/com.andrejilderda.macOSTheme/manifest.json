@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.andrejilderda.macOSTheme",
 	"app_min_version": "2.2.4",
-	"version": "1.3.0",
+	"version": "1.3.1",
 	"name": "macOS theme",
 	"description": "Native looking macOS theme for Joplin. Also works on non-macOS devices.",
 	"author": "Andre Jilderda",
@@ -15,7 +15,7 @@
 		"css",
 		"macos"
 	],
-	"_publish_hash": "sha256:4b81857a1714e1c4a5b0a47e4757f32d519e3c4996d21f9ddf090c1951322a62",
-	"_publish_commit": "v1.3.0:4a0141dbceb05cd5dcc2350d34574317be7fc67c",
+	"_publish_hash": "sha256:43b5b867518a41c941bbbb5eba44e7e2f5623f513305a3bc174984427207c43b",
+	"_publish_commit": "fix/remove-background-color-of-sort-order-button-in-dark-mode:e0879b46e7c592bbb948721181eb342829aa7024",
 	"_npm_package_name": "joplin-plugin-macos-theme"
 }
