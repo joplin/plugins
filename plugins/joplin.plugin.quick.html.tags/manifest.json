@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.quick.html.tags",
 	"app_min_version": "2.1",
-	"version": "0.1.1",
+	"version": "0.2.0",
 	"name": "Quick HTML tags",
 	"description": "Create quick HTML tags.",
 	"author": "Martin Korelič",
@@ -15,7 +15,7 @@
 		"joplin",
 		"plugin"
 	],
-	"_publish_hash": "sha256:d6a8f7e0d73aa046d60eb2e03bfb2775755f50f8a7aae2fa9dc6ee9ddc358a00",
-	"_publish_commit": "main:7fec125136c40fca19fba79a61820ba408e3a5a0",
+	"_publish_hash": "sha256:4765eba4f4a9949ad2455b1b84f0261540a64cb42137aa678bc2a91f92f723e1",
+	"_publish_commit": "main:1ba3b48a0fa507459e16d16ba2f22aca4f14259f",
 	"_npm_package_name": "joplin-plugin-quick-html-tags"
 }
