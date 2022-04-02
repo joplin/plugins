@@ -1853,5 +1853,20 @@
 		"_publish_hash": "sha256:7ad5e46d8dfdd3e5cf4b195a22b96327705859f14ae0cca851c396f413de2fb4",
 		"_publish_commit": "main:1e7026af370b05a4f2437312793ead2ac1eac364",
 		"_npm_package_name": "joplin-plugin-history-panel"
+	},
+	"joplin-plugin-dddot": {
+		"manifest_version": 1,
+		"id": "joplin-plugin-dddot",
+		"app_min_version": "2.6",
+		"version": "0.1.0",
+		"name": "Joplin DDDot",
+		"description": "Recent notes, shortcuts, scratchpad, and .... in a single sidebar.",
+		"author": "Ben Lau",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [],
+		"_publish_hash": "sha256:6b856d94f904c310427c222b066e8902c0a10a4c0703671dd30291956ef1c2dc",
+		"_publish_commit": "master:51a83570e49ab248656ae5617014966bee4acdd9",
+		"_npm_package_name": "joplin-plugin-joplin-dddot"
 	}
 }
