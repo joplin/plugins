@@ -1843,15 +1843,15 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.alondmnt.history-panel",
 		"app_min_version": "2.7",
-		"version": "0.2.2",
+		"version": "0.3.0",
 		"name": "History Panel",
 		"description": "Joplin note browsing history",
 		"author": "alondmnt",
 		"homepage_url": "https://github.com/alondmnt/joplin-plugin-history-panel#readme",
 		"repository_url": "https://github.com/alondmnt/joplin-plugin-history-panel",
 		"keywords": [],
-		"_publish_hash": "sha256:7ad5e46d8dfdd3e5cf4b195a22b96327705859f14ae0cca851c396f413de2fb4",
-		"_publish_commit": "main:1e7026af370b05a4f2437312793ead2ac1eac364",
+		"_publish_hash": "sha256:dc1133819ff0a084bb5ec4bbcb4d33c11083cc1fd6ccd71cf296ace569784939",
+		"_publish_commit": "main:03c13085247cf6dfa0f899669439be7cffd99c0d",
 		"_npm_package_name": "joplin-plugin-history-panel"
 	},
 	"joplin-plugin-dddot": {
