@@ -111,7 +111,7 @@
 			"createdAt": "2021-08-05T20:05:59Z"
 		},
 		"1.2.3": {
-			"downloadCount": 2500,
+			"downloadCount": 2501,
 			"createdAt": "2022-01-23T22:35:10Z"
 		}
 	},
@@ -257,7 +257,7 @@
 			"createdAt": "2022-03-22T00:04:59Z"
 		},
 		"1.4.0": {
-			"downloadCount": 417,
+			"downloadCount": 418,
 			"createdAt": "2022-03-30T17:34:47Z"
 		}
 	},
@@ -281,7 +281,7 @@
 			"createdAt": "2021-08-31T17:02:32Z"
 		},
 		"3.0.3": {
-			"downloadCount": 3187,
+			"downloadCount": 3188,
 			"createdAt": "2021-08-31T18:02:36Z"
 		}
 	},
@@ -369,7 +369,7 @@
 	},
 	"joplin.plugin.forcewake.tags-generator": {
 		"1.0.0": {
-			"downloadCount": 1497,
+			"downloadCount": 1498,
 			"createdAt": "2021-06-01T08:30:57Z"
 		}
 	},
@@ -393,7 +393,7 @@
 			"createdAt": "2022-03-29T22:05:01Z"
 		},
 		"1.0.5": {
-			"downloadCount": 177,
+			"downloadCount": 178,
 			"createdAt": "2022-03-31T10:06:15Z"
 		}
 	},
@@ -1235,7 +1235,7 @@
 			"createdAt": "2021-12-22T15:34:20Z"
 		},
 		"1.9.0": {
-			"downloadCount": 570,
+			"downloadCount": 571,
 			"createdAt": "2022-02-21T21:35:11Z"
 		}
 	},
@@ -1719,7 +1719,7 @@
 			"createdAt": "2022-01-03T06:04:42Z"
 		},
 		"1.1.1": {
-			"downloadCount": 275,
+			"downloadCount": 276,
 			"createdAt": "2022-01-03T07:34:40Z"
 		}
 	},
@@ -1969,7 +1969,7 @@
 	},
 	"joplin-plugin-tag-links": {
 		"0.1.0": {
-			"downloadCount": 173,
+			"downloadCount": 174,
 			"createdAt": "2022-02-01T17:05:07Z"
 		}
 	},
@@ -1985,7 +1985,7 @@
 	},
 	"io.github.daeraxa.match-highlight": {
 		"0.1.0": {
-			"downloadCount": 247,
+			"downloadCount": 248,
 			"createdAt": "2022-02-15T14:05:07Z"
 		}
 	},
@@ -2111,6 +2111,10 @@
 		"1.0.1": {
 			"downloadCount": 36,
 			"createdAt": "2022-04-11T07:35:05Z"
+		},
+		"1.0.2": {
+			"downloadCount": 0,
+			"createdAt": "2022-04-14T04:35:19Z"
 		}
 	}
 }
