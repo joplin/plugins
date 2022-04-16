@@ -1808,7 +1808,7 @@
 		"manifest_version": 1,
 		"id": "sadmice.TextColorize",
 		"app_min_version": "2.7",
-		"version": "1.1.0",
+		"version": "1.2.0",
 		"name": "Text Colorize",
 		"description": "Easily apply color to text.",
 		"author": "Sadmice",
@@ -1820,8 +1820,8 @@
 			"joplin",
 			"plugin"
 		],
-		"_publish_hash": "sha256:99ea01d81b5886887a4ce91bd2fe546ccee0a3bc2283bf64447908a10c3d5bb9",
-		"_publish_commit": "main:dba7ca6af01d38c13387a3b12bee870595779da4",
+		"_publish_hash": "sha256:41fed6857c6f9bfc4e5894e2363b66ff4cfc535518675b238003651d06bab659",
+		"_publish_commit": "main:1cf86e86154b14125378aaf26e3e254ce99cad5c",
 		"_npm_package_name": "joplin-plugin-textcolorize"
 	},
 	"com.wemakemachines.joplin.plugin.event-calendar": {
