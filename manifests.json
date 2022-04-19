@@ -1886,5 +1886,20 @@
 		"_publish_hash": "sha256:64554406156041fdef74b330b3640f3cf296a2170d893625e90bc7098e994b09",
 		"_publish_commit": "master:6924b528c72452ec0ce454cad06d46ea6b859244",
 		"_npm_package_name": "joplin-plugin-inline-todo"
+	},
+	"com.programming-emu.DependencyGraph": {
+		"manifest_version": 1,
+		"id": "com.programming-emu.DependencyGraph",
+		"app_min_version": "2.7",
+		"version": "1.0.0",
+		"name": "Dependency graph",
+		"description": "Visualizes direct and indirect dependencies of a note as a graph.",
+		"author": "Vincent Nys",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [],
+		"_publish_hash": "sha256:44e40f659d526314db6a02b6e0ed5b988626d826cb2523436c3ac07dde5af516",
+		"_publish_commit": "graphviz-wasm:c3fcbff2914b83a0c174c8cc5d8efa38c567b988",
+		"_npm_package_name": "joplin-plugin-dependency-graph"
 	}
 }
