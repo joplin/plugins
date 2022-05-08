@@ -1,0 +1,25 @@
+{
+	"manifest_version": 1,
+	"id": "aa.asrient.backstage",
+	"app_min_version": "2.7",
+	"version": "1.0.0",
+	"name": "Backstage",
+	"description": "Scan and import files directly from your phone",
+	"author": "Asrient",
+	"homepage_url": "https://asrient.github.io/backstage",
+	"repository_url": "https://github.com/asrient/backstage",
+	"keywords": [
+		"import",
+		"scan",
+		"files",
+		"images"
+	],
+	"categories": [
+		"files",
+		"productivity",
+		"integrations"
+	],
+	"_publish_hash": "sha256:2a8ccf5e9b6d1457dded3cc94e78bf6f1aa94769db426dfbf43ffb919093bee8",
+	"_publish_commit": "master:ec17fce44ea272d2959a2c0651f069d7ddc3adde",
+	"_npm_package_name": "joplin-plugin-backstage"
+}
