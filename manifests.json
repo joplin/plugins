@@ -1926,5 +1926,21 @@
 		"_publish_hash": "sha256:2a8ccf5e9b6d1457dded3cc94e78bf6f1aa94769db426dfbf43ffb919093bee8",
 		"_publish_commit": "master:ec17fce44ea272d2959a2c0651f069d7ddc3adde",
 		"_npm_package_name": "joplin-plugin-backstage"
+	},
+	"com.septemberhx.Joplin.Enhancement": {
+		"manifest_version": 1,
+		"id": "com.septemberhx.Joplin.Enhancement",
+		"app_min_version": "2.7",
+		"version": "0.5.3",
+		"name": "Enhancement",
+		"description": "Many small enhancement for joplin",
+		"author": "SeptemberHX",
+		"homepage_url": "https://github.com/SeptemberHX/joplin-plugin-enhancement.git",
+		"repository_url": "https://github.com/SeptemberHX/joplin-plugin-enhancement.git",
+		"keywords": [],
+		"categories": [],
+		"_publish_hash": "sha256:fc75f018e7bd73c19f3bfe84d637857aec3bf3a6a33bfd1f60671b18917264bc",
+		"_publish_commit": "master:1cf79c21835b711168c7c64d9a94614958405a15",
+		"_npm_package_name": "joplin-plugin-enhancement"
 	}
 }
