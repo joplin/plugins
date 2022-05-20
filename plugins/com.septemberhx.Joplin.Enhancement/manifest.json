@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.septemberhx.Joplin.Enhancement",
 	"app_min_version": "2.7",
-	"version": "0.5.3",
+	"version": "0.6.1",
 	"name": "Enhancement",
 	"description": "Many small enhancement for joplin",
 	"author": "SeptemberHX",
@@ -10,7 +10,7 @@
 	"repository_url": "https://github.com/SeptemberHX/joplin-plugin-enhancement.git",
 	"keywords": [],
 	"categories": [],
-	"_publish_hash": "sha256:fc75f018e7bd73c19f3bfe84d637857aec3bf3a6a33bfd1f60671b18917264bc",
-	"_publish_commit": "master:1cf79c21835b711168c7c64d9a94614958405a15",
+	"_publish_hash": "sha256:c2f630d403f97358c3b261504bdb21909514d322d80989eeb4ece0e603b9fcf9",
+	"_publish_commit": "master:18c3f6dc0125ac6c9f9974ebb376e0fc479c5946",
 	"_npm_package_name": "joplin-plugin-enhancement"
 }
