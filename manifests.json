@@ -1858,15 +1858,15 @@
 		"manifest_version": 1,
 		"id": "joplin-plugin-dddot",
 		"app_min_version": "2.6",
-		"version": "0.1.3",
+		"version": "0.1.4",
 		"name": "Joplin DDDot",
 		"description": "Recent notes, shortcuts, scratchpad, and .... in a single sidebar.",
 		"author": "Ben Lau",
 		"homepage_url": "https://github.com/benlau/joplin-plugin-dddot",
 		"repository_url": "https://github.com/benlau/joplin-plugin-dddot",
 		"keywords": [],
-		"_publish_hash": "sha256:a775974bc81609cf98fbae4e48c41299c35885f070c2a809f3d466115965f0dc",
-		"_publish_commit": "master:b8452b91ff0ebd432ed908b4688b3856d0df895d",
+		"_publish_hash": "sha256:a54239efaefad766d34aa2cc789877b973e1ca38d64af4a68fe49c47abcb5d77",
+		"_publish_commit": "dev:bf1467414813e7a5d9fce299f574bd36afca08d0",
 		"_npm_package_name": "joplin-plugin-joplin-dddot"
 	},
 	"plugin.calebjohn.todo": {
