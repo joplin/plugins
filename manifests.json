@@ -1979,5 +1979,21 @@
 		"_publish_hash": "sha256:17f082366d61649f92ccb37022460d2d7a28977015624afac04fe8bedeb253bb",
 		"_publish_commit": "master:7e37439126553a97b5cfe446c9e7def1aa68e7ae",
 		"_npm_package_name": "joplin-plugin-font-size-shortcut"
+	},
+	"com.septemberhx.ReadCubePapers": {
+		"manifest_version": 1,
+		"id": "com.septemberhx.ReadCubePapers",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "ReadCube Papers",
+		"description": "Keep syncing with your ReadCube Papers library, help you create a note for one paper and render the paper note with a formatted paper information table, automatically generate markdown style reference, and allow you to insert your annotations into the note",
+		"author": "SeptemberHX",
+		"homepage_url": "https://github.com/SeptemberHX/joplin-plugin-readcube-papers.git",
+		"repository_url": "https://github.com/SeptemberHX/joplin-plugin-readcube-papers.git",
+		"keywords": [],
+		"categories": [],
+		"_publish_hash": "sha256:e5f45f02f116c9267a7730706e49998aca26a5c3ee4a0b9c89a72c9be9d68217",
+		"_publish_commit": "main:2800b201588560275c93a1db473017458cf441a8",
+		"_npm_package_name": "joplin-plugin-readcube-papers"
 	}
 }
