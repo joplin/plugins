@@ -1933,7 +1933,7 @@
 		"manifest_version": 1,
 		"id": "com.septemberhx.Joplin.Enhancement",
 		"app_min_version": "2.7",
-		"version": "0.7.3",
+		"version": "0.8.0",
 		"name": "Enhancement",
 		"description": "Add support for image size, image caption, pseudocode, auto table formatter, and more",
 		"author": "SeptemberHX",
@@ -1941,8 +1941,8 @@
 		"repository_url": "https://github.com/SeptemberHX/joplin-plugin-enhancement.git",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:bd582594fd92de8a101744e258de4f1f9331ddbd4355edb3336c001d68abc5ab",
-		"_publish_commit": "master:d989a2c78837eb24380376d9a32ca107ecc48e5d",
+		"_publish_hash": "sha256:c55c273fb9bf6cf88888017c003ba97c4236aadcbdf8c086b4b5d3caefe2492c",
+		"_publish_commit": "master:6e40fe9d808ebf003cd776cef8ffafd507b39cb4",
 		"_npm_package_name": "joplin-plugin-enhancement"
 	},
 	"joplin.plugin.space-indenter": {
