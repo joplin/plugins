@@ -122,5 +122,5 @@ This repository contains the following plugins:
 | [🏠](https://github.com/sadmice/Joplin-Plugin-Text-Colorize) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/sadmice.TextColorize/plugin.jpl) | Text Colorize | 1.2.0 | Easily apply color to text. | Sadmice |
 | [🏠](https://github.com/Winbee/joplin-turn-to-chart) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/net.gagnepain.turnToChart/plugin.jpl) | turnToChart | 1.6.0 | Transform markdown table into d3js chart | Samuel Gagnepain |
 | [🏠](https://github.com/joplin/plugin-victor#readme) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.Victor/plugin.jpl) | Victor | 1.0.0 | Victor can be used to clear all your data - notes, notebooks, attachments, tags, etc. Convenient to start over. | Laurent Cozic |
-| [🏠](https://discourse.joplinapp.org/t/joplin-white-theme) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/com.github.BeatLink.joplin-plugin-white-theme/plugin.jpl) | White Theme | 1.2.3 | A white theme for joplin | BeatLink |
+| [🏠](https://discourse.joplinapp.org/t/joplin-white-theme) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/com.github.BeatLink.joplin-plugin-white-theme/plugin.jpl) | White Theme | 1.2.4 | A white theme for joplin | BeatLink |
 <!-- PLUGIN_LIST -->
