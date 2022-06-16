@@ -1997,5 +1997,26 @@
 		"_publish_hash": "sha256:e5f45f02f116c9267a7730706e49998aca26a5c3ee4a0b9c89a72c9be9d68217",
 		"_publish_commit": "main:2800b201588560275c93a1db473017458cf441a8",
 		"_npm_package_name": "joplin-plugin-readcube-papers"
+	},
+	"shufo.markdown-prettier": {
+		"manifest_version": 1,
+		"id": "shufo.markdown-prettier",
+		"app_min_version": "2.8",
+		"version": "0.1.0",
+		"name": "Markdown Prettier",
+		"description": "Format your markdown by prettier",
+		"author": "shufo",
+		"homepage_url": "https://github.com/shufo/joplin-plugin-markdown-prettier",
+		"repository_url": "https://github.com/shufo/joplin-plugin-markdown-prettier",
+		"keywords": [
+			"prettier",
+			"formatter"
+		],
+		"categories": [
+			"productivity"
+		],
+		"_publish_hash": "sha256:bed5a77aadadec868af2be7bc98cfdd178732cd656c85dfbb29779c9d678a6fc",
+		"_publish_commit": "main:8da3853dd21f7d6cf7b4a9a9fb200e7a0296693b",
+		"_npm_package_name": "joplin-plugin-markdown-prettier"
 	}
 }

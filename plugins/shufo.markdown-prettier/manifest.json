@@ -1,0 +1,21 @@
+{
+	"manifest_version": 1,
+	"id": "shufo.markdown-prettier",
+	"app_min_version": "2.8",
+	"version": "0.1.0",
+	"name": "Markdown Prettier",
+	"description": "Format your markdown by prettier",
+	"author": "shufo",
+	"homepage_url": "https://github.com/shufo/joplin-plugin-markdown-prettier",
+	"repository_url": "https://github.com/shufo/joplin-plugin-markdown-prettier",
+	"keywords": [
+		"prettier",
+		"formatter"
+	],
+	"categories": [
+		"productivity"
+	],
+	"_publish_hash": "sha256:bed5a77aadadec868af2be7bc98cfdd178732cd656c85dfbb29779c9d678a6fc",
+	"_publish_commit": "main:8da3853dd21f7d6cf7b4a9a9fb200e7a0296693b",
+	"_npm_package_name": "joplin-plugin-markdown-prettier"
+}
