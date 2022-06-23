@@ -2051,8 +2051,8 @@
 			"Bible",
 			"references"
 		],
-		"_publish_hash": "sha256:e2daaa637fc4c134e592a08cac404065894362af1996855072185ae07359c787",
-		"_publish_commit": "main:7241964c44a51ceafe460c28640de80fcee88ac4",
+		"_publish_hash": "sha256:41426a7a81ffe6e4568f71589b607bdb478572eabc46a72acea52aa72ed7d189",
+		"_publish_commit": "main:6f91bae2b0278a9c2b42f9c5ac9558053314eb16",
 		"_npm_package_name": "joplin-plugin-biblenotes"
 	}
 }
