@@ -2036,5 +2036,23 @@
 		"_publish_hash": "sha256:6e8d367ea1c2bd3cba2f3b185eb6b4ae8d77c9e7c9a4bf650ccb045b9fefdd79",
 		"_publish_commit": "main:92333aadfdafa287e7deee034a1985c5d4eae528",
 		"_npm_package_name": "joplin-plugin-timetagger"
+	},
+	"net.noeto.JoplinBibleNotes": {
+		"manifest_version": 1,
+		"id": "net.noeto.JoplinBibleNotes",
+		"app_min_version": "2.2",
+		"version": "0.2.0",
+		"name": "Joplin Bible Notes",
+		"description": "A Joplin plugin that helps find easily in which notes you spoke about a Bible reference.",
+		"author": "Tojo Rakotoarison",
+		"homepage_url": "",
+		"repository_url": "https://github.com/tojoRs/joplin-bible-notes",
+		"keywords": [
+			"Bible",
+			"references"
+		],
+		"_publish_hash": "sha256:e2daaa637fc4c134e592a08cac404065894362af1996855072185ae07359c787",
+		"_publish_commit": "main:7241964c44a51ceafe460c28640de80fcee88ac4",
+		"_npm_package_name": "joplin-plugin-biblenotes"
 	}
 }
