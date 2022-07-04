@@ -2054,5 +2054,21 @@
 		"_publish_hash": "sha256:41426a7a81ffe6e4568f71589b607bdb478572eabc46a72acea52aa72ed7d189",
 		"_publish_commit": "main:6f91bae2b0278a9c2b42f9c5ac9558053314eb16",
 		"_npm_package_name": "joplin-plugin-biblenotes"
+	},
+	"com.arash28134.DiscordPresence": {
+		"manifest_version": 1,
+		"id": "com.arash28134.DiscordPresence",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "Discord Rich Presence",
+		"description": "A Discord Rich Presence Plugin For Joplin",
+		"author": "arash28134",
+		"homepage_url": "",
+		"repository_url": "https://github.com/arash28134/joplin-discord-rich-presence",
+		"keywords": [],
+		"categories": [],
+		"_publish_hash": "sha256:cf6820037a13e808055e5aab682987e98c03ad76e9fc4b4ef26a967a2bf3c495",
+		"_publish_commit": "main:e29bbb52e4a0d8b4afb5b3402d788241b5867774",
+		"_npm_package_name": "joplin-plugin-discord-rich-presence"
 	}
 }
