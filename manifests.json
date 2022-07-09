@@ -469,7 +469,7 @@
 		"manifest_version": 1,
 		"id": "com.github.marc0l92.joplin-plugin-jira-issue",
 		"app_min_version": "1.7",
-		"version": "2.3.0",
+		"version": "2.4.0",
 		"name": "Jira Issue",
 		"description": "Retrieve Atlassian Jira issues information using their api in order to track the status of them from your Joplin notes.",
 		"author": "marc0l92",
@@ -480,8 +480,8 @@
 			"jira",
 			"issue"
 		],
-		"_publish_hash": "sha256:f11c7fb2a6073a5983f16a076625b0411874e94360c43759b2256f1ab901fb9d",
-		"_publish_commit": "main:1100bbd7ebf986eb104d8737fa7500756241adac",
+		"_publish_hash": "sha256:983636fda0e797b50456e3b53326e366cb8cea274e55d6a50fa7d3f63a0b310b",
+		"_publish_commit": "main:b3342e082fe4544538de1743cab5859324f52ceb",
 		"_npm_package_name": "joplin-plugin-jira-issue"
 	},
 	"joplin.plugin.ambrt.fold-cm": {
