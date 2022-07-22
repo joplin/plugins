@@ -15,7 +15,7 @@
 	"categories": [
 		"productivity"
 	],
-	"_publish_hash": "sha256:bed5a77aadadec868af2be7bc98cfdd178732cd656c85dfbb29779c9d678a6fc",
-	"_publish_commit": "main:8da3853dd21f7d6cf7b4a9a9fb200e7a0296693b",
+	"_publish_hash": "sha256:a8b8d101aa732f2ed445499a76b9686981de242cea96e761a5e1dcbe23203da4",
+	"_publish_commit": "main:0484a5b183d6f53159dcda70bfdbf8ca0a10df36",
 	"_npm_package_name": "joplin-plugin-markdown-prettier"
 }
