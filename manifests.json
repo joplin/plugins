@@ -1986,7 +1986,7 @@
 		"manifest_version": 1,
 		"id": "com.septemberhx.ReadCubePapers",
 		"app_min_version": "2.8",
-		"version": "1.0.0",
+		"version": "1.1.0",
 		"name": "ReadCube Papers",
 		"description": "Keep syncing with your ReadCube Papers library, help you create a note for one paper and render the paper note with a formatted paper information table, automatically generate markdown style reference, and allow you to insert your annotations into the note",
 		"author": "SeptemberHX",
@@ -1994,8 +1994,8 @@
 		"repository_url": "https://github.com/SeptemberHX/joplin-plugin-readcube-papers.git",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:e5f45f02f116c9267a7730706e49998aca26a5c3ee4a0b9c89a72c9be9d68217",
-		"_publish_commit": "main:2800b201588560275c93a1db473017458cf441a8",
+		"_publish_hash": "sha256:8d1e7e592555e6fc82e72104a00db5fba29e4baac3b43efb421e8825fecbd4b8",
+		"_publish_commit": "main:812c1fb83dda50f085cf34fb12a5d73b2ff2f3ec",
 		"_npm_package_name": "joplin-plugin-readcube-papers"
 	},
 	"shufo.markdown-prettier": {
