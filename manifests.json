@@ -2070,5 +2070,22 @@
 		"_publish_hash": "sha256:cf6820037a13e808055e5aab682987e98c03ad76e9fc4b4ef26a967a2bf3c495",
 		"_publish_commit": "main:e29bbb52e4a0d8b4afb5b3402d788241b5867774",
 		"_npm_package_name": "joplin-plugin-discord-rich-presence"
+	},
+	"com.leenzhu.journal": {
+		"manifest_version": 1,
+		"id": "com.leenzhu.journal",
+		"app_min_version": "2.7",
+		"version": "1.0.0",
+		"name": "joplin-plugin-journal",
+		"description": "Create or open note of today or selected date.",
+		"author": "Leen Zhu",
+		"homepage_url": "https://github.com/leenzhu/joplin-plugin-journal",
+		"repository_url": "https://github.com/leenzhu/joplin-plugin-journal",
+		"keywords": [
+			"joplin-plugin"
+		],
+		"_publish_hash": "sha256:e88dbea72b3267d973b9e451d0ec9051a8b9bf3df054679dba39927543868d33",
+		"_publish_commit": "master:6600036535ee2851d01ae328061791627063535d",
+		"_npm_package_name": "joplin-plugin-journal"
 	}
 }
