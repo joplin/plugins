@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.leenzhu.journal",
 	"app_min_version": "2.7",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"name": "joplin-plugin-journal",
 	"description": "Create or open note of today or selected date.",
 	"author": "Leen Zhu",
@@ -11,7 +11,7 @@
 	"keywords": [
 		"joplin-plugin"
 	],
-	"_publish_hash": "sha256:602fe444b015b15602d6879c0e52b5212116e4f888af679e55223bf91d1bfa75",
-	"_publish_commit": "master:0571a575b341eb2a5ddac1973e83d27ca48299e7",
+	"_publish_hash": "sha256:d96a82c44ffe06127052dd1617b5316b5313e13d1a89a6f28d96c1f2c78894d2",
+	"_publish_commit": "master:c64e7e93321b6743efc8e5999f07b6441af546be",
 	"_npm_package_name": "joplin-plugin-journal"
 }
