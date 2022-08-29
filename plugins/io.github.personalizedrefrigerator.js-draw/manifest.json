@@ -1,0 +1,21 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.personalizedrefrigerator.js-draw",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "Drawing",
+	"description": "Create and edit drawings.",
+	"author": "Henry Heino",
+	"homepage_url": "https://github.com/personalizedrefrigerator/joplin-draw",
+	"repository_url": "https://github.com/personalizedrefrigerator/joplin-draw",
+	"keywords": [
+		"drawing",
+		"freehand-drawing"
+	],
+	"categories": [
+		"editor"
+	],
+	"_publish_hash": "sha256:c2f943785c41dc2fa76d3e1fd8e427291f80a37528a65a3ff657573f34a18e25",
+	"_publish_commit": "main:7db0d33aa7849b8e8a890abc53e25ff45f65bc79",
+	"_npm_package_name": "joplin-plugin-freehand-drawing"
+}
