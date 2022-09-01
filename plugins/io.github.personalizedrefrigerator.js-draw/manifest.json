@@ -16,7 +16,7 @@
 	"categories": [
 		"editor"
 	],
-	"_publish_hash": "sha256:1c7699dd12b7e6dd3927fd72be5a8a92da21e59b0b219e162a03f5eea3bcac0a",
-	"_publish_commit": "main:87d2ba713dc3d4a93e821ef2a13e5539a1d5e1d3",
+	"_publish_hash": "sha256:568ac5b3e2abbf68d99bfeb7ff28311257c92ec2d25b423518f6c965ae65cea9",
+	"_publish_commit": "main:544c6a7f36c2beb1ece69331807fa55c53a125d0",
 	"_npm_package_name": "joplin-plugin-freehand-drawing"
 }
