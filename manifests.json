@@ -2023,7 +2023,7 @@
 		"manifest_version": 1,
 		"id": "com.jpa.joplin.timetagger",
 		"app_min_version": "2.8",
-		"version": "1.0.4",
+		"version": "1.0.5",
 		"name": "TimeTagger Plugin",
 		"description": "Time tracking with Joplin and TimeTagger",
 		"author": "Juan Arana",
@@ -2033,8 +2033,8 @@
 			"joplin-plugin"
 		],
 		"categories": [],
-		"_publish_hash": "sha256:6e8d367ea1c2bd3cba2f3b185eb6b4ae8d77c9e7c9a4bf650ccb045b9fefdd79",
-		"_publish_commit": "main:92333aadfdafa287e7deee034a1985c5d4eae528",
+		"_publish_hash": "sha256:79602d80bd517c1c6131a871a0d51b2bc0c5142f0fd8b5a3e170af8023425836",
+		"_publish_commit": "main:e56fc26b4797b1a7aac6cd5b56bfbcae20eaeba2",
 		"_npm_package_name": "joplin-plugin-timetagger"
 	},
 	"net.noeto.JoplinBibleNotes": {
