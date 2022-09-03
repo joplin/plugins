@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.septemberhx.pluginBundle",
 	"app_min_version": "2.8",
-	"version": "0.4.0",
+	"version": "0.4.1",
 	"name": "Plugin Bundle",
 	"description": "Table of Contents, Inline Todos, Daily Notes, and History aggregated in one panel with more eye-candy UI design.",
 	"author": "SeptemberHX",
@@ -10,7 +10,7 @@
 	"repository_url": "https://github.com/SeptemberHX/joplin-plugin-bundle.git",
 	"keywords": [],
 	"categories": [],
-	"_publish_hash": "sha256:30c566c249e6bbf239b8db974d9e656d23a0ca10c00eee5a3c1d880b052b8c04",
-	"_publish_commit": "main:eb95e4f172b012a63d4c4180a97e014feedf982a",
+	"_publish_hash": "sha256:156540a60805856b98000624a5b22ab8cf28b492eafad53a63f496b2644adb86",
+	"_publish_commit": "main:cceeb20a443b850d07a61b25b14606b3af9ac712",
 	"_npm_package_name": "joplin-plugin-bundle"
 }
