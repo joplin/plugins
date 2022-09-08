@@ -1,0 +1,18 @@
+{
+	"manifest_version": 1,
+	"id": "Bishoy.EmailPlugin",
+	"app_min_version": "2.7",
+	"version": "1.0.0",
+	"name": "Email Plugin",
+	"description": "Fetch your important emails as notes.",
+	"author": "Bishoy Magdy",
+	"homepage_url": "https://github.com/joplin/plugin-email",
+	"repository_url": "https://github.com/joplin/plugin-email",
+	"keywords": [
+		"Email",
+		"email"
+	],
+	"_publish_hash": "sha256:be5659fa420d57b90c917fdbda1759151a492cca7020630e214d149a9d631f88",
+	"_publish_commit": "main:262b0852e50f750027f332127146fccdd406cbfc",
+	"_npm_package_name": "joplin-plugin-email"
+}
