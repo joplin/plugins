@@ -1933,7 +1933,7 @@
 		"manifest_version": 1,
 		"id": "com.septemberhx.Joplin.Enhancement",
 		"app_min_version": "2.7",
-		"version": "1.1.0",
+		"version": "1.1.1",
 		"name": "Enhancement",
 		"description": "Enhance the markdown editor with live preview for math, mermaid, link, image, and more. It also includes other features for markdown rendering.",
 		"author": "SeptemberHX",
@@ -1941,8 +1941,8 @@
 		"repository_url": "https://github.com/SeptemberHX/joplin-plugin-enhancement.git",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:44edfb836b7923cf94c840e5a2978329e9e151c694e1c5b4cf065926909f705d",
-		"_publish_commit": "master:04d0ff9deabce3692747835eb5e36d54aedc1591",
+		"_publish_hash": "sha256:927ede6ba57aafd979524cee57c0b047fe10bbba68fccd8e0abe910da206ec46",
+		"_publish_commit": "master:5271b506e1ceb9eb94f4bda1815ea859adb96e7c",
 		"_npm_package_name": "joplin-plugin-enhancement"
 	},
 	"joplin.plugin.space-indenter": {
