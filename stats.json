@@ -17,7 +17,7 @@
 	},
 	"com.export-to-ssg.aman-d-1-n-only": {
 		"1.0.3": {
-			"downloadCount": 626,
+			"downloadCount": 627,
 			"createdAt": "2021-06-01T08:30:33Z"
 		}
 	},
@@ -115,7 +115,7 @@
 			"createdAt": "2021-08-05T20:05:59Z"
 		},
 		"1.2.3": {
-			"downloadCount": 5162,
+			"downloadCount": 5163,
 			"createdAt": "2022-01-23T22:35:10Z"
 		}
 	},
@@ -515,7 +515,7 @@
 			"createdAt": "2022-09-02T17:36:15Z"
 		},
 		"1.4.2": {
-			"downloadCount": 111,
+			"downloadCount": 112,
 			"createdAt": "2022-09-07T07:36:20Z"
 		}
 	},
@@ -841,7 +841,7 @@
 			"createdAt": "2021-12-06T22:34:22Z"
 		},
 		"1.0.7": {
-			"downloadCount": 3531,
+			"downloadCount": 3532,
 			"createdAt": "2022-02-26T14:35:29Z"
 		}
 	},
@@ -1257,7 +1257,7 @@
 			"createdAt": "2021-11-30T12:04:31Z"
 		},
 		"2.0.5": {
-			"downloadCount": 262,
+			"downloadCount": 263,
 			"createdAt": "2022-08-29T06:36:12Z"
 		}
 	},
@@ -1725,7 +1725,7 @@
 			"createdAt": "2022-03-26T12:35:10Z"
 		},
 		"0.8.0": {
-			"downloadCount": 1886,
+			"downloadCount": 1887,
 			"createdAt": "2022-04-07T02:35:15Z"
 		}
 	},
@@ -2183,7 +2183,7 @@
 			"createdAt": "2022-04-02T03:05:19Z"
 		},
 		"1.0.4": {
-			"downloadCount": 923,
+			"downloadCount": 924,
 			"createdAt": "2022-06-05T11:06:31Z"
 		}
 	},
@@ -2407,7 +2407,7 @@
 			"createdAt": "2022-08-28T11:06:33Z"
 		},
 		"1.1.1": {
-			"downloadCount": 14,
+			"downloadCount": 15,
 			"createdAt": "2022-09-08T16:05:59Z"
 		}
 	},
@@ -2521,6 +2521,10 @@
 		"1.0.7": {
 			"downloadCount": 42,
 			"createdAt": "2022-09-06T05:06:33Z"
+		},
+		"1.0.8": {
+			"downloadCount": 1,
+			"createdAt": "2022-09-08T23:36:23Z"
 		}
 	},
 	"com.sctmes.kity-minder": {
