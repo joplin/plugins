@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "de.habelt.CodeSection",
 	"app_min_version": "2.2",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"name": "Code Section",
 	"description": "Inserts a piece of code from code source",
 	"author": "Jürgen Habelt",
@@ -13,7 +13,7 @@
 		"content-plugin",
 		"code-section"
 	],
-	"_publish_hash": "sha256:31193deb2d1bab0ead9ccf80d56215db794d06981c7f7bcda05e669807cf495b",
-	"_publish_commit": "master:6add3b7df66837a0084b4d2ae69d0b7c22dff3b2",
+	"_publish_hash": "sha256:480ca49ced18cf27d2f106db5145e8453348be2c6d4dc4e41913edde64ccb751",
+	"_publish_commit": "master:1d1aee22a0657723447c16098e99335a9ea5db3c",
 	"_npm_package_name": "joplin-plugin-code-section"
 }
