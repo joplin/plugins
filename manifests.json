@@ -1590,7 +1590,7 @@
 		"manifest_version": 1,
 		"id": "de.habelt.CodeSection",
 		"app_min_version": "2.2",
-		"version": "1.0.5",
+		"version": "1.0.6",
 		"name": "Code Section",
 		"description": "Inserts a piece of code from code source",
 		"author": "Jürgen Habelt",
@@ -1601,8 +1601,8 @@
 			"content-plugin",
 			"code-section"
 		],
-		"_publish_hash": "sha256:480ca49ced18cf27d2f106db5145e8453348be2c6d4dc4e41913edde64ccb751",
-		"_publish_commit": "master:1d1aee22a0657723447c16098e99335a9ea5db3c",
+		"_publish_hash": "sha256:bfcdadcba7fb50a1fe01d645fe27fb6a8553acaa48344312698cedd688b09273",
+		"_publish_commit": "master:10cc3c98c415c97d46a021aaeb36cbd11d4c5edf",
 		"_npm_package_name": "joplin-plugin-code-section"
 	},
 	"com.ahaltindis.joplin.BulkNoteCreator": {
