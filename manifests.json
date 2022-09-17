@@ -1957,8 +1957,8 @@
 		"repository_url": "https://github.com/alondmnt/joplin-plugin-space-indenter",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:622249aed9f33442f10b69c0a032c2b41fcd7a1b87bead092fd7f2bf8da62cfe",
-		"_publish_commit": "main:31d7dde243b85ed902c3953e9eb26d4d4bd1749b",
+		"_publish_hash": "sha256:56d096e70e981e74b8f60490bc2436c67c8eb1f4a6f3ea3fe476210f9a794989",
+		"_publish_commit": "main:518f65531608066b3aacd4440c7ceb5779ce483a",
 		"_npm_package_name": "joplin-plugin-space-indenter"
 	},
 	"com.font.size.shortcut": {
