@@ -2133,8 +2133,8 @@
 				"src": "../screenshots/editorview-dark.png"
 			}
 		],
-		"_publish_hash": "sha256:ea49e9842b2ccfd23c0b8a39844f017a06cc2951e9bc53478de0e31c8c4d874f",
-		"_publish_commit": "main:c2e4fc943d8815231aa30d0434aa57f99bb54ec8",
+		"_publish_hash": "sha256:b44d8f0a7a5a87de622808c0f8857d90fe12bde1e88c90011dae6f5ede7a0b32",
+		"_publish_commit": "main:f08159a58c662e5bbd4dbb21e71164d688264f5c",
 		"_npm_package_name": "joplin-plugin-freehand-drawing"
 	},
 	"com.sctmes.kity-minder": {
