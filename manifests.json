@@ -2192,7 +2192,7 @@
 		"manifest_version": 1,
 		"id": "io.github.personalizedrefrigerator.joplin-vimrc",
 		"app_min_version": "2.8",
-		"version": "1.0.2",
+		"version": "1.0.3",
 		"name": "Custom CodeMirror .vimrc",
 		"description": "Configure CodeMirror‘s ViM emulation with a very-limited, vimrc-like file.",
 		"author": "Henry Heino",
@@ -2201,9 +2201,11 @@
 		"keywords": [
 			"Editor"
 		],
-		"categories": [],
-		"_publish_hash": "sha256:00c2d1b195d29204bb9d457fbd0a5d3016c95e88baee95e51ab18aa47bb2f953",
-		"_publish_commit": "main:1d46ea61325bc9d5b673216373e71ff28cc47f08",
+		"categories": [
+			"editor"
+		],
+		"_publish_hash": "sha256:5c3df9360dbd95f2fca7b5733dab13635cd5425fff53e3ce2fd2ecdab34827be",
+		"_publish_commit": "main:5afbe286552e29a1a69c535c1161252fb77c4e01",
 		"_npm_package_name": "joplin-plugin-custom-codemirror-vimrc"
 	}
 }
