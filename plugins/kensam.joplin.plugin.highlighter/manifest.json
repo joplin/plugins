@@ -1,0 +1,18 @@
+{
+	"manifest_version": 1,
+	"id": "kensam.joplin.plugin.highlighter",
+	"app_min_version": "1.0",
+	"version": "1.0.0",
+	"name": "Simple Highlighter",
+	"description": "Highlight/dehighlight the selected text",
+	"author": "Ken Sam",
+	"homepage_url": "https://github.com/kensam94/joplin-plugin-simple-highlighter",
+	"repository_url": "https://github.com/kensam94/joplin-plugin-simple-highlighter",
+	"keywords": [
+		"highlight"
+	],
+	"categories": [],
+	"_publish_hash": "sha256:3b4ab5b3d9f54d8363bb200e3b4598595507736c856439589ee4846be96233ae",
+	"_publish_commit": "main:96c3161823a4eca29038cef6cf1d19c39cf920d3",
+	"_npm_package_name": "joplin-plugin-simple-highlighter"
+}
