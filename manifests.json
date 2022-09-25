@@ -2092,7 +2092,7 @@
 		"manifest_version": 1,
 		"id": "com.septemberhx.pluginBundle",
 		"app_min_version": "2.8",
-		"version": "0.5.0",
+		"version": "0.5.1",
 		"name": "Plugin Bundle",
 		"description": "Table of Contents, Inline Todos, Daily Notes, and History aggregated in one panel with more eye-candy UI design.",
 		"author": "SeptemberHX",
@@ -2100,8 +2100,8 @@
 		"repository_url": "https://github.com/SeptemberHX/joplin-plugin-bundle.git",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:2ad5a0f170e0f17b67cc9ba0417342cb03c36e4f4f89a9c70ba93e32b3c0be10",
-		"_publish_commit": "main:444f4c5dce9a4bcc67dd03578f80cdc97d1d81c5",
+		"_publish_hash": "sha256:421daf2413136d26483f086ae9a8ec74a647befea85b568ab5d6ccd90ffd94c6",
+		"_publish_commit": "main:55828489c685435774b56586c22f8608ba416dda",
 		"_npm_package_name": "joplin-plugin-bundle"
 	},
 	"io.github.personalizedrefrigerator.js-draw": {
