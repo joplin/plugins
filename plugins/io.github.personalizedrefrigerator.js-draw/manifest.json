@@ -27,7 +27,7 @@
 			"src": "../screenshots/editorview-dark.png"
 		}
 	],
-	"_publish_hash": "sha256:0b286d987cd26b888b412a96f28a95bb7962f6bb5a3c42c949221841174c8162",
-	"_publish_commit": "main:54eede69bdc696a26e2a6fb84ac94783ab3da1c5",
+	"_publish_hash": "sha256:09aaf6d24ed19a98347bfc27e466308ed4c8a416b734ccb9f3fc2772d608011a",
+	"_publish_commit": "main:c63832229f20fabc8a15332e134c99b581fe8097",
 	"_npm_package_name": "joplin-plugin-freehand-drawing"
 }
