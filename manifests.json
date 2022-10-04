@@ -2230,7 +2230,7 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.remoods.theme",
 		"app_min_version": "2.8",
-		"version": "1.0.5",
+		"version": "1.0.17",
 		"name": "ReMoods Theme (BETA)",
 		"description": "The theme beautifies your screen and documents, and takes care of your writing moods and eyes-health! (Please visit github repo and read the getting start guide before use.) ",
 		"author": "Sinacs",
@@ -2249,8 +2249,8 @@
 			"editor",
 			"viewer"
 		],
-		"_publish_hash": "sha256:df5200ee46baf67eeb5e22e42d927dc35142d57f703ee97f1a6780f7a93e28c0",
-		"_publish_commit": "master:3d6f85b03f67fa801fb4d9bd98670f188c74870b",
+		"_publish_hash": "sha256:5fcec7b01ed1d4bfbd0cf219b4b9037db96c24b744a97a2186cbcda2433365f4",
+		"_publish_commit": "master:fdf5b57ea5a3f7f99083315e03d61966b3b0a14c",
 		"_npm_package_name": "joplin-plugin-remoods-theme"
 	}
 }
