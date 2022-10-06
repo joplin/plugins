@@ -1,0 +1,17 @@
+{
+	"manifest_version": 1,
+	"id": "com.joplin.excalidraw",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "joplin-excalidraw",
+	"description": "use to write excalidraw in Joplin",
+	"author": "SkyfireLee",
+	"homepage_url": "https://github.com/artikell/joplin-excalidraw",
+	"repository_url": "https://github.com/artikell/joplin-excalidraw",
+	"keywords": [
+		"excalidraw"
+	],
+	"_publish_hash": "sha256:15f5ff55e12ae5acce372ad4cc851923a08dc9358fdc7259904238c074b7512b",
+	"_publish_commit": "main:e4181a14d61e228fa6701dbaf00571dedc7c5ac6",
+	"_npm_package_name": "joplin-plugin-joplin-excalidraw"
+}
