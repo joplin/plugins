@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "kensam.joplin.plugin.eztable",
 	"app_min_version": "1.8",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Ez Table",
 	"description": "Make markdown table easy",
 	"author": "Ken Sam",
@@ -11,7 +11,7 @@
 	"keywords": [
 		"table"
 	],
-	"_publish_hash": "sha256:ccfd86432572d819432910110c6fc91ec564954ae57bcdc46763f6c728fa008c",
-	"_publish_commit": "master:534e4ce87ca9564f8609585cd8494d0638d1a5f0",
+	"_publish_hash": "sha256:fc79ffe4d7a13e9d396691fe6b5bd74e7b314053f03274db30c4ec11acd09d1d",
+	"_publish_commit": "master:ce1aca877481695fd862f9449c13eee196a8691f",
 	"_npm_package_name": "joplin-plugin-eztable"
 }
