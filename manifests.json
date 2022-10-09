@@ -2175,7 +2175,7 @@
 		"manifest_version": 1,
 		"id": "kensam.joplin.plugin.eztable",
 		"app_min_version": "1.8",
-		"version": "1.0.1",
+		"version": "1.0.2",
 		"name": "Ez Table",
 		"description": "Make markdown table easy",
 		"author": "Ken Sam",
@@ -2184,8 +2184,8 @@
 		"keywords": [
 			"table"
 		],
-		"_publish_hash": "sha256:fc79ffe4d7a13e9d396691fe6b5bd74e7b314053f03274db30c4ec11acd09d1d",
-		"_publish_commit": "master:ce1aca877481695fd862f9449c13eee196a8691f",
+		"_publish_hash": "sha256:eae87078ccb93bfd2e60ad9a66290a50ecc7cf3574721e0b9a7a4e24f134ca21",
+		"_publish_commit": "master:2e267ed500f5bbd65f509c1835a52495d0b25704",
 		"_npm_package_name": "joplin-plugin-eztable"
 	},
 	"io.github.personalizedrefrigerator.joplin-vimrc": {
