@@ -9,7 +9,7 @@
 	"homepage_url": "https://github.com/ZhangTe/joplin-plugin-encrypt-notes",
 	"repository_url": "https://github.com/ZhangTe/joplin-plugin-encrypt-notes",
 	"keywords": [],
-	"_publish_hash": "sha256:17926f47e27b4ae5b806af7fceefb6c61c8551a18a7c6dec258bd18f49fdab38",
-	"_publish_commit": "master:3fb1cb1612240abc35b3b791598b7d189213ef8d",
+	"_publish_hash": "sha256:1756d64d89a5806538e959ec03c68c258df2077d66a633ebca31ad0f9ea25a7c",
+	"_publish_commit": "master:c95c8f75bab099f860af59431c95fccbb349f82b",
 	"_npm_package_name": "joplin-plugin-note-encrypt"
 }
