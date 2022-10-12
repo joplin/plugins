@@ -2274,15 +2274,15 @@
 		"manifest_version": 1,
 		"id": "joplin-plugin-note-encryption",
 		"app_min_version": "1.6",
-		"version": "1.0.2",
+		"version": "1.0.5",
 		"name": "Note encryption",
 		"description": "A joplin plugin, encrypt selected notes on the joplin desktop client.",
 		"author": "ztbxxt",
 		"homepage_url": "https://github.com/ZhangTe/joplin-plugin-encrypt-notes",
 		"repository_url": "https://github.com/ZhangTe/joplin-plugin-encrypt-notes",
 		"keywords": [],
-		"_publish_hash": "sha256:1756d64d89a5806538e959ec03c68c258df2077d66a633ebca31ad0f9ea25a7c",
-		"_publish_commit": "master:c95c8f75bab099f860af59431c95fccbb349f82b",
+		"_publish_hash": "sha256:fce9821a92fd80e109f67676e342e1d4fb40daa114679352dace194ea73e38b5",
+		"_publish_commit": "master:5ae6927b7286e3f565453fae576873f51a49cae6",
 		"_npm_package_name": "joplin-plugin-note-encrypt"
 	}
 }
