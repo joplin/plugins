@@ -165,13 +165,13 @@
 			"createdAt": "2021-06-01T08:30:43Z"
 		},
 		"1.0.1": {
-			"downloadCount": 2728,
+			"downloadCount": 2729,
 			"createdAt": "2021-08-05T17:35:58Z"
 		}
 	},
 	"io.github.jackgruber.copytags": {
 		"1.0.1": {
-			"downloadCount": 2915,
+			"downloadCount": 2916,
 			"createdAt": "2021-06-01T08:30:44Z"
 		}
 	},
@@ -333,7 +333,7 @@
 			"createdAt": "2021-06-01T08:30:51Z"
 		},
 		"2.0.1": {
-			"downloadCount": 2787,
+			"downloadCount": 2788,
 			"createdAt": "2021-09-08T14:32:32Z"
 		}
 	},
@@ -831,7 +831,7 @@
 			"createdAt": "2021-08-18T20:02:20Z"
 		},
 		"0.2.0": {
-			"downloadCount": 759,
+			"downloadCount": 760,
 			"createdAt": "2022-03-30T12:05:22Z"
 		}
 	},
@@ -1609,6 +1609,10 @@
 		"1.7.0": {
 			"downloadCount": 2,
 			"createdAt": "2022-10-15T22:07:05Z"
+		},
+		"1.8.0": {
+			"downloadCount": 1,
+			"createdAt": "2022-10-15T22:36:58Z"
 		}
 	},
 	"com.hieuthi.joplin.copy-anchor-link": {
@@ -1915,7 +1919,7 @@
 			"createdAt": "2022-01-15T03:35:13Z"
 		},
 		"1.2.1": {
-			"downloadCount": 1134,
+			"downloadCount": 1135,
 			"createdAt": "2022-01-15T04:35:07Z"
 		}
 	},
@@ -2117,7 +2121,7 @@
 			"createdAt": "2022-01-29T12:35:11Z"
 		},
 		"0.0.2": {
-			"downloadCount": 253,
+			"downloadCount": 254,
 			"createdAt": "2022-01-31T05:35:08Z"
 		}
 	},
@@ -2231,7 +2235,7 @@
 			"createdAt": "2022-04-02T03:05:19Z"
 		},
 		"1.0.4": {
-			"downloadCount": 1258,
+			"downloadCount": 1259,
 			"createdAt": "2022-06-05T11:06:31Z"
 		}
 	},
@@ -2483,7 +2487,7 @@
 	},
 	"com.font.size.shortcut": {
 		"1.0.0": {
-			"downloadCount": 551,
+			"downloadCount": 552,
 			"createdAt": "2022-05-25T07:35:04Z"
 		}
 	},
@@ -2667,7 +2671,7 @@
 			"createdAt": "2022-10-11T15:37:05Z"
 		},
 		"1.2.2": {
-			"downloadCount": 43,
+			"downloadCount": 44,
 			"createdAt": "2022-10-12T01:07:54Z"
 		}
 	},
