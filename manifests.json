@@ -1290,8 +1290,8 @@
 	"net.gagnepain.turnToChart": {
 		"manifest_version": 1,
 		"id": "net.gagnepain.turnToChart",
-		"app_min_version": "1.8",
-		"version": "1.6.0",
+		"app_min_version": "2.8",
+		"version": "1.7.0",
 		"name": "turnToChart",
 		"description": "Transform markdown table into d3js chart",
 		"author": "Samuel Gagnepain",
@@ -1304,8 +1304,9 @@
 			"chart",
 			"ui"
 		],
-		"_publish_hash": "sha256:1da46a33149d0849307cc1ada49ba2e5fc3614a7b7607d5c3a03a5ce401543a2",
-		"_publish_commit": "master:e8bdcb55d1cfb7c0f6dd894b3779d730fe6c472e",
+		"categories": [],
+		"_publish_hash": "sha256:b42340f0808374ce3b483c12a7f5f5e9476ffd0bc9d0c30fac10b70f4707d6db",
+		"_publish_commit": "use-turn-to-chart-package:bb6799641fd561b0f99196a1cc25d935374d211d",
 		"_npm_package_name": "joplin-plugin-turn-to-chart"
 	},
 	"com.hieuthi.joplin.copy-anchor-link": {
