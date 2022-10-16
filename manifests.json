@@ -181,13 +181,13 @@
 		"manifest_version": 1,
 		"id": "outline",
 		"app_min_version": "1.6.7",
-		"version": "1.4.6",
+		"version": "1.5.0",
 		"name": "Outline",
 		"description": "Outline (TOC) sidebar plugin for joplin.",
 		"author": "cqroot",
 		"homepage_url": "https://github.com/cqroot/joplin-outline",
-		"_publish_hash": "sha256:a932df589e4f66ac098c729d918e8da454795ba1c5cf4fdf82c34c584c793777",
-		"_publish_commit": "main:7c81a545768982b9a36176e4172d9933fc73ed29",
+		"_publish_hash": "sha256:6b379a50e6aa3421860c497ffa2c6bbaf370be60cade2b8ad34c6b34524e78ed",
+		"_publish_commit": "main:4a03c66bc96534c7c93b3a7be235739af9f447a5",
 		"_npm_package_name": "joplin-plugin-outline"
 	},
 	"plugin.calebjohn.MathMode": {
