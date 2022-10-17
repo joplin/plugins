@@ -216,5 +216,21 @@
 		"_publish_commit": "main:29c705fa2a83aa220174d7ea1abfa3fd154eb420",
 		"_npm_package_name": "joplin-plugin-untagged",
 		"_obsolete": true
+	},
+	"joplin-001": {
+		"manifest_version": 1,
+		"id": "joplin-001",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "Joplin",
+		"description": "",
+		"author": "",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [],
+		"categories": [],
+		"_publish_hash": "sha256:529b83412301832afb5a4c39c7e5001ade9f5bd2934439d3e39220258f8cef82",
+		"_publish_commit": "vue_js:aa0ec56512857b92917c6d76401827520b073086",
+		"_obsolete": true
 	}
 }
