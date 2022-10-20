@@ -2285,5 +2285,25 @@
 		"_publish_hash": "sha256:c20d30d81571dd5eba4b9591b849109f7fa0e81654b6085474c897d6f4a0ad38",
 		"_publish_commit": "master:71d25407cd3dc69c62de45425f90a86f81eaa927",
 		"_npm_package_name": "joplin-plugin-note-encrypt"
+	},
+	"com.hieuthi.joplin.function-plot": {
+		"manifest_version": 1,
+		"id": "com.hieuthi.joplin.function-plot",
+		"app_min_version": "2.7",
+		"version": "1.0.0",
+		"name": "Function Plot",
+		"description": "Joplin plugin based on Function Plot library to render function such as y = x * x",
+		"author": "Hieu-Thi Luong",
+		"homepage_url": "https://github.com/hieuthi/joplin-plugin-function-plot",
+		"repository_url": "https://github.com/hieuthi/joplin-plugin-function-plot",
+		"keywords": [
+			"joplin-plugin",
+			"function plot",
+			"plotting",
+			"mathematic"
+		],
+		"_publish_hash": "sha256:fdd289b8268eeb1298a12095f7e3bbca48cc516c27b951d809de5c42f4e6997f",
+		"_publish_commit": "main:d718aaa8cad3245d9067489d44296e1d75201a7a",
+		"_npm_package_name": "joplin-plugin-function-plot"
 	}
 }
