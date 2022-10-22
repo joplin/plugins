@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.cmoptions",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "CodeMirror Options",
+	"description": "Adds some CodeMirror options to Joplin's settings, such as line numbers and line wrapping.",
+	"author": "FelisDiligens",
+	"homepage_url": "https://github.com/FelisDiligens/joplin-plugin-cmoptions",
+	"repository_url": "https://github.com/FelisDiligens/joplin-plugin-cmoptions",
+	"keywords": [],
+	"categories": [],
+	"_publish_hash": "sha256:2d2405c95d3428136e016d0f74f1e699296c0119a7b6f7b62a490eb92e9ebcae",
+	"_publish_commit": "main:1076208b4b2d66c880db503584fbd84594bd686c",
+	"_npm_package_name": "joplin-plugin-cmoptions"
+}
