@@ -2321,5 +2321,28 @@
 		"_publish_hash": "sha256:2d2405c95d3428136e016d0f74f1e699296c0119a7b6f7b62a490eb92e9ebcae",
 		"_publish_commit": "main:1076208b4b2d66c880db503584fbd84594bd686c",
 		"_npm_package_name": "joplin-plugin-cmoptions"
+	},
+	"app.nybble.joplin-plugin-wakatime": {
+		"manifest_version": 1,
+		"id": "app.nybble.joplin-plugin-wakatime",
+		"app_min_version": "2.8",
+		"version": "1.0.7",
+		"name": "WakaTime",
+		"description": "A Joplin plugin for WakaTime",
+		"author": "Nitish Sachar (uioporqwerty)",
+		"homepage_url": "https://github.com/uioporqwerty/joplin-plugin-wakatime",
+		"repository_url": "https://github.com/uioporqwerty/joplin-plugin-wakatime",
+		"keywords": [
+			"wakatime",
+			"tracking"
+		],
+		"categories": [
+			"developer tools",
+			"integrations",
+			"productivity"
+		],
+		"_publish_hash": "sha256:9836bf6385e5d190a216ddf645e160b7fa5aa4c497f99ac5c7fdab0498fc3f29",
+		"_publish_commit": "master:e4db0dc18b183522f1ac3bd750d12d5a99c609bf",
+		"_npm_package_name": "joplin-plugin-wakatime"
 	}
 }
