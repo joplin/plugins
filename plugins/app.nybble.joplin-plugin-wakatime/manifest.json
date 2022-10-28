@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "app.nybble.joplin-plugin-wakatime",
 	"app_min_version": "2.8",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"name": "WakaTime",
 	"description": "A Joplin plugin for WakaTime",
 	"author": "Nitish Sachar (uioporqwerty)",
@@ -17,7 +17,7 @@
 		"integrations",
 		"productivity"
 	],
-	"_publish_hash": "sha256:9836bf6385e5d190a216ddf645e160b7fa5aa4c497f99ac5c7fdab0498fc3f29",
-	"_publish_commit": "master:e4db0dc18b183522f1ac3bd750d12d5a99c609bf",
+	"_publish_hash": "sha256:c9c29f637ad8b3160c9748b90f5c25a82f8a64cc0e084b45aabb778314d95577",
+	"_publish_commit": "master:b1c3750bfef14017a0020f00126900f38f42e333",
 	"_npm_package_name": "joplin-plugin-wakatime"
 }
