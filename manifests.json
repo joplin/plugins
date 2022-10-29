@@ -2344,5 +2344,25 @@
 		"_publish_hash": "sha256:d136d81efceb92344704b94be967a674e8684cbb940531d2591ac1ef6820ee81",
 		"_publish_commit": "master:72c7d0887fa3fa4c2bfb5f388f55c5610cfb2506",
 		"_npm_package_name": "joplin-plugin-wakatime"
+	},
+	"name.mikemueller.joplin2jira": {
+		"manifest_version": 1,
+		"id": "name.mikemueller.joplin2jira",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "joplin2jira",
+		"description": "Copies selected text or entire notes in Jira markup to the clipboard",
+		"author": "Mike Müller",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [
+			"jira",
+			"atlassian",
+			"export"
+		],
+		"categories": [],
+		"_publish_hash": "sha256:20876055bea6414487ba11e5f505762937b74dda793c7bdc5f7173fb0764ff8e",
+		"_publish_commit": "main:4bb6698c65f26aa54f4890e6a60a9fddaeae2ea1",
+		"_npm_package_name": "joplin-plugin-joplin2jira"
 	}
 }
