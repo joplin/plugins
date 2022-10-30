@@ -2258,7 +2258,7 @@
 		"manifest_version": 1,
 		"id": "com.joplin.excalidraw",
 		"app_min_version": "2.8",
-		"version": "1.1.1",
+		"version": "1.2.0",
 		"name": "joplin-excalidraw",
 		"description": "use to write excalidraw in Joplin",
 		"author": "SkyfireLee",
@@ -2267,8 +2267,8 @@
 		"keywords": [
 			"excalidraw"
 		],
-		"_publish_hash": "sha256:1865c2c57dc54e341b14c6b2ae8666e88623a7f4d822c46f7ec629d212db9144",
-		"_publish_commit": "main:db53e6bdd8287f96c5917aee3b0d812954b0d82a",
+		"_publish_hash": "sha256:8a45e4bcb60614ed15692ef2020964ff841d282c9740aa218d2d694110fca4cd",
+		"_publish_commit": "v1.2.0:0d0645bc903c1080b24a6d73909eec235d029cc4",
 		"_npm_package_name": "joplin-plugin-joplin-excalidraw"
 	},
 	"joplin-plugin-note-encryption": {
