@@ -2402,5 +2402,26 @@
 		"_publish_hash": "sha256:459eb22493373b7a33c10410a2562b0122f1b898d9df2971fbb179741438161a",
 		"_publish_commit": "master:d5a8517118b283f371b8aca4ce738a267265cdaa",
 		"_npm_package_name": "joplin-plugin-enhanced-editing"
+	},
+	"org.yangby.joplin.plugins.pseudocode-support": {
+		"id": "org.yangby.joplin.plugins.pseudocode-support",
+		"manifest_version": 1,
+		"name": "Pseudocode Support",
+		"version": "0.1.0",
+		"app_min_version": "2.8",
+		"description": "Typesets pseudocode beautifully in Joplin.",
+		"author": "YangBy <yby@yangby.org>",
+		"keywords": [
+			"pseudocode"
+		],
+		"homepage_url": "https://github.com/yangby/joplin-plugin-pseudocode-support",
+		"repository_url": "https://github.com/yangby/joplin-plugin-pseudocode-support",
+		"categories": [
+			"viewer",
+			"integrations"
+		],
+		"_publish_hash": "sha256:52079b79be54b31a3ef43c9ceba8109ad5c770fc8055c5fafa21756441d974cf",
+		"_publish_commit": "master:d9f60f3255985234325b0ed9d070708d8a848457",
+		"_npm_package_name": "joplin-plugin-pseudocode-support"
 	}
 }
