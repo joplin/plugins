@@ -2380,5 +2380,27 @@
 		"_publish_hash": "sha256:67cf7a5286dca829a2349a9754c6c0e5bc3bafd8b61eaabaa4cf1be9e975cf99",
 		"_publish_commit": "main:5ca44c4bc64993b4c06de52f2841ce2ff9a2b993",
 		"_npm_package_name": "joplin-plugin-suitcase"
+	},
+	"org.yangby.joplin.plugins.enhanced-editing": {
+		"id": "org.yangby.joplin.plugins.enhanced-editing",
+		"manifest_version": 1,
+		"name": "Enhanced Editing",
+		"version": "0.1.0",
+		"app_min_version": "2.8",
+		"description": "An enhanced editing plugin for Joplin.",
+		"author": "YangBy <yby@yangby.org>",
+		"keywords": [
+			"editor",
+			"editing"
+		],
+		"homepage_url": "https://github.com/yangby/joplin-plugin-enhanced-editing",
+		"repository_url": "https://github.com/yangby/joplin-plugin-enhanced-editing",
+		"categories": [
+			"editor",
+			"productivity"
+		],
+		"_publish_hash": "sha256:459eb22493373b7a33c10410a2562b0122f1b898d9df2971fbb179741438161a",
+		"_publish_commit": "master:d5a8517118b283f371b8aca4ce738a267265cdaa",
+		"_npm_package_name": "joplin-plugin-enhanced-editing"
 	}
 }
