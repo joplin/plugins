@@ -2369,7 +2369,7 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.alondmnt.suitcase",
 		"app_min_version": "2.8",
-		"version": "0.1.0",
+		"version": "0.1.1",
 		"name": "Suitcase",
 		"description": "Change the capitalization of selected text",
 		"author": "alondmnt",
@@ -2377,8 +2377,8 @@
 		"repository_url": "https://github.com/alondmnt/joplin-plugin-suitcase",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:67cf7a5286dca829a2349a9754c6c0e5bc3bafd8b61eaabaa4cf1be9e975cf99",
-		"_publish_commit": "main:5ca44c4bc64993b4c06de52f2841ce2ff9a2b993",
+		"_publish_hash": "sha256:7999d946924fa99894300a83e62d3c141f63b4da3b8e2f8ddbe40de393441c7c",
+		"_publish_commit": "main:6073d8591e17b7e58f5965eac01692c42d585965",
 		"_npm_package_name": "joplin-plugin-suitcase"
 	},
 	"org.yangby.joplin.plugins.enhanced-editing": {
