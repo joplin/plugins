@@ -1950,7 +1950,7 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.space-indenter",
 		"app_min_version": "2.6",
-		"version": "0.2.1",
+		"version": "0.2.2",
 		"name": "Space Indenter",
 		"description": "Indent paragraphs with spaces instead of tabs",
 		"author": "alondmnt",
@@ -1958,8 +1958,8 @@
 		"repository_url": "https://github.com/alondmnt/joplin-plugin-space-indenter",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:698422fd20978c12123efa90e18d630b1d100eeae9a8c5def4d5e73dd2dc9106",
-		"_publish_commit": "main:518f65531608066b3aacd4440c7ceb5779ce483a",
+		"_publish_hash": "sha256:69127d1776feba2eb6d55ca7a6975da63686e3c77be7b5adf8fbd37ed07b730c",
+		"_publish_commit": "main:197691df8708ba105ced3fa3c27e04658f840dad",
 		"_npm_package_name": "joplin-plugin-space-indenter"
 	},
 	"com.font.size.shortcut": {
