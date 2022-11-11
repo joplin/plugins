@@ -15,7 +15,7 @@
 		"css",
 		"macos"
 	],
-	"_publish_hash": "sha256:530d7876c100154b45bedfb012e7ba9fb3b3d8180ce0dd58ef335d3b831284a0",
-	"_publish_commit": "fix/new-note-prompt-not-distinct:7dd13c49cbea7c867bf0e0083e50779c7fd698cf",
+	"_publish_hash": "sha256:39e1204f1ac814de9183c074384d3384e7e39515c31849b654a70a1091104c62",
+	"_publish_commit": "main:95ab10e18211e96bb0391c6162defefe6dad8745",
 	"_npm_package_name": "joplin-plugin-macos-theme"
 }
