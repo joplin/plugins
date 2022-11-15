@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.spoiler.cards",
 	"app_min_version": "1.7",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"name": "Spoilers",
 	"description": "Create inline spoilers and spoiler blocks with title and extendable body.",
 	"author": "Martin Korelič",
@@ -14,7 +14,7 @@
 		"spoiler",
 		"blocks"
 	],
-	"_publish_hash": "sha256:fa44759b83519e27cbc0a605e2ee07147fbc0ee0a4afe8f9082115fbe649d963",
-	"_publish_commit": "main:4dd7cce26022169e45ad82cfe15f9eef2fe05564",
+	"_publish_hash": "sha256:9d53ba94c312f2a70657dd268cc51e8b256b1b57943f4d554cdc9b96db504fce",
+	"_publish_commit": "main:ba6fe8938b1c96fd07b5e303d4824762d4cf24da",
 	"_npm_package_name": "joplin-plugin-spoiler-cards"
 }
