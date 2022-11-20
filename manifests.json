@@ -2423,5 +2423,21 @@
 		"_publish_hash": "sha256:52079b79be54b31a3ef43c9ceba8109ad5c770fc8055c5fafa21756441d974cf",
 		"_publish_commit": "master:d9f60f3255985234325b0ed9d070708d8a848457",
 		"_npm_package_name": "joplin-plugin-pseudocode-support"
+	},
+	"joplin.plugin.alondmnt.jarvis": {
+		"manifest_version": 1,
+		"id": "joplin.plugin.alondmnt.jarvis",
+		"app_min_version": "2.8",
+		"version": "0.1.0",
+		"name": "Jarvis",
+		"description": "Joplin assistant running a very intelligent system (GPT-3)",
+		"author": "alondmnt",
+		"homepage_url": "https://github.com/alondmnt/joplin-plugin-jarvis",
+		"repository_url": "https://github.com/alondmnt/joplin-plugin-jarvis",
+		"keywords": [],
+		"categories": [],
+		"_publish_hash": "sha256:9b8b1123a0d44d086dc25e1b847b0814d9c9c899a08ec327ee0ade5f4c556f52",
+		"_publish_commit": "master:fb9ef7b16047c87c8fea81bf761b7becc8eba094",
+		"_npm_package_name": "joplin-plugin-jarvis"
 	}
 }
