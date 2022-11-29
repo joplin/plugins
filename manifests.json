@@ -1291,7 +1291,7 @@
 		"manifest_version": 1,
 		"id": "net.gagnepain.turnToChart",
 		"app_min_version": "2.8",
-		"version": "1.9.2",
+		"version": "1.9.3",
 		"name": "turnToChart",
 		"description": "Transforms a markdown or csv table into an HTML chart",
 		"author": "Samuel Gagnepain",
@@ -1305,8 +1305,8 @@
 			"ui"
 		],
 		"categories": [],
-		"_publish_hash": "sha256:32bd7fbc3b848e0ca02a26d08f91dee065e06d93c0721b5aebd34129aeb59c3f",
-		"_publish_commit": "master:b977e09de86521ca64dca304ef62500b471d3a5c",
+		"_publish_hash": "sha256:0670a88c93bf0cd8e1492b22e99968eef39ae4c299c3c33767b8b1ac150ae4dc",
+		"_publish_commit": "master:7de30963333688d5b8471320c0584e254e967879",
 		"_npm_package_name": "joplin-plugin-turn-to-chart"
 	},
 	"com.hieuthi.joplin.copy-anchor-link": {
