@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "albert.joplin.plugin7",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "Delete notes without confirmation",
+	"description": "Delete notes without confirmation",
+	"author": "Albert Pham",
+	"homepage_url": "https://github.com/pnphuong29/joplin-plugin-jl7-pub7",
+	"repository_url": "https://github.com/pnphuong29/joplin-plugin-jl7-pub7",
+	"keywords": [],
+	"categories": [],
+	"_publish_hash": "sha256:f40a2d7ece686c0ef724efdcbfcd7bc6ce7978165b42987bf483d9478b528f20",
+	"_publish_commit": "master:6ea0ccce5c9ebc0cee43017cf665b38b56bd2d0d",
+	"_npm_package_name": "joplin-plugin-delete-notes-without-confirmation"
+}
