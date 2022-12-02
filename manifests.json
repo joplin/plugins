@@ -2452,8 +2452,8 @@
 		"repository_url": "https://github.com/pnphuong29/joplin-plugin-jl7-pub7",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:f40a2d7ece686c0ef724efdcbfcd7bc6ce7978165b42987bf483d9478b528f20",
-		"_publish_commit": "master:6ea0ccce5c9ebc0cee43017cf665b38b56bd2d0d",
+		"_publish_hash": "sha256:edc52039a17eb40614c15d73e28a25a61795e917b15101f8c65081b49b5c6ac6",
+		"_publish_commit": "master:1dc6661f4509eede41583d42d14bb72da7936017",
 		"_npm_package_name": "joplin-plugin-delete-notes-without-confirmation"
 	}
 }
