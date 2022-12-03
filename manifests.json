@@ -2231,9 +2231,9 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.remoods.theme",
 		"app_min_version": "2.8",
-		"version": "3.4.1",
+		"version": "3.4.5",
 		"name": "ReMoods Theme",
-		"description": "The multi-purpose theme that cares about your moods and eye health! (Please read the Getting Start Guide on GitHub Repo.) ",
+		"description": "3 theme modes, 36 single-tone theme colors, 5 major html custom elements, and more... (Recommend to read about the Getting Started Guide on GitHub before use.) ",
 		"author": "Sinacs",
 		"homepage_url": "https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme",
 		"repository_url": "https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme",
@@ -2250,8 +2250,8 @@
 			"editor",
 			"viewer"
 		],
-		"_publish_hash": "sha256:5707caa6e98971cba7959c7b165e70ae22b61dec13eaa0136b98a92b06c93e68",
-		"_publish_commit": "master:d7227f268d1216c3e2c31412cd843bc15ff9e0e1",
+		"_publish_hash": "sha256:d1883f42be4bbae6ab516a489909a861e0eb65b76125462996484c06a5f5322f",
+		"_publish_commit": "master:7927b49276637f28f099d3f3dea31d139e0ff680",
 		"_npm_package_name": "joplin-plugin-remoods-theme"
 	},
 	"com.joplin.excalidraw": {
