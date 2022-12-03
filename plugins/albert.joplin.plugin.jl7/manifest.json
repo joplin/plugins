@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "albert.joplin.plugin.jl7",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "Delete folder and notes without confirmation",
+	"description": "Delete folder and notes without confirmation",
+	"author": "Albert Pham",
+	"homepage_url": "https://github.com/pnphuong29/joplin-plugin-jl7-pub",
+	"repository_url": "https://github.com/pnphuong29/joplin-plugin-jl7-pub",
+	"keywords": [],
+	"categories": [],
+	"_publish_hash": "sha256:4ebdcf68f5f47a81b4827a0b9d57c3bbb6cec4460fe6bfe2c63c56c32448d552",
+	"_publish_commit": "master:5627870dd10dbc271580254e770f765d79ff3409",
+	"_npm_package_name": "joplin-plugin-delete-notes-without-confirmation"
+}
