@@ -2486,10 +2486,15 @@
 		"author": "Albert Pham",
 		"homepage_url": "https://github.com/pnphuong29/joplin-plugin-jl14-pub",
 		"repository_url": "https://github.com/pnphuong29/joplin-plugin-jl14-pub",
-		"keywords": [],
+		"keywords": [
+			"resource",
+			"attachment",
+			"image",
+			"file"
+		],
 		"categories": [],
-		"_publish_hash": "sha256:27683c49b361b7723452ee37d35fe06f0770f5bc513598fcab197022f10d941e",
-		"_publish_commit": "master:65b251ff89fa198b7100836e2415f040e3030f83",
+		"_publish_hash": "sha256:efdc10c9cc2027cce37b3a2f698eecfffa9652d4e376e10d7fefb57797ef131b",
+		"_publish_commit": "dev:9b7109634c0e3f155acf64f9f67e5a2bd19f132f",
 		"_npm_package_name": "joplin-plugin-delete-unlinked-resources"
 	}
 }
