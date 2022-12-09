@@ -1504,7 +1504,7 @@
 		"manifest_version": 1,
 		"id": "com.hieuthi.joplin.slash-commands",
 		"app_min_version": "2.2",
-		"version": "1.2.1",
+		"version": "1.3.0",
 		"name": "Slash Commands: Datetime & More",
 		"description": "Execute several utilities by typing a command that starts with a slash.",
 		"author": "Hieu-Thi Luong",
@@ -1517,8 +1517,8 @@
 			"commands",
 			"shortcut"
 		],
-		"_publish_hash": "sha256:29d0e10d6b6610de944205bc934c30f8738243b262d986175d75d209f7f5259a",
-		"_publish_commit": "main:e57db089d99dd092037a92bee08e92ab9b19228c",
+		"_publish_hash": "sha256:f39e2cf3ff1d7067004e1d66f5cdbbd40919b1f031a12bf611a0e0478b575d80",
+		"_publish_commit": "main:eea036b04d6dbd28df7d0682c9265f7c8d75943d",
 		"_npm_package_name": "joplin-plugin-slash-commands"
 	},
 	"com.joplin.JSheets": {
