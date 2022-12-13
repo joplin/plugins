@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "uk.co.brainsteam.JoplinHypothesis",
 	"app_min_version": "2.8",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"name": "Joplin Hypothes.is",
 	"description": "Monitor and automatically add hypothesis annotations to your joplin notebooks",
 	"author": "James Ravenscroft",
@@ -14,7 +14,7 @@
 		"sync"
 	],
 	"categories": [],
-	"_publish_hash": "sha256:db1c87c9eab3dbd9d3711d2491ec79155c6ba2b33b6b93ddde6243f3089cb244",
-	"_publish_commit": "main:da6e2061353c4c27376135090f41e29210b815b1",
+	"_publish_hash": "sha256:0ff0e15e1d0f589b415af3052c019dcf2de98d32684e26b4c3e0fa94e51a9292",
+	"_publish_commit": "main:1bff894d3d4df75327b921c092fe23b2665b13e4",
 	"_npm_package_name": "joplin-plugin-hypothesis"
 }
