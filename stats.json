@@ -733,7 +733,7 @@
 			"createdAt": "2021-07-19T14:03:31Z"
 		},
 		"0.5.0": {
-			"downloadCount": 1552,
+			"downloadCount": 1553,
 			"createdAt": "2021-08-02T11:05:17Z"
 		}
 	},
@@ -901,7 +901,7 @@
 			"createdAt": "2021-12-06T22:34:22Z"
 		},
 		"1.0.7": {
-			"downloadCount": 5158,
+			"downloadCount": 5159,
 			"createdAt": "2022-02-26T14:35:29Z"
 		}
 	},
@@ -951,7 +951,7 @@
 			"createdAt": "2022-01-25T21:34:55Z"
 		},
 		"2.3.0": {
-			"downloadCount": 4628,
+			"downloadCount": 4629,
 			"createdAt": "2022-06-04T14:35:19Z"
 		}
 	},
@@ -1063,6 +1063,10 @@
 		"1.3.7": {
 			"downloadCount": 3,
 			"createdAt": "2022-12-21T19:07:33Z"
+		},
+		"1.3.8": {
+			"downloadCount": 10,
+			"createdAt": "2022-12-21T19:37:51Z"
 		}
 	},
 	"org.joplinapp.plugins.AbcSheetMusic": {
@@ -1519,7 +1523,7 @@
 			"createdAt": "2022-04-22T06:35:20Z"
 		},
 		"3.7.1": {
-			"downloadCount": 3570,
+			"downloadCount": 3571,
 			"createdAt": "2022-05-01T14:05:24Z"
 		}
 	},
@@ -2263,7 +2267,7 @@
 			"createdAt": "2022-02-24T12:35:07Z"
 		},
 		"1.0.1": {
-			"downloadCount": 674,
+			"downloadCount": 676,
 			"createdAt": "2022-02-24T13:35:13Z"
 		}
 	},
@@ -2305,7 +2309,7 @@
 			"createdAt": "2022-03-27T16:05:24Z"
 		},
 		"2.1.0": {
-			"downloadCount": 2622,
+			"downloadCount": 2623,
 			"createdAt": "2022-07-19T07:05:44Z"
 		}
 	},
@@ -2679,7 +2683,7 @@
 			"createdAt": "2022-11-01T01:37:05Z"
 		},
 		"1.0.8": {
-			"downloadCount": 311,
+			"downloadCount": 312,
 			"createdAt": "2022-11-11T02:07:13Z"
 		}
 	},
@@ -2717,7 +2721,7 @@
 			"createdAt": "2022-11-27T16:07:05Z"
 		},
 		"0.5.4": {
-			"downloadCount": 76,
+			"downloadCount": 77,
 			"createdAt": "2022-12-19T10:37:34Z"
 		}
 	},
@@ -2839,7 +2843,7 @@
 			"createdAt": "2022-11-30T04:06:50Z"
 		},
 		"1.3.5": {
-			"downloadCount": 100,
+			"downloadCount": 101,
 			"createdAt": "2022-12-16T00:08:22Z"
 		}
 	},
@@ -2865,7 +2869,7 @@
 			"createdAt": "2022-11-10T18:06:58Z"
 		},
 		"1.0.9": {
-			"downloadCount": 422,
+			"downloadCount": 423,
 			"createdAt": "2022-11-10T19:36:48Z"
 		}
 	},
