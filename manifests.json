@@ -1625,15 +1625,15 @@
 		"manifest_version": 1,
 		"id": "io.github.makaanneo.apollo",
 		"app_min_version": "2.5",
-		"version": "1.2.0",
+		"version": "1.2.2",
 		"name": "Joplin Note Attachement rename",
 		"description": "Joplin plugin to rename note attachments,",
 		"author": "makaanneo",
 		"homepage_url": "https://github.com/makaanneo/joplin-plugin-apollo",
 		"repository_url": "https://github.com/makaanneo/joplin-plugin-apollo",
 		"keywords": [],
-		"_publish_hash": "sha256:01200e7713d4e38c27ec256baf66c71aed029669ebc2d896e89ad85e35013ddc",
-		"_publish_commit": "main:3e98880f172ec697a682dea00aa2caf7e004daa2",
+		"_publish_hash": "sha256:5fb9f0cbde278f656f7d1aece27b0e4cfb6e4da9c75c8b12db1d91890a1c333d",
+		"_publish_commit": "main:a05f47f112c0ca86e3a8a32573b41d34e30a2c60",
 		"_npm_package_name": "joplin-plugin-apollo"
 	},
 	"com.github.marc0l92.joplin-plugin-bytefield-svg": {
