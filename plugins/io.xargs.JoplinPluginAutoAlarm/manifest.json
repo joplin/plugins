@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "io.xargs.JoplinPluginAutoAlarm",
 	"app_min_version": "2.6",
-	"version": "1.0.7-rc10",
+	"version": "1.0.8",
 	"name": "Auto Alarm",
 	"description": "Natural language entry of alarm date/times",
 	"author": "ZPH",
 	"homepage_url": "github.com/zph/joplin-plugin-auto-alarm",
 	"repository_url": "github.com/zph/joplin-plugin-auto-alarm",
 	"keywords": [],
-	"_publish_hash": "sha256:074ec97d7a0fa6fb9af4022a03d8046abbb87abb1e139116eac70ebecd8ee04d",
-	"_publish_commit": "heads/v1.0.7-rc10:04bd74e2e80ecdfb8edc75272a14133f2c603ed9",
+	"_publish_hash": "sha256:6d10c0050d09ebb394b079d7e76f7db71333b67fd13c93eca89f03949bcbae0a",
+	"_publish_commit": "main:259c71e5c964acfd483f439e76b96751cb8a50d5",
 	"_npm_package_name": "joplin-plugin-auto-alarm"
 }
