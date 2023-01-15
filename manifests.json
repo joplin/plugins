@@ -2542,5 +2542,27 @@
 		"_publish_hash": "sha256:24d7521dc6b296b4b5c3bcd1d1c8b90620745b070b8c460c92d94e881df7c305",
 		"_publish_commit": "main:c6797adf3bb632fbea12faeb1f1817e6ee3a21c8",
 		"_npm_package_name": "joplin-plugin-multimd-table-tools"
+	},
+	"com.joplin.copy.codeBlocks": {
+		"manifest_version": 1,
+		"id": "com.joplin.copy.codeBlocks",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "Copy Code Blocks",
+		"description": "Add a copy button to the code blocks.",
+		"author": "Light",
+		"homepage_url": "https://github.com/LightAPIs/joplin-copy-code-blocks",
+		"repository_url": "https://github.com/LightAPIs/joplin-copy-code-blocks",
+		"keywords": [
+			"Copy",
+			"Code blocks"
+		],
+		"categories": [
+			"appearance",
+			"productivity"
+		],
+		"_publish_hash": "sha256:381090ed6c8f119356bbdcda38f029d8791b2a51424ecf8aadb4de75392155c3",
+		"_publish_commit": "master:d3d3981126df46c8f642f05490e47fee311300c4",
+		"_npm_package_name": "joplin-plugin-copy-code-blocks"
 	}
 }
