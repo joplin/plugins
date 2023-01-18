@@ -11,7 +11,7 @@
 	"keywords": [
 		"joplin-plugin"
 	],
-	"_publish_hash": "sha256:1e62c0e8b61269f1b63311d96fac913671385a19b6bd5bfd096a1a2bd21bbf6b",
-	"_publish_commit": "master:6121b3da54c26d541051b3ffb7f9006d3c72793d",
+	"_publish_hash": "sha256:2d7f79c639d0ef04cd04e1e838a2c2c4aad90378e2fdac7f9ebf9e170acd0319",
+	"_publish_commit": "master:ba172cf943d4898d4a4f63475c619990b9bbc9bd",
 	"_npm_package_name": "joplin-plugin-journal"
 }
