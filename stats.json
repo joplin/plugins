@@ -167,7 +167,7 @@
 			"createdAt": "2022-12-10T09:36:54Z"
 		},
 		"1.2.2": {
-			"downloadCount": 605,
+			"downloadCount": 606,
 			"createdAt": "2023-01-06T08:07:40Z"
 		}
 	},
@@ -355,7 +355,7 @@
 	},
 	"joplin.plugin.ambrt.goToItem": {
 		"1.3.7": {
-			"downloadCount": 2286,
+			"downloadCount": 2287,
 			"createdAt": "2021-06-01T08:30:51Z"
 		}
 	},
@@ -571,7 +571,7 @@
 			"createdAt": "2022-11-09T08:06:41Z"
 		},
 		"1.5.4": {
-			"downloadCount": 309,
+			"downloadCount": 310,
 			"createdAt": "2023-01-13T05:07:12Z"
 		}
 	},
@@ -705,7 +705,7 @@
 			"createdAt": "2022-12-04T19:36:53Z"
 		},
 		"0.13.2": {
-			"downloadCount": 1643,
+			"downloadCount": 1644,
 			"createdAt": "2022-12-09T20:37:19Z"
 		}
 	},
@@ -777,7 +777,7 @@
 			"createdAt": "2022-01-31T04:35:17Z"
 		},
 		"2.0.0": {
-			"downloadCount": 50,
+			"downloadCount": 51,
 			"createdAt": "2023-01-15T04:37:19Z"
 		}
 	},
@@ -1415,7 +1415,7 @@
 			"createdAt": "2022-05-27T22:34:57Z"
 		},
 		"1.11.0": {
-			"downloadCount": 97,
+			"downloadCount": 98,
 			"createdAt": "2023-01-14T22:07:17Z"
 		}
 	},
@@ -2365,7 +2365,7 @@
 			"createdAt": "2022-03-27T16:05:24Z"
 		},
 		"2.1.0": {
-			"downloadCount": 3133,
+			"downloadCount": 3134,
 			"createdAt": "2022-07-19T07:05:44Z"
 		}
 	},
@@ -2573,7 +2573,7 @@
 			"createdAt": "2022-10-13T09:06:20Z"
 		},
 		"1.6.0": {
-			"downloadCount": 1037,
+			"downloadCount": 1038,
 			"createdAt": "2022-10-16T18:36:38Z"
 		}
 	},
@@ -2639,7 +2639,7 @@
 			"createdAt": "2022-09-08T16:05:59Z"
 		},
 		"1.1.2": {
-			"downloadCount": 2146,
+			"downloadCount": 2147,
 			"createdAt": "2022-09-25T11:07:25Z"
 		}
 	},
@@ -2745,6 +2745,10 @@
 		"1.0.9": {
 			"downloadCount": 17,
 			"createdAt": "2023-01-18T10:38:34Z"
+		},
+		"1.0.11": {
+			"downloadCount": 1,
+			"createdAt": "2023-01-19T03:07:17Z"
 		}
 	},
 	"com.septemberhx.pluginBundle": {
@@ -3217,7 +3221,7 @@
 	},
 	"joplin.plugin.MultiMarkdownTableTools": {
 		"1.0.0": {
-			"downloadCount": 97,
+			"downloadCount": 98,
 			"createdAt": "2023-01-09T19:07:14Z"
 		}
 	},
