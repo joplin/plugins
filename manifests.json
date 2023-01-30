@@ -2600,5 +2600,43 @@
 		"_publish_hash": "sha256:fbfe07c6f2f656c0702b277d97a21dd934bccdc82d659fda4c972e7c588fd2f2",
 		"_publish_commit": "master:dc5cd90026b3afe8772df0afd80d600521d8584f",
 		"_npm_package_name": "joplin-plugin-search-and-replace"
+	},
+	"com.cuibonobo.NoteRename": {
+		"manifest_version": 1,
+		"id": "com.cuibonobo.NoteRename",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "Note Rename",
+		"description": "A utility for changing the titles of many notes at once via prefixes, suffixes, or search and replace.",
+		"author": "cuibonobo",
+		"homepage_url": "https://github.com/cuibonobo/joplin-plugin-note-rename#readme",
+		"repository_url": "https://github.com/cuibonobo/joplin-plugin-note-rename",
+		"keywords": [
+			"joplin",
+			"plugin",
+			"rename",
+			"replace"
+		],
+		"categories": [
+			"personal knowledge management",
+			"productivity"
+		],
+		"screenshots": [
+			{
+				"src": "assets/note-rename-toolbar-buttons.png",
+				"label": "Buttons for adding prefix/suffix or performing search and replace on note titles"
+			},
+			{
+				"src": "assets/note-rename-alter.png",
+				"label": "Add a prefix or suffix to title text for selected notes"
+			},
+			{
+				"src": "assets/note-rename-replace.png",
+				"label": "Search and replace title text for selected notes"
+			}
+		],
+		"_publish_hash": "sha256:ba2482a896a3ef7276a07691d0373c28148bf52f2dcc0d7f2ab56ab2e2066b6f",
+		"_publish_commit": "main:ea51820fdce30c02d1838d2db5eb966904aa01f4",
+		"_npm_package_name": "joplin-plugin-note-rename"
 	}
 }
