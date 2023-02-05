@@ -2647,11 +2647,11 @@
 		"name": "joplin-plugin-TimelineRender",
 		"description": "render the timeline in the markdown",
 		"author": "funny-cat",
-		"homepage_url": "",
+		"homepage_url": "https://github.com/funny-cat-happy/joplin-plugin-TimelineRender.git",
 		"repository_url": "https://github.com/funny-cat-happy/joplin-plugin-TimelineRender.git",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:437f1dd08e1dfb4a3499693760746ad44bbdff93c3d98fb9c10c715fe230710c",
+		"_publish_hash": "sha256:8df22cf2d7155ba9c2cdd4e60f3b1f149c914cbdcd56dcaea8fe0c6ab3146e79",
 		"_publish_commit": "main:a2549205425546df87c544a00d500eda127a3321",
 		"_npm_package_name": "joplin-plugin-timelinerender"
 	},
