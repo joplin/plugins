@@ -171,7 +171,7 @@
 			"createdAt": "2022-12-10T09:36:54Z"
 		},
 		"1.2.2": {
-			"downloadCount": 1357,
+			"downloadCount": 1358,
 			"createdAt": "2023-01-06T08:07:40Z"
 		}
 	},
@@ -415,7 +415,7 @@
 			"createdAt": "2021-06-01T08:31:01Z"
 		},
 		"1.4.0": {
-			"downloadCount": 14441,
+			"downloadCount": 14442,
 			"createdAt": "2021-08-10T18:32:14Z"
 		}
 	},
@@ -583,7 +583,7 @@
 			"createdAt": "2023-01-19T04:07:17Z"
 		},
 		"1.5.6": {
-			"downloadCount": 864,
+			"downloadCount": 866,
 			"createdAt": "2023-01-21T15:07:32Z"
 		}
 	},
@@ -607,7 +607,7 @@
 			"createdAt": "2021-08-21T16:03:13Z"
 		},
 		"0.5.3": {
-			"downloadCount": 4243,
+			"downloadCount": 4244,
 			"createdAt": "2021-10-04T06:03:23Z"
 		}
 	},
@@ -717,7 +717,7 @@
 			"createdAt": "2022-12-04T19:36:53Z"
 		},
 		"0.13.2": {
-			"downloadCount": 2383,
+			"downloadCount": 2384,
 			"createdAt": "2022-12-09T20:37:19Z"
 		}
 	},
@@ -929,7 +929,7 @@
 			"createdAt": "2021-12-06T22:34:22Z"
 		},
 		"1.0.7": {
-			"downloadCount": 5924,
+			"downloadCount": 5925,
 			"createdAt": "2022-02-26T14:35:29Z"
 		}
 	},
@@ -1101,7 +1101,7 @@
 			"createdAt": "2022-12-21T20:37:49Z"
 		},
 		"1.3.11": {
-			"downloadCount": 1749,
+			"downloadCount": 1751,
 			"createdAt": "2022-12-27T21:07:50Z"
 		}
 	},
@@ -1473,7 +1473,7 @@
 			"createdAt": "2021-10-26T07:03:42Z"
 		},
 		"0.3.0": {
-			"downloadCount": 4404,
+			"downloadCount": 4405,
 			"createdAt": "2021-10-31T09:34:10Z"
 		}
 	},
@@ -2009,7 +2009,7 @@
 			"createdAt": "2022-01-07T22:34:57Z"
 		},
 		"1.1.0": {
-			"downloadCount": 3816,
+			"downloadCount": 3817,
 			"createdAt": "2022-01-14T17:35:05Z"
 		}
 	},
@@ -2193,7 +2193,7 @@
 			"createdAt": "2022-01-08T00:05:16Z"
 		},
 		"1.0.8": {
-			"downloadCount": 87,
+			"downloadCount": 88,
 			"createdAt": "2023-01-14T17:07:25Z"
 		}
 	},
@@ -2973,6 +2973,10 @@
 		"1.4.3": {
 			"downloadCount": 133,
 			"createdAt": "2023-02-02T04:07:12Z"
+		},
+		"1.4.4": {
+			"downloadCount": 2,
+			"createdAt": "2023-02-11T02:37:34Z"
 		}
 	},
 	"com.sctmes.kity-minder": {
@@ -2997,7 +3001,7 @@
 			"createdAt": "2022-11-10T18:06:58Z"
 		},
 		"1.0.9": {
-			"downloadCount": 982,
+			"downloadCount": 984,
 			"createdAt": "2022-11-10T19:36:48Z"
 		}
 	},
