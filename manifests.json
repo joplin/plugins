@@ -1831,15 +1831,15 @@
 		"manifest_version": 1,
 		"id": "com.wemakemachines.joplin.plugin.event-calendar",
 		"app_min_version": "2.7",
-		"version": "0.2.1",
+		"version": "0.2.2",
 		"name": "Event Calendar",
 		"description": "A simple event calendar",
 		"author": "Franco Speziali",
 		"homepage_url": "https://github.com/WeMakeMachines/joplin-plugin-event-calendar",
 		"repository_url": "https://github.com/WeMakeMachines/joplin-plugin-event-calendar",
 		"keywords": [],
-		"_publish_hash": "sha256:7c3449af06644da5512057a482cf802648d0520a1c005b13e8abf7c2b833b3e6",
-		"_publish_commit": "master:ff2c3794d66c89e807748ebbebbec4a057c33d03",
+		"_publish_hash": "sha256:01d2737c462d9c898564f673148b7dc891bb5f000a22d526404fe09e074d7846",
+		"_publish_commit": "master:f65a4f119fcd94ed75b2af5db615b54bee71012e",
 		"_npm_package_name": "joplin-plugin-event-calendar"
 	},
 	"joplin.plugin.alondmnt.history-panel": {
