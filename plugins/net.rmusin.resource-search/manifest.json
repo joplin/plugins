@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "net.rmusin.resource-search",
 	"app_min_version": "1.7",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"name": "Resource Search Plugin",
 	"description": "Search in Attached Resources",
 	"author": "Roman Musin",
 	"homepage_url": "https://github.com/roman-r-m/joplin-plugin-resource-search",
 	"repository_url": "https://github.com/roman-r-m/joplin-plugin-resource-search",
 	"keywords": [],
-	"_publish_hash": "sha256:9286481450efed98265a7773ac97e292f66d65cb35f3f5137cf180f2c3dd64eb",
-	"_publish_commit": "master:14d1e5d4d45b71345b670aac245d6fe54f0d51d9",
+	"_publish_hash": "sha256:3e0602e748b21c83ae337fd4c7f134c450071c0ea98e7bbead07cc1c99da7620",
+	"_publish_commit": "master:73dc80f74f963fafc4d736afe364cf9cf6016f58",
 	"_npm_package_name": "joplin-plugin-resource-search"
 }
