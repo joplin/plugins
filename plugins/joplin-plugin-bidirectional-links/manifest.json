@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "joplin-plugin-bidirectional-links",
 	"app_min_version": "1.8.1",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"name": "Bidirectional Links",
 	"description": "Create bidirectional to other notes",
 	"author": "Ben Lau",
 	"homepage_url": "https://github.com/benlau/joplin-plugin-bidirectional-links",
 	"repository_url": "https://github.com/benlau/joplin-plugin-bidirectional-links",
 	"keywords": [],
-	"_publish_hash": "sha256:b16870297bd68b0527ab5a32a91294ba1c371383af60dff22b1d0376598eeef3",
-	"_publish_commit": "master:fbfc57418af147601106e7b777629c97bda829f7",
+	"_publish_hash": "sha256:84ed4833a42e42a3917922ccad823053898a784676c3314d052dc8bb00aacc5a",
+	"_publish_commit": "master:35c54b3cdbe8e234c1a3082f5eec6ac011eebf46",
 	"_npm_package_name": "joplin-plugin-bidirectional-links"
 }
