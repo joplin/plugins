@@ -2270,8 +2270,8 @@
 		"keywords": [
 			"excalidraw"
 		],
-		"_publish_hash": "sha256:fa515ac26d67c0aae9b5711bad23bfc7c8f0658a7a9d7966f30aa80c86eaebb5",
-		"_publish_commit": "main:43dac2f858e65875ca2d37a020445333d9712f15",
+		"_publish_hash": "sha256:b94d3573cc09769a6701ba003d6041e10ae1fe55ce8de8db0a368e4e14671e4c",
+		"_publish_commit": "main:5ddd7a7c8c080ff82833c9422586d90c59c2a013",
 		"_npm_package_name": "joplin-plugin-joplin-excalidraw"
 	},
 	"joplin-plugin-note-encryption": {
