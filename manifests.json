@@ -2431,7 +2431,7 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.alondmnt.jarvis",
 		"app_min_version": "2.8",
-		"version": "0.2.0",
+		"version": "0.3.0",
 		"name": "Jarvis",
 		"description": "Joplin assistant running a very intelligent system (GPT-3)",
 		"author": "Alon Diament",
@@ -2439,8 +2439,8 @@
 		"repository_url": "https://github.com/alondmnt/joplin-plugin-jarvis",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:ebc92029e578c6c730f47b8130d40aae75b1ee197151983db2a8f10f0caad3aa",
-		"_publish_commit": "master:ed5ec4316823db5c2075660112d0bd2cc22119f2",
+		"_publish_hash": "sha256:fe1f02f97a1eedae700dc7ed7c8fe7fc58a174be8fd41af25af0cee120ec3587",
+		"_publish_commit": "master:3730cb28caeeed3860fb51566242a35e21767849",
 		"_npm_package_name": "joplin-plugin-jarvis"
 	},
 	"albert.joplin.plugin7": {
