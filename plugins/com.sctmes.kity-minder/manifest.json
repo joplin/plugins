@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.sctmes.kity-minder",
 	"app_min_version": "2.8",
-	"version": "1.0.9",
+	"version": "1.0.12",
 	"name": "Kity Minder",
 	"description": "Kity Minder Mindmap Tools 思维导图(脑图插件) ",
 	"author": "James Chan",
@@ -10,7 +10,7 @@
 	"repository_url": "https://github.com/xeden3/joplin-plugin-kity-minder",
 	"keywords": [],
 	"categories": [],
-	"_publish_hash": "sha256:3c1f08a76f78aac27a6a5a4db39a69176c26c000330d47cf5925ac024713b528",
+	"_publish_hash": "sha256:9f402f78aecbe0db2ded58f3c7116ce5a4ddc904a442a29b051b3578be199cd4",
 	"_publish_commit": "",
 	"_npm_package_name": "joplin-plugin-kity-minder"
 }
