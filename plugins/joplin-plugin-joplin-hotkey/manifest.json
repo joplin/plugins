@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "joplin-plugin-joplin-hotkey",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "joplin-hotkey",
+	"description": "hotkey in joplin",
+	"author": "artikell",
+	"homepage_url": "https://github.com/artikell/joplin-hotkey",
+	"repository_url": "https://github.com/artikell/joplin-hotkey",
+	"keywords": [],
+	"categories": [],
+	"_publish_hash": "sha256:9bc15eb3b97481ae8f26f975f8bef75c1295fba9b5c106635fb82eb76969d5fa",
+	"_publish_commit": "master:e51d20e15fd1a2a01cf123ba8c53a426827f25c8",
+	"_npm_package_name": "joplin-plugin-joplin-hotkey"
+}
