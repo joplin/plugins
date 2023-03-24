@@ -2644,7 +2644,7 @@
 		"manifest_version": 1,
 		"id": "joplin-plugin-TimelineRender",
 		"app_min_version": "2.8",
-		"version": "1.0.1",
+		"version": "1.0.2",
 		"name": "joplin-plugin-TimelineRender",
 		"description": "render the timeline in the markdown",
 		"author": "funny-cat",
@@ -2652,8 +2652,8 @@
 		"repository_url": "https://github.com/funny-cat-happy/joplin-plugin-TimelineRender.git",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:bf4ffc47711ba54714d2e19419a36edc05e87211ade8f4d4d7345f1889cca922",
-		"_publish_commit": "main:a2549205425546df87c544a00d500eda127a3321",
+		"_publish_hash": "sha256:a40c5d1349153967bd0dc104a822570e391e34147687d30120d8812ec5acd9eb",
+		"_publish_commit": "main:fcb24e32b3cd937e62f2a8086229ee36893e4d08",
 		"_npm_package_name": "joplin-plugin-timelinerender"
 	},
 	"com.joshthor.export": {
