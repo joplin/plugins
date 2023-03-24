@@ -835,8 +835,7 @@
 		],
 		"_publish_hash": "sha256:8ada07ed72f7c0d915b2cb88885498c9d521cc564fcb29e0714c74ee177cc537",
 		"_publish_commit": "main:0c6ba0ec5bd13f4571559cb7f0cdfa215c67dc5e",
-		"_npm_package_name": "joplin-plugin-macos-theme",
-		"_recommended": true
+		"_npm_package_name": "joplin-plugin-macos-theme"
 	},
 	"org.joplinapp.plugins.AbcSheetMusic": {
 		"manifest_version": 1,
