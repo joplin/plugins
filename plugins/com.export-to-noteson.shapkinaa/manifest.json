@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "com.export-to-noteson.shapkinaa",
+	"app_min_version": "1.7",
+	"version": "1.0.3",
+	"name": "Export To NotesOn",
+	"description": "Export notes to NotesOn.",
+	"author": "shapkinaa",
+	"homepage_url": "https://github.com/shapkinaa/joplin-exports-to-noteson#readme",
+	"repository_url": "https://github.com/shapkinaa/joplin-exports-to-noteson.git",
+	"keywords": [],
+	"_publish_hash": "sha256:663253cbefe9f6b3f036a19e89be0a106721da9024980d960f724a9aeb56d20a",
+	"_publish_commit": "main:3c56e6032af75e7e0b57656ca62be5cb3418e09b",
+	"_npm_package_name": "joplin-plugin-export-to-noteson"
+}
