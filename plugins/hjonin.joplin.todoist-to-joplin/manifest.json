@@ -1,0 +1,18 @@
+{
+	"manifest_version": 1,
+	"id": "hjonin.joplin.todoist-to-joplin",
+	"app_min_version": "2.8",
+	"version": "1.0.1",
+	"name": "Todoist to Joplin",
+	"description": "Import your Todoist data into Joplin",
+	"author": "hjonin",
+	"homepage_url": "https://github.com/hjonin/todoist-to-joplin",
+	"repository_url": "https://github.com/hjonin/todoist-to-joplin",
+	"keywords": [],
+	"categories": [
+		"integrations"
+	],
+	"_publish_hash": "sha256:5abe554634bf1ca7c95afb86146d8751379e873afaafd87aa655074b2a0b0b70",
+	"_publish_commit": "main:bd2ef951219af77066369939b83e3681a0c05126",
+	"_npm_package_name": "joplin-plugin-todoist"
+}
