@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.remoods.theme",
 	"app_min_version": "2.8",
-	"version": "4.1.7",
+	"version": "4.2.0",
 	"name": "ReMoods Theme",
 	"description": "3 theme modes, 36 single-tone theme colors, 5 major html custom elements, and more... (Recommend to read about the Getting Started Guide on GitHub before use.) ",
 	"author": "Sinacs",
@@ -21,7 +21,7 @@
 		"editor",
 		"viewer"
 	],
-	"_publish_hash": "sha256:c7c821b0870b6c90a7e75d1e7e6e88a72d72406ac72ce78d995163a5a2d2ee90",
-	"_publish_commit": "master:24e11536a16636ead2cd3bfbb409a54bebe45540",
+	"_publish_hash": "sha256:17061facef84184b7e8cd9923fbef4152d3646398a6269f3d5fefc3578e5cd7a",
+	"_publish_commit": "master:ad6d6a2972417f4c4ff520387fc6168ccdb8f136",
 	"_npm_package_name": "joplin-plugin-remoods-theme"
 }
