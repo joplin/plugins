@@ -181,7 +181,7 @@
 			"createdAt": "2021-06-01T08:30:43Z"
 		},
 		"1.0.1": {
-			"downloadCount": 3608,
+			"downloadCount": 3610,
 			"createdAt": "2021-08-05T17:35:58Z"
 		}
 	},
@@ -375,7 +375,7 @@
 			"createdAt": "2021-06-01T08:30:53Z"
 		},
 		"1.3.0": {
-			"downloadCount": 8828,
+			"downloadCount": 8829,
 			"createdAt": "2021-08-12T20:32:24Z"
 		}
 	},
@@ -389,7 +389,7 @@
 			"createdAt": "2021-08-10T17:32:14Z"
 		},
 		"2.2.0": {
-			"downloadCount": 2519,
+			"downloadCount": 2520,
 			"createdAt": "2021-09-26T21:02:53Z"
 		}
 	},
@@ -415,7 +415,7 @@
 			"createdAt": "2021-06-01T08:31:01Z"
 		},
 		"1.4.0": {
-			"downloadCount": 15797,
+			"downloadCount": 15798,
 			"createdAt": "2021-08-10T18:32:14Z"
 		}
 	},
@@ -463,7 +463,7 @@
 			"createdAt": "2021-06-01T08:31:04Z"
 		},
 		"0.1.2": {
-			"downloadCount": 245,
+			"downloadCount": 246,
 			"createdAt": "2023-02-26T11:37:25Z"
 		}
 	},
@@ -599,7 +599,7 @@
 			"createdAt": "2023-03-18T17:36:53Z"
 		},
 		"1.5.9": {
-			"downloadCount": 32,
+			"downloadCount": 35,
 			"createdAt": "2023-04-11T21:37:10Z"
 		}
 	},
@@ -831,7 +831,7 @@
 			"createdAt": "2021-08-18T23:02:58Z"
 		},
 		"1.2.3": {
-			"downloadCount": 4123,
+			"downloadCount": 4124,
 			"createdAt": "2021-09-08T16:02:42Z"
 		}
 	},
@@ -2249,7 +2249,7 @@
 			"createdAt": "2022-09-12T12:36:14Z"
 		},
 		"1.0.6": {
-			"downloadCount": 1148,
+			"downloadCount": 1149,
 			"createdAt": "2022-09-13T14:36:11Z"
 		}
 	},
@@ -2469,7 +2469,7 @@
 			"createdAt": "2022-11-29T20:07:13Z"
 		},
 		"1.2.3": {
-			"downloadCount": 2108,
+			"downloadCount": 2109,
 			"createdAt": "2022-12-12T13:07:14Z"
 		}
 	},
@@ -2703,7 +2703,7 @@
 			"createdAt": "2023-03-03T07:36:37Z"
 		},
 		"1.2.0": {
-			"downloadCount": 438,
+			"downloadCount": 439,
 			"createdAt": "2023-03-30T07:06:29Z"
 		}
 	},
@@ -2865,7 +2865,7 @@
 			"createdAt": "2022-12-19T10:37:34Z"
 		},
 		"0.5.5": {
-			"downloadCount": 51,
+			"downloadCount": 52,
 			"createdAt": "2023-04-09T11:36:44Z"
 		}
 	},
@@ -3067,7 +3067,7 @@
 			"createdAt": "2023-04-09T05:38:17Z"
 		},
 		"1.8.0": {
-			"downloadCount": 12,
+			"downloadCount": 15,
 			"createdAt": "2023-04-11T22:06:25Z"
 		}
 	},
@@ -3099,6 +3099,10 @@
 		"1.0.12": {
 			"downloadCount": 530,
 			"createdAt": "2023-03-14T10:06:27Z"
+		},
+		"1.0.13": {
+			"downloadCount": 0,
+			"createdAt": "2023-04-12T10:06:26Z"
 		}
 	},
 	"Bishoy.EmailPlugin": {
@@ -3245,7 +3249,7 @@
 			"createdAt": "2022-10-30T10:37:16Z"
 		},
 		"1.3.0": {
-			"downloadCount": 975,
+			"downloadCount": 976,
 			"createdAt": "2022-10-31T16:36:42Z"
 		}
 	},
@@ -3421,7 +3425,7 @@
 	},
 	"bluulo.JoplinCodeClipboardPlugin": {
 		"1.0.0": {
-			"downloadCount": 469,
+			"downloadCount": 470,
 			"createdAt": "2023-01-22T13:07:05Z"
 		}
 	},
