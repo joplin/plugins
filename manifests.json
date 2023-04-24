@@ -2751,5 +2751,21 @@
 		"_publish_hash": "sha256:f75831b5f5a1e29c45e2be0b2d9cec22b3e2db362b47da8806a590af63af8e81",
 		"_publish_commit": "main:e3de575be5653ae04b976b17bc01e13537402861",
 		"_npm_package_name": "joplin-plugin-markmap"
+	},
+	"org.otherware.joplin-publish": {
+		"manifest_version": 1,
+		"id": "org.otherware.joplin-publish",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "joplin publish",
+		"description": "publish notes to github gist",
+		"author": "",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [],
+		"categories": [],
+		"_publish_hash": "sha256:29dc0e8c3cf5155cd9d41bce20f1757595af23091a30188d2143b0ae8bdfbefd",
+		"_publish_commit": "master:b078c6446abac6c90c6aafde5b5f23841fbf512b",
+		"_npm_package_name": "joplin-plugin-publish"
 	}
 }
