@@ -2764,8 +2764,8 @@
 		"repository_url": "",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:29dc0e8c3cf5155cd9d41bce20f1757595af23091a30188d2143b0ae8bdfbefd",
-		"_publish_commit": "master:b078c6446abac6c90c6aafde5b5f23841fbf512b",
+		"_publish_hash": "sha256:0749e8d799cffbdc7c981bac2ec48284f8edb696602ab2933e15e4af3c751868",
+		"_publish_commit": "master:df7a393b4cfdb5ab0f1840b80d22c1ede78ceb6e",
 		"_npm_package_name": "joplin-plugin-publish"
 	}
 }
