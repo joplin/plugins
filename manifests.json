@@ -2740,7 +2740,7 @@
 		"manifest_version": 1,
 		"id": "de.fomin.markmap",
 		"app_min_version": "2.8",
-		"version": "1.3.0",
+		"version": "1.4.1",
 		"name": "Markmap",
 		"description": "Generate a mindmap using markmap",
 		"author": "Daniel Fomin",
@@ -2748,8 +2748,8 @@
 		"repository_url": "https://git.fomin.site/daniel/joplin-markmap",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:2b9758f17816786daace2b79be53d876cf91e93431f5d854d799854ca29128e8",
-		"_publish_commit": "main:ad531c23a3aa3e1d9a0472f6c2c29648f7690cda",
+		"_publish_hash": "sha256:a27fa78e969c1e23616e4ffdd75f3a13b626b6a185c54d4fe40c6e5ce47ce337",
+		"_publish_commit": "main:e1c3419e7ef1e75a3ee3dd953bd78c3e5f45a9ae",
 		"_npm_package_name": "joplin-plugin-markmap"
 	},
 	"org.otherware.joplin-publish": {
