@@ -12,7 +12,7 @@
 		"pdf"
 	],
 	"categories": [],
-	"_publish_hash": "sha256:da880e4834c04984abcbf578ec9256f5f61ab2f72ab57f841bb325ff9e23d482",
-	"_publish_commit": "master:85bdc33a735105474cad5b5974b2e4c80e70bc90",
+	"_publish_hash": "sha256:f8f1ca449560c7d0de73a0d467c3042356c37adf9be9ee11d54be45e62b79161",
+	"_publish_commit": "master:34804ff5599e08d36064a4e859f83649adec0be6",
 	"_npm_package_name": "joplin-plugin-paginator"
 }
