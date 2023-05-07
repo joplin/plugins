@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.MadCake.joplin.markdown-table-sortable",
 	"app_min_version": "2.8",
-	"version": "1.0.0",
+	"version": "2.0.2",
 	"name": "Paginator",
 	"description": "Create paginated 2-column documents in joplin.",
 	"author": "Kostiantyn Rudenko",
@@ -12,7 +12,7 @@
 		"pdf"
 	],
 	"categories": [],
-	"_publish_hash": "sha256:12a850e999eb1267eaabb9512ce201f9c36b223a9d9ce24b5b4b403f6ca93fb3",
-	"_publish_commit": "master:ac5cbe583a97849177cc34bbb44480f4c229504f",
+	"_publish_hash": "sha256:bfe74fa6271e619907669ee8651a68063bcebb0e433d645327cf545418300c95",
+	"_publish_commit": "master:42d8e1f488fe942f8c0c4c29fe32184fea0cc5c2",
 	"_npm_package_name": "joplin-plugin-paginator"
 }
