@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "cf.zuike.joplin-note-email",
+	"app_min_version": "2.8",
+	"version": "1.0.3",
+	"name": "joplin-note-email",
+	"description": "通过邮件发送笔记",
+	"author": "醉客",
+	"homepage_url": "https://github.com/freezuike/joplin-note-email",
+	"repository_url": "https://github.com/freezuike/joplin-note-email",
+	"keywords": [],
+	"categories": [],
+	"_publish_hash": "sha256:38a52c501b85ae2fd1ef91974bcab2d76268a1db7f8a98a611b0345e19cce4ee",
+	"_publish_commit": "master:ad373e75c9976b73d976fc5bfab6be519af21759",
+	"_npm_package_name": "joplin-plugin-joplin-note-email"
+}
