@@ -2136,8 +2136,8 @@
 				"src": "../screenshots/editorview-dark.png"
 			}
 		],
-		"_publish_hash": "sha256:23e49d65a93be296a99f42feac0a4186d7a99bebf0521c0fdf6451a107e6d913",
-		"_publish_commit": "main:e8bbfabe344de2877a2da269bc37ba2f9516c1b7",
+		"_publish_hash": "sha256:deeea67da025eba59eb01a1465e62320b8b841a2f689c538c7b25cc7162c4f3c",
+		"_publish_commit": "main:7f8dc8de441ce15f8063573aaab4142c31e51104",
 		"_npm_package_name": "joplin-plugin-freehand-drawing"
 	},
 	"com.sctmes.kity-minder": {
