@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "cf.zuike.joplin.HackMD",
+	"app_min_version": "2.8",
+	"version": "2.0.0",
+	"name": "joplin-hackmd",
+	"description": "Quick share notes on HackMD.        Hackmd共享笔记, 原项目(https://github.com/xardbaiz/joplin-plugin-hackmd/)",
+	"author": "醉客",
+	"homepage_url": "https://discourse.joplinapp.org/t/plugin-share-note-online-via-hackmd/22048",
+	"repository_url": "https://github.com/freezuike/joplin-plugin-hackmd",
+	"keywords": [],
+	"_publish_hash": "sha256:08a8769c16801ab0b0fa90c597672e157e56b7ee5ffb21c0ec8918c50da254c0",
+	"_publish_commit": "个人:0a097ae7876f580460047f4297da0b4c90bf1d0d",
+	"_npm_package_name": "joplin-plugin-joplin-hackmd"
+}

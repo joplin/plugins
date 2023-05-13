@@ -2829,5 +2829,20 @@
 		"_publish_hash": "sha256:eaed5ca26a2f1f0d0f34522cc9d27a917ec9f027bbd2033f659b72acd07642d3",
 		"_publish_commit": "翻译:fe96792dda719d6b3e7bfaa239d02d6330a3b2b8",
 		"_npm_package_name": "joplin-plugin-joplin-note-email"
+	},
+	"cf.zuike.joplin.HackMD": {
+		"manifest_version": 1,
+		"id": "cf.zuike.joplin.HackMD",
+		"app_min_version": "2.8",
+		"version": "2.0.0",
+		"name": "joplin-hackmd",
+		"description": "Quick share notes on HackMD.        Hackmd共享笔记, 原项目(https://github.com/xardbaiz/joplin-plugin-hackmd/)",
+		"author": "醉客",
+		"homepage_url": "https://discourse.joplinapp.org/t/plugin-share-note-online-via-hackmd/22048",
+		"repository_url": "https://github.com/freezuike/joplin-plugin-hackmd",
+		"keywords": [],
+		"_publish_hash": "sha256:08a8769c16801ab0b0fa90c597672e157e56b7ee5ffb21c0ec8918c50da254c0",
+		"_publish_commit": "个人:0a097ae7876f580460047f4297da0b4c90bf1d0d",
+		"_npm_package_name": "joplin-plugin-joplin-hackmd"
 	}
 }
