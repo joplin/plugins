@@ -107,7 +107,7 @@
 		"manifest_version": 1,
 		"id": "io.github.jackgruber.backup",
 		"app_min_version": "2.1.3",
-		"version": "1.3.0",
+		"version": "1.3.1",
 		"name": "Simple Backup",
 		"description": "Plugin to create manual and automatic backups.",
 		"author": "JackGruber",
@@ -121,8 +121,8 @@
 			"7zip",
 			"encrypted"
 		],
-		"_publish_hash": "sha256:210cba266a6eeceb2a622971a7200be8be407c29ce5df23e872bffa8f6a68a08",
-		"_publish_commit": "master:68888ee372d51f476f89d10a776fc43e79613211",
+		"_publish_hash": "sha256:0d495f6fd2765c76405110dabd2e1f6cae8d77a112864ae5118f586bdcdf54e9",
+		"_publish_commit": "master:291798220b4c22babb08d6466f315f57c2778dc1",
 		"_npm_package_name": "joplin-plugin-backup",
 		"_recommended": true
 	},
