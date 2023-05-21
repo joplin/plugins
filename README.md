@@ -167,4 +167,5 @@ This repository contains the following plugins:
 | [🏠](https://github.com/joplin/plugin-victor#readme) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.Victor/plugin.jpl) | Victor | 1.0.0 | Victor can be used to clear all your data - notes, notebooks, attachments, tags, etc. Convenient to start over. | Laurent Cozic |
 | [🏠](https://github.com/uioporqwerty/joplin-plugin-wakatime) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/app.nybble.joplin-plugin-wakatime/plugin.jpl) | WakaTime | 1.0.13 | A Joplin plugin for WakaTime | Nitish Sachar (uioporqwerty) |
 | [🏠](https://discourse.joplinapp.org/t/joplin-white-theme) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/com.github.BeatLink.joplin-plugin-white-theme/plugin.jpl) | White Theme | 1.3.0 | A white theme for joplin | BeatLink |
+| [🏠](https://github.com/marph91/joplin-plugin-whitespacer) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.whitespacer/plugin.jpl) | Whitespacer | 1.0.0 | Display whitespaces in editor | Martin Dörfelt |
 <!-- PLUGIN_LIST -->
