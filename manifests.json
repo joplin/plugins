@@ -2860,5 +2860,21 @@
 		"_publish_hash": "sha256:6e0402968df30a0e666fe06308b00cea27b870cda3ff0bc7b426c3674b67ad76",
 		"_publish_commit": "master:a79589933253c34f0c931169e4664bf3ec3056c4",
 		"_npm_package_name": "joplin-plugin-whitespacer"
+	},
+	"cf.zuike.joplin.jTab": {
+		"manifest_version": 1,
+		"id": "cf.zuike.joplin.jTab",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "jTab",
+		"description": "jTab",
+		"author": "醉客",
+		"homepage_url": "https://github.com/freezuike/joplin-jTab",
+		"repository_url": "https://github.com/freezuike/joplin-jTab",
+		"keywords": [],
+		"categories": [],
+		"_publish_hash": "sha256:47fee8c37fbf7e7c14877484269f7831adf5d997ef1740841f0fe434f6bf7237",
+		"_publish_commit": "master:dfd0dae85917c38a4dc121af5431b6f65953d14c",
+		"_npm_package_name": "joplin-plugin-jtab"
 	}
 }
