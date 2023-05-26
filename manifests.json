@@ -2876,5 +2876,21 @@
 		"_publish_hash": "sha256:47fee8c37fbf7e7c14877484269f7831adf5d997ef1740841f0fe434f6bf7237",
 		"_publish_commit": "master:dfd0dae85917c38a4dc121af5431b6f65953d14c",
 		"_npm_package_name": "joplin-plugin-jtab"
+	},
+	"com.nhobb.AdvancedJoplinTags": {
+		"manifest_version": 1,
+		"id": "com.nhobb.AdvancedJoplinTags",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "Advanced Tagging for Joplin",
+		"description": "Allow tags to be subsets of other tags",
+		"author": "Nicholas Hobbs",
+		"homepage_url": "https://github.com/nickhobbs94/joplin-plugin-advanced-tags",
+		"repository_url": "https://github.com/nickhobbs94/joplin-plugin-advanced-tags",
+		"keywords": [],
+		"categories": [],
+		"_publish_hash": "sha256:ae89806f255d16d2d73dc03f49abc7563be7d5f4948d8551de496309494864ef",
+		"_publish_commit": "main:f33a0cab8cc1c3ffb6de09d033bde9bb36abc2e3",
+		"_npm_package_name": "joplin-plugin-advanced-tagging"
 	}
 }
