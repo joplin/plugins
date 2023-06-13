@@ -2777,8 +2777,8 @@
 			"personal knowledge management",
 			"productivity"
 		],
-		"_publish_hash": "sha256:3c4f6124a5e3df19f52aa24de08673bea9fb3001510ddfe4fd742316eb2875be",
-		"_publish_commit": "main:172659fe1d848e35007612454be874f1bdc943a8",
+		"_publish_hash": "sha256:4c1e1a8208959e90a04656f1dc469420eb3e409d83867404bce89af9815cb191",
+		"_publish_commit": "main:6b5be93b2dcfce4f8319473c0cf3324f9cae67bd",
 		"_npm_package_name": "joplin-plugin-remote-note-pull"
 	},
 	"com.MadCake.joplin.markdown-table-sortable": {
