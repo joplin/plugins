@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.wemakemachines.joplin.plugin.vextab",
 	"app_min_version": "2.8",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"name": "VexTab plugin for Joplin",
 	"description": "A Joplin plugin for rendering guitar tablature using VexTab",
 	"author": "Franco Speziali",
@@ -10,7 +10,7 @@
 	"repository_url": "https://github.com/WeMakeMachines/joplin-plugin-vextab",
 	"keywords": [],
 	"categories": [],
-	"_publish_hash": "sha256:b0f4d54c89a04e4b55484f5803f984a70a4f1326dae4bd301990d9cccf7ec834",
-	"_publish_commit": "master:0c26667ef1dc906b9b3b7d69657e7afe1505e6b2",
+	"_publish_hash": "sha256:914ecb38d2de264d6c2a2b76474c6729d235cafa7a8878198b0b726f03aae740",
+	"_publish_commit": "master:21097db6574bcc877f43ccff2f6117f41b9a7705",
 	"_npm_package_name": "joplin-plugin-vextab"
 }
