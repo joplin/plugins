@@ -2917,5 +2917,21 @@
 		"_publish_hash": "sha256:914ecb38d2de264d6c2a2b76474c6729d235cafa7a8878198b0b726f03aae740",
 		"_publish_commit": "master:21097db6574bcc877f43ccff2f6117f41b9a7705",
 		"_npm_package_name": "joplin-plugin-vextab"
+	},
+	"joplin.remark.slides": {
+		"manifest_version": 1,
+		"id": "joplin.remark.slides",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "Joplin remark slides",
+		"description": "export note to slides using remarkjs",
+		"author": "lemedege",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [],
+		"categories": [],
+		"_publish_hash": "sha256:1b949b9a63b1dd9427dd56625d08a09e3703d2b336820863e2ed31007edd8efe",
+		"_publish_commit": "main:68a65502054ac747702d3b372da774e9e4fee8c7",
+		"_npm_package_name": "joplin-plugin-joplin-remark-slides"
 	}
 }
