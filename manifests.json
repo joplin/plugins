@@ -2936,5 +2936,25 @@
 		"_publish_hash": "sha256:3e97ae3521b14030ca12717282e940c259799e39e5d7bd48e8648b348960bb59",
 		"_publish_commit": "main:20f6a44683c43eef4740ae57370ca501d8cbe894",
 		"_npm_package_name": "joplin-plugin-joplin-remark-slides"
+	},
+	"io.github.personalizedrefrigerator.revealjs-integration": {
+		"manifest_version": 1,
+		"id": "io.github.personalizedrefrigerator.revealjs-integration",
+		"app_min_version": "2.8",
+		"version": "0.0.1",
+		"name": "RevealJS Integration",
+		"description": "Turn notes into slideshows with reveal.js!",
+		"author": "Henry Heino",
+		"homepage_url": "https://github.com/personalizedrefrigerator/joplin-draw",
+		"repository_url": "https://github.com/personalizedrefrigerator/joplin-draw",
+		"keywords": [
+			"slides"
+		],
+		"categories": [
+			"integrations"
+		],
+		"_publish_hash": "sha256:260f860166e8e9d33fd27eb6d1d2eda6b9abc096c7276603e3717590fdc517e6",
+		"_publish_commit": "main:baccce261d3cbe45d3df3ce94cb1b11222421206",
+		"_npm_package_name": "joplin-plugin-revealjs-slides"
 	}
 }
