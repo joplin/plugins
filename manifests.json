@@ -2418,7 +2418,7 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.alondmnt.jarvis",
 		"app_min_version": "2.8",
-		"version": "0.5.0",
+		"version": "0.5.1",
 		"name": "Jarvis",
 		"description": "Joplin assistant running a very intelligent system (OpenAI / ChatGPT, Hugging Face, USE), including: related notes (semantic search), chat with LLMs and your notes, prompt templates, and more.",
 		"author": "Alon Diament",
@@ -2426,8 +2426,8 @@
 		"repository_url": "https://github.com/alondmnt/joplin-plugin-jarvis",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:fd24d7948726ad26a01a24f9285930fd0274e1f52d5ffc410928780233db6587",
-		"_publish_commit": "master:c216da6e69c485625a7922d7ad837fbf48c14d5c",
+		"_publish_hash": "sha256:322f2e1c51963143573aa190f642f59e55bb25142694c057c7d9576b4b69d625",
+		"_publish_commit": "master:fc5f0853d9ec4bd22b6b5bbc50956d975e616f71",
 		"_npm_package_name": "joplin-plugin-jarvis"
 	},
 	"albert.joplin.plugin7": {
