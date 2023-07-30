@@ -1,0 +1,17 @@
+{
+	"manifest_version": 1,
+	"id": "com.Plugin.ToGoogleSearch",
+	"app_min_version": "2.11",
+	"version": "1.0.0",
+	"name": "To Google Search",
+	"description": "Selected Text to Web Google Search ",
+	"author": "joe",
+	"homepage_url": "https://vocus.cc/fedoranotebook/home",
+	"repository_url": "https://github.com/fishpcblog/joplin-plugin-To-Google-Search",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"_publish_hash": "sha256:4b183b45f5164bbec04da30743f7ac4e26205881dd312ae1cfddc84f8872ee85",
+	"_publish_commit": "main:0bd10688e519025bd312cd6ed5278e318ae9620a",
+	"_npm_package_name": "joplin-plugin-selectedtext-to-googlesearch"
+}
