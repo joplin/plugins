@@ -2071,8 +2071,8 @@
 		"keywords": [
 			"joplin-plugin"
 		],
-		"_publish_hash": "sha256:0ea3f3ab0b0c9d47d70dc843f6b0fe64e1bf9a049ce46f04dac80f50a18433cb",
-		"_publish_commit": "master:ef34f1e46f4f467e0e482ffd7d170595a4080de2",
+		"_publish_hash": "sha256:ff1e0ea6275e0fe4612ed3b0dcb4d9ff73caacc07aedb79be443c8b4c457dadb",
+		"_publish_commit": "master:8527a2260014b517837d4c7cf19e9fc15c83d444",
 		"_npm_package_name": "joplin-plugin-journal"
 	},
 	"com.septemberhx.pluginBundle": {
