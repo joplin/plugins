@@ -3017,5 +3017,22 @@
 		"_publish_hash": "sha256:55c763a7b3921a3216735ed474b070fe0171565c384bf96cfb79f2e1433ba0b6",
 		"_publish_commit": "main:73ca2dab001f542300324a7c8d957e95b2ac7a24",
 		"_npm_package_name": "joplin-plugin-wavedrom"
+	},
+	"com.github.eqs.joplin-plugin-cjk-breaks": {
+		"manifest_version": 1,
+		"id": "com.github.eqs.joplin-plugin-cjk-breaks",
+		"app_min_version": "2.12",
+		"version": "1.0.1",
+		"name": "joplin-plugin-cjk-breaks",
+		"description": "Suppress linebreaks between CJK characters",
+		"author": "eqs",
+		"homepage_url": "https://github.com/eqs/joplin-plugin-cjk-breaks",
+		"repository_url": "https://github.com/eqs/joplin-plugin-cjk-breaks",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"_publish_hash": "sha256:8aa2229ca42ebd293e234e69936e30f6736a43755d2c1769b36eacd5523338ab",
+		"_publish_commit": "main:063fad3ae38b0c60aa4b6dac44c44d3293f956da",
+		"_npm_package_name": "joplin-plugin-cjk-breaks"
 	}
 }
