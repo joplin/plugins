@@ -670,19 +670,21 @@
 		"manifest_version": 1,
 		"id": "fd117a99-b165-4824-893c-5825439a842d",
 		"app_min_version": "2.0",
-		"version": "1.0.0",
-		"name": "Disable PDF",
-		"description": "Disables the PDF preview (and export) in Joplin for better performance",
+		"version": "1.0.1",
+		"name": "Disable markdown renderer",
+		"description": "Disables the markdown renderer / PDF preview (and export) and WYSIWYG editor in Joplin for better performance",
 		"author": "JJ-8",
 		"homepage_url": "https://github.com/JJ-8/joplin-disable-pdf#readme",
 		"repository_url": "https://github.com/JJ-8/joplin-disable-pdf",
 		"keywords": [
 			"pdf",
 			"disable",
-			"preview"
+			"preview",
+			"markdown",
+			"performance"
 		],
-		"_publish_hash": "sha256:0e488189f0600f5055feca2179b4363e244287452c16d30c5db3ee3cfb8ed4b3",
-		"_publish_commit": "main:1ff6bd23c53be79ce643fefb0d7fe32d84b52c07",
+		"_publish_hash": "sha256:af60d790eb9b827207c093c09fcf80cc138ccd7658ed750ada9e48503c8425bf",
+		"_publish_commit": "main:269ca9bc08e021ac93984ffee04be45632a8ecf7",
 		"_npm_package_name": "joplin-plugin-disable-pdf"
 	},
 	"com.lki.homenote": {
