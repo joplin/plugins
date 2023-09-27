@@ -205,8 +205,8 @@
 			"math",
 			"mathjs"
 		],
-		"_publish_hash": "sha256:4b790d5e91c44a3a2739e63711b2ecd6a74ae0943fcfddfe3382d450fc9ce1be",
-		"_publish_commit": "main:fc3e1fe29428081143e85b7e41127a66f772bd3e",
+		"_publish_hash": "sha256:aca564861bc920c8e25397251b9bd8c9b0fc84fe2c4cd8a1d8b28ff9f4beb1af",
+		"_publish_commit": "main:1f7958826913badfd660326a80c2dfb277049593",
 		"_npm_package_name": "joplin-plugin-math-mode",
 		"_recommended": true
 	},
