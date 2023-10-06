@@ -1167,15 +1167,15 @@
 		"manifest_version": 1,
 		"id": "org.joplinapp.plugins.Victor",
 		"app_min_version": "2.2",
-		"version": "1.0.0",
+		"version": "1.0.1",
 		"name": "Victor",
 		"description": "Victor can be used to clear all your data - notes, notebooks, attachments, tags, etc. Convenient to start over.",
 		"author": "Laurent Cozic",
 		"homepage_url": "https://github.com/joplin/plugin-victor#readme",
 		"repository_url": "https://github.com/joplin/plugin-victor",
 		"keywords": [],
-		"_publish_hash": "sha256:4374fa22d2af787ccf43fdeacac4f302fe5932d7555b7c471b7c6f968c35fc1a",
-		"_publish_commit": "master:9a86a322081b666211ee43b7a24076bbebaf963e",
+		"_publish_hash": "sha256:c29d97e1eb5069c8c4855cc718e74c5276f290af116075b1eb67693a5eccf6fc",
+		"_publish_commit": "master:0e3496a5c96c01304ec5118cc3660ad4890eea3a",
 		"_npm_package_name": "joplin-plugin-victor"
 	},
 	"com.hieuthi.joplin.markdown-table-colorize": {
