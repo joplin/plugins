@@ -3078,5 +3078,26 @@
 		"_publish_hash": "sha256:f976844b9fae35527f77eb0b9371dba7b9a71f917dfe4735f6dc46b33e54f2c3",
 		"_publish_commit": "master:8dfbc301c57dca03a6698e7c17886e626368d9b9",
 		"_npm_package_name": "joplin-plugin-better-code-blocks"
+	},
+	"de.habelt-jena.CalibreImport": {
+		"manifest_version": 1,
+		"id": "de.habelt-jena.CalibreImport",
+		"app_min_version": "2.12",
+		"version": "1.0.0",
+		"name": "Calibre Import",
+		"description": "Imports a Calibre Db into (Sub-) Notebook",
+		"author": "Jürgen Habelt",
+		"homepage_url": "https://github.com/Mick2nd/Calibre-Import#readme",
+		"repository_url": "https://github.com/Mick2nd/Calibre-Import",
+		"keywords": [
+			"joplin-plugin",
+			"import-plugin",
+			"calibre-import"
+		],
+		"categories": [],
+		"screenshots": [],
+		"_publish_hash": "sha256:1b446f09d8df9c46bf19db2d199e6ac42fccf633c67d8ad81b10c362019bd098",
+		"_publish_commit": "master:2398027fdcda7e51b39ee2295a261eb4023c8e15",
+		"_npm_package_name": "joplin-plugin-calibre-import"
 	}
 }
