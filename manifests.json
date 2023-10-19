@@ -3102,5 +3102,23 @@
 		"_publish_hash": "sha256:9f6609270980a29da9378bed29823b37eed8921c9b3cbabc6cbd11a64976f8d5",
 		"_publish_commit": "master:0116c2b0f4a19459280f32c28b34cf1d426ef7d8",
 		"_npm_package_name": "joplin-plugin-calibre-import"
+	},
+	"com.joplin.evernote-links-replacer": {
+		"manifest_version": 1,
+		"id": "com.joplin.evernote-links-replacer",
+		"app_min_version": "2.12",
+		"version": "1.0.0",
+		"name": "Joplin Evernote Links Replacer",
+		"description": "Replace Evernote links in Joplin",
+		"author": "Cyril SACENDA",
+		"homepage_url": "https://github.com/cysacenda/joplin-plugin-evernote-links-replacer",
+		"repository_url": "https://github.com/cysacenda/joplin-plugin-evernote-links-replacer",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"_publish_hash": "sha256:37b15e9aedb480ef1be579b8bcfccf0b7ee0a9894634085b5f2cb2bfef895751",
+		"_publish_commit": "main:cf8240a97ee6991a73c9a525412227f852538fb0",
+		"_npm_package_name": "joplin-plugin-joplin-evernote-links-replacer"
 	}
 }
