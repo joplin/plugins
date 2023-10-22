@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "dev.kamer.reset-checkboxes",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "Reset Checkboxes",
+	"description": "A plugin to reset all checkboxes in a file.",
+	"author": "Kamer Elciyar",
+	"homepage_url": "https://github.com/kamer/joplin-reset-checkboxes",
+	"repository_url": "https://github.com/kamer/joplin-reset-checkboxes",
+	"keywords": [
+		"joplin",
+		"checkboxes",
+		"joplin-plugin"
+	],
+	"_publish_hash": "sha256:4a19b0a6557ac83c050226ae7f5af5be91c8312248d96ab1563b154703c5e1df",
+	"_publish_commit": "master:a0ce9bc757ed942b9e05b13007aefd4773a777ce",
+	"_npm_package_name": "joplin-plugin-reset-checkboxes"
+}
