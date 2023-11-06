@@ -10,7 +10,7 @@
 	"repository_url": "https://git.fomin.site/daniel/joplin-markmap",
 	"keywords": [],
 	"categories": [],
-	"_publish_hash": "sha256:4ed91f9c97db51708b716b1153af17a8f4c951032866211b180940cfb1e0b659",
-	"_publish_commit": "main:55e0a624a47f06641604d31d462459cfb814c5fa",
+	"_publish_hash": "sha256:85d3e8199d9e604ae2e15678e36956c994fdd98972f1458539d2a2f99c7946ad",
+	"_publish_commit": "main:fe73af29e1693f603b3900365c1ef581837e9659",
 	"_npm_package_name": "joplin-plugin-markmap"
 }
