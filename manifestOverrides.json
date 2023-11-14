@@ -116,6 +116,7 @@
 		"_recommended": true
 	},
 	"joplin.plugin.benji.favorites": {
+		"_superseded_package": "joplin-plugin-benji-favorites",
 		"_recommended": true
 	},
 	"joplin.plugin.benji.persistentLayout": {
