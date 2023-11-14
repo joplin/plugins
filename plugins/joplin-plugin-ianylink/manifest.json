@@ -1,0 +1,18 @@
+{
+	"manifest_version": 1,
+	"id": "joplin-plugin-ianylink",
+	"app_min_version": "2.11",
+	"version": "0.1.0",
+	"name": "Copy Universal Web Link",
+	"description": "Copy Universal Web Link",
+	"author": "Ben Lau",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"_publish_hash": "sha256:e438b0ff188654ef1a133d24fc5bd442b38ee929592f21cd663d0593896ccd6c",
+	"_publish_commit": "main:9a3eaa8b1cde39ad0052d2269baea837d6879f92",
+	"_npm_package_name": "joplin-plugin-ianylink"
+}
