@@ -22,7 +22,7 @@
 		"panel",
 		"view"
 	],
-	"_publish_hash": "sha256:6f906638826f2d6c6b681af1f53c5e3c4fb2b86c30d98c12b08b76e40a3d1695",
-	"_publish_commit": "master:9bd4f8592ff521ab6329b80e2155307e3d48153c",
+	"_publish_hash": "sha256:520253d59540f851c623dbe466addd198a5f812e9f5b860e30364a75cb596a64",
+	"_publish_commit": "",
 	"_npm_package_name": "joplin-plugin-benji-favorites"
 }
