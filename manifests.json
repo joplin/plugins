@@ -2561,7 +2561,7 @@
 		"manifest_version": 1,
 		"id": "com.joplin.copy.codeBlocks",
 		"app_min_version": "2.8",
-		"version": "1.0.0",
+		"version": "1.1.0",
 		"name": "Copy Code Blocks",
 		"description": "Add a copy button to the code blocks.",
 		"author": "Light",
@@ -2575,8 +2575,8 @@
 			"appearance",
 			"productivity"
 		],
-		"_publish_hash": "sha256:381090ed6c8f119356bbdcda38f029d8791b2a51424ecf8aadb4de75392155c3",
-		"_publish_commit": "master:d3d3981126df46c8f642f05490e47fee311300c4",
+		"_publish_hash": "sha256:737bd9dfcacac02f17b7e8a5bcdc3d7e5588c5f2818207b2c7c0c09df96071b2",
+		"_publish_commit": "master:c036150fb05b3d083b960e748515805f8cb1dfd7",
 		"_npm_package_name": "joplin-plugin-copy-code-blocks"
 	},
 	"bluulo.JoplinCodeClipboardPlugin": {
