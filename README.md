@@ -184,4 +184,5 @@ This repository contains the following plugins:
 | [🏠](https://github.com/cwesson/joplin-plugin-wavedrom) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/net.cwesson.joplin-plugin-wavedrom/plugin.jpl) | Wavedrom | 1.0.0 | Render Wavedrom diagrams inside your Joplin notes. | Conlan Wesson |
 | [🏠](https://discourse.joplinapp.org/t/joplin-white-theme) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/com.github.BeatLink.joplin-plugin-white-theme/plugin.jpl) | White Theme | 1.3.0 | A white theme for joplin | BeatLink |
 | [🏠](https://github.com/marph91/joplin-plugin-whitespacer) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.whitespacer/plugin.jpl) | Whitespacer | 1.0.0 | Display whitespaces in editor | Martin Dörfelt |
+| -     | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/nz.magnusso.zotero-link/plugin.jpl) | Zotero Link | 1.0.0 | Link Zotero entries in notes | Jannes Magnusson |
 <!-- PLUGIN_LIST -->
