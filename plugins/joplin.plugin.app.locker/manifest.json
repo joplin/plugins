@@ -1,0 +1,21 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.app.locker",
+	"app_min_version": "2.8",
+	"version": "1.0.3",
+	"name": "joplin plugin app locker",
+	"description": "A joplin plugin which will lock joplin app when it is idle.",
+	"author": "ladyrank",
+	"homepage_url": "https://github.com/ladyrank/joplin-plugin-app-locker",
+	"repository_url": "https://github.com/ladyrank/joplin-plugin-app-locker.git",
+	"keywords": [
+		"joplin-plugin",
+		"joplin-plugin-app-locker"
+	],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"_publish_hash": "sha256:e2efd05775b405eb85e90a145eb537c6f4ec89550e8289234fcc28a3969aa339",
+	"_publish_commit": "master:edacd6271e32511be65bf0795b8cf8b8c66d0829",
+	"_npm_package_name": "joplin-plugin-app-lock"
+}
