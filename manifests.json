@@ -3099,7 +3099,7 @@
 		"manifest_version": 1,
 		"id": "de.habelt-jena.CalibreImport",
 		"app_min_version": "2.12",
-		"version": "1.0.2",
+		"version": "1.0.3",
 		"name": "Calibre Import",
 		"description": "Imports a Calibre Db into (Sub-) Notebook. Also includes a content plugin supporting attributes (see documentation)",
 		"author": "Jürgen Habelt",
@@ -3115,8 +3115,8 @@
 			"appearance"
 		],
 		"screenshots": [],
-		"_publish_hash": "sha256:597131d3b42fadafc617621d0ad42292e40c6b2a11d6cdcdc6886a6d2eb06a42",
-		"_publish_commit": "master:fae26d3112bec01ed08bcf6fd670c850748ad5fa",
+		"_publish_hash": "sha256:36a2b692a13a22720e8303abcda6c20ff2b837f7273fb4de6af2e1d3c26bcf7d",
+		"_publish_commit": "master:6e088e3a8791ee5718c43ee55b03a4300cbef4f6",
 		"_npm_package_name": "joplin-plugin-calibre-import"
 	},
 	"com.joplin.evernote-links-replacer": {
