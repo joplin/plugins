@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "io.github.personalizedrefrigerator.revealjs-integration",
 	"app_min_version": "2.8",
-	"version": "0.4.0",
+	"version": "0.5.0",
 	"name": "RevealJS Integration",
 	"description": "Turn notes into slideshows with reveal.js!",
 	"author": "Henry Heino",
@@ -19,18 +19,18 @@
 	],
 	"screenshots": [
 		{
-			"src": "../images/screenshot-light.png",
+			"src": "images/screenshot-light.png",
 			"label": "Screenshot: A Joplin plugin window showing a slideshow. The current slide states that KaTeX, highlight.js, and Mermaid are supported."
 		},
 		{
-			"src": "../images/screenshot-dark.png",
+			"src": "images/screenshot-dark.png",
 			"label": "Screenshot: A Joplin plugin window showing a slideshow in dark mode. States that slides are separated by ---s."
 		}
 	],
 	"icons": {
-		"256": "../images/icon-256.png"
+		"256": "images/icon-256.png"
 	},
-	"_publish_hash": "sha256:b79966e65f2c4a2559385cae8817c9a8278abaa2a24f5772d60ea4f4bd113ced",
-	"_publish_commit": "main:3584de1bdfef3c183d33647896ebed4cddff0407",
+	"_publish_hash": "sha256:1e69c40748695a5529d5940ee39d70350759be1e3efda6280a73b4ad28050606",
+	"_publish_commit": "main:05efe5c1bf5d9c1eee5816fdff8c0baba5841c00",
 	"_npm_package_name": "joplin-plugin-revealjs-slides"
 }
