@@ -15,7 +15,7 @@
 		"viewer",
 		"integrations"
 	],
-	"_publish_hash": "sha256:52079b79be54b31a3ef43c9ceba8109ad5c770fc8055c5fafa21756441d974cf",
-	"_publish_commit": "master:d9f60f3255985234325b0ed9d070708d8a848457",
+	"_publish_hash": "sha256:38e7516e097aa6aba3ca2889d9690b79e0a5c0adae918dd3df64530e70dd1140",
+	"_publish_commit": "master:deb1ea985c460455f32cd010d85794f3c9f8aa35",
 	"_npm_package_name": "joplin-plugin-pseudocode-support"
 }
