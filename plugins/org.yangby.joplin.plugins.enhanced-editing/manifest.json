@@ -16,7 +16,7 @@
 		"editor",
 		"productivity"
 	],
-	"_publish_hash": "sha256:459eb22493373b7a33c10410a2562b0122f1b898d9df2971fbb179741438161a",
-	"_publish_commit": "master:d5a8517118b283f371b8aca4ce738a267265cdaa",
+	"_publish_hash": "sha256:8d65f18f7100a755163d6ea65979633e44e58e485344dd0abf5725fe48a4f074",
+	"_publish_commit": "master:2dbabd16c3547f2a576bf4ce6264cffd2936b28e",
 	"_npm_package_name": "joplin-plugin-enhanced-editing"
 }
