@@ -191,7 +191,7 @@
 			"createdAt": "2023-07-08T14:07:30Z"
 		},
 		"1.3.4": {
-			"downloadCount": 812,
+			"downloadCount": 813,
 			"createdAt": "2023-12-04T17:39:14Z"
 		}
 	},
@@ -209,7 +209,7 @@
 			"createdAt": "2023-11-14T18:38:06Z"
 		},
 		"1.2.1": {
-			"downloadCount": 487,
+			"downloadCount": 488,
 			"createdAt": "2023-11-19T10:38:35Z"
 		}
 	},
@@ -349,7 +349,7 @@
 			"createdAt": "2021-08-31T17:02:32Z"
 		},
 		"3.0.3": {
-			"downloadCount": 8061,
+			"downloadCount": 8062,
 			"createdAt": "2021-08-31T18:02:36Z"
 		}
 	},
@@ -411,7 +411,7 @@
 			"createdAt": "2021-08-12T20:32:24Z"
 		},
 		"1.3.2": {
-			"downloadCount": 1091,
+			"downloadCount": 1092,
 			"createdAt": "2023-11-19T22:08:18Z"
 		}
 	},
@@ -647,7 +647,7 @@
 			"createdAt": "2023-11-11T16:39:10Z"
 		},
 		"1.5.13": {
-			"downloadCount": 1242,
+			"downloadCount": 1243,
 			"createdAt": "2023-11-13T18:08:05Z"
 		}
 	},
@@ -675,7 +675,7 @@
 			"createdAt": "2021-10-04T06:03:23Z"
 		},
 		"0.6.2": {
-			"downloadCount": 926,
+			"downloadCount": 927,
 			"createdAt": "2023-09-27T19:07:58Z"
 		}
 	},
@@ -891,7 +891,7 @@
 			"createdAt": "2021-08-18T23:02:58Z"
 		},
 		"1.2.3": {
-			"downloadCount": 6275,
+			"downloadCount": 6276,
 			"createdAt": "2021-09-08T16:02:42Z"
 		}
 	},
@@ -1005,7 +1005,7 @@
 			"createdAt": "2021-12-06T22:34:22Z"
 		},
 		"1.0.7": {
-			"downloadCount": 10190,
+			"downloadCount": 10191,
 			"createdAt": "2022-02-26T14:35:29Z"
 		}
 	},
@@ -1195,6 +1195,10 @@
 		"1.3.14": {
 			"downloadCount": 3,
 			"createdAt": "2023-12-17T22:08:24Z"
+		},
+		"1.3.15": {
+			"downloadCount": 2,
+			"createdAt": "2023-12-17T22:38:09Z"
 		}
 	},
 	"org.joplinapp.plugins.AbcSheetMusic": {
@@ -2561,7 +2565,7 @@
 			"createdAt": "2023-12-11T21:07:49Z"
 		},
 		"1.2.5": {
-			"downloadCount": 239,
+			"downloadCount": 240,
 			"createdAt": "2023-12-11T22:07:39Z"
 		}
 	},
@@ -2811,7 +2815,7 @@
 			"createdAt": "2023-03-30T07:06:29Z"
 		},
 		"1.2.1": {
-			"downloadCount": 4441,
+			"downloadCount": 4442,
 			"createdAt": "2023-05-05T09:06:21Z"
 		}
 	},
@@ -2993,7 +2997,7 @@
 			"createdAt": "2022-12-19T10:37:34Z"
 		},
 		"0.5.5": {
-			"downloadCount": 2469,
+			"downloadCount": 2470,
 			"createdAt": "2023-04-09T11:36:44Z"
 		}
 	},
@@ -3603,7 +3607,7 @@
 	},
 	"org.yangby.joplin.plugins.enhanced-editing": {
 		"0.1.0": {
-			"downloadCount": 1505,
+			"downloadCount": 1506,
 			"createdAt": "2022-11-05T23:07:20Z"
 		}
 	},
