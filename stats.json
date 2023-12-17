@@ -129,7 +129,7 @@
 			"createdAt": "2021-06-01T08:30:41Z"
 		},
 		"1.1.0": {
-			"downloadCount": 8115,
+			"downloadCount": 8116,
 			"createdAt": "2021-06-01T08:37:32Z"
 		}
 	},
@@ -267,7 +267,7 @@
 			"createdAt": "2022-01-26T18:06:12Z"
 		},
 		"1.6.0": {
-			"downloadCount": 2777,
+			"downloadCount": 2778,
 			"createdAt": "2022-12-26T15:09:01Z"
 		}
 	},
@@ -789,7 +789,7 @@
 			"createdAt": "2022-12-09T20:37:19Z"
 		},
 		"0.13.3": {
-			"downloadCount": 4343,
+			"downloadCount": 4344,
 			"createdAt": "2023-08-02T07:38:44Z"
 		}
 	},
@@ -891,7 +891,7 @@
 			"createdAt": "2021-08-18T23:02:58Z"
 		},
 		"1.2.3": {
-			"downloadCount": 6274,
+			"downloadCount": 6275,
 			"createdAt": "2021-09-08T16:02:42Z"
 		}
 	},
@@ -1191,6 +1191,10 @@
 		"1.3.13": {
 			"downloadCount": 5983,
 			"createdAt": "2023-03-16T13:06:41Z"
+		},
+		"1.3.14": {
+			"downloadCount": 3,
+			"createdAt": "2023-12-17T22:08:24Z"
 		}
 	},
 	"org.joplinapp.plugins.AbcSheetMusic": {
@@ -2121,7 +2125,7 @@
 			"createdAt": "2022-01-07T22:34:57Z"
 		},
 		"1.1.0": {
-			"downloadCount": 5962,
+			"downloadCount": 5963,
 			"createdAt": "2022-01-14T17:35:05Z"
 		}
 	},
@@ -2557,7 +2561,7 @@
 			"createdAt": "2023-12-11T21:07:49Z"
 		},
 		"1.2.5": {
-			"downloadCount": 238,
+			"downloadCount": 239,
 			"createdAt": "2023-12-11T22:07:39Z"
 		}
 	},
@@ -3259,7 +3263,7 @@
 			"createdAt": "2023-12-11T15:07:45Z"
 		},
 		"2.7.1": {
-			"downloadCount": 123,
+			"downloadCount": 124,
 			"createdAt": "2023-12-12T16:38:48Z"
 		}
 	},
@@ -3683,7 +3687,7 @@
 			"createdAt": "2023-08-09T21:07:20Z"
 		},
 		"0.7.0": {
-			"downloadCount": 1199,
+			"downloadCount": 1200,
 			"createdAt": "2023-08-31T19:37:40Z"
 		}
 	},
