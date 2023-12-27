@@ -1,0 +1,18 @@
+{
+	"manifest_version": 1,
+	"id": "com.kylrth.JoplinAW",
+	"app_min_version": "2.12",
+	"version": "1.0.0",
+	"name": "JoplinAW",
+	"description": "Import your daily ActivityWatch logs in a readable format",
+	"author": "Kyle Roth",
+	"homepage_url": "",
+	"repository_url": "https://github.com/kylrth/joplin-aw",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"_publish_hash": "sha256:ace0e3c2c313c5f85c9b8af79fa213b4791f9fdd728dc4c25706d48f03c5fbe3",
+	"_publish_commit": "master:45c38af70b7ca7d6637bf4c4137798160175b6d1",
+	"_npm_package_name": "joplin-plugin-joplinaw"
+}
