@@ -3307,7 +3307,8 @@
 		"icons": {},
 		"_publish_hash": "sha256:7e1d709c1f5daba491d29fdf0c8ff9682e5d6edd9466749319e6aa3f4f46fda9",
 		"_publish_commit": "master:736446fe9cbadd872d0c7e853e6d44ea275411f2",
-		"_npm_package_name": "joplin-plugin-notelist"
+		"_npm_package_name": "joplin-plugin-notelist",
+		"_obsolete": true
 	},
 	"com.kylrth.JoplinAW": {
 		"manifest_version": 1,
