@@ -3259,14 +3259,14 @@
 		"manifest_version": 1,
 		"id": "io.github.jackgruber.notelistpreview",
 		"app_min_version": "2.13",
-		"version": "0.0.2",
+		"version": "0.1.0",
 		"name": "Note list (Preview)",
-		"description": "Displays a note priview in the note list",
+		"description": "Displays a note preview in the note list",
 		"author": "JackGruber",
 		"homepage_url": "https://github.com/JackGruber/joplin-plugin-notelistpreview/README.md",
 		"repository_url": "https://github.com/JackGruber/joplin-plugin-notelistpreview",
 		"keywords": [
-			"priview",
+			"preview",
 			"vorschau",
 			"notiz",
 			"note",
@@ -3278,8 +3278,8 @@
 		],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:141142a624c79064221045b8ed553bf275a168964cc97191b429d2aaef4fbe7f",
-		"_publish_commit": "master:10c16a5aa8732206d054a3265aa89d9ca463ed7f",
+		"_publish_hash": "sha256:6682aef8bcebe43d59599c7974c6cfdc21602a22e152ba4934623deb4aa445c5",
+		"_publish_commit": "master:a4f633accde64294347d95b7750dc8e969e11867",
 		"_npm_package_name": "joplin-plugin-notelistpreview"
 	},
 	"io.github.jackgruber.notelist": {
