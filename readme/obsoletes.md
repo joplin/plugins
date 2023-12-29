@@ -14,8 +14,8 @@ It is used for example to exclude:
 To mark a plugin as obsolete, please follow these steps:
 
 - Find the plugin in `/manifests.json` in this repository.
-- Cut the entire JSON block for this plugin.
-- Copy it to `/manifestOverrides.json`.
+- **Cut** the entire JSON block for this plugin (Make sure you actually delete that block, not just copy it)
+- **Copy** it to `/manifestOverrides.json`.
 - Add a new key `"_obsolete": true` to the JSON block.
 - It's easy to forget a comma or a quote when manually editing JSON, and that would make the whole file invalid. So copy and paste `manifests.json` and `manifestOverrides.json` to https://jsonlint.com/ to ensure they are both valid.
 - Create a pull request with the two modified files.
