@@ -21,3 +21,7 @@ To mark a plugin as obsolete, please follow these steps:
 - Create a pull request with the two modified files.
 
 Once the pull request is merged, the plugin will be immediately removed from the application search results. In the future, users who have the plugin installed will also see a message to tell them that it's obsolete.
+
+## Example
+
+Here's an example of correct pull request: https://github.com/joplin/plugins/pull/9/files
