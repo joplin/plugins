@@ -339,7 +339,7 @@
 	},
 	"joplin-insert-date": {
 		"1.0.1": {
-			"downloadCount": 4343,
+			"downloadCount": 4344,
 			"createdAt": "2021-06-01T08:30:47Z"
 		}
 	},
@@ -3757,7 +3757,7 @@
 			"createdAt": "2023-01-09T19:07:14Z"
 		},
 		"1.1.0": {
-			"downloadCount": 1702,
+			"downloadCount": 1703,
 			"createdAt": "2023-07-15T12:38:25Z"
 		}
 	},
@@ -4029,7 +4029,7 @@
 			"createdAt": "2023-11-19T08:49:30Z"
 		},
 		"1.0.0-rc2": {
-			"downloadCount": 608,
+			"downloadCount": 609,
 			"createdAt": "2023-11-23T07:38:18Z"
 		}
 	},
@@ -4113,7 +4113,7 @@
 	},
 	"com.Plugin.ToGoogleSearch": {
 		"1.0.0": {
-			"downloadCount": 264,
+			"downloadCount": 265,
 			"createdAt": "2023-07-30T08:38:33Z"
 		}
 	},
@@ -4227,7 +4227,7 @@
 			"createdAt": "2023-12-01T14:38:56Z"
 		},
 		"1.0.8": {
-			"downloadCount": 53,
+			"downloadCount": 54,
 			"createdAt": "2023-12-05T16:08:56Z"
 		}
 	},
@@ -4235,6 +4235,10 @@
 		"1.0.0": {
 			"downloadCount": 99,
 			"createdAt": "2023-11-28T13:09:42Z"
+		},
+		"1.0.1": {
+			"downloadCount": 0,
+			"createdAt": "2024-01-06T23:08:13Z"
 		}
 	},
 	"com.kylrth.JoplinAW": {
@@ -4263,7 +4267,7 @@
 			"createdAt": "2023-12-28T15:08:02Z"
 		},
 		"0.3.0": {
-			"downloadCount": 76,
+			"downloadCount": 77,
 			"createdAt": "2024-01-02T15:07:45Z"
 		}
 	}
