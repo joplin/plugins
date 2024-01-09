@@ -3259,7 +3259,7 @@
 		"manifest_version": 1,
 		"id": "io.github.jackgruber.notelistpreview",
 		"app_min_version": "2.13",
-		"version": "0.3.0",
+		"version": "0.3.1",
 		"name": "Note list (Preview)",
 		"description": "Displays a note preview in the note list",
 		"author": "JackGruber",
@@ -3278,25 +3278,23 @@
 		],
 		"screenshots": [
 			{
-				"src": "../img/main.png",
+				"src": "img/main.png",
 				"label": "Screenshot: Showing the Note liste preview with thumbnail"
 			},
 			{
-				"src": "../img/showcase1.png",
+				"src": "img/showcase1.png",
 				"label": "Screenshot: Showing the Note liste preview"
 			},
 			{
-				"src": "../img/showcase2.png",
+				"src": "img/showcase2.png",
 				"label": "Screenshot: Showing the Note liste preview with thumbnail and tags"
 			}
 		],
 		"icons": {
-			"icons": {
-				"256": "../img/icon_256.png"
-			}
+			"256": "img/icon_256.png"
 		},
-		"_publish_hash": "sha256:560ca9d7ac35f74b3be318d48d528404253c00e1bf34ad3d9b1a2c0cd1de9eb3",
-		"_publish_commit": "master:576883c713bb16898873ab61997288c28c765a16",
+		"_publish_hash": "sha256:84e58e47d2f47bb1b806350cebbb17e637fe362aa85498ed2b224904745263cf",
+		"_publish_commit": "master:a78c1a8974601d0fa8ce967d88cbfbfb445874ae",
 		"_npm_package_name": "joplin-plugin-notelistpreview"
 	},
 	"com.kylrth.JoplinAW": {
