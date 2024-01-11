@@ -3,9 +3,9 @@
 		"manifest_version": 1,
 		"id": "io.github.jackgruber.copytags",
 		"app_min_version": "1.6.2",
-		"version": "1.0.1",
+		"version": "1.0.2",
 		"name": "Tagging",
-		"description": "Plugin to extend the Joplin tagging menu with a coppy all tags and a tagging dialog with more control. (Formerly Copy Tags).",
+		"description": "Plugin to extend the Joplin tagging menu with a copy all tags and a tagging dialog with more control. (Formerly Copy Tags).",
 		"author": "JackGruber",
 		"homepage_url": "https://github.com/JackGruber/joplin-plugin-tagging/blob/master/README.md",
 		"repository_url": "https://github.com/JackGruber/joplin-plugin-tagging",
@@ -16,8 +16,28 @@
 			"tagging",
 			"tag"
 		],
-		"_publish_hash": "sha256:88daaf234a9b47e5644a8de6f830a801d12edbe41ea5364d994773e89eeafeef",
-		"_publish_commit": "master:64c0510e3236df7788a8d10ec28dcfbb4c2bdbb7",
+		"categories": [
+			"productivity"
+		],
+		"screenshots": [
+			{
+				"src": "img/main_tagging.gif",
+				"label": "Screenshot: Showing the tagging function"
+			},
+			{
+				"src": "img/showcase1.png",
+				"label": "Screenshot: Search tags"
+			},
+			{
+				"src": "img/showcase2.png",
+				"label": "Screenshot: Multiple notes tagged"
+			}
+		],
+		"icons": {
+			"256": "img/icon_256.png"
+		},
+		"_publish_hash": "sha256:859393396a3bf688f1f7b4a00e841f722879c5114478e67300615b2bdabb2d3d",
+		"_publish_commit": "master:4a48581bef670f1a7dff8905bd2d93dbd519711f",
 		"_npm_package_name": "joplin-plugin-copytags",
 		"_recommended": true
 	},
