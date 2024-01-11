@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "io.github.personalizedrefrigerator.joplin-vimrc",
 	"app_min_version": "2.8",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"name": "Custom CodeMirror .vimrc",
 	"description": "Configure CodeMirror‘s Vim emulation with a very-limited, vimrc-like file.",
 	"author": "Henry Heino",
@@ -20,11 +20,11 @@
 			"label": "Shows the \"Edit vimrc\" dialog open. Commands are the same as shown in the readme: unmap <C-c>, unmap <C-v> to allow copy/paste with ctrl+c, imap jk <Esc> to make Escape exit insert mode"
 		},
 		{
-			"src": "https://github.com/personalizedrefrigerator/joplin-plugin-codemirror-vimrc/blob/main/screenshots/screenshot-opening-dialog.png",
+			"src": "screenshots/screenshot-opening-dialog.png",
 			"label": "Screenshot: Joplin's go-to-anything dialog box displays a search query of :vimrc with one command result, Edit .vimrc."
 		}
 	],
-	"_publish_hash": "sha256:4876ed0856e759b538b4c73d1b328469f5af1f0066755ed585563a1fb53343b0",
-	"_publish_commit": "main:4541942495c3d03612c56a67c8543d3b10628bf2",
+	"_publish_hash": "sha256:ec0e28cdbc211395cee8cc64c2032b7becbb8c9c4bb4da7925251b1759ee9f7c",
+	"_publish_commit": "main:7ba073fa769f448e3e4ec8517c1b9d6007c1cf84",
 	"_npm_package_name": "joplin-plugin-custom-codemirror-vimrc"
 }
