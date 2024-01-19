@@ -3395,11 +3395,11 @@
 		"manifest_version": 1,
 		"id": "com.asdibiase.joplin-languagetool",
 		"app_min_version": "2.13",
-		"version": "0.0.3",
+		"version": "0.0.4",
 		"name": "LanguageTool integration",
 		"description": "Use LanguageTool for grammar and spell checking in Joplin",
 		"author": "Alberto Di Biase",
-		"homepage_url": "",
+		"homepage_url": "https://github.com/tito21/joplin-langugetool",
 		"repository_url": "https://github.com/tito21/joplin-langugetool",
 		"keywords": [
 			"LanguageTool",
@@ -3411,8 +3411,8 @@
 		],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:8996f36526ca873b8c5c773472caa099a1cffbbb68c4b194416f63caaef40bd5",
-		"_publish_commit": "main:acbf0a74a7c80096709d59165592310befa4680f",
+		"_publish_hash": "sha256:d59c546c4091fdf1468373a1300302832d276d0be261003c250748008da2cb99",
+		"_publish_commit": "main:5df1b203b80a4d082dfe1de6a655d66b2f45117c",
 		"_npm_package_name": "joplin-plugin-languagetool"
 	}
 }
