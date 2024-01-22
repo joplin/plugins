@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "io.github.personalizedrefrigerator.snippets-and-autocomplete",
 	"app_min_version": "2.14",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"name": "CodeMirror 6 snippets",
 	"description": "Exposes CodeMirror 6's built-in support for autocompletion and snippets.",
 	"author": "Henry Heino",
@@ -16,7 +16,7 @@
 	"categories": [
 		"editor"
 	],
-	"_publish_hash": "sha256:ff767d90b546e9bba28afbd02ee0d434e12249522f9faebce5aba3a94c9d6e6c",
-	"_publish_commit": "main:a6ce5db7bf05b8c4d53091e305d983320c1c4744",
+	"_publish_hash": "sha256:bd801b12c464942293bc212d920b6adf3b7dd9a9f061bfefde27198184078699",
+	"_publish_commit": "main:3f8a1e9f375eee7b16a6e80a6bd5c76b281f6cfc",
 	"_npm_package_name": "joplin-plugin-codemirror-snippets"
 }
