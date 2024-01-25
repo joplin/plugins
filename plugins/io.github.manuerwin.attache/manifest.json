@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "io.github.manuerwin.attache",
 	"app_min_version": "2.13.13",
-	"version": "1.3.2",
+	"version": "1.4.0",
 	"name": "Attaché",
 	"description": "Your attachment updater. Mass replacement of Joplin attachments (resources) such as resized image files, current music playlists, and any other attachments you need to one-off or regularly update within Joplin.",
 	"author": "Manu Erwin",
@@ -14,7 +14,7 @@
 		"resources",
 		"attachments"
 	],
-	"_publish_hash": "sha256:2125b6585ecd8a764aef01976aaf863c7af391ffe23cca33f17ce6a24501da4e",
-	"_publish_commit": "trunk:269b478a6930531cf39aa19bb9246c7667932c94",
+	"_publish_hash": "sha256:f88895dd72edc93a04eb76c5bd3dd9582a93803853c068492cf02c4b74625790",
+	"_publish_commit": "trunk:61b026db23e1a1f2695e48dd429e7f7c35ec03fb",
 	"_npm_package_name": "joplin-plugin-attache"
 }
