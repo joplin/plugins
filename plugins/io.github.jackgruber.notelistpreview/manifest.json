@@ -2,11 +2,11 @@
 	"manifest_version": 1,
 	"id": "io.github.jackgruber.notelistpreview",
 	"app_min_version": "2.13",
-	"version": "0.3.2",
+	"version": "0.4.0",
 	"name": "Note list (Preview)",
 	"description": "Displays a note preview in the note list",
 	"author": "JackGruber",
-	"homepage_url": "https://github.com/JackGruber/joplin-plugin-notelistpreview/README.md",
+	"homepage_url": "https://github.com/JackGruber/joplin-plugin-hotfolder/blob/master/README.md",
 	"repository_url": "https://github.com/JackGruber/joplin-plugin-notelistpreview",
 	"keywords": [
 		"preview",
@@ -17,7 +17,8 @@
 	],
 	"categories": [
 		"themes",
-		"productivity"
+		"viewer",
+		"appearance"
 	],
 	"screenshots": [
 		{
@@ -31,12 +32,20 @@
 		{
 			"src": "img/showcase2.png",
 			"label": "Screenshot: Showing the Note liste preview with thumbnail and tags"
+		},
+		{
+			"src": "img/showcase3.png",
+			"label": "Screenshot: Showing the Note liste preview with thumbnail and tags (Dark theme)"
+		},
+		{
+			"src": "img/showcase4.png",
+			"label": "Screenshot: Showing the Note liste preview with square thumbnail and full size"
 		}
 	],
 	"icons": {
 		"256": "img/icon_256.png"
 	},
-	"_publish_hash": "sha256:77373bb77fbe8c039835808421b5ac5200870622c84ec9b05c9e8515ed7d52c1",
-	"_publish_commit": "master:04ffabdc3562e08ebe37e50cd74a25b3c6b1f771",
+	"_publish_hash": "sha256:389ebb3fe30c77f34d8c5df966433a6d279cb4e44cd78cd1deb53aee02b4664c",
+	"_publish_commit": "master:d40465fbdeedbc963bada0e2d9430ae0dd1f9d67",
 	"_npm_package_name": "joplin-plugin-notelistpreview"
 }
