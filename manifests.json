@@ -3442,7 +3442,7 @@
 		"manifest_version": 1,
 		"id": "com.asdibiase.joplin-languagetool",
 		"app_min_version": "2.13",
-		"version": "0.0.10",
+		"version": "0.1.0",
 		"name": "LanguageTool integration",
 		"description": "Use LanguageTool for grammar and spell checking in Joplin",
 		"author": "Alberto Di Biase",
@@ -3458,8 +3458,8 @@
 		],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:3252f8c6195ea861a0d94faf989e919d34ede5c6b8094d6de3ad4acc828a7f9e",
-		"_publish_commit": "main:c5bef8896cd4b13b01b11cc1803968e5d8809bd0",
+		"_publish_hash": "sha256:b7b697c05378dcb44d85d65936260e91a858563c37823b8cb5d5ccf625564496",
+		"_publish_commit": "main:8b0d7c46e5e959c60fc72f2be8ee18db27c75f3b",
 		"_npm_package_name": "joplin-plugin-languagetool"
 	},
 	"io.github.personalizedrefrigerator.snippets-and-autocomplete": {
