@@ -3536,5 +3536,25 @@
 		"_publish_hash": "sha256:b7638dd0ed3a07e58c5eb9af1947a9d32c47b34bd306c4d95f4572c85f51b398",
 		"_publish_commit": "main:5d6665d2b681dd7f378f28d8b540da85e579091e",
 		"_npm_package_name": "joplin-plugin-joplin-to-todoist"
+	},
+	"jl15988.JoplinCodePerfectPlugin": {
+		"manifest_version": 1,
+		"id": "jl15988.JoplinCodePerfectPlugin",
+		"app_min_version": "2.8",
+		"version": "1.0.1",
+		"name": "CodePerfect",
+		"description": "Make your code blocks look perfect! Support for displaying code block line numbers, support for one-click copying.",
+		"author": "jl15988",
+		"homepage_url": "https://github.com/jl15988/joplin-plugin-code-perfect",
+		"repository_url": "https://github.com/jl15988/joplin-plugin-code-perfect",
+		"keywords": [
+			"joplin-plugin",
+			"codePerfect",
+			"code perfect"
+		],
+		"categories": [],
+		"_publish_hash": "sha256:68417cdaa1925b1d010854d95f907f9acbdd6edeeca72e49ebb2022b5c5d82bd",
+		"_publish_commit": "main:4ae005cf5d607a4c8d591e0eb9f22b6efbca2b65",
+		"_npm_package_name": "joplin-plugin-code-perfect"
 	}
 }
