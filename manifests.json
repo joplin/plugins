@@ -3556,5 +3556,25 @@
 		"_publish_hash": "sha256:0d00b0264d4bd69874e92788442778009b1367503b98c44029fc51882535f27f",
 		"_publish_commit": "main:945fb418456b9e2289e43f64aabb8cb673bea34f",
 		"_npm_package_name": "joplin-plugin-code-perfect"
+	},
+	"jl15988.JoplinAlertsPerfectPlugin": {
+		"manifest_version": 1,
+		"id": "jl15988.JoplinAlertsPerfectPlugin",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "AlertsPerfect",
+		"description": "Use blockquote syntax to display the perfect hint block.",
+		"author": "jl15988",
+		"homepage_url": "https://github.com/jl15988/joplin-plugin-alerts-perfect",
+		"repository_url": "https://github.com/jl15988/joplin-plugin-alerts-perfect",
+		"keywords": [
+			"joplin-plugin",
+			"alertsPerfect",
+			"alerts perfect"
+		],
+		"categories": [],
+		"_publish_hash": "sha256:f2dd786a527ecb70520c2736f85deeb5428543b3fdc7c78bf42cd5142edbeffd",
+		"_publish_commit": "main:e5e887483e1407cd46a73d38007c056af286e9d5",
+		"_npm_package_name": "joplin-plugin-alerts-perfect"
 	}
 }
