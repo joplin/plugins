@@ -3561,7 +3561,7 @@
 		"manifest_version": 1,
 		"id": "jl15988.JoplinAlertsPerfectPlugin",
 		"app_min_version": "2.8",
-		"version": "1.0.0",
+		"version": "1.0.1",
 		"name": "AlertsPerfect",
 		"description": "Use blockquote syntax to display the perfect hint block.",
 		"author": "jl15988",
@@ -3573,8 +3573,8 @@
 			"alerts perfect"
 		],
 		"categories": [],
-		"_publish_hash": "sha256:f2dd786a527ecb70520c2736f85deeb5428543b3fdc7c78bf42cd5142edbeffd",
-		"_publish_commit": "main:e5e887483e1407cd46a73d38007c056af286e9d5",
+		"_publish_hash": "sha256:ae927205779ecb19946d9dec0f2d7086480c0edfae2748ff18a2be72d4fdd2bc",
+		"_publish_commit": "main:8bc2904867f66406096bf46fcd93f3d0e9d00a04",
 		"_npm_package_name": "joplin-plugin-alerts-perfect"
 	},
 	"com.chateloin.joplin-planner": {
