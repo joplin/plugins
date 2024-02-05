@@ -1,15 +1,18 @@
 {
 	"manifest_version": 1,
 	"id": "eu.xardbaiz.joplin.HackMD",
-	"app_min_version": "2.2",
-	"version": "1.0.1",
+	"app_min_version": "2.13",
+	"version": "2.0.0",
 	"name": "joplin-hackmd",
 	"description": "Quick share notes on HackMD",
 	"author": "xardbaiz",
 	"homepage_url": "https://discourse.joplinapp.org/t/plugin-share-note-online-via-hackmd/22048",
 	"repository_url": "https://github.com/xardbaiz/joplin-plugin-hackmd",
 	"keywords": [],
-	"_publish_hash": "sha256:fa528d964819c68134c2aec1ac40471a17e169a98706970658b4823c2fab01c2",
-	"_publish_commit": "main:e01882915d59e418a6d02f69b12d9f9d4e959144",
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"_publish_hash": "sha256:183592f8615ba1d400b736f84aa4ab879b3d3ffb7eab89d37e2c0b33447505a8",
+	"_publish_commit": "main:6adbeea2ff023fce710cbf8dd922d91de7bc4757",
 	"_npm_package_name": "joplin-plugin-hackmd"
 }
