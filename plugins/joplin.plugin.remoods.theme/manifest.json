@@ -21,7 +21,7 @@
 		"editor",
 		"viewer"
 	],
-	"_publish_hash": "sha256:912fd6202f80c5fa45a109af54c68efb1985e15bab2400316b4f12cc6a58e6a7",
-	"_publish_commit": "master:a6013a90bd5b456b8420b0d60d8009868bd3782a",
+	"_publish_hash": "sha256:d48175d97f47cc811c86dd140f7e655a8ec481a26e3265670c24fbbfb18efc6d",
+	"_publish_commit": "master:0540eddaaceac46219fb5e3c18f0fa8869e6ec0b",
 	"_npm_package_name": "joplin-plugin-remoods-theme"
 }
