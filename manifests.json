@@ -3602,7 +3602,7 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.alondmnt.tag-navigator",
 		"app_min_version": "2.10",
-		"version": "0.1.0",
+		"version": "0.1.1",
 		"name": "Inline Tag Navigator",
 		"description": "Convert inline tags to native joplin tags, or navigate between tags using a dedicated panel.",
 		"author": "Alon Diament",
@@ -3617,8 +3617,8 @@
 		],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:62d4135059a854ff9912aaf29c8b5a9fc8611d5514be2dff115735b30742708c",
-		"_publish_commit": "main:e44b529a4deb7f08807e7326132244c6b7ec4ac7",
+		"_publish_hash": "sha256:c23cfe89ee76b72ff5bc9df273d731e37f21840e5d00d8b8f96e335d4fe8075a",
+		"_publish_commit": "main:2ea4ad43abdc2fecce44b40f6bc794046a633e01",
 		"_npm_package_name": "joplin-plugin-tag-navigator"
 	},
 	"com.Plugin.ToWebSearchEngine": {
