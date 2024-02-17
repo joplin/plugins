@@ -3392,7 +3392,7 @@
 		"manifest_version": 1,
 		"id": "io.github.jackgruber.notelistpreview",
 		"app_min_version": "2.13",
-		"version": "0.4.0",
+		"version": "0.4.1",
 		"name": "Note list (Preview)",
 		"description": "Displays a note preview in the note list",
 		"author": "JackGruber",
@@ -3435,8 +3435,8 @@
 		"icons": {
 			"256": "img/icon_256.png"
 		},
-		"_publish_hash": "sha256:389ebb3fe30c77f34d8c5df966433a6d279cb4e44cd78cd1deb53aee02b4664c",
-		"_publish_commit": "master:d40465fbdeedbc963bada0e2d9430ae0dd1f9d67",
+		"_publish_hash": "sha256:62e60b4e47e2351eb95c87cac856dcfce72a3dad1cfd254b5d2b403018332649",
+		"_publish_commit": "master:a69445cc6783114857903a6f911e0e37862bd44a",
 		"_npm_package_name": "joplin-plugin-notelistpreview"
 	},
 	"com.kylrth.JoplinAW": {
