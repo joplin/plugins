@@ -3056,7 +3056,7 @@
 		"manifest_version": 1,
 		"id": "org.joplinapp.plugins.joplin-calendar",
 		"app_min_version": "2.8",
-		"version": "1.0.0-rc2",
+		"version": "1.1.0",
 		"name": "Calendar",
 		"description": "A simple calendar to show notes created on each day.",
 		"author": "Ryan Sandoval",
@@ -3066,8 +3066,8 @@
 			"calendar"
 		],
 		"categories": [],
-		"_publish_hash": "sha256:cb7789e2dafba3d11249012d1b21e9ff33521d7cd8e90feadb92c9cc83202feb",
-		"_publish_commit": "main:3f043184f4289b2ac4dcc4bbbe778de825969ce9",
+		"_publish_hash": "sha256:f2b5ee895c21429e7394732e4d0648c5854357566a64b578030c335e43b056ef",
+		"_publish_commit": "main:96a401a06f3e470dedf46ff4dd0d4e804f89c797",
 		"_npm_package_name": "joplin-plugin-calendar"
 	},
 	"com.wemakemachines.joplin.plugin.vextab": {
