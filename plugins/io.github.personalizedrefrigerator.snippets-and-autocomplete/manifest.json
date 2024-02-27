@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "io.github.personalizedrefrigerator.snippets-and-autocomplete",
 	"app_min_version": "2.14",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"name": "CodeMirror 6 snippets",
 	"description": "Exposes CodeMirror 6's built-in support for autocompletion and snippets.",
 	"author": "Henry Heino",
@@ -27,7 +27,7 @@
 			"label": "An autocompletion menu is shown, containing an HTML tag autocompletion. The snippet code for the autocompletion is also shown: '<${1:tag}>${2:content}</${1:tag}>${}'"
 		}
 	],
-	"_publish_hash": "sha256:3efb4b1136daf01a9f8884340eab7ee7bedd2259be306b1161d3fe72f3ffd25b",
-	"_publish_commit": "main:e95b23cc2260aff5e8ef4b1c90c4f3ddf647ff18",
+	"_publish_hash": "sha256:a43094cb4a77299403c7adbe5ff825667df918c0874eb026ad99d3cc38dbe5f8",
+	"_publish_commit": "main:0fcec35f31578e98fb09e5a32ca3615b15fe3ee0",
 	"_npm_package_name": "joplin-plugin-codemirror-snippets"
 }
