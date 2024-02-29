@@ -2,6 +2,8 @@
 
 This is the official Joplin Plugin Repository. It is updated every 30 minutes on the hour and half-hour.
 
+If you are looking for the official plugin website, please head to https://joplinapp.org/plugins/
+
 ## Installation
 
 To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
