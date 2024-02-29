@@ -3695,5 +3695,23 @@
 		"_publish_hash": "sha256:3af6fa665fa66c95c11b6fa121da48db69b1140e27d7c931641c57542e560c99",
 		"_publish_commit": "main:c66d3aaf45ede3d91e08df56df15fa7ea9b05836",
 		"_npm_package_name": "joplin-plugin-paragraph-extractor"
+	},
+	"com.receiveMailPlugin": {
+		"manifest_version": 1,
+		"id": "com.receiveMailPlugin",
+		"app_min_version": "2.13",
+		"version": "1.0.0",
+		"name": "MailPlugin",
+		"description": "Define a Mail adress and send mails to it, to add new notebooks",
+		"author": "MrHipppo",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"_publish_hash": "sha256:38dac0c0656f1686c7a226ebfd6b3c6483d746e427d8125f309c05b782410c94",
+		"_publish_commit": "main:37a8a50cd1a38d7ca8af1e338272d3b6a8c77d74",
+		"_npm_package_name": "joplin-plugin-mailplugin"
 	}
 }
