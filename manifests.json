@@ -3710,8 +3710,8 @@
 		"categories": [],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:38dac0c0656f1686c7a226ebfd6b3c6483d746e427d8125f309c05b782410c94",
-		"_publish_commit": "main:37a8a50cd1a38d7ca8af1e338272d3b6a8c77d74",
+		"_publish_hash": "sha256:a029dfc46167b7f1e1e7e4d60ada53baeb791685b9f67b2390ebbe72c0c14385",
+		"_publish_commit": "V.0.2:7dc2d1a44eaf360f5e56f48ffb7cf0fc696ec249",
 		"_npm_package_name": "joplin-plugin-mailplugin"
 	}
 }
