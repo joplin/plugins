@@ -3692,8 +3692,8 @@
 		],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:3af6fa665fa66c95c11b6fa121da48db69b1140e27d7c931641c57542e560c99",
-		"_publish_commit": "main:c66d3aaf45ede3d91e08df56df15fa7ea9b05836",
+		"_publish_hash": "sha256:d1d206063486c666771632a7b5f539e88f9af3ef2e6ceebc251ba52850c4d79e",
+		"_publish_commit": "main:8bcc3b0edd70b85650afc2252c173eb44eebd6a9",
 		"_npm_package_name": "joplin-plugin-paragraph-extractor"
 	},
 	"com.receiveMailPlugin": {
