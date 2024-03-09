@@ -3036,7 +3036,7 @@
 		"manifest_version": 1,
 		"id": "com.nhobb.AdvancedJoplinTags",
 		"app_min_version": "2.8",
-		"version": "1.2.0",
+		"version": "1.3.1",
 		"name": "Advanced Tagging Rules",
 		"description": "Allow tags to be subsets of other tags, write rules to move tagged notes to a folder",
 		"author": "Nicholas Hobbs",
@@ -3048,8 +3048,8 @@
 		"categories": [
 			"tags"
 		],
-		"_publish_hash": "sha256:25506910cd88de75892a6a962c86495bad026d64ee63cc877f4d1f2f7f7d79e1",
-		"_publish_commit": "main:6ddae70f9a4aeee8a22335f0ba10572e7b370d71",
+		"_publish_hash": "sha256:9821c7aa5023a09534539c43a5ed7e2a16ae89cafa9859d783d48cf8b8a5e6c7",
+		"_publish_commit": "main:ea55c427e83bbef0b520c1c8688015ae1776250e",
 		"_npm_package_name": "joplin-plugin-advanced-tagging"
 	},
 	"org.joplinapp.plugins.joplin-calendar": {
