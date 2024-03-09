@@ -14,7 +14,7 @@
 	"categories": [
 		"tags"
 	],
-	"_publish_hash": "sha256:5efe6c596c374ca14dabefb87a1c424e7c45c31f0416306ae4a7b22f2cbabc26",
-	"_publish_commit": "main:d0763b73f742e514eaeb509c4398c34bb78b92b2",
+	"_publish_hash": "sha256:25506910cd88de75892a6a962c86495bad026d64ee63cc877f4d1f2f7f7d79e1",
+	"_publish_commit": "main:6ddae70f9a4aeee8a22335f0ba10572e7b370d71",
 	"_npm_package_name": "joplin-plugin-advanced-tagging"
 }
