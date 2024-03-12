@@ -1,0 +1,18 @@
+{
+	"manifest_version": 1,
+	"id": "com.gavinr.JoplinBulletify",
+	"app_min_version": "2.13",
+	"version": "1.0.0",
+	"name": "Bulletify",
+	"description": "Add bullets to all newlines in a note",
+	"author": "Gavin Rehkemper",
+	"homepage_url": "https://gavinr.com/joplin-bulletify",
+	"repository_url": "https://github.com/gavinr/joplin-bulletify",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"_publish_hash": "sha256:84ff7705c2bf3e95d9e0055db86f37c10db2ce35ed7376e5529d5a46395f7942",
+	"_publish_commit": "master:ab69d475a45ec46f75dbc79f996b12b079c9f919",
+	"_npm_package_name": "joplin-plugin-bulletify"
+}
