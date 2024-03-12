@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "io.github.simsapa",
 	"app_min_version": "2.13",
-	"version": "0.5.0",
+	"version": "0.5.1",
 	"name": "Simsapa",
 	"description": "Plugin for Simsapa Dhamma Reader. Open a sidebar or double-click to lookup Pāli words in the dictionary, or search in the suttas.",
 	"author": "Gambhiro",
@@ -12,7 +12,7 @@
 	"categories": [],
 	"screenshots": [],
 	"icons": {},
-	"_publish_hash": "sha256:2b7417894c1dbebb3499ddcde2d50731c61c09a5b429c7c8cf92b53079b41532",
-	"_publish_commit": "main:7153901551fc2d386e86cd1f0cc33f530846e73d",
+	"_publish_hash": "sha256:8ef79142b166b5030acdf0c2562439d9ee6f495558efffba0c20b40b9743b443",
+	"_publish_commit": "main:0d0cbf716e4e1169c4c5d4800db00465a909195d",
 	"_npm_package_name": "joplin-plugin-simsapa"
 }
