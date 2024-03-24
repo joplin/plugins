@@ -3790,8 +3790,8 @@
 		"categories": [],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:1a7543711a9ac66349a928e9c497398c06d15e004c0f079369c0de0ee6279ed7",
-		"_publish_commit": "main:ddbd620b3641e6a0b433da7cf0a51863fe813c4a",
+		"_publish_hash": "sha256:2f748403fe08ed44c8a5e77a777af3812e25d3ba4502f7f5551348c0e5c5ffc0",
+		"_publish_commit": "main:b46e3501cf92c1171fb39c56f9e4b5c036ad7fcb",
 		"_npm_package_name": "joplin-plugin-google-fonts"
 	}
 }
