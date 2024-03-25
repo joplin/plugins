@@ -15,7 +15,7 @@ This repository contains the following plugins:
 <!-- PLUGIN_LIST -->
 | &nbsp; | &nbsp; | Name  | Version | Description | Author |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| [🏠](https://github.com/joplin/plugin-abc-sheet-music) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.AbcSheetMusic/plugin.jpl) | ABC Sheet Music Plugin | 1.0.4 | Turns ABC text notation into sheet music | Laurent Cozic |
+| [🏠](https://github.com/joplin/plugin-abc-sheet-music) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.AbcSheetMusic/plugin.jpl) | ABC Sheet Music Plugin | 1.0.5 | Turns ABC text notation into sheet music | Laurent Cozic |
 | [🏠](https://github.com/maxnegro/joplin-plugin-admonition) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.admonition/plugin.jpl) | Admonition markdown extension | 1.1.0 | Enables markdownIt admonition plugin, which enables formatting notes | Massimiliano Masserelli |
 | [🏠](https://github.com/nickhobbs94/joplin-plugin-advanced-tags) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/com.nhobb.AdvancedJoplinTags/plugin.jpl) | Advanced Tagging Rules | 1.4.0 | Allow tags to be subsets of other tags, write rules to move tagged notes to a folder | Nicholas Hobbs |
 | [🏠](https://discourse.joplinapp.org/t/agenda/21158) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/com.gitlab.BeatLink.joplin-plugin-agenda/plugin.jpl) | Agenda | 3.7.1 | An agenda/calendar/schedule panel for joplin that shows all uncompleted to-dos with a due date. | BeatLink |
