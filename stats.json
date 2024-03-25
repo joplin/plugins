@@ -135,7 +135,7 @@
 			"createdAt": "2024-03-05T21:07:47Z"
 		},
 		"1.3.2": {
-			"downloadCount": 241,
+			"downloadCount": 242,
 			"createdAt": "2024-03-21T22:38:51Z"
 		}
 	},
@@ -245,7 +245,7 @@
 			"createdAt": "2023-11-19T10:38:35Z"
 		},
 		"1.2.2": {
-			"downloadCount": 1235,
+			"downloadCount": 1238,
 			"createdAt": "2024-01-11T19:37:36Z"
 		}
 	},
@@ -281,7 +281,7 @@
 			"createdAt": "2023-06-10T14:07:32Z"
 		},
 		"1.1.1": {
-			"downloadCount": 767,
+			"downloadCount": 768,
 			"createdAt": "2024-01-11T20:07:56Z"
 		}
 	},
@@ -703,7 +703,7 @@
 			"createdAt": "2023-11-11T16:39:10Z"
 		},
 		"1.5.13": {
-			"downloadCount": 3944,
+			"downloadCount": 3945,
 			"createdAt": "2023-11-13T18:08:05Z"
 		}
 	},
@@ -1065,7 +1065,7 @@
 			"createdAt": "2021-12-06T22:34:22Z"
 		},
 		"1.0.7": {
-			"downloadCount": 12054,
+			"downloadCount": 12055,
 			"createdAt": "2022-02-26T14:35:29Z"
 		}
 	},
@@ -1119,7 +1119,7 @@
 			"createdAt": "2022-06-04T14:35:19Z"
 		},
 		"2.4.0": {
-			"downloadCount": 7280,
+			"downloadCount": 7281,
 			"createdAt": "2023-05-27T22:37:15Z"
 		}
 	},
@@ -1269,7 +1269,7 @@
 			"createdAt": "2023-12-28T19:08:03Z"
 		},
 		"1.3.18": {
-			"downloadCount": 2996,
+			"downloadCount": 2997,
 			"createdAt": "2023-12-28T19:38:02Z"
 		}
 	},
@@ -1293,6 +1293,10 @@
 		"1.0.4": {
 			"downloadCount": 255,
 			"createdAt": "2024-01-23T12:37:48Z"
+		},
+		"1.0.5": {
+			"downloadCount": 0,
+			"createdAt": "2024-03-25T13:08:51Z"
 		}
 	},
 	"com.shantanugoel.JoplinCMLineNumbersPlugin": {
@@ -1751,7 +1755,7 @@
 			"createdAt": "2022-04-22T06:35:20Z"
 		},
 		"3.7.1": {
-			"downloadCount": 8950,
+			"downloadCount": 8951,
 			"createdAt": "2022-05-01T14:05:24Z"
 		}
 	},
@@ -2061,7 +2065,7 @@
 			"createdAt": "2022-03-26T12:35:10Z"
 		},
 		"0.8.0": {
-			"downloadCount": 6590,
+			"downloadCount": 6591,
 			"createdAt": "2022-04-07T02:35:15Z"
 		}
 	},
@@ -2527,7 +2531,7 @@
 			"createdAt": "2022-12-23T13:37:55Z"
 		},
 		"1.4.1": {
-			"downloadCount": 1674,
+			"downloadCount": 1675,
 			"createdAt": "2023-02-05T03:37:14Z"
 		}
 	},
@@ -2559,7 +2563,7 @@
 			"createdAt": "2022-02-24T12:35:07Z"
 		},
 		"1.0.1": {
-			"downloadCount": 1565,
+			"downloadCount": 1566,
 			"createdAt": "2022-02-24T13:35:13Z"
 		}
 	},
@@ -2665,7 +2669,7 @@
 			"createdAt": "2023-12-11T21:07:49Z"
 		},
 		"1.2.5": {
-			"downloadCount": 2495,
+			"downloadCount": 2496,
 			"createdAt": "2023-12-11T22:07:39Z"
 		}
 	},
@@ -2687,7 +2691,7 @@
 			"createdAt": "2022-10-26T14:36:46Z"
 		},
 		"0.2.2": {
-			"downloadCount": 1500,
+			"downloadCount": 1502,
 			"createdAt": "2023-02-16T22:37:34Z"
 		}
 	},
@@ -2975,7 +2979,7 @@
 	},
 	"shufo.markdown-prettier": {
 		"0.1.0": {
-			"downloadCount": 3443,
+			"downloadCount": 3444,
 			"createdAt": "2022-06-16T01:05:15Z"
 		}
 	},
@@ -3399,7 +3403,7 @@
 			"createdAt": "2024-03-11T06:38:13Z"
 		},
 		"2.9.1": {
-			"downloadCount": 87,
+			"downloadCount": 88,
 			"createdAt": "2024-03-22T20:38:56Z"
 		}
 	},
@@ -3461,7 +3465,7 @@
 			"createdAt": "2022-10-07T14:36:41Z"
 		},
 		"1.0.2": {
-			"downloadCount": 3463,
+			"downloadCount": 3464,
 			"createdAt": "2022-10-09T09:37:25Z"
 		}
 	},
@@ -3881,7 +3885,7 @@
 			"createdAt": "2023-07-15T12:38:25Z"
 		},
 		"1.2.0": {
-			"downloadCount": 223,
+			"downloadCount": 225,
 			"createdAt": "2024-03-16T18:38:32Z"
 		}
 	},
@@ -4019,7 +4023,7 @@
 			"createdAt": "2023-11-15T23:08:43Z"
 		},
 		"1.6.0": {
-			"downloadCount": 989,
+			"downloadCount": 990,
 			"createdAt": "2023-11-27T23:08:37Z"
 		}
 	},
@@ -4169,7 +4173,7 @@
 			"createdAt": "2023-11-23T07:38:18Z"
 		},
 		"1.1.0": {
-			"downloadCount": 739,
+			"downloadCount": 740,
 			"createdAt": "2024-02-19T02:38:19Z"
 		}
 	},
@@ -4289,7 +4293,7 @@
 			"createdAt": "2023-09-09T06:08:44Z"
 		},
 		"1.1.0": {
-			"downloadCount": 2700,
+			"downloadCount": 2701,
 			"createdAt": "2023-09-11T06:38:24Z"
 		}
 	},
@@ -4505,7 +4509,7 @@
 			"createdAt": "2024-02-02T14:08:00Z"
 		},
 		"1.0.2": {
-			"downloadCount": 460,
+			"downloadCount": 461,
 			"createdAt": "2024-02-02T17:07:55Z"
 		}
 	},
@@ -4613,7 +4617,7 @@
 	},
 	"com.isquaredsoftware.joplin-plugin-vscode-style-search": {
 		"0.0.1": {
-			"downloadCount": 73,
+			"downloadCount": 74,
 			"createdAt": "2024-03-04T00:07:49Z"
 		}
 	},
