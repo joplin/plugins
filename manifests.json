@@ -3108,7 +3108,7 @@
 		"manifest_version": 1,
 		"id": "io.github.personalizedrefrigerator.revealjs-integration",
 		"app_min_version": "2.8",
-		"version": "0.7.0",
+		"version": "0.8.2",
 		"name": "RevealJS Integration",
 		"description": "Turn notes into slideshows with reveal.js!",
 		"author": "Henry Heino",
@@ -3136,8 +3136,8 @@
 		"icons": {
 			"256": "images/icon-256.png"
 		},
-		"_publish_hash": "sha256:ad6e40041e77aea4cd79f7d88541afb40f9d33d7bb4fc4d6b68f1658f67037e9",
-		"_publish_commit": "main:9d62d71954ac5137a0abe285bfea7ec837daae5f",
+		"_publish_hash": "sha256:a8661c501bf8bcf8eadb810435a54db1c8ab8ffae14d7414f866b202b3553469",
+		"_publish_commit": "master:716b3b243b675fe998231d66f4c56c16b28bc0fc",
 		"_npm_package_name": "joplin-plugin-revealjs-slides"
 	},
 	"com.Plugin.ToGoogleSearch": {
