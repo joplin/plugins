@@ -105,7 +105,7 @@
 			"createdAt": "2022-03-31T21:04:58Z"
 		},
 		"1.3.0": {
-			"downloadCount": 866,
+			"downloadCount": 867,
 			"createdAt": "2024-03-02T22:08:01Z"
 		}
 	},
@@ -223,7 +223,7 @@
 			"createdAt": "2024-02-22T16:07:37Z"
 		},
 		"1.4.1": {
-			"downloadCount": 895,
+			"downloadCount": 896,
 			"createdAt": "2024-03-10T11:38:43Z"
 		}
 	},
@@ -709,7 +709,7 @@
 	},
 	"plugin.azamahJunior.note-statistics": {
 		"1.0.4": {
-			"downloadCount": 2473,
+			"downloadCount": 2474,
 			"createdAt": "2021-06-01T08:31:11Z"
 		}
 	},
@@ -1119,7 +1119,7 @@
 			"createdAt": "2022-06-04T14:35:19Z"
 		},
 		"2.4.0": {
-			"downloadCount": 7602,
+			"downloadCount": 7603,
 			"createdAt": "2023-05-27T22:37:15Z"
 		}
 	},
@@ -3625,13 +3625,13 @@
 			"createdAt": "2024-02-08T13:07:32Z"
 		},
 		"4.6.4": {
-			"downloadCount": 595,
+			"downloadCount": 596,
 			"createdAt": "2024-02-08T17:07:29Z"
 		}
 	},
 	"kensam.joplin.plugin.highlighter": {
 		"1.0.0": {
-			"downloadCount": 2018,
+			"downloadCount": 2019,
 			"createdAt": "2022-09-24T13:06:59Z"
 		}
 	},
@@ -4285,6 +4285,10 @@
 		"0.9.1": {
 			"downloadCount": 1,
 			"createdAt": "2024-04-06T03:39:36Z"
+		},
+		"0.10.0": {
+			"downloadCount": 0,
+			"createdAt": "2024-04-06T22:39:37Z"
 		}
 	},
 	"com.Plugin.ToGoogleSearch": {
