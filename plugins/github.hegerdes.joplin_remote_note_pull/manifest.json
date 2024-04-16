@@ -2,12 +2,35 @@
 	"manifest_version": 1,
 	"id": "github.hegerdes.joplin_remote_note_pull",
 	"app_min_version": "2.8",
-	"version": "1.1.4",
+	"version": "1.2.1",
 	"name": "Remote-Note-Pull",
 	"description": "This plugin will periodically pull public available markdown documents into your notebook and keeps them up to date",
 	"author": "hegerdes",
 	"homepage_url": "https://github.com/hegerdes/joplin-plugin-remote-note-pull",
 	"repository_url": "https://github.com/hegerdes/joplin-plugin-remote-note-pull",
+	"screenshots": [
+		{
+			"src": "docs/images/thumpnail.png"
+		},
+		{
+			"src": "docs/images/new_note_dialog.png"
+		},
+		{
+			"src": "docs/images/settings.png"
+		}
+	],
+	"icons": {
+		"16": "docs/images/16-hegerdes.png",
+		"32": "docs/images/32-hegerdes.png",
+		"64": "docs/images/64-hegerdes.png",
+		"128": "docs/images/128-hegerdes.png",
+		"256": "docs/images/256-hegerdes.png",
+		"512": "docs/images/512-hegerdes.png",
+		"1024": "docs/images/1024-hegerdes.png"
+	},
+	"promo_tile": {
+		"src": "docs/images/thumpnail.png"
+	},
 	"keywords": [
 		"joplin",
 		"nodejs",
@@ -20,7 +43,7 @@
 		"personal knowledge management",
 		"productivity"
 	],
-	"_publish_hash": "sha256:1a0b2489316d18e8ebf72c909dd8f5ff5782f11bf9cec46d398b70ac3c4df2c8",
-	"_publish_commit": "main:acf8de1a21d80d4e48428eba76fce58f96198fbd",
+	"_publish_hash": "sha256:f8ed12c432aa3a1ec5c3bf9d6ec573f81d094eac7312c3a469c3a5fbd35020cc",
+	"_publish_commit": "main:97118f7e09212eafe48138341eac6c8bf0daa4d2",
 	"_npm_package_name": "joplin-plugin-remote-note-pull"
 }
