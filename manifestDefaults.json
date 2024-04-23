@@ -1,0 +1,44 @@
+{
+    "io.github.jackgruber.copytags": {
+		"platforms": ["desktop"]
+	},
+	"io.github.jackgruber.combine-notes": {
+		"platforms": ["desktop"]
+	},
+	"org.joplinapp.plugins.ToggleSidebars": {
+		"platforms": ["desktop"]
+	},
+	"io.github.jackgruber.backup": {
+		"platforms": ["desktop"]
+	},
+	"io.github.jackgruber.note-overview": {
+		"platforms": ["desktop"]
+	},
+	"io.github.jackgruber.hotfolder": {
+		"platforms": ["desktop"]
+	},
+	"net.rmusin.resource-search": {
+		"platforms": ["desktop"]
+	},
+	"net.rmusin.joplin-table-formatter": {
+		"platforms": ["desktop"]
+	},
+	"com.xUser5000.bibtex": {
+		"platforms": ["desktop"]
+	},
+	"joplin-plugin-conflict-resolution": {
+		"platforms": ["desktop"]
+	},
+	"joplin.plugin.templates": {
+		"platforms": ["desktop"]
+	},
+	"joplin.plugin.benji.favorites": {
+		"platforms": ["desktop"]
+	},
+	"joplin.plugin.benji.persistentLayout": {
+		"platforms": ["desktop"]
+	},
+	"joplin.plugin.benji.quick-move": {
+		"platforms": ["desktop"]
+	}
+}
