@@ -1,0 +1,27 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.personalizedrefrigerator.joplin-plugin-debug-info",
+	"app_min_version": "2.14",
+	"version": "0.0.1",
+	"name": "Joplin debug tool",
+	"description": "Adds a panel that shows additional information about the current note.",
+	"author": "Henry Heino",
+	"homepage_url": "https://github.com/personalizedrefrigerator/joplin-plugin-codemirror-6-snippets",
+	"repository_url": "https://github.com/personalizedrefrigerator/joplin-plugin-codemirror-6-snippets",
+	"keywords": [
+		"snippets",
+		"autocomplete",
+		"suggestions"
+	],
+	"categories": [
+		"editor",
+		"productivity"
+	],
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"_publish_hash": "sha256:03da2394983ff2a0a73358b5001b067be31a6fdba9d971f9ae4d74b81783b7db",
+	"_publish_commit": "master:5fc3597503becc026906d88e148b6fede0aa9f39",
+	"_npm_package_name": "joplin-plugin-debug-info"
+}
