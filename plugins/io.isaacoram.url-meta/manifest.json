@@ -1,0 +1,22 @@
+{
+	"manifest_version": 1,
+	"id": "io.isaacoram.url-meta",
+	"app_min_version": "2.13",
+	"version": "1.0.0",
+	"name": "URL Meta",
+	"description": "Fetches meta tags/data from URLs in your notes.",
+	"author": "Isaac Oram",
+	"homepage_url": "https://github.com/isaacakajupiter/joplin-url-meta",
+	"repository_url": "https://github.com/isaacakajupiter/joplin-url-meta",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"_publish_hash": "sha256:3efce5d902b2ff493176d033ecbf5205cebd35f82d31a054c29a6a16e9109cbc",
+	"_publish_commit": "main:f250f67500d7d15bcd83cd30533b49e01965f3e5",
+	"_npm_package_name": "joplin-plugin-url-meta"
+}
