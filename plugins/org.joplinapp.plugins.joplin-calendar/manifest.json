@@ -2,8 +2,8 @@
 	"manifest_version": 1,
 	"id": "org.joplinapp.plugins.joplin-calendar",
 	"app_min_version": "2.8",
-	"version": "1.1.1",
-	"name": "Calendar",
+	"version": "1.1.2",
+	"name": "Joplin Calendar",
 	"description": "A simple calendar to show notes created on each day.",
 	"author": "Ryan Sandoval",
 	"homepage_url": "https://github.com/rsandz/joplin-calendar",
@@ -12,7 +12,7 @@
 		"calendar"
 	],
 	"categories": [],
-	"_publish_hash": "sha256:65dba4feab2e045abe7d652b0d03ab486d566c774c82bb2130212e58e5d2f43c",
-	"_publish_commit": "main:f7bab1ba714f736f51f943dba388c2edf4ec67da",
+	"_publish_hash": "sha256:fa40f19f650fef39bd041f24a414cd93a2516464225bc573e3b15760b5001cb9",
+	"_publish_commit": "main:8def999285568eca3b12100c6035e782acd64ba7",
 	"_npm_package_name": "joplin-plugin-calendar"
 }
