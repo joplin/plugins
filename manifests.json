@@ -911,7 +911,7 @@
 		"manifest_version": 1,
 		"id": "com.andrejilderda.macOSTheme",
 		"app_min_version": "2.2.4",
-		"version": "1.5.2",
+		"version": "1.5.3",
 		"name": "macOS theme",
 		"description": "Native looking macOS theme for Joplin. Also works on non-macOS devices.",
 		"author": "Andre Jilderda",
@@ -924,8 +924,8 @@
 			"css",
 			"macos"
 		],
-		"_publish_hash": "sha256:64d31682343ff425ef657574454fb0fdaab55fd4c75bffb89f8e84367d413b92",
-		"_publish_commit": "main:edebd45231b3abafe780663c005a03f6b11507b8",
+		"_publish_hash": "sha256:f6ca712acb2f030aca8698b526a29070888595bd7f31785919c91968b63a8246",
+		"_publish_commit": "main:0f03425ed9b77bf2584a5b84a479881ee2c079bd",
 		"_npm_package_name": "joplin-plugin-macos-theme"
 	},
 	"org.joplinapp.plugins.AbcSheetMusic": {
