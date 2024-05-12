@@ -3929,8 +3929,8 @@
 			"desktop",
 			"mobile"
 		],
-		"_publish_hash": "sha256:3efce5d902b2ff493176d033ecbf5205cebd35f82d31a054c29a6a16e9109cbc",
-		"_publish_commit": "main:f250f67500d7d15bcd83cd30533b49e01965f3e5",
+		"_publish_hash": "sha256:17bb2689c5184e597444bcbb2028944b17ff083d2a70ffb8bd61ff3611a33ef9",
+		"_publish_commit": "main:37120ebabccb311a741a707849fa288bd25b0afe",
 		"_npm_package_name": "joplin-plugin-url-meta"
 	}
 }
