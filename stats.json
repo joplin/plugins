@@ -937,7 +937,7 @@
 			"createdAt": "2022-01-31T04:35:17Z"
 		},
 		"2.0.0": {
-			"downloadCount": 1801,
+			"downloadCount": 1802,
 			"createdAt": "2023-01-15T04:37:19Z"
 		}
 	},
@@ -1131,7 +1131,7 @@
 			"createdAt": "2022-06-04T14:35:19Z"
 		},
 		"2.4.0": {
-			"downloadCount": 8422,
+			"downloadCount": 8423,
 			"createdAt": "2023-05-27T22:37:15Z"
 		}
 	},
@@ -1283,6 +1283,10 @@
 		"1.3.18": {
 			"downloadCount": 4444,
 			"createdAt": "2023-12-28T19:38:02Z"
+		},
+		"1.4.0": {
+			"downloadCount": 0,
+			"createdAt": "2024-05-12T14:09:59Z"
 		}
 	},
 	"org.joplinapp.plugins.AbcSheetMusic": {
@@ -1767,7 +1771,7 @@
 			"createdAt": "2022-04-22T06:35:20Z"
 		},
 		"3.7.1": {
-			"downloadCount": 9452,
+			"downloadCount": 9453,
 			"createdAt": "2022-05-01T14:05:24Z"
 		}
 	},
@@ -2415,7 +2419,7 @@
 			"createdAt": "2022-12-22T11:37:59Z"
 		},
 		"2.2.3": {
-			"downloadCount": 1175,
+			"downloadCount": 1176,
 			"createdAt": "2022-12-30T15:08:14Z"
 		}
 	},
@@ -2433,7 +2437,7 @@
 			"createdAt": "2022-01-08T00:05:16Z"
 		},
 		"1.0.8": {
-			"downloadCount": 764,
+			"downloadCount": 765,
 			"createdAt": "2023-01-14T17:07:25Z"
 		}
 	},
@@ -2647,7 +2651,7 @@
 			"createdAt": "2022-04-02T03:05:19Z"
 		},
 		"1.0.4": {
-			"downloadCount": 5367,
+			"downloadCount": 5368,
 			"createdAt": "2022-06-05T11:06:31Z"
 		}
 	},
@@ -2685,7 +2689,7 @@
 			"createdAt": "2023-12-11T21:07:49Z"
 		},
 		"1.2.5": {
-			"downloadCount": 3310,
+			"downloadCount": 3311,
 			"createdAt": "2023-12-11T22:07:39Z"
 		}
 	},
@@ -2707,7 +2711,7 @@
 			"createdAt": "2022-10-26T14:36:46Z"
 		},
 		"0.2.2": {
-			"downloadCount": 1657,
+			"downloadCount": 1658,
 			"createdAt": "2023-02-16T22:37:34Z"
 		}
 	},
@@ -2881,7 +2885,7 @@
 			"createdAt": "2023-10-18T23:08:30Z"
 		},
 		"1.7.1": {
-			"downloadCount": 196,
+			"downloadCount": 197,
 			"createdAt": "2024-05-01T18:08:45Z"
 		}
 	},
@@ -2893,7 +2897,7 @@
 	},
 	"aa.asrient.backstage": {
 		"1.0.0": {
-			"downloadCount": 1211,
+			"downloadCount": 1212,
 			"createdAt": "2022-05-08T19:35:32Z"
 		}
 	},
@@ -2991,7 +2995,7 @@
 	},
 	"com.font.size.shortcut": {
 		"1.0.0": {
-			"downloadCount": 2389,
+			"downloadCount": 2390,
 			"createdAt": "2022-05-25T07:35:04Z"
 		}
 	},
@@ -3493,7 +3497,7 @@
 			"createdAt": "2022-10-07T14:36:41Z"
 		},
 		"1.0.2": {
-			"downloadCount": 3708,
+			"downloadCount": 3709,
 			"createdAt": "2022-10-09T09:37:25Z"
 		}
 	},
@@ -3937,7 +3941,7 @@
 			"createdAt": "2024-03-16T18:38:32Z"
 		},
 		"1.2.1": {
-			"downloadCount": 46,
+			"downloadCount": 47,
 			"createdAt": "2024-05-10T10:39:08Z"
 		}
 	},
@@ -4621,7 +4625,7 @@
 			"createdAt": "2024-02-02T14:08:00Z"
 		},
 		"1.0.2": {
-			"downloadCount": 832,
+			"downloadCount": 833,
 			"createdAt": "2024-02-02T17:07:55Z"
 		}
 	},
@@ -4745,7 +4749,7 @@
 			"createdAt": "2024-05-11T14:39:49Z"
 		},
 		"0.7.2": {
-			"downloadCount": 2,
+			"downloadCount": 3,
 			"createdAt": "2024-05-12T13:10:01Z"
 		}
 	},
