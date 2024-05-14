@@ -3929,7 +3929,7 @@
 		"manifest_version": 1,
 		"id": "io.isaacoram.url-meta",
 		"app_min_version": "2.13",
-		"version": "1.0.2",
+		"version": "1.0.3",
 		"name": "URL Meta",
 		"description": "Fetches meta tags/data from URLs in your notes.",
 		"author": "Isaac Oram",
@@ -3943,8 +3943,8 @@
 			"desktop",
 			"mobile"
 		],
-		"_publish_hash": "sha256:a5ada5bc6b17405f6007654a4191e96b70c860f5a0f845c7492b38bd12c2d56b",
-		"_publish_commit": "main:1b75197e787d03f249317195391d494de0e77d5b",
+		"_publish_hash": "sha256:23b84875c78c33d977279c35bc6253ca9c7a21c783bb829e78d277663088c1de",
+		"_publish_commit": "main:b1a42f63c33f8c19250bfacf8b43492d19be6a0f",
 		"_npm_package_name": "joplin-plugin-url-meta"
 	}
 }
