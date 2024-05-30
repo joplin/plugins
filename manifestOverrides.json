@@ -273,5 +273,22 @@
 		"_publish_commit": "master:736446fe9cbadd872d0c7e853e6d44ea275411f2",
 		"_npm_package_name": "joplin-plugin-notelist",
 		"_obsolete": true
+	},
+	"com.septemberhx.pluginBundle": {
+		"manifest_version": 1,
+		"id": "com.septemberhx.pluginBundle",
+		"app_min_version": "2.8",
+		"version": "0.5.5",
+		"name": "Plugin Bundle",
+		"description": "Table of Contents, Inline Todos, Daily Notes, and History aggregated in one panel with more eye-candy UI design.",
+		"author": "SeptemberHX",
+		"homepage_url": "https://github.com/SeptemberHX/joplin-plugin-bundle.git",
+		"repository_url": "https://github.com/SeptemberHX/joplin-plugin-bundle.git",
+		"keywords": [],
+		"categories": [],
+		"_publish_hash": "sha256:971d2042ffe47718c52b8038c818c87811d7815d908fd25549bb292f76dabec2",
+		"_publish_commit": "main:57bf3b556fcf8ea38b7e1140145c6c2169857c0f",
+		"_npm_package_name": "joplin-plugin-bundle",
+		"_obsolete": true
 	}
 }
