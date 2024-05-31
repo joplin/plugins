@@ -2824,8 +2824,8 @@
 		"repository_url": "https://github.com/funny-cat-happy/joplin-plugin-TimelineRender.git",
 		"keywords": [],
 		"categories": [],
-		"_publish_hash": "sha256:a40c5d1349153967bd0dc104a822570e391e34147687d30120d8812ec5acd9eb",
-		"_publish_commit": "main:fcb24e32b3cd937e62f2a8086229ee36893e4d08",
+		"_publish_hash": "sha256:6f91a7519c8a204ba73e1014041d721a143a4e2c84e30d624b99ae0b1f027bcf",
+		"_publish_commit": "main:3de2ccf89eaeaf771a204c87ba38d060edd59f82",
 		"_npm_package_name": "joplin-plugin-timelinerender"
 	},
 	"com.joshthor.export": {
