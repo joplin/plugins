@@ -3888,7 +3888,7 @@
 		"manifest_version": 1,
 		"id": "io.github.personalizedrefrigerator.joplin-plugin-debug-info",
 		"app_min_version": "2.14",
-		"version": "0.1.0",
+		"version": "0.2.0",
 		"name": "Joplin debug tool",
 		"description": "A panel with information about the current note and an advanced search tool.",
 		"author": "Henry Heino",
@@ -3910,8 +3910,8 @@
 			"desktop",
 			"mobile"
 		],
-		"_publish_hash": "sha256:1cf776a43c41911ed3ff90fa359ceb169b7cf2c09b7f28d8b0a68fb57c51b84c",
-		"_publish_commit": "master:712eb69630db9bd4a3b20b095a2a3f0b5a842f31",
+		"_publish_hash": "sha256:a049ba62bad46c23ed7585e83e49e3309f4fc767799147b05b31f837a867d84c",
+		"_publish_commit": "master:21eeeb75ce75e5bddcf510f7f34591ab72c70c42",
 		"_npm_package_name": "joplin-plugin-debug-info"
 	},
 	"io.isaacoram.url-meta": {
