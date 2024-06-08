@@ -1,0 +1,27 @@
+{
+	"manifest_version": 1,
+	"id": "io.sagaii.export2git",
+	"app_min_version": "1.0",
+	"version": "1.0.5",
+	"name": "Save Note as Markdown and Commit to Git",
+	"description": "Simple plugin to export your current note as an MD file to the directory and  Commit to Git (modify at Save Note to MD (joshchavez.dev) )",
+	"author": "sagaii",
+	"homepage_url": "https://github.com/sagaii/JoplinExport2GitRepos/blob/master/README.md",
+	"repository_url": "https://github.com/sagaii/JoplinExport2GitRepos",
+	"keywords": [
+		"export",
+		"markdown",
+		"git",
+		"scripts"
+	],
+	"categories": [
+		"productivity",
+		"files"
+	],
+	"platforms": [
+		"desktop"
+	],
+	"_publish_hash": "sha256:0a82f1a538f62f206c6a9082b28bd13ad713f5daacaca7f64062f81377516f75",
+	"_publish_commit": "master:87c2bbfc1aab392b5ecf6bb0065994d464ff4c7d",
+	"_npm_package_name": "joplin-plugin-export2git"
+}
