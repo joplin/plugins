@@ -829,28 +829,6 @@
 		"_npm_package_name": "joplin-plugin-conflict-resolution",
 		"_recommended": true
 	},
-	"com.gitlab.BeatLink.joplin-plugin-repeating-todos": {
-		"manifest_version": 1,
-		"id": "com.gitlab.BeatLink.joplin-plugin-repeating-todos",
-		"app_min_version": "1.7",
-		"version": "0.10.3",
-		"name": "Repeating To-Dos",
-		"description": "A powerful and comprehensive plugin for to-do repetition/recurrence",
-		"author": "BeatLink",
-		"homepage_url": "https://discourse.joplinapp.org/t/plugin-repeating-to-dos/16470",
-		"repository_url": "https://gitlab.com/beatlink-code/joplin-plugin-repeating-todos",
-		"keywords": [
-			"joplin",
-			"to-do",
-			"repeat",
-			"repeating",
-			"recurring",
-			"reccur"
-		],
-		"_publish_hash": "sha256:603e48ef488546891c593c3ec9dc2bfc9176d7aa605e09378da5bc658f8d6d0e",
-		"_publish_commit": "main:cdcdf3442e5e177769ebb4ce83ae14f08332f408",
-		"_npm_package_name": "joplin-plugin-repeating-to-dos"
-	},
 	"joplin.plugin.quick.html.tags": {
 		"manifest_version": 1,
 		"id": "joplin.plugin.quick.html.tags",
@@ -1031,27 +1009,6 @@
 		"_publish_hash": "sha256:d4bf46444193f53df5803b28d2bbf6dcd370eea25eb807540422fbdf4bacf77e",
 		"_publish_commit": "master:e2ca4b8e367eb169fcd38247780359baaf26392d",
 		"_npm_package_name": "joplin-plugin-get-notebook-id"
-	},
-	"com.github.BeatLink.joplin-plugin-white-theme": {
-		"manifest_version": 1,
-		"id": "com.github.BeatLink.joplin-plugin-white-theme",
-		"app_min_version": "2.0",
-		"version": "1.3.0",
-		"name": "White Theme",
-		"description": "A white theme for joplin",
-		"author": "BeatLink",
-		"homepage_url": "https://discourse.joplinapp.org/t/joplin-white-theme",
-		"repository_url": "https://github.com/BeatLink/Joplin-White-Theme",
-		"keywords": [
-			"white",
-			"light",
-			"theme",
-			"joplin",
-			"plugin"
-		],
-		"_publish_hash": "sha256:4a91e0c1f882ab2f356b6a970fa053cc570c86f69dac8822335b79d8c99d9b09",
-		"_publish_commit": "main:70a967d96890211765f9988c1436a8063a1b1ef2",
-		"_npm_package_name": "joplin-plugin-white-theme"
 	},
 	"com.coderrsid.pasteSpecial": {
 		"manifest_version": 1,
@@ -1258,28 +1215,6 @@
 		"_publish_hash": "sha256:227fa3c25eeb6721cda06493e06deabb0a6b6ba1d0c683ef9f5438b327505912",
 		"_publish_commit": "main:05a8cbc452e86ea05dd4a787f88d2e7981ed5a74",
 		"_npm_package_name": "joplin-plugin-quick-goto"
-	},
-	"com.gitlab.BeatLink.joplin-plugin-agenda": {
-		"manifest_version": 1,
-		"id": "com.gitlab.BeatLink.joplin-plugin-agenda",
-		"app_min_version": "1.7",
-		"version": "3.7.1",
-		"name": "Agenda",
-		"description": "An agenda/calendar/schedule panel for joplin that shows all uncompleted to-dos with a due date.",
-		"author": "BeatLink",
-		"homepage_url": "https://discourse.joplinapp.org/t/agenda/21158",
-		"repository_url": "https://gitlab.com/beatlink-code/joplin-plugin-agenda",
-		"keywords": [
-			"joplin",
-			"schedule",
-			"calendar",
-			"agenda",
-			"upcoming",
-			"date"
-		],
-		"_publish_hash": "sha256:4d4f28965f216785c2c5d77b6372e160854443d51ade80936ec95b230e09e2b5",
-		"_publish_commit": "main:a59598ab0acf14daacdb05ebf2bf52df58053561",
-		"_npm_package_name": "joplin-plugin-agenda"
 	},
 	"com.github.marc0l92.joplin-plugin-github-theme": {
 		"manifest_version": 1,
