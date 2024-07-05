@@ -355,5 +355,33 @@
 		"_publish_commit": "main:70a967d96890211765f9988c1436a8063a1b1ef2",
 		"_npm_package_name": "joplin-plugin-white-theme",
 		"_obsolete": true
+	},
+	"joplin.plugin.remoods.theme": {
+		"manifest_version": 1,
+		"id": "joplin.plugin.remoods.theme",
+		"app_min_version": "2.8",
+		"version": "4.6.4",
+		"name": "ReMoods Theme",
+		"description": "3 theme modes, 36 single-tone theme colors, 5 major html custom elements, and more... (Recommend to read about the Getting Started Guide on GitHub before use.) ",
+		"author": "Sinacs",
+		"homepage_url": "https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme",
+		"repository_url": "https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme",
+		"keywords": [
+			"joplin",
+			"joplin-plugin",
+			"theme",
+			"ReMoods",
+			"Ohmine Dark Theme"
+		],
+		"categories": [
+			"appearance",
+			"themes",
+			"editor",
+			"viewer"
+		],
+		"_publish_hash": "sha256:4d62e78a23eec92a32b79bedcf862a5ae61fb43e65c08ebfb21eb4f94ca1beb4",
+		"_publish_commit": "master:05350d258236861d54c89f8f3fa616c3cafc808e",
+		"_npm_package_name": "joplin-plugin-remoods-theme",
+		"_obsolete": true
 	}
 }
