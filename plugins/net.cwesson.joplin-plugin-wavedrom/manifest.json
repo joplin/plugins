@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "net.cwesson.joplin-plugin-wavedrom",
 	"app_min_version": "2.11",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Wavedrom",
 	"description": "Render Wavedrom diagrams inside your Joplin notes.",
 	"author": "Conlan Wesson",
@@ -11,7 +11,7 @@
 	"keywords": [],
 	"categories": [],
 	"screenshots": [],
-	"_publish_hash": "sha256:55c763a7b3921a3216735ed474b070fe0171565c384bf96cfb79f2e1433ba0b6",
-	"_publish_commit": "main:73ca2dab001f542300324a7c8d957e95b2ac7a24",
+	"_publish_hash": "sha256:04d85e56a683f41aa7b8639080716c5870b229d3f8ac56fa9c5d4ae711adab2b",
+	"_publish_commit": "main:af17b9e7954caa153847a2fb9e7751e099f2af8c",
 	"_npm_package_name": "joplin-plugin-wavedrom"
 }
