@@ -20,12 +20,6 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Set up NPM
-        run: |
-          # Allow installing packages globally
-          mkdir ~/.npm-global
-          npm config set prefix '~/.npm-global'
-
       - name: Prepare git
         shell: bash
         # Makes the commit author be shown as GitHub Actions in the
@@ -39,6 +33,6 @@ jobs:
         shell: bash
         # See https://github.com/actions/checkout/pull/1707
         run: |
-          export PATH="$HOME/.npm-global/bin:$PATH"
-          npm install -g @joplin/plugin-repo-cli
-          npx @joplin/plugin-repo-cli build ~/plugins/
+          mkdir ~/plugin-repo-builder/
+          cd ~/plugin-repo-builder/ && npm install @joplin/plugin-repo-cli
+          npm exec plugin-repo-cli build ~/plugins/
