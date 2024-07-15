@@ -1,4 +1,4 @@
-name: Build Joplin Website
+name: Update plugin repo
 on:
   schedule:
     - cron: "0 */6 * * *"
