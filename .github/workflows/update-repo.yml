@@ -1,0 +1,43 @@
+name: Build Joplin Website
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+jobs:
+  PluginRepo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Joplin plugin repository
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          path: 'plugins'
+
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Set up NPM
+        run: |
+          # Allow installing packages globally
+          mkdir ~/.npm-global
+          npm config set prefix '~/.npm-global'
+
+      - name: Prepare git
+        shell: bash
+        # Makes the commit author be shown as GitHub Actions in the
+        # GitHub UI.
+        # See https://github.com/actions/checkout/pull/1707
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Build
+        shell: bash
+        # See https://github.com/actions/checkout/pull/1707
+        run: |
+          export PATH=~/.npm-global/bin:$PATH
+          npm i --global @joplin/plugin-repo-cli
+          cd plugins
+          plugin-repo-cli build .
