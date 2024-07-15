@@ -34,4 +34,7 @@ jobs:
         # See https://github.com/actions/checkout/pull/1707
         run: |
           mkdir ~/plugin-repo-builder/
-          cd ~/plugin-repo-builder/ && npm install @joplin/plugin-repo-cli && npx @joplin/plugin-repo-cli build ~/plugins/
+          cd ~/plugin-repo-builder/ && npm install @joplin/plugin-repo-cli
+          echo "Installed!"
+          echo 'require("@joplin/plugin-repo-cli")' > main.js
+          node main.js build ~/plugins/
