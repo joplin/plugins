@@ -35,6 +35,8 @@ jobs:
         run: |
           mkdir ./plugin-repo-builder/
           cd ./plugin-repo-builder/ && npm install @joplin/plugin-repo-cli
-          echo "Installed!"
+          echo "Installed @joplin/plugin-repo-cli!"
+          # Use NodeJS to resolve plugin-repo-cli
           echo 'require("@joplin/plugin-repo-cli")' > main.js
+          # plugin-repo-cli requires absolute paths.
           node main.js build "$(realpath ../plugins/)"
