@@ -37,4 +37,4 @@ jobs:
           cd ./plugin-repo-builder/ && npm install @joplin/plugin-repo-cli
           echo "Installed!"
           echo 'require("@joplin/plugin-repo-cli")' > main.js
-          node main.js build ../plugins/
+          node main.js build "$(realpath ../plugins/)"
