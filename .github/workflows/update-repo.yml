@@ -40,3 +40,5 @@ jobs:
           echo 'require("@joplin/plugin-repo-cli")' > main.js
           # plugin-repo-cli requires absolute paths.
           node main.js build "$(realpath ../plugins/)"
+        env:
+          JOPLIN_GITHUB_OAUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
