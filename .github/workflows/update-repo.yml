@@ -35,4 +35,4 @@ jobs:
         run: |
           mkdir ~/plugin-repo-builder/
           cd ~/plugin-repo-builder/ && npm install @joplin/plugin-repo-cli
-          npm exec plugin-repo-cli build ~/plugins/
+          npx -c "plugin-repo-cli build ~/plugins/"
