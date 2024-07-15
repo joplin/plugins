@@ -39,7 +39,6 @@ jobs:
         shell: bash
         # See https://github.com/actions/checkout/pull/1707
         run: |
-          export PATH=~/.npm-global/bin:$PATH
-          npm i --global @joplin/plugin-repo-cli
-          cd plugins
-          plugin-repo-cli build .
+          mkdir ./npm-global/
+          cd ./npm-global/ && npm install @joplin/plugin-repo-cli
+          npm run plugin-repo-cli build ../plugins/
