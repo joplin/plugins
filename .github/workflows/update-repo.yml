@@ -26,8 +26,8 @@ jobs:
         # GitHub UI.
         # See https://github.com/actions/checkout/pull/1707
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "joplinbot"
+          git config --global user.email "bot@joplinapp.org"
 
       - name: Build
         shell: bash
