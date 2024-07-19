@@ -2,11 +2,11 @@
 	"manifest_version": 1,
 	"id": "com.sgitm.NotebooksNavigate",
 	"app_min_version": "2.13",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "NotebookNavigate",
 	"description": "Notebook Navigate from Current opend Note",
 	"author": "joe",
-	"homepage_url": "",
+	"homepage_url": "https://github.com/fishpcblog/joplin-plugin-notebooks-navigate",
 	"repository_url": "https://github.com/fishpcblog/joplin-plugin-notebooks-navigate",
 	"keywords": [
 		"NoteBook",
@@ -18,7 +18,7 @@
 	],
 	"screenshots": [],
 	"icons": {},
-	"_publish_hash": "sha256:54acf63ebab3b0c11dc997989c322f4d88720488b795345ec35ec4160b2b7133",
-	"_publish_commit": "main:756b33ecf89b557852e51bde35087cf39932fcd9",
+	"_publish_hash": "sha256:59dbd59b85ee9a46a821418a4575269b7c70e596d401de03b1a8d19693b951a5",
+	"_publish_commit": "main:b0a28d054b4e34225f4c324ea30baefb9dba2e09",
 	"_npm_package_name": "joplin-plugin-notebooknavigate"
 }
