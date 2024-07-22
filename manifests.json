@@ -2556,27 +2556,6 @@
 		"_publish_commit": "dev:16db0a980f988f8231695d5b376d0275db754323",
 		"_npm_package_name": "joplin-plugin-delete-notes-without-confirmation"
 	},
-	"albert.joplin.plugin.jl14": {
-		"manifest_version": 1,
-		"id": "albert.joplin.plugin.jl14",
-		"app_min_version": "2.8",
-		"version": "1.0.0",
-		"name": "Delete unlinked resources",
-		"description": "Delete unlinked resources",
-		"author": "Albert Pham",
-		"homepage_url": "https://github.com/pnphuong29/joplin-plugin-jl14-pub",
-		"repository_url": "https://github.com/pnphuong29/joplin-plugin-jl14-pub",
-		"keywords": [
-			"resource",
-			"attachment",
-			"image",
-			"file"
-		],
-		"categories": [],
-		"_publish_hash": "sha256:efdc10c9cc2027cce37b3a2f698eecfffa9652d4e376e10d7fefb57797ef131b",
-		"_publish_commit": "dev:9b7109634c0e3f155acf64f9f67e5a2bd19f132f",
-		"_npm_package_name": "joplin-plugin-delete-unlinked-resources"
-	},
 	"uk.co.brainsteam.JoplinHypothesis": {
 		"manifest_version": 1,
 		"id": "uk.co.brainsteam.JoplinHypothesis",
