@@ -1,0 +1,22 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.lannerkr.EncDecV3",
+	"app_min_version": "2.13",
+	"version": "3.0.1",
+	"name": "EncDecModeV3",
+	"description": "encode and decode sensitive string with user password.",
+	"author": "Lannerkr",
+	"homepage_url": "",
+	"repository_url": "https://github.com/lannerkr/joplin-plugin-lannerkr-EncDec",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"_publish_hash": "sha256:4dde848ddb29fdc9f863c18ddee870e9c281db48b721242e81aa42f7c3ca2aea",
+	"_publish_commit": "main:fd61fa1a9ccc35293535bf0530636f790779cc60",
+	"_npm_package_name": "joplin-plugin-encdecmode-v3"
+}
