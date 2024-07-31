@@ -4026,7 +4026,7 @@
 		"manifest_version": 1,
 		"id": "joplin-plugin-delayed-sync",
 		"app_min_version": "2.13",
-		"version": "1.0.0",
+		"version": "1.0.2",
 		"name": "Joplin Delayed Sync",
 		"description": "Add an option to trigger the synchronization after editing a note.",
 		"author": "Luca Zambarda",
@@ -4036,8 +4036,8 @@
 		"categories": [],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:bd5db137f63f6d302484594d310c21bfd21bc6bcab8601e6b9cdf106baa3aeb8",
-		"_publish_commit": "main:0ef150cbb7ec7255a02ad8fce3033a7b0f08a296",
+		"_publish_hash": "sha256:c0d42c5687489a8f1a267543a887af53a76243ab8258d8d0ed7cd2a86784b59c",
+		"_publish_commit": "main:dbc2bc49d8dd622ee6e5e74042bacd5fb3e7a737",
 		"_npm_package_name": "joplin-plugin-delayed-sync"
 	}
 }
