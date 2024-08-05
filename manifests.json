@@ -4039,5 +4039,48 @@
 		"_publish_hash": "sha256:c0d42c5687489a8f1a267543a887af53a76243ab8258d8d0ed7cd2a86784b59c",
 		"_publish_commit": "main:dbc2bc49d8dd622ee6e5e74042bacd5fb3e7a737",
 		"_npm_package_name": "joplin-plugin-delayed-sync"
+	},
+	"rxliuli.joplin-publisher": {
+		"manifest_version": 1,
+		"id": "rxliuli.joplin-publisher",
+		"app_min_version": "2.13",
+		"version": "1.1.0",
+		"name": "Joplin Publisher",
+		"description": "Publish Joplin notes to GitHub and automate build deployment through GitHub Actions",
+		"author": "rxliuli",
+		"homepage_url": "https://joplin-utils.rxliuli.com/en-US/joplin-publisher/",
+		"repository_url": "https://github.com/rxliuli/joplin-utils",
+		"keywords": [
+			"GitHub",
+			"Publish"
+		],
+		"categories": [
+			"integrations"
+		],
+		"screenshots": [
+			{
+				"src": "https://joplin-utils.rxliuli.com/images/joplin-publisher-joplin-blog-1.png",
+				"label": "Published blog"
+			},
+			{
+				"src": "https://joplin-utils.rxliuli.com/images/joplin-publisher-joplin-setting-1.png",
+				"label": "Setting page"
+			},
+			{
+				"src": "https://joplin-utils.rxliuli.com/images/joplin-publisher-joplin-setting-2.png",
+				"label": "Add tag to note"
+			},
+			{
+				"src": "https://joplin-utils.rxliuli.com/images/joplin-publisher-joplin-publish-1.png",
+				"label": "Publish button"
+			}
+		],
+		"icons": {
+			"16": "images/icon-16.png",
+			"32": "images/icon-32.png",
+			"48": "images/icon-48.png",
+			"128": "images/icon-128.png"
+		},
+		"_npm_package_name": "joplin-plugin-joplin-publisher"
 	}
 }
