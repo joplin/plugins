@@ -4082,5 +4082,23 @@
 		},
 		"version": "1.1.4",
 		"_npm_package_name": "joplin-plugin-joplin-publisher"
+	},
+	"com.leenzhu.revnav": {
+		"manifest_version": 1,
+		"id": "com.leenzhu.revnav",
+		"app_min_version": "2.13",
+		"version": "1.0.0",
+		"name": "RevNav",
+		"description": "Reveal current note in navigation",
+		"author": "leenzhu",
+		"homepage_url": "https://github.com/leenzhu",
+		"repository_url": "https://github.com/leenzhu/joplin-plugin-revnav",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"_publish_hash": "sha256:bff522f0a0b71775fd749f20e09483fb7c7cbf8c5230a2d80aa4fd54cd9dc5c5",
+		"_publish_commit": "master:f4dcf458f6ce7262b172f4d0719fc554eb26691a",
+		"_npm_package_name": "joplin-plugin-revnav"
 	}
 }
