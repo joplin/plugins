@@ -1,0 +1,36 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.personalizedrefrigerator.note-viewer-settings",
+	"app_min_version": "3.0",
+	"version": "0.0.3",
+	"name": "Extra Markdown viewer settings",
+	"description": "Pagination, font family and size customization for Joplin's Markdown viewer. Supports mobile and desktop",
+	"author": "Henry Heino",
+	"homepage_url": "https://github.com/personalizedrefrigerator/joplin-plugin-extra-viewer-settings/",
+	"repository_url": "https://github.com/personalizedrefrigerator/joplin-plugin-extra-viewer-settings/",
+	"keywords": [],
+	"platforms": [
+		"mobile",
+		"desktop"
+	],
+	"categories": [
+		"viewer"
+	],
+	"screenshots": [
+		{
+			"src": "images/screenshot-2.png",
+			"label": "Screenshot: Shows a settings dialog above the editor including font size and pagination settings"
+		},
+		{
+			"src": "images/screenshot.png",
+			"label": "Screenshot: Shows a paginated copy of Joplin's welcome notes. Arrows are available to switch pages"
+		}
+	],
+	"icons": {
+		"180": "images/icon-180.png",
+		"256": "images/icon-256.png"
+	},
+	"_publish_hash": "sha256:bc014285ba27bb08888bba3e8cd537702382b2e8025273587c0d30d586251cd2",
+	"_publish_commit": "master:f04e8ea809698ad02659304e7b01567c71a45185",
+	"_npm_package_name": "joplin-plugin-extra-viewer-settings"
+}
