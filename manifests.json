@@ -4120,8 +4120,9 @@
 		"repository_url": "https://github.com/rxliuli/joplin-utils/tree/master/packages/joplin-batch",
 		"keywords": [
 			"Batch",
-			"Find And Replace",
-			"Clear Unuse Resources"
+			"Find",
+			"Replace",
+			"Clean"
 		],
 		"categories": [
 			"productivity",
@@ -4145,7 +4146,7 @@
 			"128": "packages/joplin-batch/images/icon-128.png"
 		},
 		"root": "/Users/rxliuli/code/web/joplin-utils/packages/joplin-batch",
-		"version": "0.2.1",
+		"version": "0.2.2",
 		"_npm_package_name": "joplin-plugin-joplin-batch"
 	},
 	"io.github.personalizedrefrigerator.note-viewer-settings": {
