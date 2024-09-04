@@ -1,0 +1,40 @@
+{
+	"manifest_version": 1,
+	"id": "plugin.drewmarshall.recipe-scaler",
+	"app_min_version": "2.13",
+	"version": "0.9.0",
+	"name": "Recipe Scaler",
+	"description": "scales recipes to desired serving counts and displays helpful information in beautiful info cards.",
+	"author": "Drew Marshall",
+	"repository_url": "https://github.com/drewmarsh/joplin-recipe-scaler",
+	"keywords": [
+		"recipe",
+		"scaling",
+		"cooking",
+		"baking",
+		"mealprep",
+		"food",
+		"measurements",
+		"cards"
+	],
+	"categories": [
+		"editor",
+		"productivity",
+		"appearance"
+	],
+	"screenshots": [
+		{
+			"src": "preview/hawaiian-ice-example.png",
+			"label": "Hawaiian Ice Recipe Example"
+		}
+	],
+	"icons": {
+		"16": "icons/icon-16x16.png",
+		"32": "icons/icon-32x32.png",
+		"48": "icons/icon-48x47.png",
+		"128": "icons/icon-128x125.png"
+	},
+	"_publish_hash": "sha256:386c5c97e63cd37d13ab73d7a86d7433d4f3049e75d5eef12f4658fe577bb425",
+	"_publish_commit": "main:4811511006e1fd4996dfb8f6f7a394ba832f84df",
+	"_npm_package_name": "joplin-plugin-recipe-scaler"
+}
