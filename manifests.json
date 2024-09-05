@@ -4197,7 +4197,7 @@
 		"manifest_version": 1,
 		"id": "jp.emotiongraphics.omnivore-sync",
 		"app_min_version": "2.13",
-		"version": "0.2.0",
+		"version": "0.2.1",
 		"name": "Omnivore Sync",
 		"description": "Sync articles and highlights from Omnivore to Joplin",
 		"author": "Rino",
@@ -4211,8 +4211,8 @@
 			"productivity"
 		],
 		"screenshots": [],
-		"_publish_hash": "sha256:30e8a7d8848e8765ba977985144a9a5be510bab5031766f711c60ed93eb6f077",
-		"_publish_commit": "main:d25c60dd4ebfabf640549c8e32f41331e30ef835",
+		"_publish_hash": "sha256:13f7aa8e07d3a7ddb259734c472784f46a4a3558d8826508d31c6d4a222a4da2",
+		"_publish_commit": "main:edaff28470cc2fdba4e529809f93c4c1c3d9a83c",
 		"_npm_package_name": "joplin-plugin-omnivore-sync"
 	},
 	"plugin.drewmarshall.recipe-scaler": {
