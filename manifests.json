@@ -4101,8 +4101,8 @@
 		"categories": [],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:bff522f0a0b71775fd749f20e09483fb7c7cbf8c5230a2d80aa4fd54cd9dc5c5",
-		"_publish_commit": "master:f4dcf458f6ce7262b172f4d0719fc554eb26691a",
+		"_publish_hash": "sha256:0cbc0692131bcf5b5786afc9ccdd3341d4bbee742df65393dce6b34c2d17393d",
+		"_publish_commit": "master:844eceac22ac81a1905d425f9ed6a7c1a6064865",
 		"_npm_package_name": "joplin-plugin-revnav"
 	},
 	"rxliuli.joplin-batch": {
