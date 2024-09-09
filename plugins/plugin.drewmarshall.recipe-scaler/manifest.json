@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "plugin.drewmarshall.recipe-scaler",
 	"app_min_version": "2.13",
-	"version": "0.9.1",
+	"version": "0.9.2",
 	"name": "Recipe Scaler",
 	"description": "Scales recipes to desired serving counts and displays helpful information in beautiful info cards.",
 	"author": "Drew Marshall",
@@ -32,9 +32,10 @@
 		"16": "icons/icon-16x16.png",
 		"32": "icons/icon-32x32.png",
 		"48": "icons/icon-48x48.png",
-		"128": "icons/icon-128x128.png"
+		"128": "icons/icon-128x128.png",
+		"256": "icons/icon-256x256.png"
 	},
-	"_publish_hash": "sha256:6545c416e8a62b6107b5e57f9109d4c22e1ee25fbdc43bcf4a727a3f3d17dd7b",
-	"_publish_commit": "main:ff6a862a0ccac413dc4dac8f6abfa461aef532ef",
+	"_publish_hash": "sha256:c0d73adb98fa9634b387be40b01bbba05a474a478e1fd2898f2909c7bbe4bf83",
+	"_publish_commit": "main:540f90bcc0e4f3185713e31272c3ac06c522c2a9",
 	"_npm_package_name": "joplin-plugin-recipe-scaler"
 }
