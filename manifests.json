@@ -4255,5 +4255,29 @@
 		"_publish_hash": "sha256:c0d73adb98fa9634b387be40b01bbba05a474a478e1fd2898f2909c7bbe4bf83",
 		"_publish_commit": "main:540f90bcc0e4f3185713e31272c3ac06c522c2a9",
 		"_npm_package_name": "joplin-plugin-recipe-scaler"
+	},
+	"Jopline-Plugin-Chat-GPT-Search": {
+		"manifest_version": 1,
+		"id": "Jopline-Plugin-Chat-GPT-Search",
+		"app_min_version": "2.0",
+		"version": "1.0.0",
+		"name": "Chat GPT Search",
+		"description": "Search selected text on GPT-4o model.",
+		"author": "Bhashkar Gupta",
+		"homepage_url": "https://github.com/BhashkarGupta/Jopline-Plugin-Chat-GPT-Search",
+		"repository_url": "https://github.com/BhashkarGupta/Jopline-Plugin-Chat-GPT-Search",
+		"keywords": [
+			"gpt",
+			"search",
+			"context menu"
+		],
+		"joplin_min_version": "2.0",
+		"categories": [
+			"search"
+		],
+		"enable_api": true,
+		"_publish_hash": "sha256:4f601ec453b3091a7a82ef11a0711611335418021c303ca3a9da0a331d2da04c",
+		"_publish_commit": "main:aec7b968758417a77b0149f970f280488b723056",
+		"_npm_package_name": "joplin-plugin-joplin-gpt-plugin"
 	}
 }
