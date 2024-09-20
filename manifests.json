@@ -4288,12 +4288,12 @@
 			"desktop",
 			"mobile"
 		],
-		"version": "0.2.1",
+		"version": "0.2.2",
 		"name": "Time Slip",
 		"description": "A time tracker with logs stored and synced in Joplin notes.",
 		"author": "Alon Diament",
-		"homepage_url": "https://github.com/alondmnt/joplin-plugin-time-slip",
-		"repository_url": "https://github.com/alondmnt/joplin-plugin-time-slip#readme",
+		"homepage_url": "https://github.com/alondmnt/joplin-plugin-time-slip#readme",
+		"repository_url": "https://github.com/alondmnt/joplin-plugin-time-slip",
 		"keywords": [
 			"time",
 			"tracking"
@@ -4303,8 +4303,8 @@
 		],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:5dc5b9091083b26bf68ef90180f21345d363c18b7d4ccaccd7e8286809ad864d",
-		"_publish_commit": "main:41a511625dfcb5f855121d9b93f0281ce6ce5474",
+		"_publish_hash": "sha256:a1f225744baede44b032a3bea44e188cc446cd9730acf3a1d2bfc79ab31bce44",
+		"_publish_commit": "main:db0ceaf2a7a9b890f53127826d1cc07e69c9baf6",
 		"_npm_package_name": "joplin-plugin-time-slip"
 	}
 }
