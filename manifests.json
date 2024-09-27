@@ -280,8 +280,32 @@
 			"math",
 			"mathjs"
 		],
-		"_publish_hash": "sha256:fa1b0b9854ce679b9e079fbc24fd00a4a478533dd3bcea891cb773ece9604208",
-		"_publish_commit": "main:d08f8e18e648fc0db63a5aabf73b296c8464f570",
+		"categories": [
+			"editor",
+			"productivity"
+		],
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"screenshots": [
+			{
+				"src": "examples/road_trip.png",
+				"label": "An example demonstrating how the plugin can be used to to track multiple simple calculations."
+			},
+			{
+				"src": "examples/euro_trip.png",
+				"label": "An example demonstrating the ability to do currency conversion."
+			}
+		],
+		"icons": {
+			"16": "icons/16.png",
+			"32": "icons/32.png",
+			"48": "icons/48.png",
+			"128": "icons/128.png"
+		},
+		"_publish_hash": "sha256:85a46de96109d43a6ec798a7cedf46353c0a538e39c40e7e342b52952bdb2e1a",
+		"_publish_commit": "main:1ab09c0916e05db31666e31fc21fbff85bb4347e",
 		"_npm_package_name": "joplin-plugin-math-mode",
 		"_recommended": true
 	},
