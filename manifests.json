@@ -3631,7 +3631,7 @@
 		"manifest_version": 1,
 		"id": "io.github.djsudduth.paragraph-extractor",
 		"app_min_version": "1.8.1",
-		"version": "1.1.4",
+		"version": "1.1.5",
 		"name": "Paragraph Extractor",
 		"description": "Extract specific paragraphs out of Joplin notes using keywords, hashtags or custom tags",
 		"author": "djsudduth",
@@ -3644,10 +3644,14 @@
 		"categories": [
 			"productivity"
 		],
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:e25194168239da06e2c8b66ebf08d6da9beb8f5ae3eebc463f7c4deb038e834f",
-		"_publish_commit": "main:bdc5b63b40798147a5440a698b4d546b3c3d35a8",
+		"_publish_hash": "sha256:042468fec0dce09df0e447909d9fce30ebd227a862983d2b8456dccaa47b2660",
+		"_publish_commit": "main:0089b70ec3719e6faa0ad690b02d01f881b33e45",
 		"_npm_package_name": "joplin-plugin-paragraph-extractor"
 	},
 	"com.receiveMailPlugin": {
