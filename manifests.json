@@ -3779,8 +3779,8 @@
 		"id": "io.github.personalizedrefrigerator.codemirror6-settings",
 		"app_min_version": "3.0.3",
 		"mobile_min_version": "3.0",
-		"version": "1.3.0",
-		"name": "Extra markdown editor settings",
+		"version": "1.4.0",
+		"name": "Extra Markdown editor settings",
 		"description": "Line numbers, code folding, space highlighting, word count, and other built-in options for the CodeMirror 6 editor.",
 		"author": "Henry Heino",
 		"homepage_url": "https://github.com/personalizedrefrigerator/joplin-plugin-extra-cm6-settings",
@@ -3796,14 +3796,18 @@
 			{
 				"src": "images/screenshot.png",
 				"label": "Screenshot: Shows line numbers, autocomplete, and folding in use"
+			},
+			{
+				"src": "images/screenshot-settings.png",
+				"label": "Screenshot: Shows the available settings: line numbers, code folding, autocomplete, highlight line gutter, highlight active line, highlight spaces, highlight trailing spaces, and more."
 			}
 		],
 		"icons": {
 			"128": "images/icon-128.png",
 			"256": "images/icon-256.autoinvert.png"
 		},
-		"_publish_hash": "sha256:90dc050734fc5c42ff40bbde23941d686827f8675334901669f2335ba441d7bd",
-		"_publish_commit": "master:37ca769a90d501f207ee664d3e5a92f200a81d47",
+		"_publish_hash": "sha256:821e9eb9ef5ded9ee60dc3953b0449505fcd0946468f8836811e4d3f69f06a91",
+		"_publish_commit": "master:6906c44d4355f6a1e08a3c33671b635aaf8a41c7",
 		"_npm_package_name": "joplin-plugin-codemirror-6-settings"
 	},
 	"io.github.personalizedrefrigerator.joplin-plugin-debug-info": {
