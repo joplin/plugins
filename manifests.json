@@ -4356,5 +4356,23 @@
 		"_publish_hash": "sha256:533976a0fb56bd1c4c5850649174841f4397e03a6ee46559586dad0432f78986",
 		"_publish_commit": "main:d036ebbb1f452eac232ceb25b3582f5f97ebecbf",
 		"_npm_package_name": "joplin-plugin-insert-youtube-video"
+	},
+	"org.joplinapp.plugins.YesYouKan": {
+		"manifest_version": 1,
+		"id": "org.joplinapp.plugins.YesYouKan",
+		"app_min_version": "2.13",
+		"version": "1.0.0",
+		"name": "Kanban",
+		"description": "",
+		"author": "Laurent Cozic",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"_publish_hash": "sha256:bc1adc773f2d771bce30934431f1ceec80259fe73174acd8437b0285aeea24a1",
+		"_publish_commit": "master:f9e44e31fb942823eddc98b63b8e2793fc5c2995",
+		"_npm_package_name": "joplin-plugin-yesyoukan"
 	}
 }
