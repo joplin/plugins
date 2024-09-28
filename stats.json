@@ -489,7 +489,7 @@
 			"createdAt": "2021-08-10T17:32:14Z"
 		},
 		"2.2.0": {
-			"downloadCount": 4961,
+			"downloadCount": 4962,
 			"createdAt": "2021-09-26T21:02:53Z"
 		}
 	},
@@ -515,7 +515,7 @@
 			"createdAt": "2021-06-01T08:31:01Z"
 		},
 		"1.4.0": {
-			"downloadCount": 35391,
+			"downloadCount": 35392,
 			"createdAt": "2021-08-10T18:32:14Z"
 		}
 	},
@@ -741,6 +741,10 @@
 		"0.6.2": {
 			"downloadCount": 5024,
 			"createdAt": "2023-09-27T19:07:58Z"
+		},
+		"0.7.1": {
+			"downloadCount": 0,
+			"createdAt": "2024-09-28T17:09:39Z"
 		}
 	},
 	"plugin.calebjohn.rich-markdown": {
@@ -869,7 +873,7 @@
 			"createdAt": "2024-04-08T08:08:49Z"
 		},
 		"0.15.0": {
-			"downloadCount": 13228,
+			"downloadCount": 13230,
 			"createdAt": "2024-04-17T21:39:10Z"
 		}
 	},
@@ -1333,7 +1337,7 @@
 			"createdAt": "2024-05-14T17:38:59Z"
 		},
 		"1.5.8": {
-			"downloadCount": 2484,
+			"downloadCount": 2485,
 			"createdAt": "2024-08-20T20:42:29Z"
 		}
 	},
@@ -1455,7 +1459,7 @@
 			"createdAt": "2021-09-25T15:33:15Z"
 		},
 		"1.0.4": {
-			"downloadCount": 3900,
+			"downloadCount": 3901,
 			"createdAt": "2022-01-08T10:35:35Z"
 		}
 	},
@@ -3511,7 +3515,7 @@
 			"createdAt": "2024-05-19T05:08:38Z"
 		},
 		"2.11.0": {
-			"downloadCount": 2490,
+			"downloadCount": 2491,
 			"createdAt": "2024-06-13T23:08:06Z"
 		}
 	},
@@ -3757,7 +3761,7 @@
 			"createdAt": "2022-10-30T10:37:16Z"
 		},
 		"1.3.0": {
-			"downloadCount": 4055,
+			"downloadCount": 4056,
 			"createdAt": "2022-10-31T16:36:42Z"
 		}
 	},
@@ -4529,7 +4533,7 @@
 			"createdAt": "2023-09-09T06:08:44Z"
 		},
 		"1.1.0": {
-			"downloadCount": 5480,
+			"downloadCount": 5481,
 			"createdAt": "2023-09-11T06:38:24Z"
 		}
 	},
@@ -5173,7 +5177,7 @@
 			"createdAt": "2024-07-31T10:39:01Z"
 		},
 		"1.0.2": {
-			"downloadCount": 41,
+			"downloadCount": 42,
 			"createdAt": "2024-07-31T15:08:39Z"
 		}
 	},
@@ -5323,7 +5327,7 @@
 	},
 	"Jopline-Plugin-Chat-GPT-Search": {
 		"1.0.0": {
-			"downloadCount": 47,
+			"downloadCount": 48,
 			"createdAt": "2024-09-14T19:39:35Z"
 		}
 	},
