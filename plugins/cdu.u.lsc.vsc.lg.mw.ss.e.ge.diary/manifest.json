@@ -1,0 +1,25 @@
+{
+	"manifest_version": 1,
+	"id": "cdu.u.lsc.vsc.lg.mw.ss.e.ge.diary",
+	"app_min_version": "2.13",
+	"version": "1.0.0",
+	"name": "GoodDiary",
+	"description": "Automatically opens your diary for you every day.",
+	"author": "Ge",
+	"homepage_url": "https://github.com/CDU-Ge/joplin-plugin-gooddiary",
+	"repository_url": "https://github.com/CDU-Ge/joplin-plugin-gooddiary",
+	"keywords": [
+		"diary",
+		"notes",
+		"automation",
+		"Joplin"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"_publish_hash": "sha256:c582f7dda11eac5359968cfcc944e1337768ce5dd9248c5674fc6f70b873daec",
+	"_publish_commit": "main:44b1034cf4fb25389b88b22c9e92aff48c027f43",
+	"_npm_package_name": "joplin-plugin-gooddiary"
+}
