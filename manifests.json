@@ -4398,7 +4398,7 @@
 		"manifest_version": 1,
 		"id": "cdu.u.lsc.vsc.lg.mw.ss.e.ge.diary",
 		"app_min_version": "2.13",
-		"version": "1.0.1",
+		"version": "1.0.2",
 		"name": "GoodDiary",
 		"description": "Automatically opens your diary for you every day.",
 		"author": "Ge",
@@ -4415,8 +4415,8 @@
 		],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:d323285dfdcb40332eea3cadfcd1884c54d1e82e7ff151febc384f7b69f96f77",
-		"_publish_commit": "main:6b8cdffb6f337978e0440951cb55e3f5b5783c29",
+		"_publish_hash": "sha256:a19afd945760d245839f11b88dd2552e266aff5422bf379610b3b9d01d297162",
+		"_publish_commit": "main:c669b888921d7f5be11b008b74ef5d8de76e4239",
 		"_npm_package_name": "joplin-plugin-gooddiary"
 	}
 }
