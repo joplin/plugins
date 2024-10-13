@@ -1,0 +1,18 @@
+{
+	"manifest_version": 1,
+	"id": "org.otherware.joplin-du",
+	"app_min_version": "2.13",
+	"version": "1.0.0",
+	"name": "Joplin Disk Usage",
+	"description": "display disk usage of resources for notebooks and notes",
+	"author": "Daniel Bretoi",
+	"homepage_url": "https://github.com/danielb2/joplin-du",
+	"repository_url": "https://github.com/danielb2/joplin-du",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"_publish_hash": "sha256:9651268da47ea16682328f8582fe05e771577d397a886ed4c4f16ff16a954d64",
+	"_publish_commit": "master:ad1b12b0678289694d26659a6da12ce741f69942",
+	"_npm_package_name": "joplin-plugin-du"
+}
