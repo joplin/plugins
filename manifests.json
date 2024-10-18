@@ -4424,7 +4424,7 @@
 		"manifest_version": 1,
 		"id": "org.otherware.joplin-du",
 		"app_min_version": "2.13",
-		"version": "1.2.0",
+		"version": "1.3.0",
 		"name": "Joplin Disk Usage",
 		"description": "display disk usage of resources for notebooks and notes",
 		"author": "Daniel Bretoi",
@@ -4434,8 +4434,8 @@
 		"categories": [],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:bb3bac738fc4fec173e39f4115434d5f14fd5cfad2b4fd398604ba0aa43f1528",
-		"_publish_commit": "master:ff4c83faff62e202e4773eb60eb1c9d24c1e63d5",
+		"_publish_hash": "sha256:a81c37928da4189ab2905f51a0fdd62c76ebff9ed6cad994e01e8336b93c99cc",
+		"_publish_commit": "master:41db1ef92ec2836be33f58f2b16ea8cf73aec4ee",
 		"_npm_package_name": "joplin-plugin-du"
 	},
 	"de.habelt-jena.KatexInputHelper": {
