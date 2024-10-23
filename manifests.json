@@ -3701,7 +3701,7 @@
 		"manifest_version": 1,
 		"id": "com.isquaredsoftware.joplin-plugin-vscode-style-search",
 		"app_min_version": "2.13",
-		"version": "0.1.0",
+		"version": "0.2.2",
 		"name": "VS-Code Style Note Search",
 		"description": "Provides a search UI panel patterned after VS Code, with matches per note and per-match hit highlighting",
 		"author": "Mark Erikson",
@@ -3715,8 +3715,8 @@
 		],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:a44aceae88eec8ca63b4805b81fed4fda302f52aebc31e242270852923c7709b",
-		"_publish_commit": "master:d0bed3f0f0fc18c376772d400e310741b91726fa",
+		"_publish_hash": "sha256:ba305b32844ac189e25fbe96f271d2cf4978a3ffc264f8026c51641de72d56bb",
+		"_publish_commit": "master:0b9d2f4bb4a4fad44f2fe2fc669825b07a319936",
 		"_npm_package_name": "joplin-plugin-vscode-style-search"
 	},
 	"io.github.simsapa": {
