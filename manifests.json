@@ -4358,6 +4358,43 @@
 		"_publish_commit": "main:d036ebbb1f452eac232ceb25b3582f5f97ebecbf",
 		"_npm_package_name": "joplin-plugin-insert-youtube-video"
 	},
+	"org.joplinapp.plugins.YesYouKan": {
+		"manifest_version": 1,
+		"id": "org.joplinapp.plugins.YesYouKan",
+		"app_min_version": "3.1.8",
+		"version": "1.0.4",
+		"name": "YesYouKan",
+		"description": "Create and manage Kanban boards from Joplin",
+		"author": "Laurent Cozic",
+		"homepage_url": "",
+		"repository_url": "https://github.com/joplin/plugin-yesyoukan",
+		"keywords": [
+			"kanban",
+			"boards"
+		],
+		"categories": [
+			"productivity"
+		],
+		"screenshots": [
+			{
+				"src": "doc/images/ExampleBoardAndNote.png",
+				"label": "Kanban board example"
+			}
+		],
+		"promo_tile": {
+			"src": "doc/images/PromoTile.png",
+			"label": "A handwritten Kanban board"
+		},
+		"icons": {
+			"16": "doc/images/icon16.png",
+			"32": "doc/images/icon32.png",
+			"48": "doc/images/icon48.png",
+			"128": "doc/images/icon128.png"
+		},
+		"_publish_hash": "sha256:361f6e4abc89c426bbdae41f3a73da3c2b764e24fdcc98a8a8a6b856a9e50b9b",
+		"_publish_commit": "master:2045e128580ce08f68eb9e01a4d243bcb69d4346",
+		"_npm_package_name": "joplin-plugin-yesyoukan"
+	},
 	"cdu.u.lsc.vsc.lg.mw.ss.e.ge.diary": {
 		"manifest_version": 1,
 		"id": "cdu.u.lsc.vsc.lg.mw.ss.e.ge.diary",
