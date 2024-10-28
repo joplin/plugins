@@ -1,8 +1,8 @@
 {
 	"manifest_version": 1,
 	"id": "org.joplinapp.plugins.whitespacer",
-	"app_min_version": "2.8",
-	"version": "1.0.1",
+	"app_min_version": "3.0",
+	"version": "1.0.2",
 	"name": "Whitespacer",
 	"description": "Display whitespaces in editor",
 	"author": "Marph",
@@ -10,7 +10,7 @@
 	"repository_url": "https://github.com/marph91/joplin-plugin-whitespacer",
 	"keywords": [],
 	"categories": [],
-	"_publish_hash": "sha256:5253e69d9419aae5fde90c2f8bc3ff5fa6bdc56559d9bc40573cb49223cc832b",
-	"_publish_commit": "master:a6a60adc0e5559dc009a677c659cae0283a20caa",
+	"_publish_hash": "sha256:d64fe448b1690a22cdcff3e7c1a2fdb510373510882f278d2063cf11a1bc2026",
+	"_publish_commit": "master:7e32d31e5d0e35843d90537c8b977ee52cc02a4a",
 	"_npm_package_name": "joplin-plugin-whitespacer"
 }
