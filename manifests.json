@@ -3328,8 +3328,8 @@
 		"categories": [],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:c69b499df0ac19f31a2f316af011a9d692ff71b10ef35d4885adfa780b35d954",
-		"_publish_commit": "master:a48ce2c64e2aa8e85deb3e853c9d5189964f59c8",
+		"_publish_hash": "sha256:b9bccad42be93f0a2e2690cb5bce35e3fe7e6f780c5a8616819a096a48160de1",
+		"_publish_commit": "master:53fa39d3980c2a468acd92a9b64a55d7b66e8e65",
 		"_npm_package_name": "joplin-plugin-zotero-link"
 	},
 	"joplin.plugin.app.locker": {
