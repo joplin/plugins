@@ -1,0 +1,34 @@
+{
+	"manifest_version": 1,
+	"id": "com.supremekirb.TodoView",
+	"app_min_version": "2.13",
+	"version": "1.0.0",
+	"name": "To-do View",
+	"description": "A panel to make the to-do-viewing experience slightly nicer.",
+	"author": "SupremeKirb",
+	"homepage_url": "https://github.com/supremekirb/joplin-todo-view",
+	"repository_url": "https://github.com/supremekirb/joplin-todo-view",
+	"keywords": [
+		"todo",
+		"productivity"
+	],
+	"categories": [
+		"productivity",
+		"personal knowledge management"
+	],
+	"screenshots": [
+		{
+			"src": "assets/screenshots/example.png",
+			"label": "To-do viewer open on the right-hand side of the editor, displaying several to-dos."
+		}
+	],
+	"icons": {
+		"16": "assets/icons/16.png",
+		"32": "assets/icons/32.png",
+		"48": "assets/icons/48.png",
+		"128": "assets/icons/128.png"
+	},
+	"_publish_hash": "sha256:6c1f689b943425c10b0124d1e58116f95ad722508be6d6d26dfb788575a37046",
+	"_publish_commit": "main:cca91edfa3feb4f10443a5a0ced78663939dcb38",
+	"_npm_package_name": "joplin-plugin-to-do-view"
+}
