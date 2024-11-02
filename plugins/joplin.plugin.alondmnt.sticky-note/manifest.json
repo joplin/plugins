@@ -1,0 +1,22 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.alondmnt.sticky-note",
+	"app_min_version": "2.13",
+	"version": "0.1.0",
+	"name": "Sticky Note",
+	"description": "Save the last active note for each notebook, and the cursor position for each note",
+	"author": "Alon Diament",
+	"homepage_url": "https://github.com/alondmnt/joplin-plugin-sticky-note",
+	"repository_url": "https://github.com/alondmnt/joplin-plugin-sticky-note#readme",
+	"keywords": [
+		"editor"
+	],
+	"categories": [
+		"editor"
+	],
+	"screenshots": [],
+	"icons": {},
+	"_publish_hash": "sha256:9a8414939a1d6aa1690fd162c0463839c05f106bff274d406e0b516678bdd42a",
+	"_publish_commit": "main:e87b39adfe7f54f4a6c3cb97b8af86a2aa00b08c",
+	"_npm_package_name": "joplin-plugin-sticky-note"
+}
