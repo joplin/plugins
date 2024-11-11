@@ -4117,7 +4117,8 @@
 			"48": "packages/joplin-publisher/images/icon-48.png",
 			"128": "packages/joplin-publisher/images/icon-128.png"
 		},
-		"version": "1.1.4",
+		"root": "/Users/rxliuli/code/web/joplin-utils/packages/joplin-publisher",
+		"version": "1.1.5",
 		"_npm_package_name": "joplin-plugin-joplin-publisher"
 	},
 	"com.leenzhu.revnav": {
