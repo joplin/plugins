@@ -4512,7 +4512,7 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.alondmnt.sticky-note",
 		"app_min_version": "2.13",
-		"version": "0.2.1",
+		"version": "0.2.2",
 		"name": "Resume Note",
 		"description": "Continue editing the last active note in each notebook, and go back to the last cursor position",
 		"author": "Alon Diament",
@@ -4526,8 +4526,8 @@
 		],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:35820cff55671070589ffba15b3cdf616d1e33cdef7ec1ed1afc9c889e00a2f2",
-		"_publish_commit": "main:ee4d903b435360b8abdef0580e575e496b5cf9df",
+		"_publish_hash": "sha256:7281a595e798e3c6ae697958d071d85b1b13e07c9cb913cdb6a4805111c60690",
+		"_publish_commit": "main:96aee03bf037aa3c482aa915ca5b964bdde1dcb1",
 		"_npm_package_name": "joplin-plugin-sticky-note"
 	}
 }
