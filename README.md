@@ -225,6 +225,6 @@ This repository contains the following plugins:
 | [🏠](https://github.com/uioporqwerty/joplin-plugin-wakatime) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/app.nybble.joplin-plugin-wakatime/plugin.jpl) | WakaTime | 1.0.13 | A Joplin plugin for WakaTime | Nitish Sachar (uioporqwerty) |
 | [🏠](https://github.com/cwesson/joplin-plugin-wavedrom) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/net.cwesson.joplin-plugin-wavedrom/plugin.jpl) | Wavedrom | 1.0.1 | Render Wavedrom diagrams inside your Joplin notes. | Conlan Wesson |
 | [🏠](https://github.com/marph91/joplin-plugin-whitespacer) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.whitespacer/plugin.jpl) | Whitespacer | 1.0.2 | Display whitespaces in editor | Marph |
-| -     | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.YesYouKan/plugin.jpl) | YesYouKan | 1.0.9 | Create and manage Kanban boards from Joplin | Laurent Cozic |
+| -     | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.YesYouKan/plugin.jpl) | YesYouKan | 1.0.10 | Create and manage Kanban boards from Joplin | Laurent Cozic |
 | [🏠](https://github.com/jannessm/joplin-zotero-link) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/nz.magnusso.zotero-link/plugin.jpl) | Zotero Link | 2.0.1 | Link Zotero entries in notes | Jannes Magnusson |
 <!-- PLUGIN_LIST -->
