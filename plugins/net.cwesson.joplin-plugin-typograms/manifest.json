@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "net.cwesson.joplin-plugin-typograms",
 	"app_min_version": "2.11",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"name": "Typograms",
 	"description": "Render Typogram diagrams inside your Joplin notes.",
 	"author": "Conlan Wesson",
@@ -11,7 +11,7 @@
 	"keywords": [],
 	"categories": [],
 	"screenshots": [],
-	"_publish_hash": "sha256:05a4644e765ad3d2d2cac0ff7a5cb804c92ab73b8958dc75825f709c0a3a6b5b",
-	"_publish_commit": "main:76585a565e893d241fd646e78f76d9a0c9e9e575",
+	"_publish_hash": "sha256:fe07f5a5f69567eb7659d638071857d8bac8236f5b75380b6a2c0d901702044e",
+	"_publish_commit": "main:c2f43592ddd804d2335ac1bc175f5b8fa2280597",
 	"_npm_package_name": "joplin-plugin-typograms"
 }
