@@ -1,0 +1,34 @@
+{
+	"manifest_version": 1,
+	"id": "com.ckant.joplin-plugin-editor-themes",
+	"app_min_version": "3.0",
+	"version": "1.0.1",
+	"name": "Editor Themes",
+	"description": "Editor Themes",
+	"author": "Chris Kant",
+	"homepage_url": "https://github.com/ckant/joplin-plugin-editor-themes",
+	"repository_url": "https://github.com/ckant/joplin-plugin-editor-themes",
+	"keywords": [
+		"theme",
+		"theming",
+		"editor",
+		"color"
+	],
+	"categories": [
+		"editor"
+	],
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"screenshots": [],
+	"icons": {
+		"16": "media/logo16.png",
+		"32": "media/logo32.png",
+		"48": "media/logo48.png",
+		"128": "media/logo128.png"
+	},
+	"_publish_hash": "sha256:a7fb8d528977e45be76e6aa9cda701b61ca4c9da4c6d2dbb9495af5021a3fe40",
+	"_publish_commit": "master:a6e4a0071e6287cc57d9d8cca0ba4e057b6e2b75",
+	"_npm_package_name": "joplin-plugin-editor-themes"
+}
