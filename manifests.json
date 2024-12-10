@@ -3818,7 +3818,8 @@
 		},
 		"_publish_hash": "sha256:e9190b6aae3275acf5cde823055486a4f47b1aac3160e93d0d72a914b0efee04",
 		"_publish_commit": "master:d7c364ef78732fca1af66cc3aa3a4e0625eae600",
-		"_npm_package_name": "joplin-plugin-codemirror-6-settings"
+		"_npm_package_name": "joplin-plugin-codemirror-6-settings",
+		"_recommended": true
 	},
 	"io.github.personalizedrefrigerator.joplin-plugin-debug-info": {
 		"manifest_version": 1,
