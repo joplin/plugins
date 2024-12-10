@@ -405,5 +405,8 @@
 		"_publish_commit": "dev:9b7109634c0e3f155acf64f9f67e5a2bd19f132f",
 		"_npm_package_name": "joplin-plugin-delete-unlinked-resources",
 		"_obsolete": true
+	},
+	"io.github.personalizedrefrigerator.codemirror6-settings": {
+		"_recommended": true
 	}
 }
