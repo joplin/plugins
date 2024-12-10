@@ -22,9 +22,8 @@ jobs:
 
       - name: Prepare git
         shell: bash
-        # Makes the commit author be shown as GitHub Actions in the
+        # Makes the commit author be shown as the Joplin Bot in the
         # GitHub UI.
-        # See https://github.com/actions/checkout/pull/1707
         run: |
           git config --global user.name "joplinbot"
           git config --global user.email "bot@joplinapp.org"
