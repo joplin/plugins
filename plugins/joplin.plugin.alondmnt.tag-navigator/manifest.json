@@ -6,7 +6,7 @@
 		"desktop",
 		"mobile"
 	],
-	"version": "1.4.0",
+	"version": "1.4.1",
 	"name": "Inline Tag Navigator",
 	"description": "Type inline #tags or front matter in the note editor. View your tagged paragraphs and tasks / TODOs in a search panel, or in a generated note. Build a table view / database from notes and tags. Convert between Obsidian tags and Joplin tags.",
 	"author": "Alon Diament",
@@ -24,7 +24,7 @@
 	],
 	"screenshots": [],
 	"icons": {},
-	"_publish_hash": "sha256:dab318709b65aeec69c88507d1088e266daa91db2781b522a88d67e265d34b46",
-	"_publish_commit": "main:b21815a3972407802eba320efebf98c732ef6fbb",
+	"_publish_hash": "sha256:06cbe55db5afd4e0e11b43891f07388ed3b9c61997d1c02ad0938f5599c4a704",
+	"_publish_commit": "main:7de70e5010c02fe762e18f356e8acda384665d24",
 	"_npm_package_name": "joplin-plugin-tag-navigator"
 }
