@@ -3327,7 +3327,7 @@
 		"manifest_version": 1,
 		"id": "nz.magnusso.zotero-link",
 		"app_min_version": "2.12",
-		"version": "2.0.1",
+		"version": "2.1.1",
 		"name": "Zotero Link",
 		"description": "Link Zotero entries in notes",
 		"author": "Jannes Magnusson",
@@ -3337,8 +3337,8 @@
 		"categories": [],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:7edca819bd5c04ac34000793b972c03ba14a169fa90130988a443bba9f80e47a",
-		"_publish_commit": "master:e18a5205da8bb62d22ab8ebdd8e8f15d3bc4d850",
+		"_publish_hash": "sha256:55626ed85bd38492de862710c75586a980b6656b9171499cf5640d0fff815b68",
+		"_publish_commit": "master:15d0f4d90bfc81e006456c9e194dbb9bff766035",
 		"_npm_package_name": "joplin-plugin-zotero-link"
 	},
 	"joplin.plugin.app.locker": {
