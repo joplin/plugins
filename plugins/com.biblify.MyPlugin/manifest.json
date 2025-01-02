@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "com.biblify.MyPlugin",
+	"app_min_version": "3.1",
+	"version": "1.0.2",
+	"name": "Biblify",
+	"description": "Transform Bible Chapters",
+	"author": "Mouzone",
+	"homepage_url": "",
+	"repository_url": "https://github.com/Mouzone/joplin-bible-formatting",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:f5742638d13af0514b87d1a5150f5d152f85631983647f3966799c35b0ae5576",
+	"_publish_commit": "main:264856f74644cd62e078f818a7a9ce67b8f8b140",
+	"_npm_package_name": "joplin-plugin-biblify"
+}
