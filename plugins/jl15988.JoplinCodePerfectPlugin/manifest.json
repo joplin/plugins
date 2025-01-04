@@ -14,7 +14,7 @@
 		"code perfect"
 	],
 	"categories": [],
-	"_publish_hash": "sha256:0d00b0264d4bd69874e92788442778009b1367503b98c44029fc51882535f27f",
-	"_publish_commit": "main:945fb418456b9e2289e43f64aabb8cb673bea34f",
+	"_publish_hash": "sha256:84b6be7df20a0fc4d27b00c072024268bb89aada48b6062da653d1faf6f50ca2",
+	"_publish_commit": "release:07f474aa3f576c1f374e6946b148632db104df63",
 	"_npm_package_name": "joplin-plugin-code-perfect"
 }
