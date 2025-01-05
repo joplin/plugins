@@ -4628,19 +4628,20 @@
 	"com.github.alan-null.joplin-plugin-github-alerts": {
 		"manifest_version": 1,
 		"id": "com.github.alan-null.joplin-plugin-github-alerts",
-		"app_min_version": "3.1.24",
-		"version": "1.0.2",
+		"app_min_version": "3.1.8",
+		"version": "1.0.3",
 		"name": "Github Alerts",
 		"description": "Github Alerts are a Markdown extension based on the blockquote syntax that you can use to emphasize critical information. They are displayed with distinctive GitHub colors and icons to indicate the significance of the content.",
 		"author": "Alan Płócieniak",
 		"homepage_url": "https://github.com/alan-null/joplin-plugin-github-alerts#readme",
 		"repository_url": "https://github.com/alan-null/joplin-plugin-github-alerts",
 		"platforms": [
-			"desktop"
+			"desktop",
+			"mobile"
 		],
 		"keywords": [
-			"editor",
 			"viewer",
+			"editor",
 			"visual",
 			"github",
 			"alert",
@@ -4659,11 +4660,22 @@
 			"appearance",
 			"editor"
 		],
-		"screenshots": [],
+		"screenshots": [
+			{
+				"src": "images/screenshots/joplin-desktop.png",
+				"label": "Joplin desktop"
+			},
+			{
+				"src": "images/screenshots/joplin-mobile.png",
+				"label": "Joplin mobile"
+			}
+		],
 		"icons": {},
-		"promo_tile": {},
-		"_publish_hash": "sha256:92ef823dd6cc5e909686906210c4f7dfb634faf45073a8a76cea27d036174a7a",
-		"_publish_commit": "master:b0efa0f06f8e9a4f25a322eb64ac9f44003b0547",
+		"promo_tile": {
+			"src": "images/promo_tile.png"
+		},
+		"_publish_hash": "sha256:21cee3065de64ee4ff7dc4edd2caae91fd99d670312d1dbaa2375a3e10f1f6e9",
+		"_publish_commit": "master:333c54469e9374f1515b787e90bd61811a75f73e",
 		"_npm_package_name": "joplin-plugin-github-alerts"
 	}
 }
