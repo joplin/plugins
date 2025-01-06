@@ -4629,7 +4629,7 @@
 		"manifest_version": 1,
 		"id": "com.github.alan-null.joplin-plugin-github-alerts",
 		"app_min_version": "3.1.8",
-		"version": "1.0.3",
+		"version": "1.0.4",
 		"name": "Github Alerts",
 		"description": "Github Alerts are a Markdown extension based on the blockquote syntax that you can use to emphasize critical information. They are displayed with distinctive GitHub colors and icons to indicate the significance of the content.",
 		"author": "Alan Płócieniak",
@@ -4674,8 +4674,8 @@
 		"promo_tile": {
 			"src": "images/promo_tile.png"
 		},
-		"_publish_hash": "sha256:21cee3065de64ee4ff7dc4edd2caae91fd99d670312d1dbaa2375a3e10f1f6e9",
-		"_publish_commit": "master:333c54469e9374f1515b787e90bd61811a75f73e",
+		"_publish_hash": "sha256:0b6f86385930771a1a5698ace8cd725fc782794072966d6cfd8b1a8d66039d40",
+		"_publish_commit": "master:3bb3f5ae0e291929f471fb11c9047c29b46203e4",
 		"_npm_package_name": "joplin-plugin-github-alerts"
 	}
 }
