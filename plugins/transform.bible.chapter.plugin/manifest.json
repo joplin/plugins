@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "transform.bible.chapter.plugin",
+	"app_min_version": "3.1",
+	"version": "1.0.2",
+	"name": "Transform Bible Chapter",
+	"description": "Makes numbers in bible verses superscript and bolded and remove footnotes",
+	"author": "Mouzone",
+	"homepage_url": "",
+	"repository_url": "https://github.com/Mouzone/superscript-plugin",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:a6847873a4bb744bef26baa924e480bec025f6a38d2a22d2762a879c316472f5",
+	"_publish_commit": "main:30f51b0e4d159494e1a0723e4d69c1f35fb0febb",
+	"_npm_package_name": "joplin-plugin-transform-bible-chapter"
+}
