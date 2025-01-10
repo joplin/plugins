@@ -135,7 +135,7 @@
 			"createdAt": "2024-03-05T21:07:47Z"
 		},
 		"1.3.2": {
-			"downloadCount": 17079,
+			"downloadCount": 17080,
 			"createdAt": "2024-03-21T22:38:51Z"
 		}
 	},
@@ -293,7 +293,7 @@
 			"createdAt": "2024-05-21T08:38:34Z"
 		},
 		"1.2.1": {
-			"downloadCount": 637,
+			"downloadCount": 638,
 			"createdAt": "2024-11-26T15:39:37Z"
 		}
 	},
@@ -503,7 +503,7 @@
 			"createdAt": "2021-06-01T08:30:56Z"
 		},
 		"1.1.0": {
-			"downloadCount": 4303,
+			"downloadCount": 4304,
 			"createdAt": "2021-08-10T17:02:42Z"
 		}
 	},
@@ -519,7 +519,7 @@
 			"createdAt": "2021-06-01T08:31:01Z"
 		},
 		"1.4.0": {
-			"downloadCount": 42048,
+			"downloadCount": 42049,
 			"createdAt": "2021-08-10T18:32:14Z"
 		}
 	},
@@ -751,7 +751,7 @@
 			"createdAt": "2023-09-27T19:07:58Z"
 		},
 		"0.7.1": {
-			"downloadCount": 3332,
+			"downloadCount": 3334,
 			"createdAt": "2024-09-28T17:09:39Z"
 		}
 	},
@@ -885,7 +885,7 @@
 			"createdAt": "2024-04-17T21:39:10Z"
 		},
 		"0.15.1": {
-			"downloadCount": 7853,
+			"downloadCount": 7854,
 			"createdAt": "2024-11-02T20:40:20Z"
 		}
 	},
@@ -961,7 +961,7 @@
 			"createdAt": "2022-01-31T04:35:17Z"
 		},
 		"2.0.0": {
-			"downloadCount": 2389,
+			"downloadCount": 2390,
 			"createdAt": "2023-01-15T04:37:19Z"
 		}
 	},
@@ -1159,7 +1159,7 @@
 			"createdAt": "2022-06-04T14:35:19Z"
 		},
 		"2.4.0": {
-			"downloadCount": 15314,
+			"downloadCount": 15316,
 			"createdAt": "2023-05-27T22:37:15Z"
 		}
 	},
@@ -1359,6 +1359,10 @@
 		"1.5.10": {
 			"downloadCount": 8,
 			"createdAt": "2025-01-10T18:04:21Z"
+		},
+		"1.5.11": {
+			"downloadCount": 2,
+			"createdAt": "2025-01-10T20:04:22Z"
 		}
 	},
 	"org.joplinapp.plugins.AbcSheetMusic": {
@@ -1641,7 +1645,7 @@
 			"createdAt": "2022-08-29T06:36:12Z"
 		},
 		"2.1.0": {
-			"downloadCount": 2680,
+			"downloadCount": 2681,
 			"createdAt": "2023-02-11T03:37:30Z"
 		}
 	},
@@ -1861,7 +1865,7 @@
 			"createdAt": "2023-10-06T14:38:04Z"
 		},
 		"1.0.3": {
-			"downloadCount": 609,
+			"downloadCount": 610,
 			"createdAt": "2024-01-22T21:07:54Z"
 		}
 	},
@@ -2527,7 +2531,7 @@
 	},
 	"io.xargs.JoplinPluginAutoTag": {
 		"1.0.3-rc7": {
-			"downloadCount": 1965,
+			"downloadCount": 1966,
 			"createdAt": "2022-01-08T07:05:07Z"
 		}
 	},
@@ -2605,7 +2609,7 @@
 			"createdAt": "2022-01-29T12:35:11Z"
 		},
 		"0.0.2": {
-			"downloadCount": 925,
+			"downloadCount": 926,
 			"createdAt": "2022-01-31T05:35:08Z"
 		}
 	},
@@ -4131,7 +4135,7 @@
 	},
 	"com.joshthor.export": {
 		"1.0.2": {
-			"downloadCount": 1306,
+			"downloadCount": 1307,
 			"createdAt": "2023-02-04T06:36:54Z"
 		}
 	},
@@ -5177,7 +5181,7 @@
 			"createdAt": "2024-12-13T19:02:25Z"
 		},
 		"1.8.0": {
-			"downloadCount": 1080,
+			"downloadCount": 1081,
 			"createdAt": "2024-12-20T20:32:26Z"
 		}
 	},
