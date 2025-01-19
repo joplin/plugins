@@ -408,5 +408,27 @@
 	},
 	"io.github.personalizedrefrigerator.codemirror6-settings": {
 		"_recommended": true
+	},
+	"com.github.joplin.kanban": {
+		"manifest_version": 1,
+		"id": "com.github.joplin.kanban",
+		"app_min_version": "1.7",
+		"version": "1.1.0",
+		"name": "Kanban",
+		"description": "Flexible kanban board plugin for all your tasks",
+		"author": "Balint Magyar",
+		"homepage_url": "https://github.com/joplin/plugin-kanban/wiki",
+		"repository_url": "https://github.com/joplin/plugin-kanban",
+		"keywords": [
+			"kanban",
+			"board",
+			"task",
+			"todo",
+			"project"
+		],
+		"_publish_hash": "sha256:b53968e288aec5f122e4d078f7ec50d1d6e009c4e8f134cd12cc7af283a8b099",
+		"_publish_commit": "dev:892feb049d5f5f812a06cf332df7c5dfea7c0172",
+		"_npm_package_name": "joplin-plugin-kanban",
+		"_obsolete": true
 	}
 }
