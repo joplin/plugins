@@ -2199,7 +2199,7 @@
 		"manifest_version": 1,
 		"id": "io.github.personalizedrefrigerator.js-draw",
 		"app_min_version": "2.13.5",
-		"version": "2.14.0",
+		"version": "2.15.0",
 		"name": "Freehand Drawing",
 		"description": "Create and edit drawings with js-draw.",
 		"author": "Henry Heino",
@@ -2215,7 +2215,8 @@
 			"editor"
 		],
 		"icons": {
-			"180": "icons/icon-180.png"
+			"180": "icons/icon-180.png",
+			"256": "icons/icon-256.png"
 		},
 		"screenshots": [
 			{
@@ -2232,8 +2233,8 @@
 				"src": "screenshots/editorview-dark.png"
 			}
 		],
-		"_publish_hash": "sha256:d88f8255aa9c015e9b67f938fdfec0d0071f07808560bb9be71f757c910899c8",
-		"_publish_commit": "master:9724793b4a6fb83346ff4f7c639af1e352bd7937",
+		"_publish_hash": "sha256:cc9f00cb05a1d805f44871b14d41bfa4c0c931f1add300bfe8834e3e9b9f268b",
+		"_publish_commit": "master:94a78496fac0b3bc7b0f6a896a982480adad3994",
 		"_npm_package_name": "joplin-plugin-freehand-drawing"
 	},
 	"com.sctmes.kity-minder": {
