@@ -4716,5 +4716,32 @@
 		"_publish_hash": "sha256:a6847873a4bb744bef26baa924e480bec025f6a38d2a22d2762a879c316472f5",
 		"_publish_commit": "main:30f51b0e4d159494e1a0723e4d69c1f35fb0febb",
 		"_npm_package_name": "joplin-plugin-transform-bible-chapter"
+	},
+	"joplin-plugin-copy-public-url": {
+		"manifest_version": 1,
+		"id": "joplin-plugin-copy-public-url",
+		"app_min_version": "3.0",
+		"name": "Copy HTTP link",
+		"version": "1.0.0",
+		"description": "Creates an HTTP URL to open a note in Joplin.",
+		"author": "Christopher Orr",
+		"homepage_url": "https://joplin.orr.dev/",
+		"repository_url": "https://github.com/orrc/joplin-plugin-copy-public-url",
+		"keywords": [
+			"link",
+			"url",
+			"http"
+		],
+		"categories": [
+			"productivity",
+			"integrations"
+		],
+		"promo_tile": {
+			"src": "images/promo_tile.png",
+			"label": "Context menu options on a Joplin note, to generate an HTTP URL"
+		},
+		"_publish_hash": "sha256:15dcb56185bf056fa8df6ee9ead7f7b0b0ec1bbe06a6b62ac2064654b596eb13",
+		"_publish_commit": "main:7f85569f8736af615799a98c51063d44d3205f0b",
+		"_npm_package_name": "joplin-plugin-copy-public-url"
 	}
 }
