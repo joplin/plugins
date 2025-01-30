@@ -4764,5 +4764,36 @@
 		"_publish_hash": "sha256:7aa53ec2e1a62872986df54015bcac95154a85dee8f7045b33e519e5422662ad",
 		"_publish_commit": "dev:14dcaf11801cad167894d934fe50a8e7e65476f0",
 		"_npm_package_name": "joplin-plugin-kanmug"
+	},
+	"com.jjl9807.LinkIcon": {
+		"manifest_version": 1,
+		"id": "com.jjl9807.LinkIcon",
+		"app_min_version": "3.2",
+		"version": "1.0.0",
+		"name": "Link Icon",
+		"description": "Display the icons for links in your Joplin notes.",
+		"author": "jjl9807",
+		"homepage_url": "https://github.com/jjl9807/joplin-plugin-link-icon",
+		"repository_url": "https://github.com/jjl9807/joplin-plugin-link-icon",
+		"keywords": [
+			"link",
+			"icon",
+			"url",
+			"favicon"
+		],
+		"categories": [
+			"appearance"
+		],
+		"screenshots": [
+			{
+				"src": "assets/screenshot.png",
+				"label": "Joplin desktop"
+			}
+		],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:faed61ad7ed86a3921b2bd817c2561585275039c3db9e46091b5c2ccb03eeb6d",
+		"_publish_commit": "main:70f652a3e7641db3468f37c73768d35875cfb806",
+		"_npm_package_name": "joplin-plugin-link-icon"
 	}
 }
