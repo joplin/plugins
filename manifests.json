@@ -3775,7 +3775,7 @@
 		"id": "io.github.personalizedrefrigerator.codemirror6-settings",
 		"app_min_version": "3.0.3",
 		"mobile_min_version": "3.0",
-		"version": "1.10.0",
+		"version": "1.10.1",
 		"name": "Extra Markdown editor settings",
 		"description": "Line numbers, code folding, space highlighting, word count, and other options for the CodeMirror 6 editor.",
 		"author": "Henry Heino",
@@ -3796,14 +3796,18 @@
 			{
 				"src": "images/screenshot-settings.png",
 				"label": "Screenshot: Shows the available settings: line numbers, code folding, autocomplete, highlight line gutter, highlight active line, highlight spaces, highlight trailing spaces, and more."
+			},
+			{
+				"src": "images/screenshot-hidden-md.png",
+				"label": "Screenshot: Shows math, headers, links, rendered as Markdown."
 			}
 		],
 		"icons": {
 			"128": "images/icon-128.png",
 			"256": "images/icon-256.autoinvert.png"
 		},
-		"_publish_hash": "sha256:a139e0024946915d65bf0b437d549fc5e935791c359e33cc11c3be5d7969ed76",
-		"_publish_commit": "master:c79ade8330311be127b2528ae60bbc39f2f1c7a6",
+		"_publish_hash": "sha256:ba73eaa91750c0ed35c6ef32b61f9b5f0b35d088cd412e0b07995810dcbea893",
+		"_publish_commit": "master:f76ace77fe4787d1ada8268a28e6fa6bd5a7c9b5",
 		"_npm_package_name": "joplin-plugin-codemirror-6-settings",
 		"_recommended": true
 	},
