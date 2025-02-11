@@ -4489,8 +4489,8 @@
 			"48": "assets/icons/48.png",
 			"128": "assets/icons/128.png"
 		},
-		"_publish_hash": "sha256:6c1f689b943425c10b0124d1e58116f95ad722508be6d6d26dfb788575a37046",
-		"_publish_commit": "main:cca91edfa3feb4f10443a5a0ced78663939dcb38",
+		"_publish_hash": "sha256:30f30c1da7edb3b923b181c15eaa6fd0bd544deda87915995aaa22d039534048",
+		"_publish_commit": "main:f3e8a8c26f1409c4561d036dd512784da3f011d8",
 		"_npm_package_name": "joplin-plugin-to-do-view"
 	},
 	"joplin.plugin.alondmnt.sticky-note": {
