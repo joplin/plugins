@@ -1,0 +1,43 @@
+name: Update plugin repo
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  PluginRepo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Joplin plugin repository
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          path: 'plugins'
+
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Prepare git
+        shell: bash
+        # Makes the commit author be shown as the Joplin Bot in the
+        # GitHub UI.
+        run: |
+          git config --global user.name "joplinbot"
+          git config --global user.email "bot@joplinapp.org"
+
+      - name: Build
+        shell: bash
+        # See https://github.com/actions/checkout/pull/1707
+        run: |
+          mkdir ./plugin-repo-builder/
+          cd ./plugin-repo-builder/ && npm install @joplin/plugin-repo-cli
+          echo "Installed @joplin/plugin-repo-cli!"
+          # Use NodeJS to resolve plugin-repo-cli
+          echo 'require("@joplin/plugin-repo-cli")' > main.js
+          # plugin-repo-cli requires absolute paths.
+          node main.js build "$(realpath ../plugins/)"
+        env:
+          JOPLIN_GITHUB_OAUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
