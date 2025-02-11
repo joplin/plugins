@@ -1,0 +1,23 @@
+{
+	"manifest_version": 1,
+	"id": "home.sword.NoteLLM",
+	"app_min_version": "3.0",
+	"version": "0.3.14",
+	"name": "NoteLLM",
+	"description": "LLM for notes",
+	"author": "Sword",
+	"homepage_url": "pass",
+	"repository_url": "pass",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"_publish_hash": "sha256:a0d8293d87c8d863cf4a168c6ac0dad6386e773a265af36b40ee8f217dae6565",
+	"_publish_commit": "main:110077b1a8341f399cc8f085fdf7ea913bea58bc",
+	"_npm_package_name": "joplin-plugin-notellm"
+}
