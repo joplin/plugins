@@ -4871,5 +4871,24 @@
 		"_publish_hash": "sha256:cce0ebc26e3abe55fd11371572034e50e12d643e19243ec5c3cb85dd0f3c43a4",
 		"_publish_commit": "main:6467ea88effbaca6006c729084dd98f7a0ae9676",
 		"_npm_package_name": "joplin-plugin-table-of-to-dos"
+	},
+	"com.flxholle.countdown": {
+		"manifest_version": 1,
+		"id": "com.flxholle.countdown",
+		"app_min_version": "3.1",
+		"version": "1.0.1",
+		"name": "TimeWise Countdown",
+		"description": "TimeWise Countdown is a plugin that continually calculates and displays the time remaining until a specified deadline.",
+		"author": "Felix Hollederer",
+		"homepage_url": "https://www.flxholle.gitlab.io",
+		"repository_url": "https://www.gitlab.com/flxholle/joplin-countdown",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:c2e8adee80deb4aa6603bbb37ea6ccd0d91ed2a4709753c1e8dd2a9bb7144b23",
+		"_publish_commit": "main:9e2fd1cea48d2ef5f9cd706199f86a2856cb9094",
+		"_npm_package_name": "joplin-plugin-timewise-countdown"
 	}
 }

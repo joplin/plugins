@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "com.flxholle.countdown",
+	"app_min_version": "3.1",
+	"version": "1.0.1",
+	"name": "TimeWise Countdown",
+	"description": "TimeWise Countdown is a plugin that continually calculates and displays the time remaining until a specified deadline.",
+	"author": "Felix Hollederer",
+	"homepage_url": "https://www.flxholle.gitlab.io",
+	"repository_url": "https://www.gitlab.com/flxholle/joplin-countdown",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:c2e8adee80deb4aa6603bbb37ea6ccd0d91ed2a4709753c1e8dd2a9bb7144b23",
+	"_publish_commit": "main:9e2fd1cea48d2ef5f9cd706199f86a2856cb9094",
+	"_npm_package_name": "joplin-plugin-timewise-countdown"
+}
