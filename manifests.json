@@ -4788,7 +4788,7 @@
 		"manifest_version": 1,
 		"id": "org.sepremento.joplin.graph",
 		"app_min_version": "3.2.12",
-		"version": "1.1.0",
+		"version": "1.1.1",
 		"name": "Sepremento's Awesome Graph",
 		"description": "Visualize connections between notes in Joplin.",
 		"author": "Sepremento",
@@ -4817,8 +4817,8 @@
 				"label": "Adjust forces, highlight nodes on hover"
 			}
 		],
-		"_publish_hash": "sha256:2c857e6eb8adb6cb371849ce3a55597e52193385f6ef458235ba54c304daf10f",
-		"_publish_commit": "main:67d6a750ec979f9f51d37d9ea8b392b28eb8060c",
+		"_publish_hash": "sha256:0c5454b37d8907fe08ea920bbaefdaf52733263e073b1b1934e3a439e0dbbee4",
+		"_publish_commit": "main:9e629288abe3462c8cb05b2327c0518be4a158e4",
 		"_npm_package_name": "joplin-plugin-graph-view"
 	},
 	"com.scrayil.table_of_todos": {
