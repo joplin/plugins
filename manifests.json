@@ -4825,12 +4825,12 @@
 		"manifest_version": 1,
 		"id": "com.scrayil.table_of_todos",
 		"app_min_version": "3.1",
-		"version": "1.2.1",
+		"version": "1.2.2",
 		"name": "Table Of To-Dos",
 		"description": "Allows you to generate the table of contents related to a specific note, where each item has a checkbox. Especially useful for students, as it helps keep track of topics and distinguish those learned from those not yet learned.",
 		"author": "Mattia Bennati (Scrayil)",
 		"homepage_url": "https://github.com/Scrayil",
-		"repository_url": "https://github.com/Scrayil/Joplin-Plugins/tree/main/table_of_todos",
+		"repository_url": "https://github.com/Scrayil/joplin-plugin-table-of-to-dos",
 		"keywords": [
 			"joplin-plugin",
 			"note-taking",
@@ -4871,8 +4871,8 @@
 			"src": "assets/logo.svg"
 		},
 		"promo_tile": {},
-		"_publish_hash": "sha256:e26d3441305fb470f2e794c6715b607614af2ddc9f12996dd0a4c784be160701",
-		"_publish_commit": "main:f2cc66f2b7d410d9be00214f9b9d922f35122514",
+		"_publish_hash": "sha256:e0875150620024af2c54b1fa462a71e9f532698fce01fcf2447d6f72657d688b",
+		"_publish_commit": "main:cf14a1ccb928458a104b69658b79e7aa665020e1",
 		"_npm_package_name": "joplin-plugin-table-of-to-dos"
 	},
 	"com.flxholle.countdown": {
