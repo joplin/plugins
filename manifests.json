@@ -4927,5 +4927,25 @@
 		"_publish_hash": "sha256:2ebeca50ef8d92335a2be812e24a0dada3c81903d1e53bf1879a556540a1ba24",
 		"_publish_commit": "main:fe1e722f395aaef9e68402f4c108004812778b0d",
 		"_npm_package_name": "joplin-plugin-notellm"
+	},
+	"joplin.plugin.sourceurl-opener": {
+		"manifest_version": 1,
+		"id": "joplin.plugin.sourceurl-opener",
+		"app_min_version": "2.13",
+		"version": "1.0.0",
+		"name": "Source URL Opener",
+		"description": "Open source URL of the current note with a shortcut",
+		"author": "Jeremy Kao",
+		"homepage_url": "https://github.com/imsardine/joplin-plugin-sourceurl-opender",
+		"repository_url": "https://github.com/imsardine/joplin-plugin-sourceurl-opender",
+		"keywords": [
+			"joplin-plugin"
+		],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"_publish_hash": "sha256:6f65477ad9a71ab0b1d5b4ddb6b3863c76d6c33ea911298187962f07a2f70621",
+		"_publish_commit": "main:581ad54a49bbdcb720486ce5cd1f4ed94a29b1de",
+		"_npm_package_name": "joplin-plugin-sourceurl-opener"
 	}
 }
