@@ -4335,8 +4335,8 @@
 		"categories": [],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:8991aceb7ac0c9b38cea3b6b76aee1dcf60e53a6aede04e2327a408feb0fba5a",
-		"_publish_commit": "master:07a292f90d3981d9ec855ac4c671717e05a4e01f",
+		"_publish_hash": "sha256:ab05f9c0035b4952fb3eeabd39b816865d3495c3ad74744dbef166cc560f0a24",
+		"_publish_commit": "master:2e093c373b7a82783058b64ee76eb7da61393859",
 		"_npm_package_name": "joplin-plugin-insert-youtube-video"
 	},
 	"org.joplinapp.plugins.YesYouKan": {
