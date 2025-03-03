@@ -4955,5 +4955,29 @@
 		"_publish_hash": "sha256:6f65477ad9a71ab0b1d5b4ddb6b3863c76d6c33ea911298187962f07a2f70621",
 		"_publish_commit": "main:581ad54a49bbdcb720486ce5cd1f4ed94a29b1de",
 		"_npm_package_name": "joplin-plugin-sourceurl-opener"
+	},
+	"AI-Chatbot-Assistant": {
+		"manifest_version": 1,
+		"id": "AI-Chatbot-Assistant",
+		"app_min_version": "2.0",
+		"version": "1.0.0",
+		"name": "AI Chatbot Assistant",
+		"description": "Integrating Joplin with a self-hosted AI platform like Open WebUI",
+		"author": "Takuya Okabe",
+		"homepage_url": "https://github.com/takyaO/Jopline-Plugin-Chat-GPT-SearchPlugin-Chat-GPT-Search",
+		"repository_url": "https://github.com/takyaO/Jopline-Plugin-Chat-GPT-SearchPlugin-Chat-GPT-Search",
+		"keywords": [
+			"Open WebUI",
+			"search",
+			"context menu"
+		],
+		"joplin_min_version": "2.0",
+		"categories": [
+			"search"
+		],
+		"enable_api": true,
+		"_publish_hash": "sha256:786dcfd742129195cc006e1646026e49d0670a7e4b35a0cb6ebe37b6c79a10b5",
+		"_publish_commit": "",
+		"_npm_package_name": "joplin-plugin-ai-chatbot-assistant"
 	}
 }
