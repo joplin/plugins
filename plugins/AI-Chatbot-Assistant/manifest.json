@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "AI-Chatbot-Assistant",
 	"app_min_version": "2.0",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "AI Chatbot Assistant",
 	"description": "Integrating Joplin with a self-hosted AI platform like Open WebUI",
 	"author": "Takuya Okabe",
@@ -18,7 +18,7 @@
 		"search"
 	],
 	"enable_api": true,
-	"_publish_hash": "sha256:786dcfd742129195cc006e1646026e49d0670a7e4b35a0cb6ebe37b6c79a10b5",
+	"_publish_hash": "sha256:b8a75c4c89a635391f656ad0ed7960218691226e1ddfac1f351ca42c6757c984",
 	"_publish_commit": "",
 	"_npm_package_name": "joplin-plugin-ai-chatbot-assistant"
 }
