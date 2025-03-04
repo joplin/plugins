@@ -4325,7 +4325,7 @@
 		"manifest_version": 1,
 		"id": "com.github.badabing2005.ytlink",
 		"app_min_version": "2.13",
-		"version": "1.1.0",
+		"version": "1.2.1",
 		"name": "Insert YouTube Video",
 		"description": "Given a youtube video id or url, it inserts at the cursor position a video link",
 		"author": "badabing2005",
@@ -4335,8 +4335,8 @@
 		"categories": [],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:ab05f9c0035b4952fb3eeabd39b816865d3495c3ad74744dbef166cc560f0a24",
-		"_publish_commit": "master:2e093c373b7a82783058b64ee76eb7da61393859",
+		"_publish_hash": "sha256:6e6b1f2ffbaf9c77a07183440cc78e3f65b0a606721c6643661ccd3c8250c1aa",
+		"_publish_commit": "master:6733648c9729585efcd6297ae55fb3e16f7ae62c",
 		"_npm_package_name": "joplin-plugin-insert-youtube-video"
 	},
 	"org.joplinapp.plugins.YesYouKan": {
