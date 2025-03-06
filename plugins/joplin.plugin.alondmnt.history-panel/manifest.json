@@ -2,14 +2,21 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.alondmnt.history-panel",
 	"app_min_version": "2.6",
-	"version": "1.0.2",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"version": "1.0.3",
 	"name": "History Panel",
 	"description": "Joplin note browsing history",
 	"author": "Alon Diament",
 	"homepage_url": "https://github.com/alondmnt/joplin-plugin-history-panel#readme",
 	"repository_url": "https://github.com/alondmnt/joplin-plugin-history-panel",
+	"categories": [
+		"search"
+	],
 	"keywords": [],
-	"_publish_hash": "sha256:32250f1f712fe10b1fd83cef07a39b71d3ccd7ea522400d111b89e841a98c736",
-	"_publish_commit": "main:e0564422199cac9858583002d8733e23cd082d14",
+	"_publish_hash": "sha256:0f388125a663df907a0065bd55bac4eaa84c7d71e33ae9322ac2029c8e9d8b67",
+	"_publish_commit": "main:08db9a2630ea57a5cd5a9c167e8d50c54f1c2c69",
 	"_npm_package_name": "joplin-plugin-history-panel"
 }
