@@ -455,5 +455,23 @@
 		"_publish_commit": "main:8b0d7c46e5e959c60fc72f2be8ee18db27c75f3b",
 		"_npm_package_name": "joplin-plugin-languagetool",
 		"_obsolete": true
+	},
+	"ylc395.joplinOcr": {
+		"manifest_version": 1,
+		"id": "ylc395.joplinOcr",
+		"app_min_version": "2.2",
+		"version": "0.3.2",
+		"name": "OCR",
+		"description": "offline OCR auto/manually for images, videos, pdf documents in your Joplin notes",
+		"author": "ylc395",
+		"homepage_url": "https://github.com/ylc395/joplin-plugin-ocr",
+		"repository_url": "https://github.com/ylc395/joplin-plugin-ocr",
+		"keywords": [
+			"OCR"
+		],
+		"_publish_hash": "sha256:386550442817894d2e62042699090a9ab1dd4e0be9004a86135241910ad75ae4",
+		"_publish_commit": "main:429abc47603e6df4da5bc7bec7a707a6b611b23c",
+		"_npm_package_name": "joplin-plugin-ocr",
+		"_obsolete": true
 	}
 }
