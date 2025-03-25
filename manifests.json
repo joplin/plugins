@@ -5028,5 +5028,24 @@
 		"_publish_hash": "sha256:0e7e411ad51f6a0a3999dbff32a5e65447bb57cc8ddd08cfc12540e56ced2db1",
 		"_publish_commit": "",
 		"_npm_package_name": "joplin-plugin-harunice"
+	},
+	"com.harunice.CodeMirror": {
+		"manifest_version": 1,
+		"id": "com.harunice.CodeMirror",
+		"app_min_version": "3.2",
+		"version": "1.0.0",
+		"name": "CodeMirror",
+		"description": "CodeMirror",
+		"author": "jang4472",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:81db76145cb6db6cefbca31b3cc20accb8628d7cf3bc6fb4d93f105323f7748d",
+		"_publish_commit": "",
+		"_npm_package_name": "joplin-plugin-codemirror"
 	}
 }
