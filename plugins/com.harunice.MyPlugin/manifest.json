@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "com.harunice.MyPlugin",
+	"app_min_version": "3.2",
+	"version": "1.0.1",
+	"name": "harunice",
+	"description": "My own Joplin",
+	"author": "jang4472",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:0e7e411ad51f6a0a3999dbff32a5e65447bb57cc8ddd08cfc12540e56ced2db1",
+	"_publish_commit": "",
+	"_npm_package_name": "joplin-plugin-harunice"
+}
