@@ -473,5 +473,27 @@
 		"_publish_commit": "main:429abc47603e6df4da5bc7bec7a707a6b611b23c",
 		"_npm_package_name": "joplin-plugin-ocr",
 		"_obsolete": true
+	},
+
+	"bluulo.JoplinCodeClipboardPlugin": {
+		"manifest_version": 1,
+		"id": "bluulo.JoplinCodeClipboardPlugin",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "Code-Clipboard",
+		"description": "Copy the content of a code block to the clipboard",
+		"author": "bluulo",
+		"homepage_url": "https://github.com/bluulo/joplin-plugin-code-clipboard",
+		"repository_url": "https://github.com/bluulo/joplin-plugin-code-clipboard",
+		"keywords": [
+			"joplin-plugin",
+			"clipboard",
+			"code block"
+		],
+		"categories": [],
+		"_publish_hash": "sha256:35dd02dd9915ad9931ebef7f8949e0e59727ba6a5f67154af71459ff0614fb93",
+		"_publish_commit": "main:974866775cc0a45a7899bfd0b36ef3b4954ad122",
+		"_npm_package_name": "joplin-plugin-code-clipboard",
+		"_obsolete": true
 	}
 }
