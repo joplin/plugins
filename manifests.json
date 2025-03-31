@@ -1926,7 +1926,7 @@
 			"desktop",
 			"mobile"
 		],
-		"version": "1.0.3",
+		"version": "1.0.4",
 		"name": "History Panel",
 		"description": "Joplin note browsing history",
 		"author": "Alon Diament",
@@ -1936,8 +1936,8 @@
 			"search"
 		],
 		"keywords": [],
-		"_publish_hash": "sha256:0f388125a663df907a0065bd55bac4eaa84c7d71e33ae9322ac2029c8e9d8b67",
-		"_publish_commit": "main:08db9a2630ea57a5cd5a9c167e8d50c54f1c2c69",
+		"_publish_hash": "sha256:7bb8d3ce30778d872bf134b83bfd1efe9b636671eac558c88a98c468b693f578",
+		"_publish_commit": "main:e69f51f5b66d47cbfc73e183a95cae8f1958b262",
 		"_npm_package_name": "joplin-plugin-history-panel"
 	},
 	"joplin-plugin-dddot": {
