@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.hieuthi.joplin.life-calendar",
 	"app_min_version": "2.2",
-	"version": "1.4.1",
+	"version": "1.5.1",
 	"name": "Life Calendar",
 	"description": "Life Calendar Plugin for Joplin",
 	"author": "Hieu-Thi Luong",
@@ -15,7 +15,11 @@
 		"life",
 		"timeline"
 	],
-	"_publish_hash": "sha256:1867bb0adf7fe62f2251591c6fe25f229fcf96f07baaaf6d86d917d97f075e84",
-	"_publish_commit": "main:6db6af6f2d6d087d773cab11a10309e0ad3a8213",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"_publish_hash": "sha256:e29e90cee133fbbae2ede649db0e82884befc5496535d37f18281991b0270954",
+	"_publish_commit": "main:a426e03df8bc718d40951850b8a2b406051440cd",
 	"_npm_package_name": "joplin-plugin-life-calendar"
 }
