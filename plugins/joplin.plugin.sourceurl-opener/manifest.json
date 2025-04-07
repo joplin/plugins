@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.sourceurl-opener",
 	"app_min_version": "2.13",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"name": "Source URL Opener",
 	"description": "Open source URL of the current note with a shortcut",
 	"author": "Jeremy Kao",
@@ -14,7 +14,7 @@
 	"categories": [],
 	"screenshots": [],
 	"icons": {},
-	"_publish_hash": "sha256:6f65477ad9a71ab0b1d5b4ddb6b3863c76d6c33ea911298187962f07a2f70621",
-	"_publish_commit": "main:581ad54a49bbdcb720486ce5cd1f4ed94a29b1de",
+	"_publish_hash": "sha256:31fc0dd3b7248629261f42147ff0017c0baa15062814a2e592737b7dfcb252d8",
+	"_publish_commit": "main:7024af2ecec5cea24191abdeeee5ef95f34f5d6d",
 	"_npm_package_name": "joplin-plugin-sourceurl-opener"
 }
