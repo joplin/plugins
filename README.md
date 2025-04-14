@@ -240,4 +240,5 @@ This repository contains the following plugins:
 | [🏠](https://github.com/marph91/joplin-plugin-whitespacer) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.whitespacer/plugin.jpl) | Whitespacer | 1.0.2 | Display whitespaces in editor | Marph |
 | -     | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.YesYouKan/plugin.jpl) | YesYouKan | 1.0.11 | Create and manage Kanban boards from Joplin | Laurent Cozic |
 | [🏠](https://github.com/jannessm/joplin-zotero-link) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/nz.magnusso.zotero-link/plugin.jpl) | Zotero Link | 2.1.2 | Link Zotero entries in notes | Jannes Magnusson |
+| [🏠](https://github.com/yimisunrise/joplin-folder-mapping) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/store.yimi.joplin-folder-mapping/plugin.jpl) | Folder Mapping | 1.0.3 | 笔记本目录与系统文件映射关联 | yimisunrise |
 <!-- PLUGIN_LIST -->
