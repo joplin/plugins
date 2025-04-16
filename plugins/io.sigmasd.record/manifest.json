@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "io.sigmasd.record",
 	"app_min_version": "3.2",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"name": "Record",
 	"description": "Record audio and insert it into a note.",
 	"author": "sigmasd",
@@ -19,7 +19,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:318edef900a6608cc71af304854f86454ef288af2509455eb241af1213f32b66",
-	"_publish_commit": "master:8792f9d6ac644fe62f83adb51b104ab5461698d6",
+	"_publish_hash": "sha256:b49cdda6a5be8e87b4255c688a99a1ef959ef797ef443ecf9398410e4e323f48",
+	"_publish_commit": "master:d38381ff33ba5c4a88bfc6c537efdf567934addf",
 	"_npm_package_name": "joplin-plugin-record"
 }
