@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.meisenburger.frontmatter-overview",
 	"app_min_version": "2.13",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"name": "Frontmatter Overview",
 	"description": "Create dynamic tables based on frontmatter in your notes.",
 	"author": "Meisenburger13",
@@ -26,7 +26,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:fd0dc8e0345f339a08d52a0d7e4cb8d2d355580ec63f36dbb95dc7cc6dbac387",
-	"_publish_commit": "main:d5f8ac7624f20768b96c31e716be2723af9a243a",
+	"_publish_hash": "sha256:ce4140643c8192eb363aff63a51439046f233325dd6ad36b03c1520de8aca2b3",
+	"_publish_commit": "main:a2a47e4f8eeade13db594bfe71039611a170ada0",
 	"_npm_package_name": "joplin-plugin-folder-overview"
 }
