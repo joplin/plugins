@@ -2,15 +2,21 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.alondmnt.suitcase",
 	"app_min_version": "2.8",
-	"version": "0.3.3",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"version": "0.4.0",
 	"name": "Suitcase",
 	"description": "Change the capitalization of selected text, and case-insensitive sorting",
 	"author": "Alon Diament",
 	"homepage_url": "https://github.com/alondmnt/joplin-plugin-suitcase/#readme",
 	"repository_url": "https://github.com/alondmnt/joplin-plugin-suitcase",
 	"keywords": [],
-	"categories": [],
-	"_publish_hash": "sha256:a09f7eeaca5f3e3cf67ceefde39a454df05f1ab574b0bdf2e4202e174a219fee",
-	"_publish_commit": "main:436facf3b0dfc5cc460cefa73268e04b9d033960",
+	"categories": [
+		"editor"
+	],
+	"_publish_hash": "sha256:4081212812055a05fd870b058aac433d6959eeeed23a0b3b98f411ca73d48e9f",
+	"_publish_commit": "main:bef74043137ec3528a55fd7a0fb6775914da2893",
 	"_npm_package_name": "joplin-plugin-suitcase"
 }
