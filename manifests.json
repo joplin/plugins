@@ -2196,8 +2196,8 @@
 		"keywords": [
 			"joplin-plugin"
 		],
-		"_publish_hash": "sha256:6255d2439f46588100e9e805a36e55f2ad9cd106808b20773ea2e92f77a35cb6",
-		"_publish_commit": "master:efba5e2ad418cd39b56405e8c83eb5ea4fb8d537",
+		"_publish_hash": "sha256:96546a82c1c9ce4a95a8856cc541abb35c761324f5df43c7b2e13892c82b8b4d",
+		"_publish_commit": "master:4990e8e7e0cf104d3bb93cdd736e8e18394d4a54",
 		"_npm_package_name": "joplin-plugin-journal"
 	},
 	"io.github.personalizedrefrigerator.js-draw": {
