@@ -144,7 +144,7 @@
 		"manifest_version": 1,
 		"id": "io.github.jackgruber.backup",
 		"app_min_version": "2.1.3",
-		"version": "1.4.2",
+		"version": "1.4.3",
 		"name": "Backup",
 		"description": "Plugin to create manual and automatic backups.",
 		"author": "JackGruber",
@@ -176,8 +176,8 @@
 		"icons": {
 			"256": "img/icon_256.png"
 		},
-		"_publish_hash": "sha256:1989eefb085c86d64405d07195a81077743d43190a2771b7e9f8d07f1c44aeee",
-		"_publish_commit": "master:5ba57c18ac0f24f20832f012e015a080b138f0c4",
+		"_publish_hash": "sha256:4597e0d35ce8f6f059aed0ea2e900b40f13cd6d60a37104e04ba72ee656fd542",
+		"_publish_commit": "master:083857c158f943b521c624fd8e8c2539c049422c",
 		"_npm_package_name": "joplin-plugin-backup",
 		"_recommended": true
 	},
