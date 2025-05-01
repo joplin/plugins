@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "joplin-plugin-kanmug",
 	"app_min_version": "1.7",
-	"version": "1.2.6",
+	"version": "1.2.7",
 	"name": "KanMug",
 	"description": "Flexible kanban board plugin for all your tasks",
 	"author": "Ben Lau",
@@ -15,7 +15,7 @@
 		"todo",
 		"project"
 	],
-	"_publish_hash": "sha256:ff4e11701cd87b478eb4c5c4396516cbc5736c0320298a722312c9d139f28f6a",
-	"_publish_commit": "main:05611d20d1d2baf80e5ed102e9bbbd105b13c295",
+	"_publish_hash": "sha256:d9c84da4c16e93b7eeb7324a763dfc6b09a7239aaa05a4a127464e70e178638a",
+	"_publish_commit": "main:949608fd3df941ce0777261228a5d60b4705625a",
 	"_npm_package_name": "joplin-plugin-kanmug"
 }
