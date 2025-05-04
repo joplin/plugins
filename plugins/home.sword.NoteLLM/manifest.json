@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "home.sword.NoteLLM",
 	"app_min_version": "3.2",
-	"version": "0.4.9",
+	"version": "0.4.10",
 	"name": "NoteLLM",
 	"description": "Your very own AI-powered note plugin. It's completely open-source and does not collect any logs or personal information.",
 	"author": "HorseSword",
@@ -30,7 +30,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:5efc0987ecbbca069e64782650a3d16c28a4aeeb397f078f7885abdbbb0ac5f9",
-	"_publish_commit": "dev:73d364cc2d961dfd9862523671473aa33c756027",
+	"_publish_hash": "sha256:edecbe802ddc537e5435dec064ddb2e391d581acd7de653fdeb1f84b7377d82d",
+	"_publish_commit": "main:82f3a98725cee18550543f0c994c9436c986e1cb",
 	"_npm_package_name": "joplin-plugin-notellm"
 }
