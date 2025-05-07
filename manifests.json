@@ -249,8 +249,7 @@
 		],
 		"_publish_hash": "sha256:808dc47d3c09cf22119dd16dcdae71d5b99c30a6afbe24f7184525c4b21cb689",
 		"_publish_commit": "",
-		"_npm_package_name": "joplin-plugin-benji-favorites",
-		"_recommended": true
+		"_npm_package_name": "joplin-plugin-benji-favorites"
 	},
 	"outline": {
 		"manifest_version": 1,
