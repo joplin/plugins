@@ -1,4 +1,97 @@
 {
+	"io.github.jackgruber.copytags": {
+		"_recommended": true
+	},
+	"io.github.jackgruber.combine-notes": {
+		"_recommended": true
+	},
+	"org.joplinapp.plugins.ToggleSidebars": {
+		"_recommended": true
+	},
+	"io.github.jackgruber.backup": {
+		"_recommended": true
+	},
+	"io.github.jackgruber.note-overview": {
+		"_recommended": true
+	},
+	"plugin.calebjohn.MathMode": {
+		"_recommended": true
+	},
+	"com.whatever.quick-links": {
+		"_recommended": true
+	},
+	"com.whatever.inline-tags": {
+		"_recommended": true
+	},
+	"io.github.jackgruber.hotfolder": {
+		"_recommended": true
+	},
+	"net.rmusin.resource-search": {
+		"_recommended": true
+	},
+	"plugin.calebjohn.rich-markdown": {
+		"_recommended": true
+	},
+	"net.rmusin.joplin-table-formatter": {
+		"_recommended": true
+	},
+	"cx.evermeet.tessus.menu-shortcut-toolbar": {
+		"_recommended": true
+	},
+	"joplin-plugin-conflict-resolution": {
+		"_recommended": true
+	},
+	"joplin.plugin.templates": {
+		"_recommended": true
+	},
+	"org.joplinapp.plugins.AbcSheetMusic": {
+		"_recommended": true
+	},
+	"joplin.plugin.note.tabs": {
+		"_recommended": true
+	},
+	"plugin.calebjohn.todo": {
+		"_recommended": true
+	},
+	"io.github.personalizedrefrigerator.js-draw": {
+		"_recommended": true
+	},
+	"io.github.personalizedrefrigerator.joplin-vimrc": {
+		"_recommended": true
+	},
+	"io.github.personalizedrefrigerator.revealjs-integration": {
+		"_recommended": true
+	},
+	"io.github.personalizedrefrigerator.snippets-and-autocomplete": {
+		"_recommended": true
+	},
+	"io.github.personalizedrefrigerator.codemirror6-settings": {
+		"_recommended": true
+	},
+	"io.github.personalizedrefrigerator.joplin-plugin-debug-info": {
+		"_recommended": true
+	},
+	"io.github.personalizedrefrigerator.diff-view": {
+		"_recommended": true
+	},
+	"io.github.personalizedrefrigerator.note-viewer-settings": {
+		"_recommended": true
+	},
+	"io.github.personalizedrefrigerator.import-local-css": {
+		"_recommended": true
+	},
+	"org.joplinapp.plugins.YesYouKan": {
+		"_recommended": true
+	},
+	"org.joplinapp.plugins.Victor": {
+		"_recommended": true
+	},
+	"cx.evermeet.tessus.folder-id": {
+		"_recommended": true
+	},
+	"io.github.jackgruber.notelistpreview": {
+		"_recommended": true
+	},
 	"ambrt.backlinksToNote": {
 		"manifest_version": 1,
 		"id": "ambrt.backlinksToNote",
@@ -57,69 +150,6 @@
 		"_publish_commit": "master:91eb31ca1e40ee556ed730dbd8b75e5531826c61",
 		"_npm_package_name": "joplin-plugin-bug-test",
 		"_obsolete": true
-	},
-	"io.github.jackgruber.copytags": {
-		"_recommended": true
-	},
-	"io.github.jackgruber.combine-notes": {
-		"_recommended": true
-	},
-	"org.joplinapp.plugins.ToggleSidebars": {
-		"_recommended": true
-	},
-	"io.github.jackgruber.backup": {
-		"_recommended": true
-	},
-	"io.github.jackgruber.note-overview": {
-		"_recommended": true
-	},
-	"plugin.calebjohn.MathMode": {
-		"_recommended": true
-	},
-	"com.whatever.quick-links": {
-		"_recommended": true
-	},
-	"com.whatever.inline-tags": {
-		"_recommended": true
-	},
-	"io.github.jackgruber.hotfolder": {
-		"_recommended": true
-	},
-	"net.rmusin.resource-search": {
-		"_recommended": true
-	},
-	"plugin.calebjohn.rich-markdown": {
-		"_recommended": true
-	},
-	"net.rmusin.joplin-table-formatter": {
-		"_recommended": true
-	},
-	"cx.evermeet.tessus.menu-shortcut-toolbar": {
-		"_recommended": true
-	},
-	"com.xUser5000.bibtex": {
-		"_recommended": true
-	},
-	"joplin-plugin-conflict-resolution": {
-		"_recommended": true
-	},
-	"joplin.plugin.templates": {
-		"_recommended": true
-	},
-	"org.joplinapp.plugins.AbcSheetMusic": {
-		"_recommended": true
-	},
-	"joplin.plugin.note.tabs": {
-		"_recommended": true
-	},
-	"joplin.plugin.benji.favorites": {
-		"_recommended": true
-	},
-	"joplin.plugin.benji.persistentLayout": {
-		"_recommended": true
-	},
-	"joplin.plugin.benji.quick-move": {
-		"_recommended": true
 	},
 	"com.github.uphy.PlantUmlPlugin": {
 		"manifest_version": 1,
@@ -405,9 +435,6 @@
 		"_publish_commit": "dev:9b7109634c0e3f155acf64f9f67e5a2bd19f132f",
 		"_npm_package_name": "joplin-plugin-delete-unlinked-resources",
 		"_obsolete": true
-	},
-	"io.github.personalizedrefrigerator.codemirror6-settings": {
-		"_recommended": true
 	},
 	"com.github.joplin.kanban": {
 		"manifest_version": 1,
