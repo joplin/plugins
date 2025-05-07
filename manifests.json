@@ -636,8 +636,7 @@
 		],
 		"_publish_hash": "sha256:2b6cdc468a3f7fdf2238641db755820137e3641cecac80c1bc07a17fd3f5e4cd",
 		"_publish_commit": "master:a528320345de4340f3fb47d1390493361f1bb0c4",
-		"_npm_package_name": "joplin-plugin-quick-move",
-		"_recommended": true
+		"_npm_package_name": "joplin-plugin-quick-move"
 	},
 	"com.export-to-ssg.aman-d-1-n-only": {
 		"manifest_version": 1,
