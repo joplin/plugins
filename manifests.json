@@ -796,8 +796,7 @@
 		"keywords": [],
 		"_publish_hash": "sha256:3f5e3606127f8df1403e50f4d428f906d7e07555f43a3bc7d7fc47921e581f33",
 		"_publish_commit": "release-0.5.0:02bfbdeec2429c38d64fcd2dc059bb25978e7e79",
-		"_npm_package_name": "joplin-plugin-bibtex",
-		"_recommended": true
+		"_npm_package_name": "joplin-plugin-bibtex"
 	},
 	"fd117a99-b165-4824-893c-5825439a842d": {
 		"manifest_version": 1,
