@@ -1018,7 +1018,8 @@
 		],
 		"_publish_hash": "sha256:d4bf46444193f53df5803b28d2bbf6dcd370eea25eb807540422fbdf4bacf77e",
 		"_publish_commit": "master:e2ca4b8e367eb169fcd38247780359baaf26392d",
-		"_npm_package_name": "joplin-plugin-get-notebook-id"
+		"_npm_package_name": "joplin-plugin-get-notebook-id",
+		"_recommended": true
 	},
 	"com.coderrsid.pasteSpecial": {
 		"manifest_version": 1,
@@ -1280,7 +1281,8 @@
 		},
 		"_publish_hash": "sha256:ffa83bd25e545e09e922ab2b675f64a367f38f6068b1d8a069023459773c65c7",
 		"_publish_commit": "master:85569355effb506ed745279fb45611d7ee721c7e",
-		"_npm_package_name": "joplin-plugin-victor"
+		"_npm_package_name": "joplin-plugin-victor",
+		"_recommended": true
 	},
 	"com.hieuthi.joplin.markdown-table-colorize": {
 		"manifest_version": 5,
@@ -1994,7 +1996,8 @@
 		},
 		"_publish_hash": "sha256:e20e484363b0a15863d30c9534942d870f40b810bf6c3ceecb1107d8897f124b",
 		"_publish_commit": "master:dc355d16cd8faa0e28adab8b99f444f0fc69eac7",
-		"_npm_package_name": "joplin-plugin-inline-todo"
+		"_npm_package_name": "joplin-plugin-inline-todo",
+		"_recommended": true
 	},
 	"com.programming-emu.DependencyGraph": {
 		"manifest_version": 1,
@@ -2248,7 +2251,8 @@
 		],
 		"_publish_hash": "sha256:4beab60b11019366948b1db0f82ac06956c5a3319cd0203998a231fc6635bab2",
 		"_publish_commit": "master:49650407c1d56a2a0123d2d56d2387e48eb58415",
-		"_npm_package_name": "joplin-plugin-freehand-drawing"
+		"_npm_package_name": "joplin-plugin-freehand-drawing",
+		"_recommended": true
 	},
 	"com.sctmes.kity-minder": {
 		"manifest_version": 1,
@@ -2329,7 +2333,8 @@
 		],
 		"_publish_hash": "sha256:ec0e28cdbc211395cee8cc64c2032b7becbb8c9c4bb4da7925251b1759ee9f7c",
 		"_publish_commit": "main:7ba073fa769f448e3e4ec8517c1b9d6007c1cf84",
-		"_npm_package_name": "joplin-plugin-custom-codemirror-vimrc"
+		"_npm_package_name": "joplin-plugin-custom-codemirror-vimrc",
+		"_recommended": true
 	},
 	"kensam.joplin.plugin.highlighter": {
 		"manifest_version": 1,
@@ -3088,7 +3093,8 @@
 		},
 		"_publish_hash": "sha256:8fde689021b28cbfdf9221f811bba1682135c72af4cc424c9de5f6b686cb6118",
 		"_publish_commit": "master:9f33216b2be47ba221ce1d425701ad0a001dd752",
-		"_npm_package_name": "joplin-plugin-revealjs-slides"
+		"_npm_package_name": "joplin-plugin-revealjs-slides",
+		"_recommended": true
 	},
 	"com.Plugin.ToGoogleSearch": {
 		"manifest_version": 1,
@@ -3402,7 +3408,8 @@
 		},
 		"_publish_hash": "sha256:76d14d42a1767b0ec21ab796d7f9e024cfcc044429e3ffecd88dbd5a4dd7e57a",
 		"_publish_commit": "master:0f3becd4ef90aac8e7e970bc5d5d60af6ad48c4c",
-		"_npm_package_name": "joplin-plugin-notelistpreview"
+		"_npm_package_name": "joplin-plugin-notelistpreview",
+		"_recommended": true
 	},
 	"com.kylrth.JoplinAW": {
 		"manifest_version": 1,
@@ -3460,7 +3467,8 @@
 		],
 		"_publish_hash": "sha256:af0f3167600c4ed10123fc420ed9ac2cdf45d5519cbf1b0203eda84b4a3ea3db",
 		"_publish_commit": "master:216dfaa0d8a58c311519247d4e64644080e40a31",
-		"_npm_package_name": "joplin-plugin-codemirror-snippets"
+		"_npm_package_name": "joplin-plugin-codemirror-snippets",
+		"_recommended": true
 	},
 	"calandra.kminder.joplin": {
 		"manifest_version": 1,
@@ -3825,7 +3833,8 @@
 		],
 		"_publish_hash": "sha256:dc5f4b8bae7891e16b4aee831557919a62a8cad3eb63a329c45bb50f59dbbac9",
 		"_publish_commit": "master:9c92a597a732957c5cafdd461579af51b32a11b7",
-		"_npm_package_name": "joplin-plugin-debug-info"
+		"_npm_package_name": "joplin-plugin-debug-info",
+		"_recommended": true
 	},
 	"io.isaacoram.url-meta": {
 		"manifest_version": 1,
@@ -3934,7 +3943,8 @@
 		],
 		"_publish_hash": "sha256:2bfbed3fd6c0e5ab34418e9649d4ea350ac7cc815d05873f2a51b94d9cd95f31",
 		"_publish_commit": "master:6b062567675c41a7afc44eb9700a64782488ad5b",
-		"_npm_package_name": "joplin-plugin-diff-view"
+		"_npm_package_name": "joplin-plugin-diff-view",
+		"_recommended": true
 	},
 	"com.sgitm.NotebooksNavigate": {
 		"manifest_version": 1,
@@ -4189,7 +4199,8 @@
 		},
 		"_publish_hash": "sha256:e51baad0986c545265764eb9d8e5fc423cf605240cb23dae1f842606a76c698d",
 		"_publish_commit": "master:3cc6af6b50dd3277ccc575c4f37c4880b2f421c8",
-		"_npm_package_name": "joplin-plugin-extra-viewer-settings"
+		"_npm_package_name": "joplin-plugin-extra-viewer-settings",
+		"_recommended": true
 	},
 	"jp.emotiongraphics.omnivore-sync": {
 		"manifest_version": 1,
@@ -4362,7 +4373,8 @@
 		},
 		"_publish_hash": "sha256:9ca71a3e0bc7952c181d81072a6e1faf856334b2a567c515b49d36a8990165dc",
 		"_publish_commit": "master:17fdbe1c3130a9ee31075cf41739573a037bff86",
-		"_npm_package_name": "joplin-plugin-yesyoukan"
+		"_npm_package_name": "joplin-plugin-yesyoukan",
+		"_recommended": true
 	},
 	"cdu.u.lsc.vsc.lg.mw.ss.e.ge.diary": {
 		"manifest_version": 1,
@@ -4995,7 +5007,8 @@
 		"icons": {},
 		"_publish_hash": "sha256:3b890967ab776b7a8f368618aac5134b35e857cd4946bc38adf0be30e0c2afb8",
 		"_publish_commit": "master:38519ca4dcdf4125b8c5e83aa4a192f42a1e87e7",
-		"_npm_package_name": "joplin-plugin-import-local-css"
+		"_npm_package_name": "joplin-plugin-import-local-css",
+		"_recommended": true
 	},
 	"com.harunice.MyPlugin": {
 		"manifest_version": 1,
