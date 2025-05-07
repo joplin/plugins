@@ -458,8 +458,7 @@
 		],
 		"_publish_hash": "sha256:f9d8d577bf17f98ed0f0f28f9149b17fb70278f0f165494bf97a323efdbcdad5",
 		"_publish_commit": "master:89705479ff3459e365ab47327d0d2af02d9d5044",
-		"_npm_package_name": "joplin-plugin-persistent-editor-layout",
-		"_recommended": true
+		"_npm_package_name": "joplin-plugin-persistent-editor-layout"
 	},
 	"io.treymo.LinkGraph": {
 		"manifest_version": 1,
