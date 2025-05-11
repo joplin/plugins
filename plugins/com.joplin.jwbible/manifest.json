@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.joplin.jwbible",
 	"app_min_version": "3.2",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"name": "JW Bible Plugin",
 	"description": "Links bible references to wol.jw.org",
 	"author": "Tim Johnson-Reynolds",
@@ -29,7 +29,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:1b158f295c704a379a5eaa2e34f896d3cc63482dfc602d5715fede0464f98083",
-	"_publish_commit": "main:63d445ee0c95d2e42bbd04d2369fa2001dcd0915",
+	"_publish_hash": "sha256:a73e79688363b3ee67b325b40133b9056ecc8d67624bc37bec13df3f81d09ad0",
+	"_publish_commit": "main:ce5ac100c1bea191e1d52e6358cc60965c3ee0f4",
 	"_npm_package_name": "joplin-plugin-jw-bible-plugin"
 }
