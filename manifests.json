@@ -5126,5 +5126,40 @@
 		"_publish_hash": "sha256:b49cdda6a5be8e87b4255c688a99a1ef959ef797ef443ecf9398410e4e323f48",
 		"_publish_commit": "master:d38381ff33ba5c4a88bfc6c537efdf567934addf",
 		"_npm_package_name": "joplin-plugin-record"
+	},
+	"com.joplin.jwbible": {
+		"manifest_version": 1,
+		"id": "com.joplin.jwbible",
+		"app_min_version": "3.2",
+		"version": "1.0.0",
+		"name": "JW Bible Plugin",
+		"description": "Links bible references to wol.jw.org",
+		"author": "Tim Johnson-Reynolds",
+		"homepage_url": "",
+		"repository_url": "https://github.com/timjr83/JW-Bible-Plugin",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"promo_tile": {},
+		"permissions": [
+			"workspace",
+			"commands",
+			"views",
+			"contentScripts"
+		],
+		"type": "module",
+		"icons": {
+			"16": "icons/icon16.png",
+			"32": "icons/icon32.png",
+			"48": "icons/icon48.png",
+			"128": "icons/icon128.png"
+		},
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"_publish_hash": "sha256:1b158f295c704a379a5eaa2e34f896d3cc63482dfc602d5715fede0464f98083",
+		"_publish_commit": "main:63d445ee0c95d2e42bbd04d2369fa2001dcd0915",
+		"_npm_package_name": "joplin-plugin-jw-bible-plugin"
 	}
 }
