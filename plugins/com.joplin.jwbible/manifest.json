@@ -2,13 +2,18 @@
 	"manifest_version": 1,
 	"id": "com.joplin.jwbible",
 	"app_min_version": "3.2",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"name": "JW Bible Plugin",
-	"description": "Links bible references to wol.jw.org",
+	"description": "This detects verse references in a note and displays the verse text in a side panel from the New World Translation Bible. There are also actions to insert the verse text into your note and to open the verse directly in jw.org or jw library.",
 	"author": "Tim Johnson-Reynolds",
 	"homepage_url": "",
 	"repository_url": "https://github.com/timjr83/JW-Bible-Plugin",
-	"keywords": [],
+	"keywords": [
+		"Bible",
+		"NWT",
+		"Jehovah's Witnesses",
+		"New World Translation"
+	],
 	"categories": [],
 	"screenshots": [],
 	"promo_tile": {},
@@ -29,7 +34,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:a73e79688363b3ee67b325b40133b9056ecc8d67624bc37bec13df3f81d09ad0",
-	"_publish_commit": "main:ce5ac100c1bea191e1d52e6358cc60965c3ee0f4",
+	"_publish_hash": "sha256:87288ad8adc0251eb9dca07c29606f5d61569e27316a0dfb4557e2dc87e786fd",
+	"_publish_commit": "main:8ca6f0e5a273d86ddd4f990d59fba4472e921ca0",
 	"_npm_package_name": "joplin-plugin-jw-bible-plugin"
 }
