@@ -34,7 +34,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:87288ad8adc0251eb9dca07c29606f5d61569e27316a0dfb4557e2dc87e786fd",
-	"_publish_commit": "main:8ca6f0e5a273d86ddd4f990d59fba4472e921ca0",
+	"_publish_hash": "sha256:bf894ad5b9486e42708f13f707ba358d74db5287de3fbf54c87f8c0846b5ec01",
+	"_publish_commit": "main:1ab40c81c0da3fa5d3be95601fc607808eb1ab6a",
 	"_npm_package_name": "joplin-plugin-jw-bible-plugin"
 }
