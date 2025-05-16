@@ -1,0 +1,28 @@
+{
+	"manifest_version": 1,
+	"id": "com.brigchen.md2docx",
+	"app_min_version": "3.3",
+	"version": "1.1.1",
+	"name": "md2docx-pandoc",
+	"author": "Brigchen",
+	"description": "使用pandoc将 Markdown 笔记导出为 Word 文档，支持图片和模板",
+	"homepage_url": "https://github.com/Brigchen/joplin-plugin-md2docx",
+	"repository_url": "https://github.com/Brigchen/joplin-plugin-md2docx",
+	"keywords": [
+		"joplin",
+		"joplin-plugin",
+		"markdown",
+		"word",
+		"docx",
+		"export",
+		"pandoc",
+		"template"
+	],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:24a884451ae18828f3a96bc141db7e1aa92cd0037120dc46fb8745afc6fc0818",
+	"_publish_commit": "main:9558f84dd596b3c06197a5d54a389ee8a2825beb",
+	"_npm_package_name": "joplin-plugin-md2docx-pandoc"
+}
