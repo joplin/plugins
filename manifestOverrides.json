@@ -501,6 +501,7 @@
 		"_npm_package_name": "joplin-plugin-ocr",
 		"_obsolete": true
 	},
+
 	"bluulo.JoplinCodeClipboardPlugin": {
 		"manifest_version": 1,
 		"id": "bluulo.JoplinCodeClipboardPlugin",
@@ -522,6 +523,7 @@
 		"_npm_package_name": "joplin-plugin-code-clipboard",
 		"_obsolete": true
 	},
+
 	"joplin.plugin.lannerkr.EncDec": {
 		"manifest_version": 1,
 		"id": "joplin.plugin.lannerkr.EncDec",
