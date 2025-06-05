@@ -573,5 +573,25 @@
 		"_publish_commit": "",
 		"_npm_package_name": "joplin-plugin-click-to-copy",
 		"_obsolete": true
+	},
+	"com.receiveMailPlugin": {
+		"manifest_version": 1,
+		"id": "com.receiveMailPlugin",
+		"app_min_version": "2.13",
+		"version": "1.0.0",
+		"name": "MailPlugin",
+		"description": "Define a Mail adress and send mails to it, to add new notebooks",
+		"author": "MrHipppo",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"_publish_hash": "sha256:a029dfc46167b7f1e1e7e4d60ada53baeb791685b9f67b2390ebbe72c0c14385",
+		"_publish_commit": "V.0.2:7dc2d1a44eaf360f5e56f48ffb7cf0fc696ec249",
+		"_npm_package_name": "joplin-plugin-mailplugin",
+		"_obsolete": true,
+		"_obsolete_reason": "Create random EROOR notes in people's notebooks and generally seems unsafe due to what it does and lack of repository and transparency"
 	}
 }
