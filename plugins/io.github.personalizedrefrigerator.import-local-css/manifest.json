@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "io.github.personalizedrefrigerator.import-local-css",
 	"app_min_version": "3.0",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"name": "Import local CSS",
 	"description": "Adds support for local CSS @imports and @importing CSS from notes.",
 	"author": "Henry Heino",
@@ -20,7 +20,7 @@
 	],
 	"screenshots": [],
 	"icons": {},
-	"_publish_hash": "sha256:3b890967ab776b7a8f368618aac5134b35e857cd4946bc38adf0be30e0c2afb8",
-	"_publish_commit": "master:38519ca4dcdf4125b8c5e83aa4a192f42a1e87e7",
+	"_publish_hash": "sha256:ccc07d3c1a9fbbb3cc6e606c558253e910185788739eb381b8cd528926b8b7ed",
+	"_publish_commit": "master:0f14d9d2d8171493e91bd702ccf501b89098d3d9",
 	"_npm_package_name": "joplin-plugin-import-local-css"
 }
