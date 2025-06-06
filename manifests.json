@@ -1872,23 +1872,6 @@
 		"_publish_commit": "master:5629a8988e08ed2334ad3ddaf5fa3fef3e983e3e",
 		"_npm_package_name": "joplin-plugin-drawio"
 	},
-	"retr0ve.EmojiPlugin": {
-		"manifest_version": 1,
-		"id": "retr0ve.EmojiPlugin",
-		"app_min_version": "2.7",
-		"version": "1.0.4",
-		"name": "Emoji",
-		"description": "A emoji picker.",
-		"author": "Retr0ve",
-		"homepage_url": "https://discourse.joplinapp.org/t/plugin-emoji-picker/24228",
-		"repository_url": "https://github.com/Retr0ve/joplin-plugin-emoji",
-		"keywords": [
-			"emoji"
-		],
-		"_publish_hash": "sha256:ca6ec2055816627f2e6fa76c32a6c19a06bc2f39c7a81346313347166d3041b8",
-		"_publish_commit": "main:ff670f07dc0bc33621c62114bc0c4e0e0ed2a06b",
-		"_npm_package_name": "joplin-plugin-emoji"
-	},
 	"sadmice.TextColorize": {
 		"manifest_version": 1,
 		"id": "sadmice.TextColorize",
