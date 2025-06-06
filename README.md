@@ -8,6 +8,14 @@ If you are looking for the official plugin website, please head to https://jopli
 
 To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
 
+## Development
+
+For additional information regarding this repository and to make changes to it, please see the additional documentation:
+
+- [How to remove a plugin from the repository](readme/obsoletes.md)
+- [How to mark as a plugin as superseded by another plugin](readme/superseded.md)
+- [About recommended plugins](readme/recommended.md)
+
 ## Plugins
 
 This repository contains the following plugins:

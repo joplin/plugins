@@ -17,4 +17,3 @@ To change the update source for a plugin from one NPM package to another:
 Changing `"_npm_package_name"` in `manifest.json` is the important part. It causes the plugin updater to check the new NPM package for updates, rather than the old.
 
 Setting `"_superseded_package": "outdated_package"` in `manifestOverrides.json` causes `outdated_package` to be ignored as a source of plugin updates. While not required, it prevents warnings and provides a record of the change in maintenance.
-

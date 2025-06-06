@@ -17,6 +17,7 @@ To mark a plugin as obsolete, please follow these steps:
 - **Cut** the entire JSON block for this plugin (Make sure you actually delete that block, not just copy it)
 - **Copy** it to `/manifestOverrides.json`.
 - Add a new key `"_obsolete": true` to the JSON block.
+- Add a new key `"_obsolete_reason": ""` and provide a reason why the plugin is now obsolete. This is optional.
 - It's easy to forget a comma or a quote when manually editing JSON, and that would make the whole file invalid. So copy and paste `manifests.json` and `manifestOverrides.json` to https://jsonlint.com/ to ensure they are both valid.
 - Create a pull request with the two modified files.
 
@@ -24,4 +25,4 @@ Once the pull request is merged, the plugin will be immediately removed from the
 
 ## Example
 
-Here's an example of correct pull request: https://github.com/joplin/plugins/pull/9/files
+Here's an example of a correct commit: https://github.com/joplin/plugins/commit/a6ffbe3a421573f4be883e73e3daca496bee97fc
