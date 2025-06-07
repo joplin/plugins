@@ -535,7 +535,7 @@
 			"createdAt": "2021-06-01T08:31:01Z"
 		},
 		"1.4.0": {
-			"downloadCount": 51682,
+			"downloadCount": 51683,
 			"createdAt": "2021-08-10T18:32:14Z"
 		}
 	},
@@ -1019,7 +1019,7 @@
 			"createdAt": "2021-08-18T23:02:58Z"
 		},
 		"1.2.3": {
-			"downloadCount": 14169,
+			"downloadCount": 14170,
 			"createdAt": "2021-09-08T16:02:42Z"
 		}
 	},
@@ -3061,7 +3061,7 @@
 			"createdAt": "2025-05-05T01:35:24Z"
 		},
 		"1.7.4": {
-			"downloadCount": 1481,
+			"downloadCount": 1483,
 			"createdAt": "2025-05-08T03:06:23Z"
 		}
 	},
@@ -4035,7 +4035,7 @@
 	},
 	"org.yangby.joplin.plugins.enhanced-editing": {
 		"0.1.0": {
-			"downloadCount": 3125,
+			"downloadCount": 3126,
 			"createdAt": "2022-11-05T23:07:20Z"
 		}
 	},
@@ -4239,7 +4239,7 @@
 			"createdAt": "2025-01-27T13:05:16Z"
 		},
 		"2.0.0": {
-			"downloadCount": 650,
+			"downloadCount": 651,
 			"createdAt": "2025-04-24T13:38:04Z"
 		}
 	},
@@ -4819,7 +4819,7 @@
 			"createdAt": "2023-11-12T21:38:53Z"
 		},
 		"1.0.1": {
-			"downloadCount": 1056,
+			"downloadCount": 1057,
 			"createdAt": "2023-12-09T14:38:51Z"
 		}
 	},
@@ -6365,6 +6365,10 @@
 		"1.0.0": {
 			"downloadCount": 0,
 			"createdAt": "2025-06-07T04:30:21Z"
+		},
+		"1.0.1": {
+			"downloadCount": 1,
+			"createdAt": "2025-06-07T04:55:21Z"
 		}
 	}
 }
