@@ -1,0 +1,27 @@
+{
+	"manifest_version": 1,
+	"id": "de.pernpas.joplin.markdown.emoji.autocomplete",
+	"app_min_version": "3.3",
+	"version": "1.0.0",
+	"name": "Markdown Emoji Autocomplete",
+	"description": "This plugin provides an autocomplete feature for emojis in Joplin's Markdown editor.",
+	"author": "Stefan Pernpaintner",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [
+		"joplin-plugin",
+		"markdown",
+		"emoji",
+		"autocomplete"
+	],
+	"categories": [
+		"editor",
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:477e7833365337c9c3ae8dbe7200e22ce2638df34c77792e076bc0b20374b3d2",
+	"_publish_commit": "master:a64f1f8b80204a01a6d72c3e2da7cd67ec4a9b73",
+	"_npm_package_name": "joplin-plugin-markdown-emoji-autocompletion"
+}
