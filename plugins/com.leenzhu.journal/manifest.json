@@ -15,7 +15,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:d67e63bb130bf57a6ceb979e0e90f2a1091784d9fda9a32f4970dba06c4f3daf",
-	"_publish_commit": "master:3a4f8f41c32681ffee6653c9e8de131dae3dd84c",
+	"_publish_hash": "sha256:98a96ed74447716357bffc017ea98284c384ffef924c8d36e9ffd535626dd1e1",
+	"_publish_commit": "master:82c33a3c059065933ee8722a7e16eb8051e6dc44",
 	"_npm_package_name": "joplin-plugin-journal"
 }
