@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.collapsible.blocks",
 	"app_min_version": "3.2",
-	"version": "1.1.1",
+	"version": "1.2.0",
 	"name": "Collapsible blocks",
 	"description": "Create collapsible blocks with title and extendable body.",
 	"author": "ntczkjfg",
@@ -24,7 +24,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:fbf839831057c09cc8fa0be61ce2d541fc8b382da0682521654956935537dbf7",
-	"_publish_commit": "master:34ddc194cdccadc35d73602e728aa4d49c8d32e8",
+	"_publish_hash": "sha256:0e7d4b4c8b04bc49754d57b56ebfa92974de7e0463ea97d8bbdb430f7b4fc1c7",
+	"_publish_commit": "master:84d8c3ea55950bed78ea3307eff89fb3ea397eb0",
 	"_npm_package_name": "joplin-plugin-collapsible-blocks"
 }
