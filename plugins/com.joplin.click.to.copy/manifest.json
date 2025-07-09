@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.joplin.click.to.copy",
 	"app_min_version": "3.2",
-	"version": "1.1.2",
+	"version": "1.3.0",
 	"name": "Click to copy",
 	"description": "Create text spans which are click-to-copy.",
 	"author": "ntczkjfg",
@@ -20,7 +20,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:be2e1b6302ed7c998caf18dd4859aa721e3dee77948d94c01ef7e5ac396793c8",
-	"_publish_commit": "master:19779ee16bce6da9b98198364bd6fe95611d49c1",
+	"_publish_hash": "sha256:b1d7a8e3e67a4ca5210eac2c3ae1afc7c5a6aedc09dfbe619f609d5e264a5883",
+	"_publish_commit": "",
 	"_npm_package_name": "joplin-plugin-click-to-copy"
 }
