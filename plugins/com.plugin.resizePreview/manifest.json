@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "com.plugin.resizePreview",
+	"app_min_version": "3.3",
+	"version": "1.0.0",
+	"name": "Resize Preview",
+	"description": "Resize the preview in the markdown mode",
+	"author": "Digvijay Bedkyale",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:88c4bfc2be5348ffdf65ae8ab3b675b9a2e9167bfd5da32e2fa0ed0652b58faf",
+	"_publish_commit": "main:4769aac7c8cf04cb15bd6572711b7f4948f33ee5",
+	"_npm_package_name": "joplin-plugin-resize-preview"
+}
