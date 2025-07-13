@@ -1,0 +1,23 @@
+{
+	"manifest_version": 1,
+	"id": "google-keep-to-joplin",
+	"name": "Google Keep to Joplin Importer",
+	"description": "Import your notes from Google Keep Takeout (JSON format) directly into Joplin. Transfers note titles, content, labels as tags, and attachments where supported. Designed for seamless migration from Google Keep to Joplin.",
+	"version": "1.0.0",
+	"author": "chrubble",
+	"homepage_url": "https://github.com/chrubble/google-keep-to-joplin",
+	"repository_url": "https://github.com/chrubble/google-keep-to-joplin",
+	"keywords": [
+		"joplin-plugin",
+		"import",
+		"google keep",
+		"takeout",
+		"notes",
+		"migration"
+	],
+	"min_app_version": "2.8",
+	"icon": "icon.png",
+	"_publish_hash": "sha256:9c796f75b422b454bad2b83c87b0be2e8466955f04970674f19f5851cd43eaf7",
+	"_publish_commit": "",
+	"_npm_package_name": "joplin-plugin-google-keep-to-joplin-importer"
+}
