@@ -257,7 +257,7 @@
 			"createdAt": "2023-11-19T10:38:35Z"
 		},
 		"1.2.2": {
-			"downloadCount": 6571,
+			"downloadCount": 6572,
 			"createdAt": "2024-01-11T19:37:36Z"
 		}
 	},
@@ -409,7 +409,7 @@
 			"createdAt": "2022-04-15T22:35:14Z"
 		},
 		"1.5.1": {
-			"downloadCount": 2184,
+			"downloadCount": 2185,
 			"createdAt": "2025-03-17T22:25:57Z"
 		}
 	},
@@ -459,7 +459,7 @@
 			"createdAt": "2021-06-01T08:30:50Z"
 		},
 		"2.0.0": {
-			"downloadCount": 4909,
+			"downloadCount": 4910,
 			"createdAt": "2021-08-31T16:02:31Z"
 		}
 	},
@@ -553,7 +553,7 @@
 			"createdAt": "2022-03-31T10:06:15Z"
 		},
 		"1.0.6": {
-			"downloadCount": 3680,
+			"downloadCount": 3681,
 			"createdAt": "2022-11-15T21:41:39Z"
 		}
 	},
@@ -773,6 +773,10 @@
 		"0.8.0": {
 			"downloadCount": 2302,
 			"createdAt": "2025-05-11T18:30:30Z"
+		},
+		"0.8.1": {
+			"downloadCount": 3,
+			"createdAt": "2025-07-23T22:28:01Z"
 		}
 	},
 	"plugin.calebjohn.rich-markdown": {
@@ -1191,7 +1195,7 @@
 			"createdAt": "2022-06-04T14:35:19Z"
 		},
 		"2.4.0": {
-			"downloadCount": 21697,
+			"downloadCount": 21698,
 			"createdAt": "2023-05-27T22:37:15Z"
 		}
 	},
@@ -1425,7 +1429,7 @@
 			"createdAt": "2025-06-16T10:29:52Z"
 		},
 		"1.5.20": {
-			"downloadCount": 738,
+			"downloadCount": 741,
 			"createdAt": "2025-07-06T17:26:00Z"
 		}
 	},
@@ -3081,7 +3085,7 @@
 			"createdAt": "2025-05-08T03:06:23Z"
 		},
 		"1.8.0": {
-			"downloadCount": 321,
+			"downloadCount": 323,
 			"createdAt": "2025-07-18T05:42:17Z"
 		}
 	},
@@ -3159,7 +3163,7 @@
 			"createdAt": "2023-03-30T07:06:29Z"
 		},
 		"1.2.1": {
-			"downloadCount": 13769,
+			"downloadCount": 13770,
 			"createdAt": "2023-05-05T09:06:21Z"
 		}
 	},
@@ -3331,7 +3335,7 @@
 			"createdAt": "2025-03-07T14:24:10Z"
 		},
 		"2.0.0": {
-			"downloadCount": 2147,
+			"downloadCount": 2149,
 			"createdAt": "2025-04-28T07:51:19Z"
 		}
 	},
@@ -4295,7 +4299,7 @@
 			"createdAt": "2023-02-10T08:07:08Z"
 		},
 		"2.2.0": {
-			"downloadCount": 6503,
+			"downloadCount": 6504,
 			"createdAt": "2023-02-13T10:38:03Z"
 		}
 	},
@@ -5943,7 +5947,7 @@
 			"createdAt": "2025-05-20T08:33:55Z"
 		},
 		"1.0.18": {
-			"downloadCount": 2555,
+			"downloadCount": 2558,
 			"createdAt": "2025-06-13T18:34:18Z"
 		}
 	},
@@ -6139,7 +6143,7 @@
 	},
 	"com.tuibyte.EmbeddedNotes": {
 		"1.1.0": {
-			"downloadCount": 582,
+			"downloadCount": 583,
 			"createdAt": "2025-01-08T06:33:53Z"
 		}
 	},
@@ -6177,7 +6181,7 @@
 			"createdAt": "2025-04-26T08:30:02Z"
 		},
 		"1.2.7": {
-			"downloadCount": 484,
+			"downloadCount": 485,
 			"createdAt": "2025-05-01T13:34:34Z"
 		}
 	},
@@ -6285,7 +6289,7 @@
 			"createdAt": "2025-07-09T11:49:07Z"
 		},
 		"0.5.2": {
-			"downloadCount": 119,
+			"downloadCount": 120,
 			"createdAt": "2025-07-12T16:30:20Z"
 		}
 	},
