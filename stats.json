@@ -409,7 +409,7 @@
 			"createdAt": "2022-04-15T22:35:14Z"
 		},
 		"1.5.1": {
-			"downloadCount": 2392,
+			"downloadCount": 2393,
 			"createdAt": "2025-03-17T22:25:57Z"
 		}
 	},
@@ -535,7 +535,7 @@
 			"createdAt": "2021-06-01T08:31:01Z"
 		},
 		"1.4.0": {
-			"downloadCount": 55201,
+			"downloadCount": 55202,
 			"createdAt": "2021-08-10T18:32:14Z"
 		}
 	},
@@ -921,7 +921,7 @@
 			"createdAt": "2025-02-22T06:30:35Z"
 		},
 		"0.16.2": {
-			"downloadCount": 801,
+			"downloadCount": 804,
 			"createdAt": "2025-08-02T22:27:32Z"
 		}
 	},
@@ -939,7 +939,7 @@
 			"createdAt": "2021-06-24T13:31:23Z"
 		},
 		"1.1.0": {
-			"downloadCount": 9522,
+			"downloadCount": 9523,
 			"createdAt": "2021-11-16T11:34:09Z"
 		}
 	},
@@ -1463,7 +1463,7 @@
 			"createdAt": "2024-01-23T12:37:48Z"
 		},
 		"1.0.5": {
-			"downloadCount": 2562,
+			"downloadCount": 2563,
 			"createdAt": "2024-03-25T13:08:51Z"
 		}
 	},
@@ -3753,7 +3753,7 @@
 			"createdAt": "2023-04-12T10:36:31Z"
 		},
 		"1.0.16": {
-			"downloadCount": 5414,
+			"downloadCount": 5415,
 			"createdAt": "2023-04-16T23:36:24Z"
 		}
 	},
@@ -4283,7 +4283,7 @@
 			"createdAt": "2025-01-27T13:05:16Z"
 		},
 		"2.0.0": {
-			"downloadCount": 1471,
+			"downloadCount": 1472,
 			"createdAt": "2025-04-24T13:38:04Z"
 		}
 	},
@@ -4613,7 +4613,7 @@
 			"createdAt": "2024-05-12T03:09:44Z"
 		},
 		"1.2.0": {
-			"downloadCount": 12510,
+			"downloadCount": 12511,
 			"createdAt": "2024-06-24T02:38:15Z"
 		}
 	},
@@ -5345,7 +5345,7 @@
 			"createdAt": "2025-07-30T14:29:32Z"
 		},
 		"2.5.7": {
-			"downloadCount": 59,
+			"downloadCount": 60,
 			"createdAt": "2025-08-06T20:31:03Z"
 		}
 	},
@@ -5767,7 +5767,7 @@
 			"createdAt": "2024-08-28T16:09:19Z"
 		},
 		"0.4.0": {
-			"downloadCount": 4034,
+			"downloadCount": 4035,
 			"createdAt": "2024-09-20T21:09:25Z"
 		}
 	},
@@ -6057,7 +6057,7 @@
 			"createdAt": "2025-05-25T08:29:27Z"
 		},
 		"2.1.1": {
-			"downloadCount": 183,
+			"downloadCount": 184,
 			"createdAt": "2025-06-28T07:25:30Z"
 		}
 	},
@@ -6127,7 +6127,7 @@
 			"createdAt": "2024-12-05T02:03:05Z"
 		},
 		"1.0.2": {
-			"downloadCount": 7933,
+			"downloadCount": 7934,
 			"createdAt": "2024-12-05T21:02:46Z"
 		}
 	},
@@ -6577,6 +6577,10 @@
 		"1.0.0": {
 			"downloadCount": 2,
 			"createdAt": "2025-08-09T04:59:16Z"
+		},
+		"1.0.1": {
+			"downloadCount": 0,
+			"createdAt": "2025-08-09T07:00:59Z"
 		}
 	}
 }
