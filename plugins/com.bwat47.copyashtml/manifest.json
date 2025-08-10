@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.copyashtml",
 	"app_min_version": "3.3",
-	"version": "1.0.3",
+	"version": "1.0.5",
 	"name": "Copy as HTML",
 	"description": "Allows you to copy text with HTML (rich text) formatting from the markdown editor without excess styling.",
 	"author": "bwat47",
@@ -21,7 +21,7 @@
 			"value": true
 		}
 	},
-	"_publish_hash": "sha256:d388073057e64593ed0e7470ea5fceec48fd20535dbfafa8062d02aa0ade7180",
-	"_publish_commit": "main:5783ff5fa82930393574c6b68ce6b318491ecf67",
+	"_publish_hash": "sha256:4b6ca0bf8943cbb58cd66f8b01f7304ebf6a41269ae040891d900940bb2c33c4",
+	"_publish_commit": "main:6a4dbd91d91803c1420398d170eff5ef5540ec41",
 	"_npm_package_name": "joplin-plugin-copy-as-html"
 }
