@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.copyashtml",
 	"app_min_version": "3.3",
-	"version": "1.0.6",
+	"version": "1.0.8",
 	"name": "Copy as HTML",
 	"description": "Allows you to copy text with HTML (rich text) formatting from the markdown editor without excess styling.",
 	"author": "bwat47",
@@ -19,9 +19,39 @@
 			"label": "Embed images as base64",
 			"description": "If enabled, images in selection will be embedded as base64.",
 			"value": true
+		},
+		"preserveSuperscript": {
+			"type": "bool",
+			"label": "Preserve superscript characters (^TEST^)",
+			"description": "If enabled, ^TEST^ will remain ^TEST^ in plain text output.",
+			"value": false
+		},
+		"preserveSubscript": {
+			"type": "bool",
+			"label": "Preserve subscript characters (~TEST~)",
+			"description": "If enabled, ~TEST~ will remain ~TEST~ in plain text output.",
+			"value": false
+		},
+		"preserveEmphasis": {
+			"type": "bool",
+			"label": "Preserve emphasis characters (*TEST* or _TEST_)",
+			"description": "If enabled, *TEST* or _TEST_ will remain as-is in plain text output.",
+			"value": false
+		},
+		"preserveBold": {
+			"type": "bool",
+			"label": "Preserve bold characters (**TEST** or __TEST__)",
+			"description": "If enabled, **TEST** or __TEST__ will remain as-is in plain text output.",
+			"value": false
+		},
+		"preserveHeading": {
+			"type": "bool",
+			"label": "Preserve heading characters (## TEST)",
+			"description": "If enabled, ## TEST will remain as-is in plain text output.",
+			"value": false
 		}
 	},
-	"_publish_hash": "sha256:a8840e372e67b5f2aa1123e4cf3b70f149e9c17ea6dea7990c0f7be1f9235633",
-	"_publish_commit": "main:54bad87295e9c88d31cc8af4e38f9d7185f97ce9",
+	"_publish_hash": "sha256:c724740e58eeceb842f2ab223b70be03658956a006d65cdd7fd41366ff686eb7",
+	"_publish_commit": "main:61b354c3ad00c4b587fb9510e1387dda4f245849",
 	"_npm_package_name": "joplin-plugin-copy-as-html"
 }
