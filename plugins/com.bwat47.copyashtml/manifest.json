@@ -2,17 +2,49 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.copyashtml",
 	"app_min_version": "3.3",
-	"version": "1.0.18",
+	"version": "1.0.19",
 	"name": "Copy as HTML",
 	"description": "Allows you to copy text with HTML (rich text) formatting from the markdown editor without excess styling.",
 	"author": "bwat47",
 	"homepage_url": "https://github.com/bwat47/joplin-copy-as-html",
 	"repository_url": "https://github.com/bwat47/joplin-copy-as-html",
-	"keywords": [],
-	"categories": [],
-	"screenshots": [],
-	"icons": {},
-	"promo_tile": {},
+	"keywords": [
+		"Copy",
+		"HTML",
+		"Text"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [
+		{
+			"src": "images/copy-as-html1.png",
+			"label": "Copy as HTML example 1"
+		},
+		{
+			"src": "images/copy-as-html2.png",
+			"label": "Copy as HTML example 2"
+		},
+		{
+			"src": "images/copy-as-plain1.png",
+			"label": "Copy as Plain Text example 1"
+		},
+		{
+			"src": "images/copy-as-plain2.png",
+			"label": "Copy as Plain Text example 2"
+		}
+	],
+	"icons": {
+		"16": "images/16.png",
+		"32": "images/32.png",
+		"48": "images/48.png",
+		"64": "images/64.png",
+		"128": "images/128.png"
+	},
+	"promo_tile": {
+		"src": "images/copyashtml_promo_tile.png",
+		"label": "Copy as HTML Promo Tile"
+	},
 	"settings": {
 		"embedImages": {
 			"type": "bool",
@@ -74,7 +106,7 @@
 			"value": "title"
 		}
 	},
-	"_publish_hash": "sha256:b3ed8d62b4080369710fa40facdcfaa6845fa133fdfe52d32d141074adbd65ee",
-	"_publish_commit": "main:cc95a6678622ef091f1c46cd3dd309e08c663cf0",
+	"_publish_hash": "sha256:023771699b66cc878919f677d9e90e8935b8ef4dde19aae57ac87605f86f80ef",
+	"_publish_commit": "main:49808cae45b39fdd338a74c9c487a203ad197b89",
 	"_npm_package_name": "joplin-plugin-copy-as-html"
 }
