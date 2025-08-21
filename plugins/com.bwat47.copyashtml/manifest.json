@@ -2,16 +2,18 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.copyashtml",
 	"app_min_version": "3.3",
-	"version": "1.0.19",
+	"version": "1.1.0",
 	"name": "Copy as HTML",
-	"description": "Allows you to copy text with HTML (rich text) formatting from the markdown editor without excess styling.",
+	"description": "Allows you to copy text with HTML (rich text) formatting from the markdown editor (including images). Also allows you to copy as plain text (without markdown formatting)",
 	"author": "bwat47",
 	"homepage_url": "https://github.com/bwat47/joplin-copy-as-html",
 	"repository_url": "https://github.com/bwat47/joplin-copy-as-html",
 	"keywords": [
 		"Copy",
 		"HTML",
-		"Text"
+		"Text",
+		"Images",
+		"Image"
 	],
 	"categories": [
 		"productivity"
@@ -52,6 +54,12 @@
 			"description": "If enabled, images in selection will be embedded as base64.",
 			"value": true
 		},
+		"exportFullHtml": {
+			"type": "bool",
+			"label": "Export as full HTML document",
+			"description": "If enabled, exported HTML will be a full document with your custom stylesheet (copy-as-html-user.css in your profile folder).",
+			"value": false
+		},
 		"preserveSuperscript": {
 			"type": "bool",
 			"label": "Preserve superscript characters (^TEST^)",
@@ -82,17 +90,35 @@
 			"description": "If enabled, ## TEST will remain as-is in plain text output.",
 			"value": false
 		},
+		"preserveStrikethrough": {
+			"type": "bool",
+			"label": "Preserve strikethrough characters (~~TEST~~)",
+			"description": "If enabled, ~~TEST~~ will remain as-is in plain text output.",
+			"value": false
+		},
+		"preserveHorizontalRule": {
+			"type": "bool",
+			"label": "Preserve horizontal rule (---)",
+			"description": "If enabled, horizontal rules will be preserved as --- in plain text output.",
+			"value": false
+		},
 		"preserveMark": {
 			"type": "bool",
-			"label": "Preserve ==mark== in plain text",
-			"description": "If enabled, ==mark== will remain as-is in plain text output.",
+			"label": "Preserve highlight characters (==TEST==)",
+			"description": "If enabled, ==TEST== will remain as-is in plain text output.",
 			"value": false
 		},
 		"preserveInsert": {
 			"type": "bool",
-			"label": "Preserve ++insert++ in plain text",
-			"description": "If enabled, ++insert++ will remain as-is in plain text output.",
+			"label": "Preserve insert characters (++TEST++)",
+			"description": "If enabled, ++TEST++ will remain as-is in plain text output.",
 			"value": false
+		},
+		"displayEmojis": {
+			"type": "bool",
+			"label": "Display emojis",
+			"description": "If enabled, emojis will be displayed in the plain text output.",
+			"value": true
 		},
 		"hyperlinkBehavior": {
 			"type": "enum",
@@ -106,7 +132,7 @@
 			"value": "title"
 		}
 	},
-	"_publish_hash": "sha256:023771699b66cc878919f677d9e90e8935b8ef4dde19aae57ac87605f86f80ef",
-	"_publish_commit": "main:49808cae45b39fdd338a74c9c487a203ad197b89",
+	"_publish_hash": "sha256:0332aa07456ed137d6f166da4c2e00a4e06c9f3750e5910034bac5ea81763bea",
+	"_publish_commit": "main:3869b85f0653e4622b9a53e0da3d3231e682dd7c",
 	"_npm_package_name": "joplin-plugin-copy-as-html"
 }
