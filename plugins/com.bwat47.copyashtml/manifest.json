@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.copyashtml",
 	"app_min_version": "3.3",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"name": "Copy as HTML",
 	"description": "Allows you to copy text with HTML (rich text) formatting from the markdown editor (including images). Also allows you to copy as plain text (without markdown formatting)",
 	"author": "bwat47",
@@ -130,9 +130,19 @@
 				"markdown": "Markdown Format"
 			},
 			"value": "title"
+		},
+		"indentType": {
+			"type": "enum",
+			"label": "List indentation type",
+			"description": "How nested lists should be indented in plain text output.",
+			"options": {
+				"spaces": "4 Spaces",
+				"tabs": "Tabs"
+			},
+			"value": "spaces"
 		}
 	},
-	"_publish_hash": "sha256:0332aa07456ed137d6f166da4c2e00a4e06c9f3750e5910034bac5ea81763bea",
-	"_publish_commit": "main:3869b85f0653e4622b9a53e0da3d3231e682dd7c",
+	"_publish_hash": "sha256:2ffd05e7084ce7f3a8852ffd14988f2a8387e0362aad1fecb6188aff48143e05",
+	"_publish_commit": "main:2567bcf100f66f40c311db421399fdf6064eaf0a",
 	"_npm_package_name": "joplin-plugin-copy-as-html"
 }
