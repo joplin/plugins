@@ -135,7 +135,7 @@
 			"createdAt": "2024-03-05T21:07:47Z"
 		},
 		"1.3.2": {
-			"downloadCount": 29411,
+			"downloadCount": 29412,
 			"createdAt": "2024-03-21T22:38:51Z"
 		}
 	},
@@ -257,7 +257,7 @@
 			"createdAt": "2023-11-19T10:38:35Z"
 		},
 		"1.2.2": {
-			"downloadCount": 6875,
+			"downloadCount": 6876,
 			"createdAt": "2024-01-11T19:37:36Z"
 		}
 	},
@@ -779,7 +779,7 @@
 			"createdAt": "2025-07-23T22:28:01Z"
 		},
 		"0.8.2": {
-			"downloadCount": 1144,
+			"downloadCount": 1145,
 			"createdAt": "2025-07-23T23:29:09Z"
 		}
 	},
@@ -2109,7 +2109,7 @@
 			"createdAt": "2021-11-12T13:04:40Z"
 		},
 		"1.1.0": {
-			"downloadCount": 2367,
+			"downloadCount": 2368,
 			"createdAt": "2022-04-22T16:04:58Z"
 		}
 	},
@@ -2869,7 +2869,7 @@
 			"createdAt": "2023-12-11T21:07:49Z"
 		},
 		"1.2.5": {
-			"downloadCount": 10004,
+			"downloadCount": 10005,
 			"createdAt": "2023-12-11T22:07:39Z"
 		}
 	},
@@ -3101,7 +3101,7 @@
 			"createdAt": "2025-07-18T05:42:17Z"
 		},
 		"1.9.0": {
-			"downloadCount": 342,
+			"downloadCount": 343,
 			"createdAt": "2025-08-19T17:25:33Z"
 		}
 	},
@@ -3179,7 +3179,7 @@
 			"createdAt": "2023-03-30T07:06:29Z"
 		},
 		"1.2.1": {
-			"downloadCount": 14231,
+			"downloadCount": 14232,
 			"createdAt": "2023-05-05T09:06:21Z"
 		}
 	},
@@ -3935,7 +3935,7 @@
 	},
 	"kensam.joplin.plugin.highlighter": {
 		"1.0.0": {
-			"downloadCount": 3486,
+			"downloadCount": 3487,
 			"createdAt": "2022-09-24T13:06:59Z"
 		}
 	},
@@ -4367,7 +4367,7 @@
 			"createdAt": "2024-08-17T17:09:24Z"
 		},
 		"0.2.1": {
-			"downloadCount": 1352,
+			"downloadCount": 1354,
 			"createdAt": "2025-03-14T21:24:47Z"
 		}
 	},
@@ -4903,7 +4903,7 @@
 			"createdAt": "2023-12-05T16:08:56Z"
 		},
 		"1.0.9": {
-			"downloadCount": 1235,
+			"downloadCount": 1236,
 			"createdAt": "2024-04-12T15:38:43Z"
 		}
 	},
@@ -6415,7 +6415,7 @@
 			"createdAt": "2025-04-14T14:27:12Z"
 		},
 		"1.1.0": {
-			"downloadCount": 549,
+			"downloadCount": 550,
 			"createdAt": "2025-04-19T01:27:11Z"
 		}
 	},
@@ -6701,6 +6701,10 @@
 		"1.0.3": {
 			"downloadCount": 1,
 			"createdAt": "2025-08-23T17:46:50Z"
+		},
+		"1.0.4": {
+			"downloadCount": 0,
+			"createdAt": "2025-08-23T18:32:31Z"
 		}
 	}
 }
