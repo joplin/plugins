@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.copyashtml",
 	"app_min_version": "3.3",
-	"version": "1.1.4",
+	"version": "1.1.5",
 	"name": "Copy as HTML",
 	"description": "Allows you to copy text with HTML (rich text) formatting from the markdown editor (including images). Also allows you to copy as plain text (without markdown formatting)",
 	"author": "bwat47",
@@ -51,7 +51,7 @@
 		"embedImages": {
 			"type": "bool",
 			"label": "Embed images as base64",
-			"description": "If enabled, images in selection will be embedded as base64.",
+			"description": "If enabled, images in selection will be embedded as base64 in HTML output.",
 			"value": true
 		},
 		"exportFullHtml": {
@@ -123,7 +123,7 @@
 		"hyperlinkBehavior": {
 			"type": "enum",
 			"label": "Plain Text hyperlink behavior",
-			"description": "How external hyperlinks should be displayed in plain text output.",
+			"description": "How external HTTP/HTTPS links should appear in plain text output.",
 			"options": {
 				"title": "Link Title",
 				"url": "Link URL",
@@ -142,7 +142,7 @@
 			"value": "spaces"
 		}
 	},
-	"_publish_hash": "sha256:d147a775b5521d53ee280089595153a12c8cdf925a12920b86f386bfe24aaf1c",
-	"_publish_commit": "main:061c231ac69913080f34fa17d1f04e9c033f3a03",
+	"_publish_hash": "sha256:9951a864401e40c3e5d4e6c90e29fddc9e62e9fd88ec1d6efd3c5e098c5f27a3",
+	"_publish_commit": "main:81449b4e2729716766454298b15a923de6e435ca",
 	"_npm_package_name": "joplin-plugin-copy-as-html"
 }
