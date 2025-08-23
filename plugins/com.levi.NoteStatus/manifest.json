@@ -2,13 +2,13 @@
 	"manifest_version": 1,
 	"id": "com.levi.NoteStatus",
 	"app_min_version": "3.3",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Note Status",
 	"description": "To implement Inkdrop like Status feature in Joplin",
 	"email": "deeptangshusaha62@gmail.com",
 	"author": "Deeptangshu Saha",
-	"homepage_url": "",
-	"repository_url": "",
+	"homepage_url": "https://github.com/DeeptangshuSaha/joplin-plugin-note_status",
+	"repository_url": "https://github.com/DeeptangshuSaha/joplin-plugin-note_status",
 	"keywords": [
 		"note",
 		"status",
@@ -19,7 +19,7 @@
 		"optimization"
 	],
 	"joplin_version": ">=2.5.0",
-	"_publish_hash": "sha256:b76c431e70c613b5576c46e330908fa94a759acbdd4069d8b0bd9f92728e46f4",
-	"_publish_commit": "main:d95e1b1d27f23756d6936f797409aef9d85ca6b1",
+	"_publish_hash": "sha256:f7c28ad446d3de83cf0e296a1057cc5f3670ab67db22d3cec1dfbb46f9643a88",
+	"_publish_commit": "main:74331ef6cce1c4a8ca26d0419544ac6b681f0cbc",
 	"_npm_package_name": "joplin-plugin-note_status"
 }
