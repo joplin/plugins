@@ -1,9 +1,9 @@
 {
 	"id": "com.cenktekin.ai-tag-suggester",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"name": "AI Tag Suggester",
 	"app_min_version": "2.10",
 	"description": "An AI-powered tag suggestion tool that analyzes note content to recommend relevant tags. Users can select from the suggestions and apply them to their notes, streamlining the organization process.",
-	"_generatedAt": "2025-08-23T17:51:04.609Z",
+	"_generatedAt": "2025-08-23T18:37:05.943Z",
 	"_npm_package_name": "joplin-plugin-ai-tag-suggester"
 }
