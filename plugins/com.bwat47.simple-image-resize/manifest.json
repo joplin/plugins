@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.simple-image-resize",
 	"app_min_version": "3.3",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"name": "Simple Image Resize",
 	"description": "A simple dialogue to switch image syntax between markdown/html and losslessly resize images",
 	"author": "bwat47",
@@ -59,7 +59,7 @@
 			"value": "percentage"
 		}
 	},
-	"_publish_hash": "sha256:a8c892b12f45a6bde7f1d0a8faaf7328d37abe51dc8e787158b9204e9b772e06",
-	"_publish_commit": "main:84d88c81d05cdb6daf37d2295498dd02c5376130",
+	"_publish_hash": "sha256:0867f7faa4651b0dc9870f3c28de2e43588f2a04fba728c8261debf880c825ec",
+	"_publish_commit": "main:f4ee5861529f6c8e8e61c07b0d741d8ee96acd0a",
 	"_npm_package_name": "joplin-plugin-simple-image-resize"
 }
