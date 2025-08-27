@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.lki.homenote",
 	"app_min_version": "1.7",
-	"version": "2.1.1",
+	"version": "2.1.2",
 	"name": "Home Note",
 	"description": "Plugin to open a choosen note each time joplin starts. It is like homepages on browsers.",
 	"author": "Adarsh Singh(lki)",
@@ -17,7 +17,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:ef94a93bf4f631cd34126897c169c106cb0a8e4ebfe9051619a076eed2d51eb4",
-	"_publish_commit": "master:6d554029c6dc8974bf7eb25bedc5996f6080f912",
+	"_publish_hash": "sha256:d5f98a2fcbda8bea9f2ebbae52152e78dd28af6d8b722b65a2ff456553225a12",
+	"_publish_commit": "master:9fa867ed1cf8c555441de59d3ab6c166432d667c",
 	"_npm_package_name": "joplin-plugin-home-note"
 }
