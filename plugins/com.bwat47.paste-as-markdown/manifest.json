@@ -1,0 +1,57 @@
+{
+	"manifest_version": 1,
+	"id": "com.bwat47.paste-as-markdown",
+	"app_min_version": "3.3",
+	"version": "1.0.0",
+	"name": "Paste as Markdown",
+	"description": "Paste HTML formatted text as markdown",
+	"author": "bwat47",
+	"homepage_url": "https://github.com/bwat47/paste-as-markdown",
+	"repository_url": "https://github.com/bwat47/paste-as-markdown",
+	"keywords": [
+		"Copy",
+		"Paste",
+		"HTML",
+		"Text",
+		"Images"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [
+		{
+			"src": "images/paste-as-markdown1.png",
+			"label": "paste as markdown example 1"
+		},
+		{
+			"src": "images/paste-as-markdown2.png",
+			"label": "paste as markdown example 2"
+		},
+		{
+			"src": "images/paste-as-markdown3.png",
+			"label": "paste as markdown example 3"
+		}
+	],
+	"icons": {
+		"16": "images/16.png",
+		"32": "images/32.png",
+		"48": "images/48.png",
+		"64": "images/64.png",
+		"128": "images/128.png"
+	},
+	"promo_tile": {
+		"src": "images/pasteasmarkdown_promo_tile.png",
+		"label": "Paste as Markdown Promo Tile"
+	},
+	"settings": {
+		"includeImages": {
+			"type": "bool",
+			"label": "Include images",
+			"description": "If enabled, images from HTML will be converted to markdown image syntax. If disabled, images will be removed entirely.",
+			"value": true
+		}
+	},
+	"_publish_hash": "sha256:ec5860fde547f9bf21a72b71908fb29ed6b6662f8ae6d66aba1087be84395d01",
+	"_publish_commit": "main:29cf692b1efc8036607369c75b3e5d1439e88d2e",
+	"_npm_package_name": "joplin-plugin-paste-as-markdown"
+}
