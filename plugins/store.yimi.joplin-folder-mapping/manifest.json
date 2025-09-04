@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "store.yimi.joplin-folder-mapping",
 	"app_min_version": "3.2",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"name": "Folder Mapping",
 	"description": "这款专为Joplin笔记软件打造的插件，能够将Joplin中的笔记本目录精准映射到系统指定根目录下的同路径目录。借助该插件，用户可直接从 Joplin 笔记本跳转至对应的系统文件夹，轻松实现笔记目录管理与系统文件夹管理的深度融合，显著提升工作效率。",
 	"author": "yimisunrise",
@@ -20,7 +20,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:b36b74ef9b666b96f06aa951b69c8ce76fd0ac8017849278f35b735676e1f888",
-	"_publish_commit": "master:c522d88daa5d8ec9a972c3c4b2adfd32ec4311f4",
+	"_publish_hash": "sha256:9d8d923aa3fffd8773edbec0514e2a85a09ea7510ee2aef98be57b5c79402c09",
+	"_publish_commit": "master:25e60b6a2af8b03602f36934cd9eee5b37097f00",
 	"_npm_package_name": "joplin-plugin-folder-mapping"
 }
