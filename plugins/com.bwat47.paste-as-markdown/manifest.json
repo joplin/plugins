@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.paste-as-markdown",
 	"app_min_version": "3.3",
-	"version": "1.0.10",
+	"version": "1.0.11",
 	"name": "Paste as Markdown",
 	"description": "Paste HTML formatted text as markdown",
 	"author": "bwat47",
@@ -62,9 +62,15 @@
 			"label": "Include images",
 			"description": "Convert Word/Office smart quotes to regular quotes for better markdown compatibility.",
 			"value": true
+		},
+		"forceTightLists": {
+			"type": "bool",
+			"label": "Force tight lists",
+			"description": "Remove blank lines between list items in output Markdown.",
+			"value": false
 		}
 	},
-	"_publish_hash": "sha256:79718f99e48b165cd2264266f07f390ac627b5270512976c094c68961032be94",
-	"_publish_commit": "main:0e23a7a0b016d7b043682b204905b074759cbe98",
+	"_publish_hash": "sha256:745817892471d0b2c878cd9519e99963bdbbce0efc1e11f90153881b873dc3a5",
+	"_publish_commit": "main:5c9cc9ffdef09768168291a9ab76eb1a60883940",
 	"_npm_package_name": "joplin-plugin-paste-as-markdown"
 }
