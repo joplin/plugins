@@ -257,7 +257,7 @@
 			"createdAt": "2023-11-19T10:38:35Z"
 		},
 		"1.2.2": {
-			"downloadCount": 7249,
+			"downloadCount": 7250,
 			"createdAt": "2024-01-11T19:37:36Z"
 		}
 	},
@@ -925,7 +925,7 @@
 			"createdAt": "2025-08-02T22:27:32Z"
 		},
 		"0.16.3": {
-			"downloadCount": 2643,
+			"downloadCount": 2644,
 			"createdAt": "2025-09-02T15:28:36Z"
 		}
 	},
@@ -1445,7 +1445,7 @@
 			"createdAt": "2025-06-16T10:29:52Z"
 		},
 		"1.5.20": {
-			"downloadCount": 3930,
+			"downloadCount": 3931,
 			"createdAt": "2025-07-06T17:26:00Z"
 		}
 	},
@@ -2739,7 +2739,7 @@
 			"createdAt": "2023-02-05T03:37:14Z"
 		},
 		"1.5.1": {
-			"downloadCount": 1389,
+			"downloadCount": 1390,
 			"createdAt": "2025-04-04T15:50:27Z"
 		}
 	},
@@ -2899,7 +2899,7 @@
 			"createdAt": "2022-10-26T14:36:46Z"
 		},
 		"0.2.2": {
-			"downloadCount": 3730,
+			"downloadCount": 3731,
 			"createdAt": "2023-02-16T22:37:34Z"
 		}
 	},
@@ -3109,7 +3109,7 @@
 			"createdAt": "2025-07-18T05:42:17Z"
 		},
 		"1.9.0": {
-			"downloadCount": 2526,
+			"downloadCount": 2527,
 			"createdAt": "2025-08-19T17:25:33Z"
 		}
 	},
@@ -3359,7 +3359,7 @@
 			"createdAt": "2025-03-07T14:24:10Z"
 		},
 		"2.0.0": {
-			"downloadCount": 3725,
+			"downloadCount": 3726,
 			"createdAt": "2025-04-28T07:51:19Z"
 		}
 	},
@@ -3785,7 +3785,7 @@
 			"createdAt": "2022-10-07T14:36:41Z"
 		},
 		"1.0.2": {
-			"downloadCount": 6114,
+			"downloadCount": 6115,
 			"createdAt": "2022-10-09T09:37:25Z"
 		}
 	},
@@ -5019,7 +5019,7 @@
 			"createdAt": "2024-04-19T08:38:21Z"
 		},
 		"1.1.0": {
-			"downloadCount": 3279,
+			"downloadCount": 3280,
 			"createdAt": "2024-06-09T09:38:45Z"
 		}
 	},
@@ -5541,7 +5541,7 @@
 			"createdAt": "2025-02-06T18:06:01Z"
 		},
 		"1.11.0": {
-			"downloadCount": 9617,
+			"downloadCount": 9618,
 			"createdAt": "2025-04-18T05:26:19Z"
 		}
 	},
@@ -6023,7 +6023,7 @@
 			"createdAt": "2025-09-17T19:48:08Z"
 		},
 		"1.1.2": {
-			"downloadCount": 646,
+			"downloadCount": 647,
 			"createdAt": "2025-09-17T20:28:29Z"
 		}
 	},
@@ -6115,7 +6115,7 @@
 			"createdAt": "2024-10-31T10:09:29Z"
 		},
 		"1.1.1": {
-			"downloadCount": 701,
+			"downloadCount": 702,
 			"createdAt": "2025-05-04T08:29:32Z"
 		}
 	},
@@ -6265,7 +6265,7 @@
 			"createdAt": "2025-04-26T08:30:02Z"
 		},
 		"1.2.7": {
-			"downloadCount": 830,
+			"downloadCount": 831,
 			"createdAt": "2025-05-01T13:34:34Z"
 		}
 	},
@@ -6929,6 +6929,10 @@
 		"1.0.19": {
 			"downloadCount": 25,
 			"createdAt": "2025-09-22T20:28:50Z"
+		},
+		"1.0.20": {
+			"downloadCount": 0,
+			"createdAt": "2025-09-25T23:24:19Z"
 		}
 	},
 	"tech.willenglish.dndplugin": {
