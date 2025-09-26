@@ -6,7 +6,7 @@
 		"desktop",
 		"mobile"
 	],
-	"version": "0.4.0",
+	"version": "0.5.0",
 	"name": "Suitcase",
 	"description": "Change the capitalization of selected text, and case-insensitive sorting",
 	"author": "Alon Diament",
@@ -16,7 +16,7 @@
 	"categories": [
 		"editor"
 	],
-	"_publish_hash": "sha256:4081212812055a05fd870b058aac433d6959eeeed23a0b3b98f411ca73d48e9f",
-	"_publish_commit": "main:bef74043137ec3528a55fd7a0fb6775914da2893",
+	"_publish_hash": "sha256:dd040e6b734e91cb53c4c15f1ba32c4e3b258de42e5efc5188f7af2838e2101f",
+	"_publish_commit": "main:e55b73de021437dcc1a4180598b6398036e4c351",
 	"_npm_package_name": "joplin-plugin-suitcase"
 }
