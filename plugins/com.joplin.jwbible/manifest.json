@@ -25,16 +25,16 @@
 	],
 	"type": "module",
 	"icons": {
-		"16": "icons/icon16.png",
-		"32": "icons/icon32.png",
-		"48": "icons/icon48.png",
+		"16": "./icons/icon16.png",
+		"32": "./icons/icon32.png",
+		"48": "./icons/icon48.png",
 		"128": "icons/icon128.png"
 	},
 	"platforms": [
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:3c30993472be6e9193d58352e52d988fcaf95f30c638219ecffb90b38585e4a8",
+	"_publish_hash": "sha256:887b51f35f743096455823f7f7277fa00a6fc01115fc4fcdda9da9d7bf70b56b",
 	"_publish_commit": "main:c1a4b1161a679d33452888155a5d6f03b057f7a0",
 	"_npm_package_name": "joplin-plugin-jw-bible-plugin"
 }
