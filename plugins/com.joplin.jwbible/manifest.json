@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.joplin.jwbible",
 	"app_min_version": "3.2",
-	"version": "1.1.2",
+	"version": "1.1.3",
 	"name": "JW Bible Plugin",
 	"description": "This detects verse references in a note and displays the verse text in a side panel from the New World Translation Bible. There are also actions to insert the verse text into your note and to open the verse directly in jw.org or jw library.",
 	"author": "Tim Johnson-Reynolds",
@@ -34,7 +34,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:0ae11523e7b624f17963ee0dd38c1916323d1ce385ea85dd8806ec06306601f1",
-	"_publish_commit": "main:5f3932a9e8f80f47387acd6e36577fc624a201b3",
+	"_publish_hash": "sha256:3c30993472be6e9193d58352e52d988fcaf95f30c638219ecffb90b38585e4a8",
+	"_publish_commit": "main:c1a4b1161a679d33452888155a5d6f03b057f7a0",
 	"_npm_package_name": "joplin-plugin-jw-bible-plugin"
 }
