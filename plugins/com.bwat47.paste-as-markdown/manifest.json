@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.paste-as-markdown",
 	"app_min_version": "3.3",
-	"version": "1.0.23",
+	"version": "1.0.24",
 	"name": "Paste as Markdown",
 	"description": "Paste HTML formatted text as markdown",
 	"author": "bwat47",
@@ -70,7 +70,7 @@
 			"value": false
 		}
 	},
-	"_publish_hash": "sha256:5f1fe13e8eb4dfe98bd01eaa9f2ac777e2cd7505c3a918a9b5737d656b66b944",
-	"_publish_commit": "main:0c063d4e34bbf28969ea2c4d56bfd450026da097",
+	"_publish_hash": "sha256:82890adf826990cdaa735dd13891759a0183ab5dd42fbf0315cd92b829536f07",
+	"_publish_commit": "main:30c0a2a49e52bf8db3519d53df70ce073f5f1649",
 	"_npm_package_name": "joplin-plugin-paste-as-markdown"
 }
