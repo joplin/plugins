@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.hotstrings",
 	"app_min_version": "3.3",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Hotstrings & Hotkeys",
 	"description": "Uses a user-defined hotstring-and-hotkey dictionary to replace hotstrings in any note with replacement strings of the user&#39;s choice. To start using the plugin, make a new note and enter '!!!HOTSTRINGS!!!' as its top line. ",
 	"author": "ntczkjfg",
@@ -32,7 +32,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:78158b283317300bcb3505e0b63e38213b91fb57eb0be9b503dae4f0a39ba7ba",
-	"_publish_commit": "",
+	"_publish_hash": "sha256:ef321a693d61f888b699bed82a614e1d7fae7f68c2abc45c537e0b100da529ac",
+	"_publish_commit": "main:b3a4cd71900ac654cdf3b75802f92f3169bc4546",
 	"_npm_package_name": "joplin-plugin-hotstrings"
 }
