@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "tech.willenglish.dndplugin",
 	"app_min_version": "3.3",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"name": "Dungeons and Dragons Character Manager",
 	"description": "A Joplin plugin for the creation and management of DnD 5e Character Sheets",
 	"author": "Will English",
@@ -17,7 +17,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:61a16ca886c49bfc6742c0a2d2e36df2e5b4f06d42b3945de0d810e588f3089f",
+	"_publish_hash": "sha256:df26973ed3f4ec8dc45a3c69fd26426cc24025f2863dd5ec885b43e191b92ea9",
 	"_publish_commit": "main:ad79bd3b99d7fee587c3052fc8ad7451337f2c6c",
 	"_npm_package_name": "joplin-plugin-dungeons-and-dragons-character-manager"
 }
