@@ -1,0 +1,36 @@
+{
+	"manifest_version": 1,
+	"id": "net.sis-soft.copyCode",
+	"app_min_version": "3.4",
+	"version": "1.0.0",
+	"name": "SIS•SOFT Code Copy",
+	"description": "Adds a button to each code block in Joplin Markdown to copy its content.",
+	"author": "SIS•SOFT",
+	"homepage_url": "https://github.com/MAJOR-KENIX/joplin-plugin-sis-copy-code",
+	"repository_url": "https://github.com/MAJOR-KENIX/joplin-plugin-sis-copy-code",
+	"keywords": [
+		"Copy",
+		"Code"
+	],
+	"categories": [
+		"appearance",
+		"productivity"
+	],
+	"screenshots": [
+		{
+			"src": "assets/screenshots/shots_0.png",
+			"label": "Show don't tell ,-)"
+		}
+	],
+	"icons": {
+		"16": "assets/icons/16.png",
+		"32": "assets/icons/32.png",
+		"48": "assets/icons/48.png",
+		"128": "assets/icons/128.png",
+		"256": "assets/icons/256.png"
+	},
+	"promo_tile": {},
+	"_publish_hash": "sha256:f4f517a619f216e2747190edffba3812369fb79c5b404f1cfef2146677b57807",
+	"_publish_commit": "main:62c60f91507a7cab9f7215bb6fb8095cc20a672f",
+	"_npm_package_name": "joplin-plugin-sis-copy-code"
+}
