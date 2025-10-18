@@ -1,0 +1,57 @@
+{
+	"manifest_version": 1,
+	"id": "com.cipherswami.quick.note",
+	"app_min_version": "3.3",
+	"version": "1.1.2",
+	"name": "Quick Note",
+	"description": "Quickly jot down notes on startup or with a shortcut.",
+	"author": "Aravind Potluri",
+	"homepage_url": "https://cipherswami.github.io/joplin-plugin-quick-note",
+	"repository_url": "https://github.com/cipherswami/joplin-plugin-quick-note",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"keywords": [
+		"joplin-plugin",
+		"quick-note"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [
+		{
+			"src": "docs/assets/quick-note.png",
+			"label": "Quick Note"
+		},
+		{
+			"src": "docs/assets/desktop-main.png",
+			"label": "Desktop main"
+		},
+		{
+			"src": "docs/assets/desktop-settings.png",
+			"label": "Desktop settings"
+		},
+		{
+			"src": "docs/assets/mobile-main.png",
+			"label": "Mobile main"
+		},
+		{
+			"src": "docs/assets/mobile-settings.png",
+			"label": "Mobile settings"
+		}
+	],
+	"icons": {
+		"16": "docs/assets/icon-16.png",
+		"32": "docs/assets/icon-32.png",
+		"128": "docs/assets/icon-128.png",
+		"512": "docs/assets/icon-512.png"
+	},
+	"promo_tile": {
+		"src": "docs/assets/quick-note-promo.png",
+		"label": "Quick Note"
+	},
+	"_publish_hash": "sha256:e3234ae9e0d245f9562b0090d6e2085ca755d988d186c57d31fe0fec832df522",
+	"_publish_commit": "main:f66370484e140d0863618665a1839354c5fa95c4",
+	"_npm_package_name": "joplin-plugin-quick-note"
+}
