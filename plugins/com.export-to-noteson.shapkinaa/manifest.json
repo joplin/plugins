@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.export-to-noteson.shapkinaa",
 	"app_min_version": "3.1",
-	"version": "1.0.10",
+	"version": "1.0.11",
 	"name": "Export To NotesOn",
 	"description": "Export notes to NotesOn",
 	"author": "Andrey Shapkin",
@@ -13,7 +13,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:136a28ac5ca9c10e7afbc23404b512492230442d9f8ae507dd60ed1222af685e",
-	"_publish_commit": "main:97aa0e43ac99cffb786b01e4afa404d71d7352f2",
+	"_publish_hash": "sha256:a3acd1cb404f143da31ea3b535899cba9d30519dcc57fcd967f38608c5865851",
+	"_publish_commit": "main:62045f01ba548854c1e19aa00307058710f4575f",
 	"_npm_package_name": "joplin-plugin-export-to-noteson"
 }
