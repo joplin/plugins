@@ -1,0 +1,17 @@
+{
+	"manifest_version": 1,
+	"id": "com.joplin.excalidraw-v2",
+	"app_min_version": "2.8",
+	"version": "2.0.0",
+	"name": "joplin-excalidraw-v2",
+	"description": "Excalidraw in Joplin",
+	"author": "neagix",
+	"homepage_url": "https://github.com/neagix/joplin-excalidraw-v2",
+	"repository_url": "https://github.com/neagix/joplin-excalidraw-v2",
+	"keywords": [
+		"excalidraw"
+	],
+	"_publish_hash": "sha256:08137a25840a609c895e0ce40c43bc8503b7ec83f098a3c6ca8c9d9449e9131f",
+	"_publish_commit": "main:c00131460da334f0d481589f523e47ce25afc602",
+	"_npm_package_name": "joplin-plugin-joplin-excalidraw-v2"
+}
