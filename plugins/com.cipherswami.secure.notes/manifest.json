@@ -1,0 +1,70 @@
+{
+	"manifest_version": 1,
+	"id": "com.cipherswami.secure.notes",
+	"app_min_version": "3.3",
+	"version": "1.2.4",
+	"name": "Secure Notes",
+	"description": "Keeps your Joplin notes safe with password and encryption.",
+	"author": "Aravind Potluri",
+	"homepage_url": "https://cipherswami.github.io/joplin-plugin-secure-notes/",
+	"repository_url": "https://github.com/cipherswami/joplin-plugin-secure-notes",
+	"keywords": [
+		"joplin-plugin",
+		"secure-notes",
+		"encryption",
+		"password",
+		"privacy"
+	],
+	"categories": [
+		"productivity",
+		"files",
+		"editor"
+	],
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"screenshots": [
+		{
+			"src": "docs/assets/sn-encryption.png",
+			"label": "Desktop Encryption"
+		},
+		{
+			"src": "docs/assets/sn-secureview-ip.png",
+			"label": "Desktop SecureView IP"
+		},
+		{
+			"src": "docs/assets/sn-secureview-op.png",
+			"label": "Desktop SecureView OP"
+		},
+		{
+			"src": "docs/assets/sn-decryption.png",
+			"label": "Desktop Decryption"
+		},
+		{
+			"src": "docs/assets/sn-settings.png",
+			"label": "Desktop Settings"
+		},
+		{
+			"src": "docs/assets/sn-mobile-secureview-ip.png",
+			"label": "Mobile SecureView IP"
+		},
+		{
+			"src": "docs/assets/sn-mobile-secureview-op.png",
+			"label": "Mobile SecureView OP"
+		}
+	],
+	"icons": {
+		"16": "docs/assets/icon-16.png",
+		"32": "docs/assets/icon-32.png",
+		"128": "docs/assets/icon-128.png",
+		"512": "docs/assets/icon-512.png"
+	},
+	"promo_tile": {
+		"src": "docs/assets/secure-notes-promo.png",
+		"label": "Secure Notes"
+	},
+	"_publish_hash": "sha256:28cecbf1953e8a56c1824df53930fcd8b4e3b9a118b6869bbae69129425dce6f",
+	"_publish_commit": "main:2065b16e65e572a37e2c66db0fb829a326b8e374",
+	"_npm_package_name": "joplin-plugin-secure-notes"
+}
