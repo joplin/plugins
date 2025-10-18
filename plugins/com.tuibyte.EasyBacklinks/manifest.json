@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.tuibyte.EasyBacklinks",
 	"app_min_version": "3.1",
-	"version": "1.3.0",
+	"version": "1.3.1",
 	"name": "Easy Backlinks",
 	"description": "A lightweight backlinks plugin.",
 	"author": "Nelson Job",
@@ -22,7 +22,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:eca1a014161e226e093abf2a8628c84cd2f7bef431857982bb329f5fc6df3124",
-	"_publish_commit": "master:c507bd6bebed0f1926e9422c107204b353a90d75",
+	"_publish_hash": "sha256:ce0e2dd5398dd8c00a8a91aafdd328f8d6c131277d7b9cf514fec7d1938a86cd",
+	"_publish_commit": "master:dabbca914e5257920635174ad8c4df412867915e",
 	"_npm_package_name": "joplin-plugin-easy-backlinks"
 }
