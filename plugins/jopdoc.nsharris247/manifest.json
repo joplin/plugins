@@ -1,0 +1,23 @@
+{
+	"manifest_version": 1,
+	"id": "jopdoc.nsharris247",
+	"app_min_version": "3.3",
+	"version": "1.0.3",
+	"name": "Jopdoc",
+	"description": "Adds the DocX format to Joplin using the Pandoc Document Converter",
+	"author": "nsharris247",
+	"homepage_url": "",
+	"repository_url": "https://github.com/allthemore247/jopdoc",
+	"keywords": [
+		"docx",
+		"pandoc",
+		"joplin-plugin"
+	],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:8fbf91ba07793b98b94ca1fff2dd21bac2da455433fb1569c005ea4fb1315d06",
+	"_publish_commit": "main:798b21576c079d812db1854537bcc83cff779a11",
+	"_npm_package_name": "joplin-plugin-jopdoc"
+}
