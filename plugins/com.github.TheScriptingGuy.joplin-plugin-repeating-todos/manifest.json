@@ -23,7 +23,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:d2db194631f8d0efd67ae4b2ac74f9317cf9d9a08b4160f415853a479c551922",
-	"_publish_commit": "main:8ef64974039f7fcdbf0fb1fcfc4327b555e6d41d",
+	"_publish_hash": "sha256:dea1182c0979dd8c9389ca3775424045f49d1b2ac205b6deaacd3298a84310de",
+	"_publish_commit": "main:77cf169e171b01ddd27cb6de54400aa1d729a35c",
 	"_npm_package_name": "joplin-plugin-repeating-to-dos-v2"
 }
