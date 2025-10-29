@@ -12,7 +12,7 @@
 	"categories": [],
 	"screenshots": [],
 	"icons": {},
-	"_publish_hash": "sha256:494ebcb7c5384ea0bedb8340248d1ac74d068e9b768718053088ada15ddf2bb5",
-	"_publish_commit": "master:494638bac82965df3b9f854cacb3b3fa63720f88",
+	"_publish_hash": "sha256:5dc574b69f6352e66ab7c1144d8c016b6c9e2e3d0c0e5e2ece3cb3d2d8b4cb91",
+	"_publish_commit": "master:3a0a3844adee0a9d6109d995d79690934c1a6a95",
 	"_npm_package_name": "joplin-plugin-zotero-link"
 }
