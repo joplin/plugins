@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "joplin-ntb-copy-paste",
 	"app_min_version": "3.3",
-	"version": "0.1.2",
+	"version": "0.1.5",
 	"name": "Copy/Paste commands for Notes and Notebooks",
 	"description": "Implements copy and paste command for notes and notebooks",
 	"author": "Kamil Horvat",
@@ -13,7 +13,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:5627513df86b5c77abf345de9cbd7f5d299992d40bd9eb2e6f42793357c0af7d",
+	"_publish_hash": "sha256:1c5276e15cc739e58d35756f1b9286d52146564c17c9e669d9ecb92abda08ddc",
 	"_publish_commit": "master:cbf3cb6bc2cd6b002f5bd57dca72db0874961c17",
 	"_npm_package_name": "joplin-plugin-copypaste-commands-for-notes-and-notebooks"
 }
