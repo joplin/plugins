@@ -26,7 +26,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:ce4140643c8192eb363aff63a51439046f233325dd6ad36b03c1520de8aca2b3",
-	"_publish_commit": "main:a2a47e4f8eeade13db594bfe71039611a170ada0",
+	"_publish_hash": "sha256:48e53a3ee7ac1d06591a5ff315d7cd58c6dfd6d03ebc85844657ac407abfa2b2",
+	"_publish_commit": "main:38449da6b33fa447dc3be10a849285550d28505a",
 	"_npm_package_name": "joplin-plugin-folder-overview"
 }
