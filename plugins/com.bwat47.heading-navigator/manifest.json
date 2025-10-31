@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.heading-navigator",
 	"app_min_version": "3.3",
-	"version": "0.2.2",
+	"version": "0.2.3",
 	"name": "Heading Navigator",
 	"description": "Overlay panel to navigate through headings in the markdown editor using the keyboard",
 	"author": "bwat47",
@@ -48,7 +48,7 @@
 			"type": "codeMirrorPlugin"
 		}
 	],
-	"_publish_hash": "sha256:d483f38ec00d0046a5af5b5e6f9d4c451afd5ff59a02ecd5d0360fb99dac46dc",
-	"_publish_commit": "main:14ee9723f70339ac58c02e854a7c32c71c94e06d",
+	"_publish_hash": "sha256:a90cb2f243b115609a8975546774864cf607572ddef61e5f1a456d6bb6ef0a18",
+	"_publish_commit": "main:99c0f0d2b327fc124530ee63cd7df348e8fdb44f",
 	"_npm_package_name": "joplin-plugin-heading-navigator"
 }
