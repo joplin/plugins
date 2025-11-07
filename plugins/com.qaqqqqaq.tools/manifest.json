@@ -1,0 +1,24 @@
+{
+	"manifest_version": 1,
+	"id": "com.qaqqqqaq.tools",
+	"type": "plugin",
+	"main": "index.js",
+	"app_min_version": "3.3",
+	"version": "1.0.2",
+	"name": "joplin-plugin-ai-tools",
+	"description": "This plugin aim to enhance joplin experience by llm power.",
+	"author": "QAQQQQAQ",
+	"homepage_url": "",
+	"repository_url": "https://github.com/olokojoh/joplin-ai-tools",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"platforms": [
+		"desktop"
+	],
+	"_publish_hash": "sha256:40ac8f17ca6b1289e5fb3f66b3e7c8103795acd1568a969a2fa76512069348fb",
+	"_publish_commit": "master:dc68f0cfc55f77cc09608c23c48a35983b3e4739",
+	"_npm_package_name": "joplin-plugin-ai-tools"
+}
