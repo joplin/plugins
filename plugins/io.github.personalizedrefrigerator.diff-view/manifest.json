@@ -1,8 +1,8 @@
 {
 	"manifest_version": 1,
 	"id": "io.github.personalizedrefrigerator.diff-view",
-	"app_min_version": "3.0",
-	"version": "0.2.0",
+	"app_min_version": "3.4.0",
+	"version": "0.3.1",
 	"name": "Diff view",
 	"description": "Shows differences between notes. This plugin can be used to resolve conflicts and compare related notes.",
 	"author": "Henry Heino",
@@ -32,7 +32,7 @@
 		"mobile",
 		"desktop"
 	],
-	"_publish_hash": "sha256:2bfbed3fd6c0e5ab34418e9649d4ea350ac7cc815d05873f2a51b94d9cd95f31",
-	"_publish_commit": "master:6b062567675c41a7afc44eb9700a64782488ad5b",
+	"_publish_hash": "sha256:a64cf6199d16f7fbc0163b3ad91674203cef5f090e45fdf83d893adf6557a336",
+	"_publish_commit": "master:34a1c5fe61a5038b1da3962dfebd18fbae08dfea",
 	"_npm_package_name": "joplin-plugin-diff-view"
 }
