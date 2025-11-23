@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.simple-image-resize",
 	"app_min_version": "3.3",
-	"version": "1.5.2",
+	"version": "1.5.3",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -38,6 +38,14 @@
 		{
 			"src": "images/simple-resize4.png",
 			"label": "simple resize example 4"
+		},
+		{
+			"src": "images/simple-resize5.png",
+			"label": "simple resize example 5"
+		},
+		{
+			"src": "images/simple-resize6.png",
+			"label": "simple resize example 6"
 		}
 	],
 	"icons": {
@@ -77,9 +85,15 @@
 			"label": "Display quick resize options in context menu",
 			"description": "Show quick resize options (25%, 50%, 75%, 100%) in the right-click context menu",
 			"value": false
+		},
+		"showToastMessages": {
+			"type": "bool",
+			"label": "Show toast notifications",
+			"description": "Display brief notification messages for plugin actions",
+			"value": true
 		}
 	},
-	"_publish_hash": "sha256:2ad1e47855b4d0a4651de991526db0e6622baee23c7006e59dcb7167812e5f6a",
-	"_publish_commit": "main:bceddbac52da837279506f570087e633574c24fd",
+	"_publish_hash": "sha256:0c57eee9fb44070b1e7a8bebb45be42d95fa13b0e2a7ae0c128a8a6cce61d790",
+	"_publish_commit": "main:eb4d5b5ef29c8141526e5b2b0e2a52d55a862cba",
 	"_npm_package_name": "joplin-plugin-simple-image-resize"
 }
