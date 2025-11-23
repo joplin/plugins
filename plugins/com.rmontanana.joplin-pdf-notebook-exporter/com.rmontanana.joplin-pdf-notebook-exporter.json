@@ -1,0 +1,28 @@
+{
+	"manifest_version": 1,
+	"id": "com.rmontanana.joplin-pdf-notebook-exporter",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "NoteBookPrint",
+	"description": "Export entire notebooks to a single PDF file using Joplin's native PDF export with page breaks between notes",
+	"author": "Ricardo Montañana Gómez & Claude Code",
+	"homepage_url": "https://github.com/rmontanana/NoteBookPrint",
+	"repository_url": "https://github.com/rmontanana/NoteBookPrint",
+	"keywords": [
+		"pdf",
+		"export",
+		"print",
+		"notebook",
+		"mermaid",
+		"joplin"
+	],
+	"categories": [
+		"productivity",
+		"integrations"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:a823788c21daf38c13dd3c409db6c651b94f0733fe2ca4d25e935adffa2e2ace",
+	"_publish_commit": "main:4b2dc7ccbb91a936feac5e715a50ac184c833295"
+}
