@@ -13,7 +13,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:a3acd1cb404f143da31ea3b535899cba9d30519dcc57fcd967f38608c5865851",
-	"_publish_commit": "main:62045f01ba548854c1e19aa00307058710f4575f",
+	"_publish_hash": "sha256:6647ef8282d56fdafd05eb2041129100c60ab01a44e0f5afcf84bb00db204857",
+	"_publish_commit": "main:ce01777b46580b1ad1f9e99d7b662fabc7d8eacd",
 	"_npm_package_name": "joplin-plugin-export-to-noteson"
 }
