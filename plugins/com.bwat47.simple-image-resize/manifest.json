@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.simple-image-resize",
 	"app_min_version": "3.3",
-	"version": "1.5.7",
+	"version": "1.5.8",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -70,6 +70,14 @@
 			},
 			"value": "percentage"
 		},
+		"defaultPercentage": {
+			"type": "int",
+			"label": "Default percentage",
+			"description": "The default percentage value (1-100) when using percentage resize mode",
+			"value": 50,
+			"minimum": 1,
+			"maximum": 100
+		},
 		"htmlSyntaxStyle": {
 			"type": "enum",
 			"label": "HTML syntax style",
@@ -99,7 +107,7 @@
 			"value": true
 		}
 	},
-	"_publish_hash": "sha256:4f1d5da0328129b69f81ef22d7f75992c724fc9b6fdbd07c91a61d78099e2d5c",
-	"_publish_commit": "main:c38174f967613a576c97e5fa4eaa7da522508ad1",
+	"_publish_hash": "sha256:0adff7abfaaaea8aa23d3b0298eab786e433b96f0eebe4f5a0158f91074155a2",
+	"_publish_commit": "main:d80df02233ab8e00fc1124fddf5e799250c69398",
 	"_npm_package_name": "joplin-plugin-simple-image-resize"
 }
