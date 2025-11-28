@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.paste-as-markdown",
 	"app_min_version": "3.3",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"name": "Paste as Markdown",
 	"description": "Paste HTML formatted text as markdown",
 	"author": "bwat47",
@@ -48,7 +48,7 @@
 		"includeImages": {
 			"type": "bool",
 			"label": "Include images",
-			"description": "If enabled, images from HTML will be converted to markdown image syntax. If disabled, images will be removed entirely.",
+			"description": "If enabled, images will be included in the pasted markdown. If disabled, images will be removed entirely.",
 			"value": true
 		},
 		"convertImagesToResources": {
@@ -70,7 +70,7 @@
 			"value": false
 		}
 	},
-	"_publish_hash": "sha256:6ee37c29d406031eac08c508568b062066bfe563f12fcb7b30536f1b2fd8b20f",
-	"_publish_commit": "main:9e5e4912c723112fd2a879401c492c1e14bbdace",
+	"_publish_hash": "sha256:c355d328293b6eba7bb65d623feb41d14997e6b08152b122eaba4ac7dec35e5a",
+	"_publish_commit": "main:c7c3631e43dbc2d1fe3505713cd17c7616b83a79",
 	"_npm_package_name": "joplin-plugin-paste-as-markdown"
 }
