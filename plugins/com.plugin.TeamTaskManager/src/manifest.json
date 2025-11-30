@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "com.plugin.TeamtaskScheduler",
+	"app_min_version": "3.4",
+	"version": "1.0.0",
+	"name": "taskScheduler",
+	"description": "Small group manager",
+	"author": "Disha",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}

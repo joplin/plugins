@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title> Team Task Dashboard</title>
+  <style>
+html, body {
+    overflow: auto;
+    height: 100%;
+}
+.hidden { display: none; }
+ 
+
+body {
+    font-family: "Inter", var(--joplin-font-family), sans-serif;
+    margin: 0;
+    padding: 0;
+    background: white; 
+    color: #1a1a1a;
+}
+
+
+header {
+    color: rgb(26, 24, 24);
+    padding: 28px;
+    text-align: center;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    background-color: #e9eaed;
+    /* box-shadow: 0 8px 25px rgba(0,0,0,0.25); */
+    letter-spacing: 0.5px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+main {
+    padding: 32px;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+
+nav {
+    text-align: center;
+    margin: 35px 0;
+}
+
+nav button {
+    margin: 0 8px;
+    padding: 12px 26px;
+    background: #e5e7eb;
+    color: #111827;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+    transition: all 0.25s ease;
+}
+
+nav button:hover {
+    background: #d1d5db;
+    transform: translateY(-1px);
+}
+
+nav button.active {
+    background: #0b57d0;
+    color: white;
+    box-shadow: 0 4px 15px rgba(99,102,241,0.35);
+}
+
+/* ----------- SECTIONS / CONTAINERS ----------- */
+.section {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 18px;
+    margin: 25px 0;
+    /* box-shadow: 0 12px 40px rgba(0,0,0,0.08); */
+    /* border: 1px solid #e5e7eb; */
+}
+
+/* ----------- CARDS ----------- */
+.card {
+    background: white;
+    border-radius: 16px;
+    padding: 22px;
+    margin: 18px 0;
+    border-left: 4px solid #f3f3f7;
+    box-shadow: 0 6px 22px rgba(0,0,0,0.06);
+}
+
+/* ----------- GRID LAYOUT ----------- */
+.columns {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 32px;
+}
+
+.column {
+    background: white;
+    padding: 15px;
+    border-radius: 16px;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+}
+
+/* ----------- BADGES ----------- */
+.badge {
+    display: inline-block;
+    padding: 6px 14px;
+    border-radius: 14px;
+    font-size: 12px;
+    font-weight: 600;
+    margin: 5px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.badge.team { color: rgb(18, 17, 17); }
+.badge.deadline {  color: rgb(6, 6, 6); }
+.badge.member {  color: rgb(23, 22, 22); }
+
+/* ----------- TASK STATUS COLORS ----------- */
+.status-todo { border-left-color: #ef4444; } */
+.status-inprogress { border-left-color: #f59e0b; }
+.status-completed { border-left-color: #10b981; }
+
+/* ----------- INPUTS ----------- */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+input, select, textarea, button {
+    padding: 14px;
+    border: 1px solid #d1d5db;
+    border-radius: 10px;
+    font-size: 15px;
+    transition: all 0.2s ease;
+    background: white;
+}
+
+input:focus, select:focus, textarea:focus {
+    border-color: #0b57d0;
+    box-shadow: 0 0 0 3px rgba(99,102,241,0.15);
+    outline: none;
+}
+
+/* ----------- PRIMARY BUTTON ----------- */
+button {
+    background: #0b57d0;
+    color: white;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    letter-spacing: 0.3px;
+}
+
+button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 28px rgba(99,102,241,0.35);
+}
+
+/* ----------- ADD MEMBER BUTTON ----------- */
+.add-member-btn {
+    background: #0b57d0 !important;
+    width: auto;
+    font-size: 14px;
+}
+
+/* ----------- LABELS ----------- */
+label {
+    font-weight: 600;
+    color: #374151;
+    margin-bottom: 4px;
+}
+
+/* ----------- TEAM / MEMBER TAGS ----------- */
+.team-members {
+    background: #f3f4f6;
+    padding: 14px;
+    border-radius: 10px;
+}
+
+.member-tag {
+    display: inline-block;
+    background: #eef2ff;
+    padding: 6px 12px;
+    border-radius: 12px;
+    margin: 4px;
+    font-size: 13px;
+    color: #3730a3;
+}
+
+/* ----------- HEADERS ----------- */
+h2 {
+    color: #1f2937;
+    margin-bottom: 12px;
+    text-align: center;
+    font-weight: 700;
+}
+
+h3 {
+    color: #374151;
+    margin-top: 0;
+    font-weight: 600;
+}
+
+/* ----------- EMPTY STATE ----------- */
+.empty {
+    text-align: center;
+    color: #9ca3af;
+    font-style: italic;
+    padding: 40px;
+}
+
+/* ----------- DASHBOARD ITEMS ----------- */
+.dashboard-team-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.team-members-list {
+    font-size: 14px;
+    max-width: 200px;
+}
+
+/* ----------- RESPONSIVE ----------- */
+.task-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 22px;
+}
+
+@media (max-width: 768px) {
+    .columns { grid-template-columns: 1fr; }
+    nav button { margin: 6px; padding: 10px 18px; font-size: 14px; }
+}
+</style>
+
+</head>
+<body>
+  <header> Team Task Dashboard</header>
+  
+  <main>
+    <nav>
+      <button id="nav-dashboard" class="active"> Dashboard</button>
+      <button id="nav-teams"> Teams</button>
+      <button id="nav-tasks"> Tasks</button>
+    </nav>
+
+    <!-- DASHBOARD -->
+    <section id="dashboard" class="section">
+      <h2> Dashboard Overview</h2>
+      <div class="columns">
+        <div class="column">
+          <h3> Teams & Members</h3>
+          <div id="dashboard-teams"></div>
+        </div>
+        <div class="column">
+          <h3> Tasks by Status</h3>
+          <div class="task-grid">
+            <div>
+              <h4>☐ To Do (<span id="todo-count">0</span>)</h4>
+              <div id="tasks-todo"></div>
+            </div>
+            <div>
+              <h4>◐ In Progress (<span id="progress-count">0</span>)</h4>
+              <div id="tasks-inprogress"></div>
+            </div>
+            <div>
+              <h4>✔ Completed (<span id="done-count">0</span>)</h4>
+
+          
+              <div id="tasks-completed"></div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TEAMS -->
+    <section id="teams" class="section hidden">
+      <h2> Team Management</h2>
+      <form id="create-team-form">
+        <h3>✚ Create New Team</h3>
+        <label>Team Name:</label>
+        <input type="text" id="team-name" required>
+        
+        <div>
+          <label>Team Members (add one by one):</label>
+          <div class="members-input">
+            <input type="text" id="member-name">
+            <button type="button" class="add-member-btn" id="add-member-btn">✚ Add</button>
+          </div>
+          <div id="team-members-preview" class="team-members" style="min-height: 40px;">No members added yet</div>
+        </div>
+        
+        <button type="submit"> Create Team</button>
+      </form>
+      <br><br>
+      <h3> All Teams</h3>
+      <div id="teams-list" class="empty">No teams created yet</div>
+    </section>
+
+    <!-- TASKS -->
+    <section id="tasks" class="section hidden">
+      <h2> Task Management</h2>
+      <form id="create-task-form">
+        <h3>✚ Create New Task</h3>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+          <div>
+            <label>Team:</label>
+            <select id="task-team" required>
+              <option value="">Select a team</option>
+            </select>
+          </div>
+          <div>
+            <label>Deadline:</label>
+            <input type="date" id="task-deadline" required>
+          </div>
+        </div>
+
+        <label>Title:</label>
+        <input type="text" id="task-title" required>
+
+        <label>Description:</label>
+        <textarea id="task-desc" required></textarea>
+
+        <label>Assign to:</label>
+        <select id="task-assignee" required>
+          <option value="">Select team member</option>
+        </select>
+
+        <button type="submit"> Create Task</button>
+      </form><br><br>
+
+      <h3> Tasks by Team</h3>
+      <div id="tasks-by-team" class="empty">Create a team first</div>
+    </section>
+  </main>
+</body>
+</html>
