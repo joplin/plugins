@@ -1,5 +1,5 @@
 # Joplin Plugin
-# Task Scheduler
+# Team Task Scheduler
 
 A small group and task scheduling manager for Joplin.
 
