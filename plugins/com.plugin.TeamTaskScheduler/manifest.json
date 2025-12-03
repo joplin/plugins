@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "com.plugin.TeamTaskScheduler",
+	"app_min_version": "3.4",
+	"version": "1.0.0",
+	"name": "taskScheduler",
+	"description": "Small group and task scheduling manager",
+	"author": "Disha",
+	"homepage_url": "https://github.com/Dishabh13/TaskScheduler",
+	"repository_url": "https://github.com/Dishabh13/TaskScheduler",
+	"keywords": ["task","schedule","management"],
+	"categories": [],
+	"screenshots": [],
+	"icons": {"48":"icon.png"},
+	"promo_tile": {}
+}
