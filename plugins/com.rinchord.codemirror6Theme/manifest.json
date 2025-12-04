@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.rinchord.codemirror6Theme",
 	"app_min_version": "2.8",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"name": "codemirror6 theme",
 	"description": "A theme for joplin",
 	"author": "RinChord",
@@ -13,7 +13,11 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:2dceba1aab12bfde070fdca794a74ddbeef5b90e39e17e394d8c84d87986a402",
-	"_publish_commit": "main:7856e46b7347153358c4e8e3216d25ba5c3208a4",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"_publish_hash": "sha256:2bddd131914d9bef46296ef46e394585fa7ca187be1849b5a0f5a32ce3e388f2",
+	"_publish_commit": "main:91bb360c7f36960d15520e3a21b91efd55ef9547",
 	"_npm_package_name": "joplin-plugin-codemirror6-theme"
 }
