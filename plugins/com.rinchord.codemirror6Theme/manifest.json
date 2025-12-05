@@ -17,7 +17,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:00ec3835ce12c443edaa1562245efd5a27bacaa8b37725113b43f8a10adaac39",
-	"_publish_commit": "main:2b556c5de98fab9fefc7abaea782211c0c10723f",
+	"_publish_hash": "sha256:a17651ad140fccfb85013b6576655044f99e932983305b6630f0ea3c29790bef",
+	"_publish_commit": "main:2086534ea4b7750ce3ffc22004d39600cd7969fb",
 	"_npm_package_name": "joplin-plugin-codemirror6-theme"
 }
