@@ -105,7 +105,7 @@
 			"createdAt": "2022-03-31T21:04:58Z"
 		},
 		"1.3.0": {
-			"downloadCount": 16269,
+			"downloadCount": 16270,
 			"createdAt": "2024-03-02T22:08:01Z"
 		}
 	},
@@ -347,7 +347,7 @@
 			"createdAt": "2023-12-24T09:38:23Z"
 		},
 		"1.7.1": {
-			"downloadCount": 7565,
+			"downloadCount": 7566,
 			"createdAt": "2024-01-11T19:37:38Z"
 		}
 	},
@@ -535,7 +535,7 @@
 			"createdAt": "2021-06-01T08:31:01Z"
 		},
 		"1.4.0": {
-			"downloadCount": 63064,
+			"downloadCount": 63068,
 			"createdAt": "2021-08-10T18:32:14Z"
 		}
 	},
@@ -573,7 +573,7 @@
 			"createdAt": "2021-08-19T20:33:00Z"
 		},
 		"1.2.1": {
-			"downloadCount": 27794,
+			"downloadCount": 27795,
 			"createdAt": "2021-08-20T21:03:06Z"
 		}
 	},
@@ -787,7 +787,7 @@
 			"createdAt": "2025-07-23T23:29:09Z"
 		},
 		"0.8.3": {
-			"downloadCount": 2077,
+			"downloadCount": 2078,
 			"createdAt": "2025-10-13T04:52:29Z"
 		}
 	},
@@ -937,7 +937,7 @@
 			"createdAt": "2025-09-02T15:28:36Z"
 		},
 		"0.16.4": {
-			"downloadCount": 7325,
+			"downloadCount": 7326,
 			"createdAt": "2025-09-28T22:47:38Z"
 		}
 	},
@@ -1227,7 +1227,7 @@
 			"createdAt": "2023-05-27T22:37:15Z"
 		},
 		"3.0.0": {
-			"downloadCount": 3604,
+			"downloadCount": 3605,
 			"createdAt": "2025-10-25T18:33:00Z"
 		}
 	},
@@ -2407,7 +2407,7 @@
 			"createdAt": "2024-01-25T03:08:15Z"
 		},
 		"1.5.0": {
-			"downloadCount": 908,
+			"downloadCount": 909,
 			"createdAt": "2024-08-17T06:09:11Z"
 		}
 	},
@@ -2897,7 +2897,7 @@
 			"createdAt": "2023-12-11T21:07:49Z"
 		},
 		"1.2.5": {
-			"downloadCount": 11386,
+			"downloadCount": 11387,
 			"createdAt": "2023-12-11T22:07:39Z"
 		}
 	},
@@ -3023,7 +3023,7 @@
 			"createdAt": "2025-06-28T11:23:42Z"
 		},
 		"0.4.4": {
-			"downloadCount": 698,
+			"downloadCount": 699,
 			"createdAt": "2025-07-19T05:01:30Z"
 		}
 	},
@@ -3129,7 +3129,7 @@
 			"createdAt": "2025-07-18T05:42:17Z"
 		},
 		"1.9.0": {
-			"downloadCount": 6707,
+			"downloadCount": 6708,
 			"createdAt": "2025-08-19T17:25:33Z"
 		}
 	},
@@ -4335,7 +4335,7 @@
 			"createdAt": "2025-04-24T13:38:04Z"
 		},
 		"2.1.0": {
-			"downloadCount": 489,
+			"downloadCount": 490,
 			"createdAt": "2025-11-13T14:49:45Z"
 		}
 	},
@@ -4681,7 +4681,7 @@
 			"createdAt": "2024-05-12T03:09:44Z"
 		},
 		"1.2.0": {
-			"downloadCount": 15988,
+			"downloadCount": 15989,
 			"createdAt": "2024-06-24T02:38:15Z"
 		}
 	},
@@ -4857,7 +4857,7 @@
 			"createdAt": "2024-11-26T02:11:06Z"
 		},
 		"2.0.1": {
-			"downloadCount": 5562,
+			"downloadCount": 5563,
 			"createdAt": "2025-03-22T03:58:38Z"
 		}
 	},
@@ -6091,7 +6091,7 @@
 			"createdAt": "2025-09-17T20:28:29Z"
 		},
 		"1.1.3": {
-			"downloadCount": 1704,
+			"downloadCount": 1705,
 			"createdAt": "2025-11-14T15:27:13Z"
 		}
 	},
@@ -6739,7 +6739,7 @@
 			"createdAt": "2025-06-07T05:26:09Z"
 		},
 		"1.1.0": {
-			"downloadCount": 187,
+			"downloadCount": 188,
 			"createdAt": "2025-11-16T05:26:57Z"
 		}
 	},
@@ -7297,7 +7297,7 @@
 	},
 	"com.cipherswami.secure.notes": {
 		"1.2.4": {
-			"downloadCount": 765,
+			"downloadCount": 766,
 			"createdAt": "2025-10-18T09:26:17Z"
 		}
 	},
@@ -7523,6 +7523,10 @@
 		"1.1.1": {
 			"downloadCount": 6,
 			"createdAt": "2025-12-05T03:17:10Z"
+		},
+		"1.1.2": {
+			"downloadCount": 0,
+			"createdAt": "2025-12-07T17:24:59Z"
 		}
 	},
 	"com.rinchord.codemirror6Theme": {
@@ -7531,7 +7535,7 @@
 			"createdAt": "2025-12-04T22:50:52Z"
 		},
 		"1.0.3": {
-			"downloadCount": 25,
+			"downloadCount": 26,
 			"createdAt": "2025-12-04T23:27:24Z"
 		}
 	},
