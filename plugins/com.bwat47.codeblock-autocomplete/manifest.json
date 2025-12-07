@@ -1,0 +1,45 @@
+{
+	"manifest_version": 1,
+	"id": "com.bwat47.codeblock-autocomplete",
+	"app_min_version": "3.3",
+	"version": "1.0.0",
+	"name": "Codeblock Autocomplete",
+	"description": "Enables CM6 code block autocomplete to assist with creating fenced code blocks",
+	"author": "bwat47",
+	"homepage_url": "https://github.com/bwat47/joplin-codeblock-autocomplete",
+	"repository_url": "https://github.com/bwat47/joplin-codeblock-autocomplete",
+	"keywords": [
+		"autocomplete",
+		"code",
+		"code block",
+		"fenced code block",
+		"code fence",
+		"fence",
+		"code fence autocomplete"
+	],
+	"categories": [
+		"productivity",
+		"developer tools",
+		"editor"
+	],
+	"screenshots": [
+		{
+			"src": "images/screenshot1.png",
+			"label": "Codeblock Autocomplete Screenshot 1"
+		}
+	],
+	"icons": {
+		"16": "images/16.png",
+		"32": "images/32.png",
+		"48": "images/48.png",
+		"64": "images/64.png",
+		"128": "images/128.png"
+	},
+	"promo_tile": {
+		"src": "images/promo.png",
+		"label": "Codeblock Autocomplete Promo Tile"
+	},
+	"_publish_hash": "sha256:1c94865f0427cd101881a9308c367cdcda6ab0c76c7192e0cbf99d02510bd850",
+	"_publish_commit": "main:0dc22c47cc82e5fc5e4bce071e7eb06bed766f19",
+	"_npm_package_name": "joplin-plugin-codeblock-autocomplete"
+}
