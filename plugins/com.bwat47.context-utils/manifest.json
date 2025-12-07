@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.context-utils",
 	"app_min_version": "3.3",
-	"version": "1.1.2",
+	"version": "1.1.3",
 	"name": "Context Utils",
 	"description": "Adds context menu options in the markdown editor related to links, images, task lists and code",
 	"author": "bwat47",
@@ -41,7 +41,7 @@
 		"src": "images/context-utils_promo_tile.png",
 		"label": "Context Utils Promo Tile"
 	},
-	"_publish_hash": "sha256:d9e3b5d8985c4c4b4d5f68b4aabf1ef9425c6ffd5fc233786dae579a19a0ab8e",
-	"_publish_commit": "main:2dca6d7f2c058409d13a445af1599ef22362820f",
+	"_publish_hash": "sha256:2106745bf5eb6c7596825a8b0956f49903970f92b88f2b651aa5cfc2e2315a2a",
+	"_publish_commit": "main:dddb416c849555babae35fa436dc4aa7e1f7dd6a",
 	"_npm_package_name": "joplin-plugin-context-utils"
 }
