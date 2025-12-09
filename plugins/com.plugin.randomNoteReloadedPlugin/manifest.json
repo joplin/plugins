@@ -1,8 +1,8 @@
 {
 	"manifest_version": 1,
 	"id": "com.plugin.randomNoteReloadedPlugin",
-	"app_min_version": "1.7",
-	"version": "1.0.5",
+	"app_min_version": "3.0.0",
+	"version": "1.0.6",
 	"name": "Random Note Reloaded",
 	"description": "Opens a random note from your workspace",
 	"author": "Fork: Marph, Original: Azamah Junior",
@@ -17,7 +17,7 @@
 		"random",
 		"random note"
 	],
-	"_publish_hash": "sha256:6bd02c63e099cbbc9fdf360a3b2632b84cc80967a8e978fec5ec66f8bf0f5f25",
-	"_publish_commit": "master:b665eb56508db01deabb2c592d2683bcf9ffa0a2",
+	"_publish_hash": "sha256:d0b2c62cd3bccf3afaf322fcc6b6e6f8db715832e03d3f5f25b87d316780abef",
+	"_publish_commit": "master:adc33e660369ad699e7f5fb9a2ff34ad4ba82d7d",
 	"_npm_package_name": "joplin-plugin-random-note-reloaded"
 }
