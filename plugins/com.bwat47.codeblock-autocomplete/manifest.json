@@ -2,7 +2,11 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.codeblock-autocomplete",
 	"app_min_version": "3.3",
-	"version": "1.0.1",
+	"version": "1.0.2",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
 	"name": "Codeblock Autocomplete",
 	"description": "Enables CM6 code block autocomplete to assist with creating fenced code blocks",
 	"author": "bwat47",
@@ -39,7 +43,7 @@
 		"src": "images/promo.png",
 		"label": "Codeblock Autocomplete Promo Tile"
 	},
-	"_publish_hash": "sha256:d93397910ddeaa929bf93bb69ed5e6466f257a74ffad4b00a7f63dd649878067",
-	"_publish_commit": "main:412eb0ee57df009c86fb2dfd61fdef052f0e064b",
+	"_publish_hash": "sha256:40735175ea0edb87b16128a92e044432225bf2afd27a19d656bc9d01c8b57fb9",
+	"_publish_commit": "main:5d28c229091dc936bbe4e05e53cda974a49e6cb6",
 	"_npm_package_name": "joplin-plugin-codeblock-autocomplete"
 }
