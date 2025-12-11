@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "org.otherware.joplin-publish",
 	"app_min_version": "2.8",
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"name": "Publish to Web",
 	"description": "Publish/Share notes to the web using github gist. Allows for easy sharing of individual notes. Readers can comment using the gist systems",
 	"author": "Daniel Bretoi",
@@ -14,7 +14,7 @@
 		"share"
 	],
 	"categories": [],
-	"_publish_hash": "sha256:2e9b68bc2cee3e3dbc7ec4faf031b354d6f89be8907825a528e0366fd7820831",
-	"_publish_commit": "master:e901122293b1e70a82e805782af75718bc7f6b4b",
+	"_publish_hash": "sha256:6569ee67caee399af6e94337d1235f7f585a23ec8a3e6d7714c433bbc66bed15",
+	"_publish_commit": "master:a692114c4cce3b8760d1c135f1451186302eff5b",
 	"_npm_package_name": "joplin-plugin-publish"
 }
