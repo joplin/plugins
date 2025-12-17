@@ -1,0 +1,49 @@
+{
+	"manifest_version": 1,
+	"id": "com.bwat47.rich-tables",
+	"app_min_version": "3.3",
+	"version": "1.0.0",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"name": "Rich Tables",
+	"description": "A Joplin plugin to provide table rendering and table editing in the Markdown editor.",
+	"author": "bwat47",
+	"homepage_url": "https://github.com/bwat47/joplin-rich-tables",
+	"repository_url": "https://github.com/bwat47/joplin-rich-tables",
+	"keywords": [
+		"editor",
+		"tables",
+		"HTML",
+		"rich",
+		"table",
+		"markdown",
+		"rendering"
+	],
+	"categories": [
+		"appearance",
+		"productivity",
+		"editor"
+	],
+	"screenshots": [
+		{
+			"src": "images/screenshot1.png",
+			"label": "Rich Tables Screenshot 1"
+		}
+	],
+	"icons": {
+		"16": "images/16.png",
+		"32": "images/32.png",
+		"48": "images/48.png",
+		"64": "images/64.png",
+		"128": "images/128.png"
+	},
+	"promo_tile": {
+		"src": "images/promo.png",
+		"label": "Rich Tables Promo Tile"
+	},
+	"_publish_hash": "sha256:1666e86e836132f7038222b8ea653e26cc18925f484f10cd2c8ee6e5c3f2d2f3",
+	"_publish_commit": "main:65d0215741ba8ef78f2db252911674d5aa145ac0",
+	"_npm_package_name": "joplin-plugin-rich-tables"
+}
