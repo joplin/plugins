@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.alalazy.ChessViewer",
 	"app_min_version": "3.0",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"name": "Chess Viewer",
 	"description": "Help user store and view chess PGN file",
 	"author": "alalazy",
@@ -37,7 +37,7 @@
 		"128": "resources/icons/logo128.png"
 	},
 	"promo_tile": {},
-	"_publish_hash": "sha256:0ad28137b1358a70525163732f0d3783fa3fb5a9768a93cb019166a5551a21d6",
-	"_publish_commit": "main:8c9528127c0f6d67c85f06027ce5ba147fa78146",
+	"_publish_hash": "sha256:78e6f734992127cb84c5eaef8a426558098b83d2f02ae5b6579f1fd305b7efd4",
+	"_publish_commit": "main:f94225847a8c4912f897d380a76e9a5fb38f930a",
 	"_npm_package_name": "joplin-plugin-chess-viewer"
 }
