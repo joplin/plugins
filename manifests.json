@@ -6348,5 +6348,24 @@
 		"_publish_hash": "sha256:68565240a78af350e541cc7b0baf6051bc322c20e4ca67d158af1a9b66c1d867",
 		"_publish_commit": "main:155bdeb59cab6206887ac53f816eb724136d20b5",
 		"_npm_package_name": "joplin-plugin-rich-tables"
+	},
+	"com.example.MyPlugin": {
+		"manifest_version": 1,
+		"id": "com.example.MyPlugin",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "hello example",
+		"description": "first plugin",
+		"author": "jp",
+		"homepage_url": "no",
+		"repository_url": "no",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:f8c7ba6facaa4488d27fa2e505a61470817e6cd3c45f662d4b55d9f77efe2170",
+		"_publish_commit": "",
+		"_npm_package_name": "joplin-plugin-hello-example"
 	}
 }

@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "com.example.MyPlugin",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "hello example",
+	"description": "first plugin",
+	"author": "jp",
+	"homepage_url": "no",
+	"repository_url": "no",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:f8c7ba6facaa4488d27fa2e505a61470817e6cd3c45f662d4b55d9f77efe2170",
+	"_publish_commit": "",
+	"_npm_package_name": "joplin-plugin-hello-example"
+}
