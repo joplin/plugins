@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.cipherswami.quick.note",
 	"app_min_version": "3.3",
-	"version": "1.1.4",
+	"version": "1.1.5",
 	"name": "Quick Note",
 	"description": "Quickly jot down notes on startup or with a shortcut.",
 	"author": "Aravind Potluri",
@@ -48,7 +48,7 @@
 		"512": "docs/assets/icon-512.png"
 	},
 	"promo_tile": {},
-	"_publish_hash": "sha256:2e2020eca17c165403f19a23c0bbdadeba49cca56a99dbaadf38fde8b2b3695c",
-	"_publish_commit": "main:1e43bd9fb47926bce2cae68f35776ed6b92055a8",
+	"_publish_hash": "sha256:34056fdd16bba2bbe871de5fb6d8b4cb8e56689616e6e4705fa3259faff61ae7",
+	"_publish_commit": "main:f88bda6d9eb3c068bb6812c15844144fc1e3983a",
 	"_npm_package_name": "joplin-plugin-quick-note"
 }
