@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.rich-tables",
 	"app_min_version": "3.3",
-	"version": "1.3.9",
+	"version": "1.4.0",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -43,7 +43,7 @@
 		"src": "images/promo.png",
 		"label": "Rich Tables Promo Tile"
 	},
-	"_publish_hash": "sha256:a2a6cd4d90698e847ce9514a7d1d27feb21ff6bb77971f83f314a06bdb0509df",
-	"_publish_commit": "main:2e9628b2ad5632c1af6f7659912ebe9e8d03c17e",
+	"_publish_hash": "sha256:821d2b6a0530e29b5a646348a6af6c888a2dc276ea17c4f25173f31ed984442d",
+	"_publish_commit": "main:cd1184e85bbea4dd5bd71cefa63df8aa8587c870",
 	"_npm_package_name": "joplin-plugin-rich-tables"
 }
