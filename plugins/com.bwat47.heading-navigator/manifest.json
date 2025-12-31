@@ -2,22 +2,24 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.heading-navigator",
 	"app_min_version": "3.3",
-	"version": "0.6.1",
+	"version": "0.6.2",
 	"platforms": [
 		"desktop",
 		"mobile"
 	],
 	"name": "Heading Navigator",
-	"description": "Overlay panel to navigate through headings in the markdown editor using the keyboard",
+	"description": "VS Code/Sublime text style overlay panel to navigate through headings in the markdown editor",
 	"author": "bwat47",
 	"homepage_url": "https://github.com/bwat47/joplin-heading-navigator",
 	"repository_url": "https://github.com/bwat47/joplin-heading-navigator",
 	"keywords": [
 		"joplin-plugin",
-		"Heading",
-		"Outline",
-		"Keyboard",
-		"Navigation"
+		"heading",
+		"outline",
+		"keyboard",
+		"navigation",
+		"toc",
+		"table of contents"
 	],
 	"categories": [
 		"productivity",
@@ -56,7 +58,7 @@
 			"type": "codeMirrorPlugin"
 		}
 	],
-	"_publish_hash": "sha256:0646cd4fc091a6a4851e4db81b3f52767a2225e08069a2e2ffec623bb8830b2e",
-	"_publish_commit": "main:4bb99798b377249b3454315fd61a73930ed4a7ef",
+	"_publish_hash": "sha256:4e9c5f52861e0664251b0ff3c840d627a20d2c266a9d13df3ebe5c8e98af2d3d",
+	"_publish_commit": "main:36e0a1cacda1370d5d18d813cdca4fcf45bec880",
 	"_npm_package_name": "joplin-plugin-heading-navigator"
 }
