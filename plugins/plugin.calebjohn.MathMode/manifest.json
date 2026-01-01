@@ -1,8 +1,8 @@
 {
 	"manifest_version": 1,
 	"id": "plugin.calebjohn.MathMode",
-	"app_min_version": "1.8",
-	"version": "0.8.3",
+	"app_min_version": "3.5.9",
+	"version": "1.0.0",
 	"name": "Math Mode",
 	"description": "Turn your notes into a powerful calculator with inline math.",
 	"author": "Caleb John",
@@ -15,7 +15,8 @@
 	],
 	"categories": [
 		"editor",
-		"productivity"
+		"productivity",
+		"viewer"
 	],
 	"platforms": [
 		"desktop",
@@ -37,7 +38,7 @@
 		"48": "icons/48.png",
 		"128": "icons/128.png"
 	},
-	"_publish_hash": "sha256:835a9e236ee7b6fde0d07682ef7cd4afd06e18355f2791fdad087131f8af0a26",
-	"_publish_commit": "main:23c337e29b5772995ce39fe2527fd70f2a0deb33",
+	"_publish_hash": "sha256:03f78dc94f1dbc35191018caf9ed25d989a663ff015a94f8ce39d9e28d8aef38",
+	"_publish_commit": "main:53abbe2d11ed9b5004162afdfe08e331e8ae5752",
 	"_npm_package_name": "joplin-plugin-math-mode"
 }
