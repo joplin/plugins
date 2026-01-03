@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.joplin.plugin.bible.verses",
 	"app_min_version": "3.3",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"name": "Bible Verses",
 	"description": "Link bible verses to bible verse references in editor",
 	"author": "Kevin Woods",
@@ -25,7 +25,7 @@
 	],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:2cb411b8c16c72580a9fb3115cc0aaad8294dd1c89f2a5304b39772a90b934ca",
-	"_publish_commit": "master:9a10325198c704d770bc2440f86590092a1f1936",
+	"_publish_hash": "sha256:d331c678be68c9844b3d31cc50e97252ea0f3fcad9ec51bb7b875378f878aedb",
+	"_publish_commit": "master:0208baee7efcf2d46dcf9fd312be71bb76535e1c",
 	"_npm_package_name": "joplin-plugin-bible-verse"
 }
