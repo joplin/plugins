@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.scrayil.joplin-plugin-projects",
 	"app_min_version": "3.4.12",
-	"version": "1.1.1",
+	"version": "1.2.0",
 	"name": "Projects",
 	"description": "Easily manage and schedule projects, integrating tasks directly with your knowledge base.",
 	"author": "Mattia Bennati (Scrayil)",
@@ -42,6 +42,10 @@
 			"label": "List view to easily visualize pending tasks with their data"
 		},
 		{
+			"src": "assets/screenshots/wiki_view.png",
+			"label": "Wiki reader view showing rendered projects' documentation"
+		},
+		{
 			"src": "assets/screenshots/edit_task_dialog.png",
 			"label": "Dialog used to edit or delete a specific task"
 		}
@@ -59,7 +63,7 @@
 		"src": "assets/promo.png",
 		"label": "The plugin's promo tile image"
 	},
-	"_publish_hash": "sha256:23c147472203af0e95345fe35bda87075e7680761948fefd266ab15d4ef0789a",
-	"_publish_commit": "main:1500a9f5ac33a6a783d572831fc14efacd81b243",
+	"_publish_hash": "sha256:f6a981a20bd20422ec7a24596d77a46eab2e23e5fa930c1ce9a64f52db563c22",
+	"_publish_commit": "main:ee9a2732483f9aa17295c2500b2a3305b1fe8645",
 	"_npm_package_name": "joplin-plugin-projects"
 }
