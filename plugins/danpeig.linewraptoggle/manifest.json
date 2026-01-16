@@ -1,0 +1,26 @@
+{
+	"manifest_version": 1,
+	"id": "danpeig.linewraptoggle",
+	"app_min_version": "3.2",
+	"version": "0.1.2",
+	"name": "Line wrap toggle",
+	"description": "Enable or disable line wrap in the editor, the viewer or just inside code blocks",
+	"author": "Daniel BP",
+	"homepage_url": "https://github.com/danpeig/joplin-plugin-linewraptoggle",
+	"repository_url": "https://github.com/danpeig/joplin-plugin-linewraptoggle",
+	"keywords": [
+		"toggle",
+		"line wrap"
+	],
+	"categories": [
+		"editor",
+		"viewer"
+	],
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"_publish_hash": "sha256:dae20575cfe428d86c329b63e6829bbfcfacf8a74d16f370344f5fc02db43b9f",
+	"_publish_commit": "master:b11442b88a987263626be7eebbd01d630fd7492a",
+	"_npm_package_name": "joplin-plugin-linewraptoggle"
+}
