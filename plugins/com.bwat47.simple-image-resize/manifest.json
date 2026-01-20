@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.simple-image-resize",
 	"app_min_version": "3.3",
-	"version": "1.5.15",
+	"version": "1.5.16",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -13,14 +13,15 @@
 	"homepage_url": "https://github.com/bwat47/simple-image-resize",
 	"repository_url": "https://github.com/bwat47/simple-image-resize",
 	"keywords": [
-		"Image",
-		"Images",
-		"Resize",
-		"Markdown",
-		"HTML"
+		"image",
+		"images",
+		"resize",
+		"markdown",
+		"html"
 	],
 	"categories": [
-		"productivity"
+		"productivity",
+		"editor"
 	],
 	"screenshots": [
 		{
@@ -107,7 +108,7 @@
 			"value": true
 		}
 	},
-	"_publish_hash": "sha256:d9c39ece8de0ca0270d3659afe460ef69ccbb5c1f4f2eb3e84c97317d39602f0",
-	"_publish_commit": "main:7f6105ef916959545c79005a300ff9bc162dd342",
+	"_publish_hash": "sha256:509b77de55db008b3641606b592c0bdb460e8bee6a0804f08eef7f31385b9b47",
+	"_publish_commit": "main:fd5e89f1a153ad52251a57be098659022244f787",
 	"_npm_package_name": "joplin-plugin-simple-image-resize"
 }
