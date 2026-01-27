@@ -2,21 +2,44 @@
 	"manifest_version": 1,
 	"id": "com.cogitations.ai-writing-toolkit",
 	"app_min_version": "3.4",
-	"version": "1.0.1",
-	"name": "AI Writing Toolkit + PDF Publishing",
-	"description": "Deeply integrated AI for Joplin: chat, rewriting, research and grammar tools that work directly with your notes (send prompts with note context, insert/append/replace results). Includes a sophisticated PDF publishing workflow to turn notes into beautiful documents—per-note front matter settings, title pages, headers/footers, pagination, and reliable print preview (including attachment images).",
+	"version": "1.0.2",
+	"name": "AI Writers Toolkit + PDF Publishing",
+	"description": "Deeply integrated AI and PDF Publishing tool for Joplin: chat, rewriting, research and grammar tools that work directly with your notes (send prompts with note context, insert/append/replace results). Sophisticated PDF publishing workflow to turn notes into beautiful documents—per-note front matter settings, title pages, headers/footers, pagination, and reliable print preview (including attachment images).",
 	"author": "Irv Shapiro",
 	"homepage_url": "https://cogitations.com",
 	"repository_url": "https://github.com/ishapiro/joplin-ai-writing-toolkit",
-	"keywords": [],
+	"keywords": [
+		"joplin-plugin",
+		"ai",
+		"chatgpt",
+		"openai",
+		"gpt",
+		"artificial-intelligence",
+		"writing",
+		"writing-assistant",
+		"editor",
+		"grammar",
+		"proofreading",
+		"editing",
+		"rewriting",
+		"research",
+		"chat",
+		"assistant",
+		"pdf",
+		"publishing",
+		"export",
+		"print",
+		"notes",
+		"markdown",
+		"productivity",
+		"text-editing",
+		"content-generation"
+	],
 	"categories": [
 		"productivity",
 		"editor"
 	],
 	"screenshots": [
-		{
-			"src": "ScreenShot-1-Sumarize.png"
-		},
 		{
 			"src": "ScreenShot-2-Cogitations-Menu.png"
 		},
@@ -34,7 +57,7 @@
 	"promo_tile": {
 		"src": "promo-tile.png"
 	},
-	"_publish_hash": "sha256:2eeee187a4782127b773456315ac19d67b4a1899a2a534ef800cfbb14feb4384",
-	"_publish_commit": "main:a5189dff90f1c9b027e96902f4cc38295f6f6ac7",
+	"_publish_hash": "sha256:e77a9e7f3ebd330be73bf5a906f4bd8cd79964e582f1a15daf69771554bf3f28",
+	"_publish_commit": "main:010798229be359672f770d516e33f003a2d4b60b",
 	"_npm_package_name": "joplin-plugin-ai-writing-toolkit"
 }
