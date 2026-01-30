@@ -2,22 +2,28 @@
 	"manifest_version": 1,
 	"id": "net.individual-it.Supernote",
 	"app_min_version": "3.4",
-	"version": "0.1.2",
+	"version": "0.2.0",
 	"name": "supernote sync",
 	"description": "Sync your notes from your Supernote device into Joplin",
 	"author": "Artur Neumann",
 	"homepage_url": "https://github.com/individual-it/supernote-joplin",
 	"repository_url": "https://github.com/individual-it/supernote-joplin",
-	"keywords": [],
+	"keywords": [
+		"supernote",
+		"handwriting",
+		"syncing"
+	],
 	"categories": [
 		"integrations",
 		"personal knowledge management",
 		"productivity"
 	],
 	"screenshots": [],
-	"icons": {},
+	"icons": {
+		"256": "images/icon-256.png"
+	},
 	"promo_tile": {},
-	"_publish_hash": "sha256:5d36b8fe06af483c8c4bd95e0b5311c60b2bfe37f0d3053a162225c80c61ce83",
-	"_publish_commit": "master:1bd6945b216cb2f858506385b62520392695a0a7",
+	"_publish_hash": "sha256:39d9487f49c603c9e0f0d44c6c69400c95fb1921c9643ae7748865dd475b0997",
+	"_publish_commit": "master:7dfa57e88c020f74992268e16002625ddad01ca3",
 	"_npm_package_name": "joplin-plugin-supernote-sync"
 }
