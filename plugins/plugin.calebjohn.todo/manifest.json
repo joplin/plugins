@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "plugin.calebjohn.todo",
 	"app_min_version": "3.4.2",
-	"version": "2.0.4",
+	"version": "2.0.5",
 	"name": "Inline TODO",
 	"description": "Write TODOs *everywhere* and view them in one place.",
 	"author": "Caleb John",
@@ -27,7 +27,7 @@
 		"48": "icons/48.png",
 		"128": "icons/128.png"
 	},
-	"_publish_hash": "sha256:560c0b3bf72dff0e70b42836a3f932d6d5b849832a3f27679cdf1e888e83664d",
-	"_publish_commit": "master:86f4c750bd657b16f3010b9a196f2c8cf0c3a1ec",
+	"_publish_hash": "sha256:13f2d85440c09ab36379ef1eaf7c35545f713491e77fc80fc7ffe2eff7b1016d",
+	"_publish_commit": "master:871d3d49354245833cc82916ecf5d7f00b771d1d",
 	"_npm_package_name": "joplin-plugin-inline-todo"
 }
