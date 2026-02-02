@@ -6615,5 +6615,35 @@
 		"_publish_hash": "sha256:e77a9e7f3ebd330be73bf5a906f4bd8cd79964e582f1a15daf69771554bf3f28",
 		"_publish_commit": "main:010798229be359672f770d516e33f003a2d4b60b",
 		"_npm_package_name": "joplin-plugin-ai-writing-toolkit"
+	},
+	"com.volodymyroliinyk.joplin.plugin.my-calendar": {
+		"manifest_version": 1,
+		"id": "com.volodymyroliinyk.joplin.plugin.my-calendar",
+		"app_min_version": "3.3",
+		"version": "1.2.7",
+		"name": "My Calendar",
+		"description": "Calendar view from notes with event syntax",
+		"author": "Volodymyr Oliinyk",
+		"homepage_url": "https://github.com/volodymyroliinyk/joplin-plugin-my-calendar",
+		"repository_url": "https://github.com/volodymyroliinyk/joplin-plugin-my-calendar",
+		"keywords": [
+			"joplin-plugin",
+			"joplin",
+			"plugin",
+			"calendar",
+			"event",
+			"my calendar",
+			"ics",
+			"import",
+			"ical"
+		],
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"permissions": [
+			"notes"
+		],
+		"_npm_package_name": "joplin-plugin-my-calendar"
 	}
 }
