@@ -2,13 +2,13 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.joplin-markdown-alerts",
 	"app_min_version": "3.3",
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"platforms": [
 		"desktop",
 		"mobile"
 	],
-	"name": "Markdown Alerts",
-	"description": "Adds support for Github style alerts (aka callouts) in the Markdown editor & viewer",
+	"name": "Markdown Alerts and Quotes",
+	"description": "Add support for GitHub-style alerts (callouts) in the markdown editor/viewer, plus editor commands for alerts and blockquotes.",
 	"author": "bwat47",
 	"homepage_url": "https://github.com/bwat47/joplin-markdown-alerts",
 	"repository_url": "https://github.com/bwat47/joplin-markdown-alerts",
@@ -38,7 +38,7 @@
 		"src": "images/markdown-alerts-promo.png",
 		"label": "Markdown Alerts Promo Tile"
 	},
-	"_publish_hash": "sha256:b02af3e5c9a2294e42986aac77ab140f7ecd5f682154869c23014ef6da8b3ea1",
-	"_publish_commit": "main:59f0935e1d15992153cef99eebffdb37b3e4cb37",
+	"_publish_hash": "sha256:af3b63ea7c0df4d6d2c960569283c05d893b580a3ce2be49e0a678a0d647a0ce",
+	"_publish_commit": "main:06ee9198d4c540aca431675f18c2069709c714b8",
 	"_npm_package_name": "joplin-plugin-markdown-alerts"
 }
