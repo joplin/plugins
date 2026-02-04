@@ -661,6 +661,7 @@
 		"_publish_hash": "sha256:c22457a635c9cce563f3cc60fb2a8d6fa5fff3b5a66417ebdbcf66661ab550a1",
 		"_publish_commit": "main:31ab80140024f6c81b817c6bc477fbe7e15f98c5",
 		"_npm_package_name": "joplin-plugin-google-keep-to-joplin-importer",
+		"_obsolete": true,
 		"_obsolete_reason": "Invalid manifest, no published source code, and unmaintained"
 	}
 }
