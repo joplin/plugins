@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.ckant.joplin-plugin-better-code-blocks",
 	"app_min_version": "2.11",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"name": "Better Code Blocks",
 	"description": "Enhances code blocks with inline rendering, autocompletion, and more!",
 	"author": "Chris Kant",
@@ -32,7 +32,7 @@
 	"promo_tile": {
 		"src": "media/promo.png"
 	},
-	"_publish_hash": "sha256:8c0df569352f551acce2cf44a40660c42a4621ec0b00c337e53e05045cf5ab36",
-	"_publish_commit": "master:8f7f0f0bd86a8aef8123ad7979363b9e4d0b7570",
+	"_publish_hash": "sha256:61f9315f2108b9a40aa6c017714eeffeb507d5e666990454f43372bf3c9457bc",
+	"_publish_commit": "master:33e7fe66d8726860985cca4b9fddc691e0c91366",
 	"_npm_package_name": "joplin-plugin-better-code-blocks"
 }
