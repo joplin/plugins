@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.volodymyroliinyk.joplin.plugin.my-calendar",
 	"app_min_version": "3.3",
-	"version": "1.4.0",
+	"version": "1.4.1",
 	"name": "My Calendar",
 	"description": "Calendar plugin for Joplin",
 	"author": "Volodymyr Oliinyk",
