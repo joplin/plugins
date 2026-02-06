@@ -2,9 +2,9 @@
 	"manifest_version": 1,
 	"id": "com.ckant.joplin-plugin-editor-themes",
 	"app_min_version": "3.0",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"name": "Editor Themes",
-	"description": "40+ editor themes, including VSCode, GitHub, and Sublime",
+	"description": "70+ editor themes, including VSCode, GitHub, and Sublime",
 	"author": "Chris Kant",
 	"homepage_url": "https://github.com/ckant/joplin-plugin-editor-themes",
 	"repository_url": "https://github.com/ckant/joplin-plugin-editor-themes",
@@ -31,7 +31,10 @@
 		"48": "media/logo48.png",
 		"128": "media/logo128.png"
 	},
-	"_publish_hash": "sha256:875252bec92a9f2c8f8394c8a17f709893019221ccf812f0432fd8d85bc7cba4",
-	"_publish_commit": "master:61cba82c1b8857f43c42793b8cf502520c7f70bd",
+	"promo_tile": {
+		"src": "media/promo.png"
+	},
+	"_publish_hash": "sha256:fb1b39dbe6bcdfc5e89a47409fd562cd806f89c6138c83b5406312c2c0db6ec7",
+	"_publish_commit": "master:5bfb98237a52efec040f462baa1e016a80752454",
 	"_npm_package_name": "joplin-plugin-editor-themes"
 }
