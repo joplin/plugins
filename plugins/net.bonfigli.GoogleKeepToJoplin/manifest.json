@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "net.bonfigli.GoogleKeepToJoplin",
 	"app_min_version": "3.5",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"name": "Google Keep To Joplin",
 	"description": "Import your Google Keep notes to Joplin",
 	"author": "Diego Bonfigli",
@@ -20,7 +20,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:063b33917814f340421aab31d4faa5d14f466bd5520a4cb831bfe1d814c7aa2d",
-	"_publish_commit": "master:c5e4ea733d891dd14c8544e772013cd620679b01",
+	"_publish_hash": "sha256:fd6507050a952ea83ae19e68eb1f86e266e9e00385792c062f795f4ab3cbb915",
+	"_publish_commit": "master:292236c7256f3dfb81e87e2d5504ff8bab30dfde",
 	"_npm_package_name": "joplin-plugin-google-keep-to-joplin"
 }
