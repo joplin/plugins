@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "net.reumann.NoteDefault",
 	"app_min_version": "3.5",
-	"version": "1.0.0",
+	"version": "1.1.2",
 	"name": "New Note To Default Folder",
 	"description": "Starts a new note in a default folder using a shortcut (ctrl-o)",
 	"author": "Rick Reumann",
@@ -19,11 +19,11 @@
 		"productivity"
 	],
 	"screenshots": [],
-	"icons": {
-		"32": "new_note_icon.png"
-	},
 	"promo_tile": {},
-	"_publish_hash": "sha256:82148941f3276eb288e94a3222645e30368c6e613ee3ac33b976a094784890fb",
-	"_publish_commit": "main:a56d3eeb5123db7506015965709849cc78e63743",
+	"icons": {
+		"32": "images/new_note_icon.png"
+	},
+	"_publish_hash": "sha256:ad401d13cf78885084e933c580318740c7c7b3590c992b5a7f33989981c45ef2",
+	"_publish_commit": "main:c492251d3d145cf0699f041c4bfad568d6622c6a",
 	"_npm_package_name": "joplin-plugin-new-note-to-default-folder"
 }
