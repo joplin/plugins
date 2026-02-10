@@ -1,0 +1,27 @@
+{
+	"manifest_version": 1,
+	"id": "plugin.clsty.querytodo",
+	"app_min_version": "3.4.2",
+	"version": "0.1.0",
+	"name": "Query TODO",
+	"description": "JSON-based query summaries for TODOs with filtering, sorting, and grouping.",
+	"author": "Celestial.y",
+	"homepage_url": "https://github.com/clsty/joplin-plugin-querytodo",
+	"repository_url": "https://github.com/clsty/joplin-plugin-querytodo",
+	"keywords": [
+		"todo",
+		"productivity",
+		"query"
+	],
+	"categories": [
+		"editor",
+		"productivity"
+	],
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"_publish_hash": "sha256:032291db55e6c2c4b6f8dacf152a5da07db67582755f2f7b03a8b544257d5f7a",
+	"_publish_commit": "main:90a42e129092a93a11bb911685d6937c364bc083",
+	"_npm_package_name": "joplin-plugin-querytodo"
+}
