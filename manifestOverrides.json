@@ -26,9 +26,6 @@
 	"io.github.jackgruber.hotfolder": {
 		"_recommended": true
 	},
-	"net.rmusin.resource-search": {
-		"_recommended": true
-	},
 	"plugin.calebjohn.rich-markdown": {
 		"_recommended": true
 	},
@@ -663,5 +660,22 @@
 		"_npm_package_name": "joplin-plugin-google-keep-to-joplin-importer",
 		"_obsolete": true,
 		"_obsolete_reason": "Invalid manifest, no published source code, and unmaintained"
+	},
+	"net.rmusin.resource-search": {
+		"manifest_version": 1,
+		"id": "net.rmusin.resource-search",
+		"app_min_version": "1.7",
+		"version": "0.1.2",
+		"name": "Resource Search Plugin",
+		"description": "Search in Attached Resources",
+		"author": "Roman Musin",
+		"homepage_url": "https://github.com/roman-r-m/joplin-plugin-resource-search",
+		"repository_url": "https://github.com/roman-r-m/joplin-plugin-resource-search",
+		"keywords": [],
+		"_publish_hash": "sha256:3e0602e748b21c83ae337fd4c7f134c450071c0ea98e7bbead07cc1c99da7620",
+		"_publish_commit": "master:73dc80f74f963fafc4d736afe364cf9cf6016f58",
+		"_npm_package_name": "joplin-plugin-resource-search",
+		"_obsolete": true,
+		"_obsolete_reason": "Causes severe memory leak when processing PDF files - https://github.com/laurent22/joplin/issues/14359"
 	}
 }
