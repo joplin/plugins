@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.rinchord.codemirror6Theme",
 	"app_min_version": "2.8",
-	"version": "1.0.3",
+	"version": "2.0.5",
 	"name": "codemirror6 theme",
 	"description": "Enhanced CodeMirror 6 theme with styling for headings, code, links, GitHub alerts, blockquotes, and table rendering. Includes keyboard shortcuts for heading levels (Ctrl+1-6), inline math notation (Ctrl+$), and comprehensive table editing tools.",
 	"author": "RinChord",
@@ -17,7 +17,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:a17651ad140fccfb85013b6576655044f99e932983305b6630f0ea3c29790bef",
-	"_publish_commit": "main:2086534ea4b7750ce3ffc22004d39600cd7969fb",
+	"_publish_hash": "sha256:0e75abd532339a8d61ef8d3fe696549d91f65c50690029a86f21fbd3a84e0e6c",
+	"_publish_commit": "main:7d62ffd48e7a7c3740b3b59c8e6e44f8b854865d",
 	"_npm_package_name": "joplin-plugin-codemirror6-theme"
 }
