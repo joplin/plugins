@@ -1,0 +1,38 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.autocard",
+	"app_min_version": "3.5",
+	"version": "1.0.0",
+	"name": "Joplin URL AutoCard",
+	"description": "Create a nice looking Card from a URL containing the title, description and image of the URL.",
+	"author": "Zale-B",
+	"homepage_url": "https://github.com/Zale-B/Joplin_autocard_plugin",
+	"repository_url": "https://github.com/Zale-B/Joplin_autocard_plugin",
+	"keywords": [],
+	"categories": [
+		"appearance"
+	],
+	"screenshots": [
+		{
+			"src": "images/joplin-autocard-source.png",
+			"label": "Screenshot: Shows the source code of the card in Markdown"
+		},
+		{
+			"src": "images/joplin-autocard-card.png",
+			"label": "Screenshot: Shows the rendered card in Joplin"
+		}
+	],
+	"icons": {
+		"32": "images/icon-32.png",
+		"48": "images/icon-48.png",
+		"128": "images/icon-128.png",
+		"256": "images/icon-256.png"
+	},
+	"promo_tile": {
+		"src": "images/promo_tile.png",
+		"label": "Nice looking card from a URL"
+	},
+	"_publish_hash": "sha256:c84736b6512163aa9f2ed763088d4238b2b32f0fa33d767cb9e707575e217b66",
+	"_publish_commit": "first_fixes:4cebb12f4a260015d55de3daddd7ade4e3a311a3",
+	"_npm_package_name": "joplin-plugin-autocard"
+}
