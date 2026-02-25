@@ -2,21 +2,26 @@
 	"manifest_version": 1,
 	"id": "joplin.plugin.alondmnt.wikilinks",
 	"app_min_version": "3.5",
-	"version": "0.4.0",
+	"version": "0.4.1",
 	"name": "Wikilinks",
 	"description": "Adds [[wikilinks]] support to the Markdown editor and preview pane.",
 	"author": "Alon Diament",
 	"homepage_url": "https://github.com/alondmnt/joplin-plugin-wikilinks#readme",
 	"repository_url": "https://github.com/alondmnt/joplin-plugin-wikilinks",
-	"keywords": [],
-	"categories": [
+	"keywords": [
+		"wikilinks",
+		"links",
 		"editor"
+	],
+	"categories": [
+		"editor",
+		"appearance"
 	],
 	"platforms": [
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:3b2f902e8441df2de480f263a5b7836299aee3c95849482b3fffa38f18fc92e3",
-	"_publish_commit": "main:88c62761aaecb4013eba582d116780a86bada4db",
+	"_publish_hash": "sha256:0277c43247a0bfcf19b39f31674109b2dae0c5f3d041b56e1d95825c0e751a52",
+	"_publish_commit": "main:67e66038c2249fd7dbce8fd1d6c4fb123a653216",
 	"_npm_package_name": "joplin-plugin-wikilinks"
 }
