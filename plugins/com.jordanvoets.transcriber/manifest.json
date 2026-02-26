@@ -1,0 +1,62 @@
+{
+	"manifest_version": 1,
+	"id": "com.jordanvoets.transcriber",
+	"app_min_version": "3.5",
+	"version": "1.0.0",
+	"name": "Joplin Audio Transcriber",
+	"description": "Transcribes attached audio files using the OpenAI or Google Gemini APIs and creates a transcription note with the press of a button.",
+	"author": "Jordan Voets",
+	"homepage_url": "https://github.com/JordanVoets/joplin-audio-transcriber",
+	"repository_url": "https://github.com/JordanVoets/joplin-audio-transcriber",
+	"platforms": [
+		"desktop"
+	],
+	"keywords": [
+		"audio",
+		"transcription",
+		"transcriber",
+		"speech-to-text",
+		"openai",
+		"whisper",
+		"google",
+		"gemini",
+		"ai",
+		"productivity"
+	],
+	"categories": [
+		"productivity",
+		"integrations",
+		"editor"
+	],
+	"screenshots": [
+		{
+			"src": "src/assets/screenshots/screenshot1.png",
+			"label": "Audio file selected in a Joplin note with the option to transcribe using the plugin"
+		},
+		{
+			"src": "src/assets/screenshots/screenshot2.png",
+			"label": "Transcribing audio file and creating a new note with the transcription results."
+		},
+		{
+			"src": "src/assets/screenshots/screenshot3.png",
+			"label": "Transcription results displayed in a new Joplin note, showing the transcribed text and metadata."
+		},
+		{
+			"src": "src/assets/screenshots/screenshot4.png",
+			"label": "Plugin settings page where users can configure their OpenAI or Google Gemini API keys and transcription options."
+		}
+	],
+	"icons": {
+		"16": "src/assets/logos/logo-mark16.png",
+		"32": "src/assets/logos/logo-mark32.png",
+		"48": "src/assets/logos/logo-mark48.png",
+		"128": "src/assets/logos/logo-mark128.png"
+	},
+	"promo_tile": {
+		"src": "src/assets/logos/logo-promo.png",
+		"label": "Joplin Audio Transcriber - Transcribe attached audio files to text with AI"
+	},
+	"_publish_hash": "sha256:ad20c025a68b30b5204a4975ba8b73c8f8fd359cc04c5645bbeaed018d39fa08",
+	"_publish_commit": "master:7e298dd71f2da0f85b75a26dd86811490e31e7ed",
+	"_npm_package_name": "joplin-plugin-audio-transcriber"
+}
