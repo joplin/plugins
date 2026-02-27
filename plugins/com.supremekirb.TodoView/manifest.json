@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.supremekirb.TodoView",
 	"app_min_version": "2.13",
-	"version": "1.1.1",
+	"version": "1.2.1",
 	"name": "To-do View",
 	"description": "A panel to make the to-do-viewing experience slightly nicer.",
 	"author": "SupremeKirb",
@@ -32,7 +32,7 @@
 		"48": "assets/icons/48.png",
 		"128": "assets/icons/128.png"
 	},
-	"_publish_hash": "sha256:866c43b429cec411bd02e0e629d3efdeb2fec76d82c37892205156ea3a9a8a61",
-	"_publish_commit": "main:a918c85c8e84dacd7a4c78eeb905e00743a79ce2",
+	"_publish_hash": "sha256:5ca6f8baca52457a330782ce82f24fd3ad92a298f59ef2767d303062fb26f722",
+	"_publish_commit": "main:ec5f8be9d16792a1e5090756de2bafe1b4c4aa36",
 	"_npm_package_name": "joplin-plugin-to-do-view"
 }
