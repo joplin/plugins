@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.heading-navigator",
 	"app_min_version": "3.3",
-	"version": "0.6.2",
+	"version": "0.6.3",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -58,7 +58,7 @@
 			"type": "codeMirrorPlugin"
 		}
 	],
-	"_publish_hash": "sha256:4e9c5f52861e0664251b0ff3c840d627a20d2c266a9d13df3ebe5c8e98af2d3d",
-	"_publish_commit": "main:36e0a1cacda1370d5d18d813cdca4fcf45bec880",
+	"_publish_hash": "sha256:8a2640eed48f469576413c96f77cc27b2a282efa9e03f0a8a033a5fe6adeb3f2",
+	"_publish_commit": "main:71136691321168899614c57a5bde78839f2a84f8",
 	"_npm_package_name": "joplin-plugin-heading-navigator"
 }
