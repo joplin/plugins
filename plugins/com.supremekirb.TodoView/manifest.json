@@ -16,6 +16,10 @@
 		"productivity",
 		"personal knowledge management"
 	],
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
 	"screenshots": [
 		{
 			"src": "assets/screenshots/example.png",
@@ -28,7 +32,7 @@
 		"48": "assets/icons/48.png",
 		"128": "assets/icons/128.png"
 	},
-	"_publish_hash": "sha256:f1ff62eeae4100b4902a368ceac318a89c28e46d9834686e2e1113dc70f957a1",
-	"_publish_commit": "main:5a852a9359d6701542da8ca4c34ce70c112f1e3b",
+	"_publish_hash": "sha256:866c43b429cec411bd02e0e629d3efdeb2fec76d82c37892205156ea3a9a8a61",
+	"_publish_commit": "main:a918c85c8e84dacd7a4c78eeb905e00743a79ce2",
 	"_npm_package_name": "joplin-plugin-to-do-view"
 }
