@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.developerzohaib786.wordcount",
+	"app_min_version": "3.5",
+	"version": "1.0.0",
+	"name": "Word Count &amp; Reading Time",
+	"description": "A simple utility to track word count and estimated reading time.",
+	"author": "Muhammad Zohaib Irshad",
+	"homepage_url": "",
+	"repository_url": "https://github.com/developerzohaib786/joplin-plugin-word-count",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:0795a9d8ef9a76b883af71ba818378175d798bcea37bda31d0679010724a509d",
+	"_publish_commit": "",
+	"_npm_package_name": "joplin-plugin-wordcount-by-developerzohaib786"
+}

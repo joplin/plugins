@@ -290,6 +290,7 @@ This repository contains the following plugins:
 | [🏠](https://github.com/cwesson/joplin-plugin-wavedrom) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/net.cwesson.joplin-plugin-wavedrom/plugin.jpl) | WaveDrom | 1.0.2 | Render WaveDrom diagrams inside your Joplin notes. | Conlan Wesson |
 | [🏠](https://github.com/marph91/joplin-plugin-whitespacer) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.whitespacer/plugin.jpl) | Whitespacer | 1.0.2 | Display whitespaces in editor | Marph |
 | [🏠](https://github.com/alondmnt/joplin-plugin-wikilinks#readme) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/joplin.plugin.alondmnt.wikilinks/plugin.jpl) | Wikilinks | 0.4.1 | Adds [[wikilinks]] support to the Markdown editor and preview pane. | Alon Diament |
+| -     | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/io.github.developerzohaib786.wordcount/plugin.jpl) | Word Count &amp; Reading Time | 1.0.0 | A simple utility to track word count and estimated reading time. | Muhammad Zohaib Irshad |
 | -     | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.YesYouKan/plugin.jpl) | YesYouKan | 1.1.3 | Create and manage Kanban boards from Joplin | Laurent Cozic |
 | [🏠](https://github.com/jannessm/joplin-zotero-link) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/nz.magnusso.zotero-link/plugin.jpl) | Zotero Link | 2.1.5 | Link Zotero entries in notes | Jannes Magnusson |
 <!-- PLUGIN_LIST -->
