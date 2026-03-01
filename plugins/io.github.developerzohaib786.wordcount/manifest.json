@@ -13,7 +13,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:0795a9d8ef9a76b883af71ba818378175d798bcea37bda31d0679010724a509d",
-	"_publish_commit": "",
+	"_publish_hash": "sha256:1b6b24e2ff7d7b5698bb8cf74b79d25fff566c99381e1b495327e0a6722300b2",
+	"_publish_commit": "main:838af3b999897b3c746afdb702db8b8200905795",
 	"_npm_package_name": "joplin-plugin-wordcount-by-developerzohaib786"
 }
