@@ -6727,13 +6727,15 @@
 		"manifest_version": 1,
 		"id": "com.wakakusa.filterable-notebook-tree-view",
 		"name": "Filterable Notebook TreeView",
-		"version": "0.0.1",
+		"version": "0.0.3",
 		"app_min_version": "3.5",
 		"platforms": [
 			"desktop"
 		],
-		"description": "",
+		"description": "A panel that lets you filter notebooks by name while preserving the tree structure.",
 		"author": "Wakakusa Ryuuzi",
+		"homepage_url": "https://github.com/wakakusa-ryuuzi/joplin-plugin-filterable-notebook-tree-view",
+		"repository_url": "https://github.com/wakakusa-ryuuzi/joplin-plugin-filterable-notebook-tree-view",
 		"keywords": [
 			"notebook",
 			"filter"
@@ -6743,8 +6745,8 @@
 			"search",
 			"personal knowledge management"
 		],
-		"_publish_hash": "sha256:ade37213d2c4018c4f076549d020b3ac903f91fdcfcc50a052b8446f509b072d",
-		"_publish_commit": "main:6148cabd8645b50e470aed352aac605d0e22efa4",
+		"_publish_hash": "sha256:75fe2f676976fa7f9a3166d92076b8c7e7c2b5cd3a80f5485df8c6a7e360912c",
+		"_publish_commit": "main:19eae6fe4c12431ea89ba9aadf305768335e571a",
 		"_npm_package_name": "joplin-plugin-filterable-notebook-tree-view"
 	},
 	"joplin.plugin.autocard": {
