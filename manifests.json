@@ -6891,8 +6891,8 @@
 		"screenshots": [],
 		"icons": {},
 		"promo_tile": {},
-		"_publish_hash": "sha256:1b6b24e2ff7d7b5698bb8cf74b79d25fff566c99381e1b495327e0a6722300b2",
-		"_publish_commit": "main:838af3b999897b3c746afdb702db8b8200905795",
+		"_publish_hash": "sha256:b4845936b844fadaf1355ba74c97b70b7e766b55dae5333e6d31b0039defc91a",
+		"_publish_commit": "main:47dd91b94ba52a20db0c4a3711da9431cf806e16",
 		"_npm_package_name": "joplin-plugin-wordcount-by-developerzohaib786"
 	},
 	"com.chordpro.ChordproRender": {
