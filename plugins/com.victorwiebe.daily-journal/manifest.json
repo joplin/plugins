@@ -1,0 +1,25 @@
+{
+	"manifest_version": 1,
+	"id": "com.victorwiebe.daily-journal",
+	"app_min_version": "3.5",
+	"version": "1.8.1",
+	"name": "Daily Journal",
+	"description": "Creates a nightly journal note summarising all notes and todos updated or completed that day, organised under a configurable Journal notebook hierarchy.",
+	"author": "Victor Wiebe",
+	"homepage_url": "https://victorwiebe.com/joplin-daily-journal-plugin/",
+	"repository_url": "https://gitea.skeletonworks.online/vwiebe/joplin-daily-journal",
+	"keywords": [
+		"journal",
+		"daily",
+		"notes",
+		"todos",
+		"automation"
+	],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:20e273b3313f7ba8c19c9fc5e429dbb9a1eea8efb61e946f784e54264b5bec35",
+	"_publish_commit": "main:78398a864297b81a2eb473ef475ddc69ee2f2dc4",
+	"_npm_package_name": "joplin-plugin-daily-journal"
+}
