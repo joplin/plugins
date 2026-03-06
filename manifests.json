@@ -6938,5 +6938,24 @@
 		"_publish_hash": "sha256:20e273b3313f7ba8c19c9fc5e429dbb9a1eea8efb61e946f784e54264b5bec35",
 		"_publish_commit": "main:78398a864297b81a2eb473ef475ddc69ee2f2dc4",
 		"_npm_package_name": "joplin-plugin-daily-journal"
+	},
+	"io.chatonnotes.joplin": {
+		"manifest_version": 1,
+		"id": "io.chatonnotes.joplin",
+		"app_min_version": "3.5",
+		"version": "1.0.0",
+		"name": "AI Note Assistant",
+		"description": "An AI-powered assistant for your Joplin workspace that lets you chat with your notes, summarize content, and generate new ideas.",
+		"author": "Zohaib Irshad",
+		"homepage_url": "",
+		"repository_url": "https://github.com/developerzohaib786/joplin-plugin-ai-chat-on-notes",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:54b93f9a21068c1fb9f81d6b4257bd9fe906a1faf9d5aa304528abc75f9eaecd",
+		"_publish_commit": "main:9e159606e9c42772b22c7722c312d506ef49539b",
+		"_npm_package_name": "joplin-plugin-ai-note-assistant"
 	}
 }
