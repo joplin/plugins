@@ -13,7 +13,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:e9b86bde5c0f69dbf228d05401cc30625bd931c334d84add2c4eed9c5b9a2f9d",
-	"_publish_commit": "main:5970eafec0376f8a9b97a8282ecde28de3fee350",
+	"_publish_hash": "sha256:1f847363ee516274dcc5624590b35c5452cc5642dad4bc00bdd4108c2c30982e",
+	"_publish_commit": "main:835751f21e547dd37e95408edc66976739d39258",
 	"_npm_package_name": "joplin-plugin-ai-note-assistant"
 }
