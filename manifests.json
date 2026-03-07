@@ -6954,8 +6954,8 @@
 		"screenshots": [],
 		"icons": {},
 		"promo_tile": {},
-		"_publish_hash": "sha256:54b93f9a21068c1fb9f81d6b4257bd9fe906a1faf9d5aa304528abc75f9eaecd",
-		"_publish_commit": "main:9e159606e9c42772b22c7722c312d506ef49539b",
+		"_publish_hash": "sha256:e9b86bde5c0f69dbf228d05401cc30625bd931c334d84add2c4eed9c5b9a2f9d",
+		"_publish_commit": "main:5970eafec0376f8a9b97a8282ecde28de3fee350",
 		"_npm_package_name": "joplin-plugin-ai-note-assistant"
 	}
 }
