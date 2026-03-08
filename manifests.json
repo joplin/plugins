@@ -6990,5 +6990,42 @@
 		"_publish_hash": "sha256:2eee121b1c5f9c81b72fb51784874d45dc1acfec5f3c67c60ccc0fc0676bf6ce",
 		"_publish_commit": "master:176fcd1bf20fbf7c065335aac68e28c75d8d30af",
 		"_npm_package_name": "joplin-plugin-chat-gpt-import"
+	},
+	"io.github.albertbaubledeem.joplin.google-docs": {
+		"manifest_version": 1,
+		"id": "io.github.albertbaubledeem.joplin.google-docs",
+		"app_min_version": "2.6",
+		"version": "1.0.0",
+		"name": "Google Docs Sync",
+		"description": "Sync Joplin notes with Google Docs",
+		"author": "AlbertBaubleDeem",
+		"homepage_url": "https://github.com/AlbertBaubleDeem/joplin-plugin-google-docs",
+		"repository_url": "https://github.com/AlbertBaubleDeem/joplin-plugin-google-docs",
+		"keywords": [
+			"google-docs",
+			"sync"
+		],
+		"categories": [
+			"integrations"
+		],
+		"screenshots": [
+			{
+				"src": "screenshots/screenshot_wizard.png",
+				"label": "Setup wizard guiding through Google Cloud configuration"
+			}
+		],
+		"icons": {
+			"16": "images/icon16.png",
+			"32": "images/icon32.png",
+			"48": "images/icon48.png",
+			"128": "images/icon128.png"
+		},
+		"platforms": [
+			"desktop"
+		],
+		"promo_tile": {},
+		"_publish_hash": "sha256:a92effe73c531d354eaf7048966139abc2e5a5a0924ef876b46151849385baed",
+		"_publish_commit": "master:67b5f792880a1c4df630915c65fb46976ad35e37",
+		"_npm_package_name": "joplin-plugin-google-docs"
 	}
 }
