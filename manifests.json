@@ -4487,7 +4487,7 @@
 		"manifest_version": 1,
 		"id": "com.ckant.joplin-plugin-editor-themes",
 		"app_min_version": "3.0",
-		"version": "1.0.4",
+		"version": "1.1.0",
 		"name": "Editor Themes",
 		"description": "70+ editor themes, including VSCode, GitHub, and Sublime",
 		"author": "Chris Kant",
@@ -4519,8 +4519,8 @@
 		"promo_tile": {
 			"src": "media/promo.png"
 		},
-		"_publish_hash": "sha256:fb1b39dbe6bcdfc5e89a47409fd562cd806f89c6138c83b5406312c2c0db6ec7",
-		"_publish_commit": "master:5bfb98237a52efec040f462baa1e016a80752454",
+		"_publish_hash": "sha256:54c60cdb2a44a72067f808bbf2b109b0734cdb534aa5d3b6b325182614e4eba5",
+		"_publish_commit": "master:c283fccbc73f323e5e1b59d145549b5ef82ce6a2",
 		"_npm_package_name": "joplin-plugin-editor-themes"
 	},
 	"com.biblify.MyPlugin": {
