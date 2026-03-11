@@ -5862,11 +5862,11 @@
 		"manifest_version": 1,
 		"id": "com.cipherswami.secure.notes",
 		"app_min_version": "3.3",
-		"version": "1.2.4",
+		"version": "2.2.6",
 		"name": "Secure Notes",
 		"description": "Keeps your Joplin notes safe with password and encryption.",
 		"author": "Aravind Potluri",
-		"homepage_url": "https://cipherswami.github.io/joplin-plugin-secure-notes/",
+		"homepage_url": "https://joplinapp.org/plugins/plugin/com.cipherswami.secure.notes/",
 		"repository_url": "https://github.com/cipherswami/joplin-plugin-secure-notes",
 		"keywords": [
 			"joplin-plugin",
@@ -5877,8 +5877,7 @@
 		],
 		"categories": [
 			"productivity",
-			"files",
-			"editor"
+			"files"
 		],
 		"platforms": [
 			"desktop",
@@ -5920,12 +5919,9 @@
 			"128": "docs/assets/icon-128.png",
 			"512": "docs/assets/icon-512.png"
 		},
-		"promo_tile": {
-			"src": "docs/assets/secure-notes-promo.png",
-			"label": "Secure Notes"
-		},
-		"_publish_hash": "sha256:28cecbf1953e8a56c1824df53930fcd8b4e3b9a118b6869bbae69129425dce6f",
-		"_publish_commit": "main:2065b16e65e572a37e2c66db0fb829a326b8e374",
+		"promo_tile": {},
+		"_publish_hash": "sha256:29000669034a7b79b242b706d597ba120a5424b1f1658a01e674d62c0651d594",
+		"_publish_commit": "main:956d95306a1dc7bccb942fae3295e841d56dddf5",
 		"_npm_package_name": "joplin-plugin-secure-notes"
 	},
 	"com.joplin.excalidraw-v2": {
