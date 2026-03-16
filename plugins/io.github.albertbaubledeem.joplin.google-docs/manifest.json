@@ -31,7 +31,7 @@
 		"desktop"
 	],
 	"promo_tile": {},
-	"_publish_hash": "sha256:a92effe73c531d354eaf7048966139abc2e5a5a0924ef876b46151849385baed",
-	"_publish_commit": "master:67b5f792880a1c4df630915c65fb46976ad35e37",
+	"_publish_hash": "sha256:400e55b9fac30ba6ce9b19945b00349ff1e35dc1c156e497be703c5b2c3383d1",
+	"_publish_commit": "master:94325a4142257704ea3689b6af4da6efcf0985b9",
 	"_npm_package_name": "joplin-plugin-google-docs"
 }
