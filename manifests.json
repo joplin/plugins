@@ -6991,7 +6991,7 @@
 		"manifest_version": 1,
 		"id": "io.github.albertbaubledeem.joplin.google-docs",
 		"app_min_version": "2.6",
-		"version": "1.0.0",
+		"version": "1.0.2",
 		"name": "Google Docs Sync",
 		"description": "Sync Joplin notes with Google Docs",
 		"author": "AlbertBaubleDeem",
@@ -7019,9 +7019,8 @@
 		"platforms": [
 			"desktop"
 		],
-		"promo_tile": {},
-		"_publish_hash": "sha256:400e55b9fac30ba6ce9b19945b00349ff1e35dc1c156e497be703c5b2c3383d1",
-		"_publish_commit": "master:94325a4142257704ea3689b6af4da6efcf0985b9",
+		"_publish_hash": "sha256:ee15dd2a2b511a857224ad066a561ec49c1ef569b878310ef8d4d055092fff22",
+		"_publish_commit": "master:68119269fd4cb440aecd7b567b95b12939380c26",
 		"_npm_package_name": "joplin-plugin-google-docs"
 	},
 	"com.ckant.joplin-plugin-better-tables": {
