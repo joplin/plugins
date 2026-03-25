@@ -7129,5 +7129,16 @@
 		"_publish_hash": "sha256:b9aa2cad6d4d7a106e13c5ce6b9d59ea20ae8aa24b93b45b9af863e45cb3daef",
 		"_publish_commit": "master:4be65f3119f820e2f6db16a3b258e4b261b37d38",
 		"_npm_package_name": "joplin-plugin-readwise-sync"
+	},
+	"com.github.joplin-explorer": {
+		"manifest_version": 1,
+		"id": "com.github.joplin-explorer",
+		"app_min_version": "2.6.0",
+		"version": "1.0.2",
+		"name": "Joplin Explorer",
+		"description": "A unified sidebar that displays notebooks and notes together in a single tree view",
+		"author": "user",
+		"homepage_url": "https://github.com",
+		"_npm_package_name": "joplin-plugin-explorer"
 	}
 }
