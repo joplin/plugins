@@ -6724,7 +6724,7 @@
 		"manifest_version": 1,
 		"id": "com.wakakusa.filterable-notebook-tree-view",
 		"name": "Filterable Notebook TreeView",
-		"version": "0.0.3",
+		"version": "0.1.0",
 		"app_min_version": "3.5",
 		"platforms": [
 			"desktop"
@@ -6742,8 +6742,8 @@
 			"search",
 			"personal knowledge management"
 		],
-		"_publish_hash": "sha256:75fe2f676976fa7f9a3166d92076b8c7e7c2b5cd3a80f5485df8c6a7e360912c",
-		"_publish_commit": "main:19eae6fe4c12431ea89ba9aadf305768335e571a",
+		"_publish_hash": "sha256:ddebe0efc285ebdabb07bc2bcbaf25dee0ec3d759bef5afe1b57f4efe4507cb2",
+		"_publish_commit": "main:c90a34e0aa9c3d6490a6e82b826f1fbe6bf57cd6",
 		"_npm_package_name": "joplin-plugin-filterable-notebook-tree-view"
 	},
 	"joplin.plugin.autocard": {
