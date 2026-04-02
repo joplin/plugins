@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "org.joplinapp.plugins.ReadwiseSync",
 	"app_min_version": "3.5",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Readwise Sync",
 	"description": "Sync your Readwise highlights to Joplin. Creates one note per book with all highlights, and automatically syncs in the background.",
 	"author": "Laurent Cozic",
@@ -22,7 +22,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:b9aa2cad6d4d7a106e13c5ce6b9d59ea20ae8aa24b93b45b9af863e45cb3daef",
-	"_publish_commit": "master:4be65f3119f820e2f6db16a3b258e4b261b37d38",
+	"_publish_hash": "sha256:27cf751cb707b66ec693d8df62fcfe31017a8929b38a636d479f15f17ec369e6",
+	"_publish_commit": "master:8f80774b1e9e16bb3de946c9ab573a4260b964e8",
 	"_npm_package_name": "joplin-plugin-readwise-sync"
 }
