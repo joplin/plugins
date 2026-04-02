@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "net.individual-it.Supernote",
 	"app_min_version": "3.4",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"name": "supernote sync",
 	"description": "Sync your notes from your Supernote device into Joplin",
 	"author": "Artur Neumann",
@@ -23,7 +23,7 @@
 		"256": "images/icon-256.png"
 	},
 	"promo_tile": {},
-	"_publish_hash": "sha256:39d9487f49c603c9e0f0d44c6c69400c95fb1921c9643ae7748865dd475b0997",
-	"_publish_commit": "master:7dfa57e88c020f74992268e16002625ddad01ca3",
+	"_publish_hash": "sha256:1d54bdf4d97180834bdf44c49d1f27d4ec5d7cf16eceeab1f6cec7718d676ece",
+	"_publish_commit": "master:baa8e8d4fae896f78be9e29b74c8ec5c613788d4",
 	"_npm_package_name": "joplin-plugin-supernote-sync"
 }
