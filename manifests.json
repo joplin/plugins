@@ -6478,13 +6478,13 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.joplin-markdown-alerts",
 		"app_min_version": "3.3",
-		"version": "1.3.1",
+		"version": "1.4.1",
 		"platforms": [
 			"desktop",
 			"mobile"
 		],
-		"name": "Markdown Alerts and Quotes",
-		"description": "Add support for GitHub-style alerts (callouts) in the markdown editor/viewer, plus editor commands for alerts and blockquotes.",
+		"name": "Markdown Alerts and Formatting Commands",
+		"description": "Add support for GitHub-style alerts (callouts) in the markdown editor/viewer, plus editor commands for alerts, blockquotes, and inline formatting (strikethrough, highlight, underline, superscript, subscript).",
 		"author": "bwat47",
 		"homepage_url": "https://github.com/bwat47/joplin-markdown-alerts",
 		"repository_url": "https://github.com/bwat47/joplin-markdown-alerts",
@@ -6492,7 +6492,12 @@
 			"alerts",
 			"github",
 			"callouts",
-			"admonitions"
+			"admonitions",
+			"shortcut",
+			"toolbar",
+			"icons",
+			"menu",
+			"formatting"
 		],
 		"categories": [
 			"appearance",
@@ -6507,6 +6512,10 @@
 			{
 				"src": "images/screenshot2.png",
 				"label": "markdown alerts example 2"
+			},
+			{
+				"src": "images/screenshot3.png",
+				"label": "markdown alerts example 3"
 			}
 		],
 		"icons": {},
@@ -6514,8 +6523,8 @@
 			"src": "images/markdown-alerts-promo.png",
 			"label": "Markdown Alerts Promo Tile"
 		},
-		"_publish_hash": "sha256:c226bf0cc111726f79b7eb89c885d177040357ce66d08fca3e2c45c1897e3a7b",
-		"_publish_commit": "main:b3763cd63a95543515a6fbf0fc20d18ff7eed599",
+		"_publish_hash": "sha256:07032d68f09b5c3966f824bd38005a0a994e8831506b1eea15d5a2ce5e0b200a",
+		"_publish_commit": "main:19c967f5e1a5c5365f806109ed3679d28c7c9436",
 		"_npm_package_name": "joplin-plugin-markdown-alerts"
 	},
 	"com.cogitations.ai-writing-toolkit": {
