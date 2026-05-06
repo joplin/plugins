@@ -4470,7 +4470,7 @@
 			"mobile",
 			"desktop"
 		],
-		"version": "0.5.0",
+		"version": "0.5.1",
 		"name": "Resume Note",
 		"description": "Resume your work exactly where you left off: remembers cursor positions, and returns to your last note when opening notebooks or the app. Features a customisable home note and automatic editor toggling on mobile.",
 		"author": "Alon Diament",
@@ -4484,8 +4484,8 @@
 		],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:07b6b0f015c611437290314cd4493eefc2cd85ec98f7018767983b0952dd9675",
-		"_publish_commit": "main:61a46a2a63176c539c808f08b23e34da3383336d",
+		"_publish_hash": "sha256:5a038da1fb78f66715dea9a85927d92e69b3252dcee44de5dc0c0eccb68f5cb9",
+		"_publish_commit": "main:66218f6617a5f3c9833fc980dd88de63aa7a8779",
 		"_npm_package_name": "joplin-plugin-sticky-note"
 	},
 	"com.ckant.joplin-plugin-editor-themes": {
