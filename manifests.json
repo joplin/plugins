@@ -5331,7 +5331,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.copyashtml",
 		"app_min_version": "3.3",
-		"version": "1.5.5",
+		"version": "1.6.1",
 		"name": "Copy as HTML",
 		"description": "Allows you to copy text with HTML (rich text) formatting from the markdown editor (including images). Also allows you to copy as plain text (without markdown formatting)",
 		"author": "bwat47",
@@ -5404,67 +5404,61 @@
 			},
 			"preserveSuperscript": {
 				"type": "bool",
-				"label": "Preserve superscript characters (^TEST^)",
-				"description": "If enabled, ^TEST^ will remain ^TEST^ in plain text output.",
+				"label": "Preserve superscript markers",
+				"description": "If enabled, superscript markers will be preserved in plain text output.",
 				"value": false
 			},
 			"preserveSubscript": {
 				"type": "bool",
-				"label": "Preserve subscript characters (~TEST~)",
-				"description": "If enabled, ~TEST~ will remain ~TEST~ in plain text output.",
+				"label": "Preserve subscript markers",
+				"description": "If enabled, subscript markers will be preserved in plain text output.",
 				"value": false
 			},
 			"preserveEmphasis": {
 				"type": "bool",
-				"label": "Preserve emphasis characters (*TEST* or _TEST_)",
-				"description": "If enabled, *TEST* or _TEST_ will remain as-is in plain text output.",
+				"label": "Preserve emphasis markers",
+				"description": "If enabled, emphasis markers will be preserved in plain text output.",
 				"value": false
 			},
 			"preserveBold": {
 				"type": "bool",
-				"label": "Preserve bold characters (**TEST** or __TEST__)",
-				"description": "If enabled, **TEST** or __TEST__ will remain as-is in plain text output.",
+				"label": "Preserve bold markers",
+				"description": "If enabled, bold markers will be preserved in plain text output.",
 				"value": false
 			},
 			"preserveHeading": {
 				"type": "bool",
-				"label": "Preserve heading characters (## TEST)",
-				"description": "If enabled, ## TEST will remain as-is in plain text output.",
+				"label": "Preserve heading markers",
+				"description": "If enabled, heading markers will be preserved in plain text output.",
 				"value": false
 			},
 			"preserveStrikethrough": {
 				"type": "bool",
-				"label": "Preserve strikethrough characters (~~TEST~~)",
-				"description": "If enabled, ~~TEST~~ will remain as-is in plain text output.",
+				"label": "Preserve strikethrough markers",
+				"description": "If enabled, strikethrough markers will be preserved in plain text output.",
 				"value": false
 			},
 			"preserveHorizontalRule": {
 				"type": "bool",
-				"label": "Preserve horizontal rule (---)",
-				"description": "If enabled, horizontal rules will be preserved as --- in plain text output.",
+				"label": "Preserve horizontal rules",
+				"description": "If enabled, horizontal rules will be preserved in plain text output.",
 				"value": false
 			},
 			"preserveMark": {
 				"type": "bool",
-				"label": "Preserve highlight characters (==TEST==)",
-				"description": "If enabled, ==TEST== will remain as-is in plain text output.",
+				"label": "Preserve highlight markers",
+				"description": "If enabled, highlight markers will be preserved in plain text output.",
 				"value": false
 			},
 			"preserveInsert": {
 				"type": "bool",
-				"label": "Preserve insert characters (++TEST++)",
-				"description": "If enabled, ++TEST++ will remain as-is in plain text output.",
+				"label": "Preserve insert markers",
+				"description": "If enabled, insert markers will be preserved in plain text output.",
 				"value": false
-			},
-			"displayEmojis": {
-				"type": "bool",
-				"label": "Display emojis",
-				"description": "If enabled, emojis will be displayed in the plain text output.",
-				"value": true
 			},
 			"hyperlinkBehavior": {
 				"type": "enum",
-				"label": "Plain Text hyperlink behavior",
+				"label": "Plain text hyperlink behavior",
 				"description": "How external HTTP/HTTPS links should appear in plain text output.",
 				"options": {
 					"title": "Link Title",
@@ -5482,10 +5476,32 @@
 					"tabs": "Tabs"
 				},
 				"value": "spaces"
+			},
+			"listSpacing": {
+				"type": "enum",
+				"label": "List spacing",
+				"description": "Whether plain text lists should include blank lines between list items.",
+				"options": {
+					"tight": "Tight",
+					"loose": "Loose"
+				},
+				"value": "loose"
+			},
+			"displayEmojis": {
+				"type": "bool",
+				"label": "Display emojis",
+				"description": "If enabled, emojis will be displayed in the plain text output.",
+				"value": true
+			},
+			"preserveTablePipes": {
+				"type": "bool",
+				"label": "Preserve table pipes",
+				"description": "If enabled, markdown pipe separators will be preserved in plain text output.",
+				"value": false
 			}
 		},
-		"_publish_hash": "sha256:cbedb37094ddf5cbe1939a41c842e8a839ad47741eefd99c8cc29b4cc85d8230",
-		"_publish_commit": "main:c18022277d44ad9b2c290d9b0c19f9e79ce5c704",
+		"_publish_hash": "sha256:f8267b33a9e3af3e7b47023cc201216cfab66604203a5bfc7caae2d3eb205604",
+		"_publish_commit": "main:f4876f422e81637030e7360575028b9b62292c63",
 		"_npm_package_name": "joplin-plugin-copy-as-html"
 	},
 	"com.levi.NoteStatus": {
