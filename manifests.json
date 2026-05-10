@@ -7697,15 +7697,15 @@
 		"platforms": [
 			"desktop"
 		],
-		"version": "1.0.0",
+		"version": "1.0.4",
 		"keywords": [
 			"habit",
 			"tracker",
 			"heatmap",
 			"productivity"
 		],
-		"_publish_hash": "sha256:5daefcac7cbcbcda3db5d2294e44a0dde9372b039dbb768a3e0b034f3f12a7ca",
-		"_publish_commit": "main:edce64a555111e001af212aa2e6bc55079b3996f",
+		"_publish_hash": "sha256:1a72738fd27713384c7bfc942945553b2c7eb124cff968159372ee6b3376edd9",
+		"_publish_commit": "main:12469ea32fb1c063a35dab7eaea9cdcf31b5f663",
 		"_npm_package_name": "joplin-plugin-habit-tracker"
 	}
 }
