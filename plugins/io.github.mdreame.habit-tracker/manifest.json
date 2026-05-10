@@ -1,0 +1,25 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.mdreame.habit-tracker",
+	"app_min_version": "2.1",
+	"name": "Habit Tracker",
+	"description": "Track your habits with heatmap visualization. Embed ahabitmap code blocks in any note to display your progress.",
+	"author": "Mdreame",
+	"homepage_url": "https://github.com/Mdreame/Joplin-Habit-Tracker",
+	"categories": [
+		"productivity"
+	],
+	"platforms": [
+		"desktop"
+	],
+	"version": "1.0.0",
+	"keywords": [
+		"habit",
+		"tracker",
+		"heatmap",
+		"productivity"
+	],
+	"_publish_hash": "sha256:5daefcac7cbcbcda3db5d2294e44a0dde9372b039dbb768a3e0b034f3f12a7ca",
+	"_publish_commit": "main:edce64a555111e001af212aa2e6bc55079b3996f",
+	"_npm_package_name": "joplin-plugin-habit-tracker"
+}
