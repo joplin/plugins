@@ -7707,5 +7707,33 @@
 		"_publish_hash": "sha256:1a72738fd27713384c7bfc942945553b2c7eb124cff968159372ee6b3376edd9",
 		"_publish_commit": "main:12469ea32fb1c063a35dab7eaea9cdcf31b5f663",
 		"_npm_package_name": "joplin-plugin-habit-tracker"
+	},
+	"com.github.eugenelesnov.CanvasNotes": {
+		"manifest_version": 1,
+		"id": "com.github.eugenelesnov.CanvasNotes",
+		"app_min_version": "3.5",
+		"version": "0.8.0",
+		"name": "Canvas Notes",
+		"description": "Turn a note into an interactive canvas",
+		"author": "Eugene Lesnov",
+		"homepage_url": "https://github.com/eugene-lesnov/joplin-plugin-canvas-notes",
+		"repository_url": "https://github.com/eugene-lesnov/joplin-plugin-canvas-notes",
+		"platforms": [
+			"desktop"
+		],
+		"keywords": [
+			"canvas"
+		],
+		"categories": [
+			"editor",
+			"productivity",
+			"viewer"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:a87d177c0b683c02d9c52d1e56c6422588406d1059308083d62f1f2938ea14ff",
+		"_publish_commit": "main:2525adb73d32d08a5d8138f4b03888c50e45fdc9",
+		"_npm_package_name": "joplin-plugin-canvas-notes"
 	}
 }
