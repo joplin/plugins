@@ -2507,7 +2507,7 @@
 			"desktop",
 			"mobile"
 		],
-		"version": "0.13.0",
+		"version": "0.13.1",
 		"name": "Jarvis",
 		"description": "Joplin AI assistant running a very intelligent system (GPT, Claude, Gemini, Ollama, Hugging Face, ...), including: related notes (semantic search), chat with LLMs and your notes, prompt templates, auto-tags and more.",
 		"author": "Alon Diament",
@@ -2520,8 +2520,8 @@
 			"search",
 			"productivity"
 		],
-		"_publish_hash": "sha256:5deb1ec93522d918abe333c28954eb9d2d35e538c04767b70c9f6e889cb23868",
-		"_publish_commit": "master:dd52c55ec6fd5428232032f9ec46fe5f50d90068",
+		"_publish_hash": "sha256:57be98e41ba945f514c41acbb0e5f441b4f237d6d28340cfcfa9a16982305fd7",
+		"_publish_commit": "master:c28b871d86e0e8e168bc1f61c684b4eb71ccc7b7",
 		"_npm_package_name": "joplin-plugin-jarvis"
 	},
 	"albert.joplin.plugin7": {
