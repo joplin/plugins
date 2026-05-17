@@ -1,0 +1,28 @@
+{
+	"manifest_version": 1,
+	"id": "com.github.eugenelesnov.TodoQ",
+	"app_min_version": "3.5",
+	"version": "0.2.0",
+	"name": "TodoQ",
+	"description": "Inline to-do queries for Joplin",
+	"author": "Eugene Lesnov",
+	"homepage_url": "https://github.com/eugene-lesnov/joplin-plugin-todoq",
+	"repository_url": "https://github.com/eugene-lesnov/joplin-plugin-todoq",
+	"platforms": [
+		"desktop"
+	],
+	"keywords": [
+		"todo",
+		"query",
+		"inline"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:2b96b3619a3f48c96c767fb9971a0bd7255271cea70c935facab30d176bfaacd",
+	"_publish_commit": "main:239d631615c0bf89581bd714d44100d396380d57",
+	"_npm_package_name": "joplin-plugin-todoq"
+}
