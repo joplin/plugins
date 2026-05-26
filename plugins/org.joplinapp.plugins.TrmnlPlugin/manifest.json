@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "org.joplinapp.plugins.TrmnlPlugin",
 	"app_min_version": "3.5",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"name": "TRMNL Push",
 	"description": "Push Joplin search results to a TRMNL private plugin webhook",
 	"author": "Laurent Cozic",
@@ -20,7 +20,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:5c29b59ac46bcfe4d54ce473af16d1e1fcb607d4d7ad434e1a0b39e6c9fd1dbf",
-	"_publish_commit": "master:bade6e0d7687d67d2a8db62a39940a58dade3b0d",
+	"_publish_hash": "sha256:09a29ef0fd27a895ec83c93762701ba087ed491bb7131e6ae674d782f031e5c5",
+	"_publish_commit": "master:458974db212b02a914ba2d9e5c7cdc5bfb0829bb",
 	"_npm_package_name": "joplin-plugin-trmnl-plugin"
 }
