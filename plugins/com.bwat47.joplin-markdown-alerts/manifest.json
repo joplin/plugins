@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.joplin-markdown-alerts",
 	"app_min_version": "3.3",
-	"version": "1.6.3",
+	"version": "1.6.4",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -51,7 +51,7 @@
 		"src": "images/markdown-alerts-promo.png",
 		"label": "Markdown Alerts Promo Tile"
 	},
-	"_publish_hash": "sha256:91ffb5489477cd1fd21ea3332bea553fcb2df06cd7c165d1b1bf8f26b3e239a3",
-	"_publish_commit": "main:e8c4b90af1cce115024701016b41e2b944503b08",
+	"_publish_hash": "sha256:8b15ed80e00d32ad50b4da73861b46d82569e64a36126a504e5d1a7bb0aee220",
+	"_publish_commit": "main:71e8c68e87caf47b66073994f49f02da11b44843",
 	"_npm_package_name": "joplin-plugin-markdown-alerts"
 }
