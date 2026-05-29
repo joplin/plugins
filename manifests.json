@@ -2162,7 +2162,7 @@
 		"manifest_version": 1,
 		"id": "com.leenzhu.journal",
 		"app_min_version": "2.7",
-		"version": "2.0.0",
+		"version": "2.4.0",
 		"name": "Journal",
 		"description": "A simple journal. Create or open a note for today, or any selected date.",
 		"author": "Leen Zhu",
@@ -2175,8 +2175,8 @@
 			"desktop",
 			"mobile"
 		],
-		"_publish_hash": "sha256:05099bf35b10b238d38707135b3701c66e1b47ff10ce7ab9dcd225cda3a7d8c7",
-		"_publish_commit": "master:6d12c00faeff30088290dfee6657eef2cb5dedfe",
+		"_publish_hash": "sha256:476a5d7097f56343275e361878b1fb7a438b7e8274344413fcd27f83c716cf18",
+		"_publish_commit": "master:719775ce3d055c1e2f5e2a46dc805ed8ad152696",
 		"_npm_package_name": "joplin-plugin-journal"
 	},
 	"io.github.personalizedrefrigerator.js-draw": {
