@@ -6234,7 +6234,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.codeblock-autocomplete",
 		"app_min_version": "3.3",
-		"version": "1.2.4",
+		"version": "1.2.5",
 		"platforms": [
 			"desktop",
 			"mobile"
@@ -6276,8 +6276,8 @@
 			"src": "images/promo.png",
 			"label": "Codeblock Autocomplete Promo Tile"
 		},
-		"_publish_hash": "sha256:2c8555a82c0070846719c7c71d63efb2e8b4f8b31a186ac5b2c411626add6ff5",
-		"_publish_commit": "main:7a42cbcd6ba04564921fd8097a0cabbf880c6cea",
+		"_publish_hash": "sha256:510263d778b7fc68f5a234a58cd9f4fdb5f497ee4b613d64617709fc2df0cf7f",
+		"_publish_commit": "main:e45427a256aad05e8414b4883f86927fb2316cc0",
 		"_npm_package_name": "joplin-plugin-codeblock-autocomplete"
 	},
 	"joplin.hyongew.hide-notebooks": {
