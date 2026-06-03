@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "com.schmittmachine.cwl_count",
+	"app_min_version": "3.5",
+	"version": "1.0.1",
+	"name": "Char Word and Line Count",
+	"description": "Displays char, word and line count of current note and selection",
+	"author": "Antoine Schmitt",
+	"homepage_url": "https://github.com/antoineschmitt/joplin_plugin_cwl_count",
+	"repository_url": "https://github.com/antoineschmitt/joplin_plugin_cwl_count",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:e8f4d33c70c1d0120ffde6b29f306973ce0f84417019ad1e5ddc9bb5a6bdf053",
+	"_publish_commit": "main:c1ed6e79bd3cac8ee9dbaa0501009d9bf84cccab",
+	"_npm_package_name": "joplin-plugin-char-word-and-line-count"
+}
