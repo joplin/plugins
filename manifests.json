@@ -7485,7 +7485,7 @@
 		"manifest_version": 1,
 		"id": "com.github.eugenelesnov.CalendarNotes",
 		"app_min_version": "3.5",
-		"version": "2.1.0",
+		"version": "2.2.0",
 		"name": "Calendar Notes",
 		"description": "Create notes for any day in the calendar.",
 		"author": "Eugene Lesnov",
@@ -7501,8 +7501,8 @@
 		"screenshots": [],
 		"icons": {},
 		"promo_tile": {},
-		"_publish_hash": "sha256:ea9b31f616b8ebdae0fa9dd7a11d91fe102908b24ae2c36fe478d275cff2b379",
-		"_publish_commit": "main:cc3f2c7ffbd59b8f4b19d8513e2582dd11217745",
+		"_publish_hash": "sha256:fb8e83b1c248fe673daefa62fe22b827de2ce9f95818b74c12b50d8320a3e9d9",
+		"_publish_commit": "main:1ef84a3d1c6f2987e7a26481f3718a9b5caf768c",
 		"_npm_package_name": "joplin-plugin-calendar-notes"
 	},
 	"com.github.eugenelesnov.LinkIt": {
