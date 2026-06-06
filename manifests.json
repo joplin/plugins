@@ -7794,12 +7794,12 @@
 		"manifest_version": 1,
 		"id": "com.schmittmachine.cwl_count",
 		"app_min_version": "3.5",
-		"version": "1.0.2",
+		"version": "1.0.3",
 		"name": "Char Word and Line Count",
 		"description": "Displays char, word and line count of current note and selection",
 		"author": "Antoine Schmitt",
-		"homepage_url": "https://github.com/antoineschmitt/joplin_plugin_cwl_count",
-		"repository_url": "https://github.com/antoineschmitt/joplin_plugin_cwl_count",
+		"homepage_url": "https://codeberg.org/schmittmachine/joplin_plugin_cwl_count",
+		"repository_url": "https://codeberg.org/schmittmachine/joplin_plugin_cwl_count",
 		"keywords": [],
 		"categories": [
 			"editor",
@@ -7822,8 +7822,8 @@
 		"platforms": [
 			"desktop"
 		],
-		"_publish_hash": "sha256:3c4a95ccbdf46b111507b34f85f9d0e1f686f353567ead6d079289b58272dec2",
-		"_publish_commit": "main:f00f6e4772275a5e6247c23f06c2b6e090c99ef1",
+		"_publish_hash": "sha256:d2fedd7fdde47ef4d0d293e42d76fa7fe7acb564c784873ce6bffeb46ae978d5",
+		"_publish_commit": "main:afd79bb10b82c9ce28f0a3c313d3d39ebae01630",
 		"_npm_package_name": "joplin-plugin-char-word-and-line-count"
 	},
 	"io.github.pulsarlens.daily-habits": {
