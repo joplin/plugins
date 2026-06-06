@@ -7855,5 +7855,41 @@
 		"_publish_hash": "sha256:eb4e0edab2a169c512e0c7e2c53a0ca7d1e8971faa9c6101188cd08150c03b4a",
 		"_publish_commit": "main:25fb433c11207cc84fbbb133654673d6724b8122",
 		"_npm_package_name": "joplin-plugin-daily-habits"
+	},
+	"com.personal.joplin-gpt-assistant": {
+		"manifest_version": 1,
+		"id": "com.personal.joplin-gpt-assistant",
+		"app_min_version": "3.5",
+		"version": "1.0.1",
+		"name": "Joplin GPT Assistant",
+		"description": "Summarize and rewrite Joplin notes with OpenAI, 9Router, or any OpenAI-compatible chat completions API.",
+		"author": "Nguyen Van Chinh",
+		"homepage_url": "https://github.com/Chinh00/joplin-gpt#readme",
+		"repository_url": "https://github.com/Chinh00/joplin-gpt",
+		"keywords": [
+			"gpt",
+			"openai",
+			"9router",
+			"ai",
+			"assistant",
+			"notes"
+		],
+		"categories": [
+			"productivity",
+			"integrations"
+		],
+		"screenshots": [],
+		"icons": {
+			"16": "icons/icon-16.png",
+			"32": "icons/icon-32.png",
+			"48": "icons/icon-48.png",
+			"128": "icons/icon-128.png"
+		},
+		"promo_tile": {
+			"src": "promo_tile/promo.png"
+		},
+		"_publish_hash": "sha256:18feecb52b1849a5895e5a96cfdb7c0d340f5bbeecd3de6acaba7a2ff7cca3b5",
+		"_publish_commit": "main:a106b299a7fa8c13bcedd17bea185c5a1917e60a",
+		"_npm_package_name": "joplin-plugin-gpt-assistant"
 	}
 }
