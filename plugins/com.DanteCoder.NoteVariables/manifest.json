@@ -2,14 +2,14 @@
 	"manifest_version": 1,
 	"id": "com.DanteCoder.NoteVariables",
 	"app_min_version": "2.2",
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"name": "Note Variables",
-	"description": "A plugin to create variables that can be accesed through all the notes.",
+	"description": "A plugin to create variables that can be accessed through all the notes.",
 	"author": "Dante G. Barboza",
 	"homepage_url": "https://github.com/DanteCoder/JoplinPluginNoteVariables#readme",
 	"repository_url": "https://github.com/DanteCoder/JoplinPluginNoteVariables",
 	"keywords": [],
-	"_publish_hash": "sha256:799729b0029eb015830a3f0a9ef14521045ffb505d412e85c9ff4c76b2d4b60f",
-	"_publish_commit": "main:80216d41b1be83bc3a17679158c9291cba5ef7af",
+	"_publish_hash": "sha256:5e794b21ec25802d988f399ccbba501da4e0f81775c06730c962602f0039176f",
+	"_publish_commit": "update:ee4f5a7ec8f70f194ea61942c48394953d7ca8f7",
 	"_npm_package_name": "joplin-plugin-note-variables"
 }
