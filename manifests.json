@@ -5548,7 +5548,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.simple-image-resize",
 		"app_min_version": "3.3",
-		"version": "1.5.19",
+		"version": "1.6.0",
 		"platforms": [
 			"desktop",
 			"mobile"
@@ -5638,8 +5638,14 @@
 			"showQuickResizeInContextMenu": {
 				"type": "bool",
 				"label": "Display quick resize options in context menu",
-				"description": "[Desktop Only] Show quick resize options (25%, 50%, 75%, 100%) in the right-click context menu",
+				"description": "[Desktop Only] Show configured quick resize options in the right-click context menu",
 				"value": false
+			},
+			"quickResizeOptions": {
+				"type": "string",
+				"label": "Quick resize options",
+				"description": "Comma-separated list that determines the Quick resize options. Use 1-5 positive whole-number values, with units (percent or pixels), e.g.: 100%, 75%, 300px.",
+				"value": "100%, 75%, 50%, 33%, 25%"
 			},
 			"showToastMessages": {
 				"type": "bool",
@@ -5648,8 +5654,8 @@
 				"value": true
 			}
 		},
-		"_publish_hash": "sha256:a2e6e880b8f57334bbd10bb54747d124ae4b8337948e6e14ded3db3ead4d8dd5",
-		"_publish_commit": "main:c44e42d0ea4dd71620f60fe5ada3676075870503",
+		"_publish_hash": "sha256:b009a8044b42a00fcc85d4ce3c8865b5d89a0fd6e4abf6668d8c50bcac85e026",
+		"_publish_commit": "main:965156c6bece30aed004cf914c6e7d327bee74f6",
 		"_npm_package_name": "joplin-plugin-simple-image-resize"
 	},
 	"com.bwat47.paste-as-markdown": {
