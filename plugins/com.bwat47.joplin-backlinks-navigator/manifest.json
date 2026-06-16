@@ -1,0 +1,58 @@
+{
+	"manifest_version": 1,
+	"id": "com.bwat47.joplin-backlinks-navigator",
+	"app_min_version": "3.5",
+	"version": "1.0.0",
+	"name": "Backlinks Navigator",
+	"description": "View and navigate to backlinks in the markdown editor",
+	"author": "bwat47",
+	"homepage_url": "https://github.com/bwat47/joplin-backlinks-navigator",
+	"repository_url": "https://github.com/bwat47/joplin-backlinks-navigator",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"keywords": [
+		"joplin-plugin",
+		"backlinks",
+		"links",
+		"navigation",
+		"editor"
+	],
+	"categories": [
+		"productivity",
+		"editor"
+	],
+	"screenshots": [
+		{
+			"src": "images/screenshot1.png",
+			"label": "Backlinks Navigator screenshot 1"
+		},
+		{
+			"src": "images/screenshot2.png",
+			"label": "Backlinks Navigator screenshot 2"
+		}
+	],
+	"icons": {
+		"16": "images/16.png",
+		"24": "images/24.png",
+		"32": "images/32.png",
+		"48": "images/48.png",
+		"64": "images/64.png",
+		"128": "images/128.png"
+	},
+	"promo_tile": {
+		"src": "images/backlinks-navigator_promo_tile.png",
+		"label": "Backlinks Navigator Promo Tile"
+	},
+	"content_scripts": [
+		{
+			"id": "backlinksNavigatorPanel",
+			"path": "./contentScripts/backlinksNavigator.js",
+			"type": "codeMirrorPlugin"
+		}
+	],
+	"_publish_hash": "sha256:652facffa96cac624900c7ea58402ba1f6cb1a5d064de36e7c20056ffb61ae49",
+	"_publish_commit": "main:cbb995d1846d7d57f3a5c0df6f312e9a7af6e161",
+	"_npm_package_name": "joplin-plugin-backlinks-navigator"
+}
