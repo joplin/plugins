@@ -7939,7 +7939,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.joplin-backlinks-navigator",
 		"app_min_version": "3.5",
-		"version": "1.0.2",
+		"version": "1.0.3",
 		"name": "Backlinks Navigator",
 		"description": "View and navigate to backlinks in the markdown editor",
 		"author": "bwat47",
@@ -7989,8 +7989,8 @@
 				"type": "codeMirrorPlugin"
 			}
 		],
-		"_publish_hash": "sha256:92cb41951699eb1be0f2da3bff2e40779bc7bca0f8c8e84e8e40dc3dfaca3933",
-		"_publish_commit": "main:6b42ffc2ded539007f209dbc39c654d6a77867bb",
+		"_publish_hash": "sha256:c9d0deb244446e6283148ff9a7c9bbf817431d3bf3242bab8ade0d67bec1c517",
+		"_publish_commit": "main:bda70dcecd6ec9300d36473aa20da000234b230a",
 		"_npm_package_name": "joplin-plugin-backlinks-navigator"
 	}
 }
