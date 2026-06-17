@@ -1,0 +1,30 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.lansidev.shopping-list",
+	"app_min_version": "3.5",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"version": "1.0.5",
+	"name": "Shopping List",
+	"description": "Turn a Markdown note into an interactive, store-grouped shopping list. Items auto-sort into stores by configurable regex patterns (walking-path order); tick them off or push them to the next matching store.",
+	"author": "lansidev",
+	"homepage_url": "https://github.com/lansidev/joplin-shopping-list",
+	"repository_url": "https://github.com/lansidev/joplin-shopping-list",
+	"keywords": [
+		"shopping",
+		"groceries",
+		"checklist",
+		"editor"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:a3f96cdd9dc9f319d18741bed8c049b86c6628e9d18199eefc29080556e8a15c",
+	"_publish_commit": "main:66f4b188b0001f3b0c162df62e74db9acecbbb4c",
+	"_npm_package_name": "joplin-plugin-shopping-list"
+}
