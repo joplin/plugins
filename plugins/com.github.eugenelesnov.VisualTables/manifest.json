@@ -1,0 +1,30 @@
+{
+	"manifest_version": 1,
+	"id": "com.github.eugenelesnov.VisualTables",
+	"app_min_version": "3.5",
+	"version": "0.0.1",
+	"name": "Visual Tables",
+	"description": "Render and edit tables visually in the Markdown editor: live table preview, inline cell editing, hover controls to add rows/columns, and a context menu for inserting, clearing and deleting rows/columns.",
+	"author": "Eugene Lesnov",
+	"homepage_url": "https://github.com/eugene-lesnov/joplin-plugin-visual-tables",
+	"repository_url": "https://github.com/eugene-lesnov/joplin-plugin-visual-tables",
+	"platforms": [
+		"desktop"
+	],
+	"keywords": [
+		"table",
+		"tables",
+		"editor",
+		"markdown",
+		"codemirror"
+	],
+	"categories": [
+		"editor"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:8c78b7a0588927f5bd6d6f969a650fb86acc9b7c363c8d89cc1c81447cb14f61",
+	"_publish_commit": "main:f7630c630dc37dc2bcd00945069c08142eb5c93d",
+	"_npm_package_name": "joplin-plugin-visual-tables"
+}
