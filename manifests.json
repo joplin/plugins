@@ -6373,7 +6373,7 @@
 		"manifest_version": 1,
 		"id": "com.scrayil.joplin-plugin-projects",
 		"app_min_version": "3.4.12",
-		"version": "1.3.0",
+		"version": "1.5.0",
 		"name": "Projects",
 		"description": "Easily manage and schedule projects, integrating tasks directly with your knowledge base.",
 		"author": "Mattia Bennati (Scrayil)",
@@ -6434,8 +6434,8 @@
 			"src": "assets/promo.png",
 			"label": "The plugin's promo tile image"
 		},
-		"_publish_hash": "sha256:7d950e0cd689b662566454b58da8c5307358adfca386c25463bec5440ea7692a",
-		"_publish_commit": "main:84d014f56600e2b0801dca465a1fe68032ee4b7d",
+		"_publish_hash": "sha256:9357b13864e721f9c876c2a51a1bb3835fb6afa966cd308d2900f7bc6f5d8a27",
+		"_publish_commit": "master:67f5ab4b7dffd8121ba0841dce9d5cabc71fa598",
 		"_npm_package_name": "joplin-plugin-projects"
 	},
 	"net.individual-it.Supernote": {
