@@ -8052,5 +8052,33 @@
 		"_publish_hash": "sha256:8c78b7a0588927f5bd6d6f969a650fb86acc9b7c363c8d89cc1c81447cb14f61",
 		"_publish_commit": "main:f7630c630dc37dc2bcd00945069c08142eb5c93d",
 		"_npm_package_name": "joplin-plugin-visual-tables"
+	},
+	"vip.bestsvip.note-ai": {
+		"manifest_version": 1,
+		"id": "vip.bestsvip.note-ai",
+		"app_min_version": "3.6",
+		"version": "1.0.1",
+		"name": "Note AI",
+		"description": "用 AI 處理筆記內容 — 支援任何 OpenAI-compatible API（DeepSeek、OpenAI、Ollama、LM Studio 等）",
+		"author": "Jesse Lin",
+		"homepage_url": "https://github.com/linuxxunil/joplin-plugin-note-ai",
+		"repository_url": "https://github.com/linuxxunil/joplin-plugin-note-ai",
+		"keywords": [
+			"ai",
+			"llm",
+			"chat",
+			"note",
+			"openai",
+			"deepseek"
+		],
+		"categories": [
+			"productivity"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:5e50ca511106de4d9d5d5ba2fbab9a2442978a50bd073a72d5da0d754cc9e924",
+		"_publish_commit": "main:0d86f125db845ecef304d6e9070021bf8bfaf564",
+		"_npm_package_name": "joplin-plugin-note-ai"
 	}
 }
