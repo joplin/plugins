@@ -8091,8 +8091,8 @@
 		"manifest_version": 1,
 		"id": "hack.aron.joplin.favorites",
 		"app_min_version": "2.1.5",
-		"version": "1.4.0",
-		"name": "Favorites",
+		"version": "1.6.0",
+		"name": "Favorites 2",
 		"description": "Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access.",
 		"author": "Aron Wu (ARON-HACK)",
 		"homepage_url": "https://github.com/ARON-HACK/joplin-favorites-2",
@@ -8111,8 +8111,34 @@
 			"panel",
 			"view"
 		],
-		"_publish_hash": "sha256:4f9e956a447f054d46d77b94ccff275a06043e0727386c1953dd87a1f45406e8",
-		"_publish_commit": "master:d61e2930abbfcb9623accf1a13b517e19c2ee475",
+		"categories": [
+			"productivity",
+			"personal knowledge management"
+		],
+		"screenshots": [
+			{
+				"src": "assets/favorites-sidebar-vertical.png",
+				"label": "Favorites panel docked in the sidebar"
+			},
+			{
+				"src": "assets/favorites-top-horizontal.png",
+				"label": "Favorites bar docked at the top"
+			},
+			{
+				"src": "assets/quick-jump-shortcuts.png",
+				"label": "Quick jump keyboard shortcuts (Cmd/Ctrl+1-9)"
+			},
+			{
+				"src": "assets/add-dialog.png",
+				"label": "Add favorite dialog"
+			},
+			{
+				"src": "assets/settings-sidebar-styles.png",
+				"label": "Settings for panel placement and styling"
+			}
+		],
+		"_publish_hash": "sha256:6ab01fd0922411b81f0be2900ce5f0b2923a031d14b3510e07207a72fe49c864",
+		"_publish_commit": "settings-file-migration:d99d216ce2213c6a9180b3fbf1aec9cd7797cd41",
 		"_npm_package_name": "joplin-plugin-aronhack-favorites"
 	}
 }
