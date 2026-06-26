@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.joplin-backlinks-navigator",
 	"app_min_version": "3.5",
-	"version": "1.2.1",
+	"version": "1.2.2",
 	"name": "Backlinks Navigator",
 	"description": "View and navigate backlinks and outgoing links in the markdown editor",
 	"author": "bwat47",
@@ -56,7 +56,7 @@
 			"type": "codeMirrorPlugin"
 		}
 	],
-	"_publish_hash": "sha256:b9a53b010aafc1f923148a3f58a104c5e75ded4fd8a91f518603a72a89ba1afe",
-	"_publish_commit": "main:d6b83e032a2f2d9382287f8426993892271f1f55",
+	"_publish_hash": "sha256:ff6eee4e719637cb7303c70366d92555dc2e2ca90594c7e7e7ad64c4945930d6",
+	"_publish_commit": "main:a203e761bf911f55d8c14b200c140a47b1546761",
 	"_npm_package_name": "joplin-plugin-backlinks-navigator"
 }
