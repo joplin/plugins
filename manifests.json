@@ -8140,5 +8140,49 @@
 		"_publish_hash": "sha256:6ab01fd0922411b81f0be2900ce5f0b2923a031d14b3510e07207a72fe49c864",
 		"_publish_commit": "settings-file-migration:d99d216ce2213c6a9180b3fbf1aec9cd7797cd41",
 		"_npm_package_name": "joplin-plugin-aronhack-favorites"
+	},
+	"org.joplinapp.plugins.joplinRTETablesKBPlugin": {
+		"manifest_version": 1,
+		"id": "org.joplinapp.plugins.joplinRTETablesKBPlugin",
+		"license": "MIT",
+		"app_min_version": "3.6.0",
+		"version": "1.0.0",
+		"name": "Rich Text Editor Tables Keyboard Shortcuts",
+		"description": "Work faster in Rich Text Editor Tables by adding Keyboard Shortcuts for a dozen functions like add row, swap row, select and copy cell, etc.",
+		"author": "Ron Dippold",
+		"homepage_url": "https://codeberg.org/sizer99/Joplin-Rich-Text-Editor-Tables-Keyboard-Shortcuts-Plugin",
+		"repository_url": "https://codeberg.org/sizer99/Joplin-Rich-Text-Editor-Tables-Keyboard-Shortcuts-Plugin",
+		"platforms": [
+			"desktop"
+		],
+		"keywords": [
+			"joplin-plugin",
+			"RichText",
+			"Tables",
+			"KeyboardShortcuts"
+		],
+		"categories": [
+			"editor",
+			"productivity"
+		],
+		"promo_tile": {},
+		"screenshots": [
+			{
+				"src": "https://codeberg.org/sizer99/Joplin-Rich-Text-Editor-Tables-Keyboard-Shortcuts-Plugin/src/branch/main/pix/screenshot_1.png",
+				"label": "Screenshot: Options -> Keyboard Shortcuts 'RTET'"
+			},
+			{
+				"src": "https://codeberg.org/sizer99/Joplin-Rich-Text-Editor-Tables-Keyboard-Shortcuts-Plugin/src/branch/main/pix/screenshot_2.png",
+				"label": "Screenshot: Tools -> Rich Text Editor Table submenu"
+			}
+		],
+		"icons": {
+			"64": "pix/icon_64.png",
+			"128": "pix/icon_128.png",
+			"256": "pix/icon_256.png"
+		},
+		"_publish_hash": "sha256:7321822b29ac851ce09700b816dd752d781c05d2496939900c6ca5677ddc70ce",
+		"_publish_commit": "main:d29ad2c4a770f75030f92fc368b5ceab064c0657",
+		"_npm_package_name": "joplin-plugin-richtext-tables-helper"
 	}
 }
