@@ -8219,5 +8219,37 @@
 		"_publish_hash": "sha256:28a23e0147ba55860dc510adbb8878c1be86b3e86302473f206625d9989e4983",
 		"_publish_commit": "main:388205988f31f8226e7259b1cb4733a56fe0be7e",
 		"_npm_package_name": "joplin-plugin-markdown-formatter"
+	},
+	"io.github.pulsarlens.daily-growth-tracker": {
+		"manifest_version": 1,
+		"id": "io.github.pulsarlens.daily-growth-tracker",
+		"app_min_version": "3.0.0",
+		"app_min_version_mobile": "3.1.0",
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"version": "1.0.0",
+		"name": "Daily Growth Tracker",
+		"description": "Daily habit tracker and personal finances dashboard (income, expenses, investments) in one home screen. Data is stored as metadata on a single note so it syncs across desktop and mobile.",
+		"author": "pulsarnomada9 (https://pulsarnomadas.com)",
+		"homepage_url": "https://github.com/pulsarnomadas/daily-growth-tracker",
+		"repository_url": "https://github.com/pulsarnomadas/daily-growth-tracker",
+		"keywords": [
+			"habits",
+			"tracker",
+			"finances",
+			"budget",
+			"productivity",
+			"streak"
+		],
+		"categories": [
+			"productivity",
+			"personal knowledge management"
+		],
+		"icons": {},
+		"_publish_hash": "sha256:930b5a4f05ac79315cbddfd0b28c3ad325a6b8a8679a491879d8ab8850640e6c",
+		"_publish_commit": "main:36e5c6fc640e56fba70a69d7928d856365af62f8",
+		"_npm_package_name": "joplin-plugin-daily-growth-tracker"
 	}
 }
