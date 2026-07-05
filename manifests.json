@@ -8229,7 +8229,7 @@
 			"desktop",
 			"mobile"
 		],
-		"version": "1.0.0",
+		"version": "1.0.1",
 		"name": "Daily Growth Tracker",
 		"description": "Daily habit tracker and personal finances dashboard (income, expenses, investments) in one home screen. Data is stored as metadata on a single note so it syncs across desktop and mobile.",
 		"author": "pulsarnomada9 (https://pulsarnomadas.com)",
@@ -8248,8 +8248,8 @@
 			"personal knowledge management"
 		],
 		"icons": {},
-		"_publish_hash": "sha256:930b5a4f05ac79315cbddfd0b28c3ad325a6b8a8679a491879d8ab8850640e6c",
-		"_publish_commit": "main:36e5c6fc640e56fba70a69d7928d856365af62f8",
+		"_publish_hash": "sha256:26d0cbc6b044e35eb6f854a9c12af65864d5138d25569f6e21105c716874c3ba",
+		"_publish_commit": "main:6df66fe5d9c9b3ab3e995c1d00d244277c59f5d6",
 		"_npm_package_name": "joplin-plugin-daily-growth-tracker"
 	},
 	"com.github.joplin-minimap": {
