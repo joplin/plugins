@@ -8281,9 +8281,9 @@
 		"version": "1.0.0",
 		"name": "Full Notebook View",
 		"description": "A Windows File Explorer-style tree view panel showing notebooks and notes with expand/collapse, search, sort, and new note creation.",
-		"author": "",
-		"homepage_url": "",
-		"repository_url": "",
+		"author": "rinchord",
+		"homepage_url": "https://github.com/Rinsutoringu/full_notebook_view",
+		"repository_url": "https://github.com/Rinsutoringu/full_notebook_view",
 		"keywords": [
 			"notebooks",
 			"tree-view",
@@ -8296,10 +8296,10 @@
 		],
 		"screenshots": [],
 		"icons": {
-			"256": "icon.png"
+			"256": "assets/icon.png"
 		},
-		"_publish_hash": "sha256:600878368aacb83b97028a58c69da4c13fde2464f4e9aea1097140092c5612fd",
-		"_publish_commit": "main:a34d4b4aa7871ba66f5c8559af3c5b2050d5db49",
+		"_publish_hash": "sha256:8807bdbc4f1319dfb983f42418c920defb610ce0acfc2fcf2f5027ffc144d1ed",
+		"_publish_commit": "main:2d846049cf72c5b3f5b78986e06ca21852ce9b0f",
 		"_npm_package_name": "joplin-plugin-full-notebook-view"
 	}
 }
