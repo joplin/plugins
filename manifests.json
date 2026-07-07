@@ -8295,9 +8295,11 @@
 			"appearance"
 		],
 		"screenshots": [],
-		"icons": {},
-		"_publish_hash": "sha256:c2b0df231dbdf5d146f89cfa12ce65dfae43e143c5059bdfd453dfd119448c88",
-		"_publish_commit": "main:6975489ef80fa7c1deee4f0ee809dea21344a56f",
+		"icons": {
+			"256": "icon.png"
+		},
+		"_publish_hash": "sha256:600878368aacb83b97028a58c69da4c13fde2464f4e9aea1097140092c5612fd",
+		"_publish_commit": "main:a34d4b4aa7871ba66f5c8559af3c5b2050d5db49",
 		"_npm_package_name": "joplin-plugin-full-notebook-view"
 	}
 }
