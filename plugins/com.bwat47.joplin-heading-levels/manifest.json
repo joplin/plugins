@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.joplin-heading-levels",
 	"app_min_version": "3.5",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -28,7 +28,7 @@
 	],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:ed69af2e6ac5798906bd447436522dcb934ee2a6c68e129257d51efbcebd989f",
-	"_publish_commit": "main:ef94bab16b82fcebdc64bb2fb39c314bb25fe219",
+	"_publish_hash": "sha256:507dbfeb4d8bf54735ed6cbe076b543ed3d0f2c39db721330c13a79952cdcf12",
+	"_publish_commit": "main:2087247c08e23c3d93a5bbb1c68bec650c3ac578",
 	"_npm_package_name": "joplin-plugin-heading-levels"
 }
