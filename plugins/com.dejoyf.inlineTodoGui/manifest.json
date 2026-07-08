@@ -1,0 +1,30 @@
+{
+	"manifest_version": 1,
+	"id": "com.dejoyf.inlineTodoGui",
+	"app_min_version": "3.0.0",
+	"version": "1.2.4",
+	"name": "Inline TODO Quick Add",
+	"description": "Place your cursor in front of a task in a note, run the command, and it converts the text to the right of the cursor into an @TODO line with an optional due date (defaults to tomorrow, with a click-to-pick calendar) and tags. Pairs with the Inline TODO plugin (plugin.calebjohn.todo).",
+	"author": "Frank DeJoy",
+	"homepage_url": "https://github.com/dejoyf-jpg/homelab/tree/main/plugins/joplin-inline-todo-gui",
+	"repository_url": "https://github.com/dejoyf-jpg/homelab",
+	"keywords": [
+		"todo",
+		"task",
+		"inline-todo",
+		"checkbox",
+		"gui"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"platforms": [
+		"desktop"
+	],
+	"_publish_hash": "sha256:1116efb7e0f17870cdb140d692b0ec409f2445ce25327927ceb3c3ed2d24bd08",
+	"_publish_commit": "main:af7e36c0726cdd7f28fa11a9bed62d589c60283d",
+	"_npm_package_name": "joplin-plugin-inline-todo-gui"
+}
