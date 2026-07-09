@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.dejoyf.inlineTodoGui",
 	"app_min_version": "3.0.0",
-	"version": "1.2.4",
+	"version": "1.2.5",
 	"name": "Inline TODO Quick Add",
 	"description": "Place your cursor in front of a task in a note, run the command, and it converts the text to the right of the cursor into an @TODO line with an optional due date (defaults to tomorrow, with a click-to-pick calendar) and tags. Pairs with the Inline TODO plugin (plugin.calebjohn.todo).",
 	"author": "Frank DeJoy",
@@ -24,7 +24,7 @@
 	"platforms": [
 		"desktop"
 	],
-	"_publish_hash": "sha256:1116efb7e0f17870cdb140d692b0ec409f2445ce25327927ceb3c3ed2d24bd08",
-	"_publish_commit": "main:af7e36c0726cdd7f28fa11a9bed62d589c60283d",
+	"_publish_hash": "sha256:d84af0e54fa1c37c86f38e25baf7ce26c5c58ea47ff7bdac55e5389fe135c1c9",
+	"_publish_commit": "main:0558879a9fdce41b6fcc5f55949077944824af12",
 	"_npm_package_name": "joplin-plugin-inline-todo-gui"
 }
