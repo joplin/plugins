@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.github.joplin-claude",
 	"app_min_version": "2.8",
-	"version": "0.4.1",
+	"version": "0.4.2",
 	"name": "Joplin Claude",
 	"description": "Chat with Claude inside Joplin. Claude can read, search, create and edit your notes through your local Claude Code CLI. Write operations require your confirmation.",
 	"author": "lim0513",
