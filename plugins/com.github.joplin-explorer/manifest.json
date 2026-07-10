@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.github.joplin-explorer",
 	"app_min_version": "2.6.0",
-	"version": "1.3.1",
+	"version": "1.3.4",
 	"name": "Joplin Explorer",
 	"description": "A unified sidebar that displays notebooks and notes together in a single tree view",
 	"author": "lim0513",
