@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.github.joplin-minimap",
 	"app_min_version": "2.8",
-	"version": "1.1.6",
+	"version": "1.1.7",
 	"name": "Joplin Minimap",
 	"description": "A hover-to-expand table of contents minimap for the note viewer. Shows heading tick marks on the right edge; hover to expand into a full ToC, click to jump.",
 	"author": "lim0513",
