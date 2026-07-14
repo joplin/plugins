@@ -699,6 +699,6 @@
 		],
 		"_npm_package_name": "joplin-plugin-claude",
 		"_obsolete": true,
-		"_obsolete_reason": "Renamed to Joplin Aide (com.github.joplin-aide, npm: joplin-plugin-aide) - same plugin under a new id, now with dual AI backend (Claude Code / GitHub Copilot CLI). Please install Joplin Aide instead."
+		"_obsolete_reason": "Renamed to Joplin Aide (com.github.joplin-aide, npm: joplin-plugin-aide) - same plugin under a new id, now with dual AI backends (Claude Code / GitHub Copilot CLI). Please install Joplin Aide instead."
 	}
 }
