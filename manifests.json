@@ -8372,5 +8372,27 @@
 		"_publish_hash": "sha256:f659d58a994bf4c74ad75d8a629dbac0fd06f9ba7b13579e80a84793f44ecb77",
 		"_publish_commit": "master:c0940ce73bc60093c93e27ab2d55b5887a311ed4",
 		"_npm_package_name": "joplin-plugin-note-categorization"
+	},
+	"com.quicklinksplus.plugin": {
+		"manifest_version": 1,
+		"id": "com.quicklinksplus.plugin",
+		"app_min_version": "2.14",
+		"version": "0.5.2",
+		"name": "Quick Links Plus",
+		"description": "Quickly link to notes (@@), headings & anchors across all notes (@@#) and insert unique anchor ids (@@id). Adds a clickable chain link icon next to headings and anchors in the viewer.",
+		"author": "D0m7n7c",
+		"homepage_url": "https://github.com/D0m7n7c/joplin-plugin-quick-links-plus",
+		"repository_url": "https://github.com/D0m7n7c/joplin-plugin-quick-links-plus",
+		"keywords": [
+			"links",
+			"anchor",
+			"heading",
+			"autocomplete",
+			"navigation",
+			"wikilink"
+		],
+		"_publish_hash": "sha256:999c7b2d02c2b9d4a802d8dce9988ecb8c91b9c2a0faccb74b7c2c7ba4e1604b",
+		"_publish_commit": "main:6d2bfc8d56f7ff404fc6ca21b9a9a8c24d2c4505",
+		"_npm_package_name": "joplin-plugin-quick-links-plus"
 	}
 }
