@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.github.joplin-explorer",
 	"app_min_version": "2.6.0",
-	"version": "1.5.16",
+	"version": "1.5.18",
 	"name": "Joplin Explorer",
 	"description": "A unified sidebar that displays notebooks and notes together in a single tree view",
 	"author": "lim0513",
@@ -18,6 +18,30 @@
 	"categories": [
 		"appearance",
 		"productivity"
+	],
+	"icons": {
+		"16": "assets/icons/icon16.png",
+		"32": "assets/icons/icon32.png",
+		"48": "assets/icons/icon48.png",
+		"128": "assets/icons/icon128.png"
+	},
+	"screenshots": [
+		{
+			"src": "assets/1.png",
+			"label": "Unified sidebar: notebooks, notes, tags, smart folders and trash in one tree"
+		},
+		{
+			"src": "assets/2.png",
+			"label": "Hover preview showing note metadata and a body snippet"
+		},
+		{
+			"src": "assets/3.png",
+			"label": "Rich right-click context menu"
+		},
+		{
+			"src": "assets/4.png",
+			"label": "Settings"
+		}
 	],
 	"_npm_package_name": "joplin-plugin-explorer"
 }
