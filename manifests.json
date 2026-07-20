@@ -7407,13 +7407,13 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.joplin-wrapped-line-indent",
 		"app_min_version": "3.5",
-		"version": "1.1.1",
+		"version": "1.1.2",
 		"platforms": [
 			"desktop",
 			"mobile"
 		],
 		"name": "Wrapped Line Indentation",
-		"description": "Indent wrapped lines in the markdown editor",
+		"description": "Indent wrapped lines in the markdown editor (hanging indent)",
 		"author": "bwat47",
 		"homepage_url": "https://github.com/bwat47/joplin-wrapped-line-indent",
 		"repository_url": "https://github.com/bwat47/joplin-wrapped-line-indent",
@@ -7421,7 +7421,8 @@
 			"editor",
 			"wrapping",
 			"alignment",
-			"list"
+			"list",
+			"indent"
 		],
 		"categories": [
 			"appearance",
@@ -7445,8 +7446,8 @@
 			"src": "images/wrapped-line-indent-promo.png",
 			"label": "Wrapped line indent Promo Tile"
 		},
-		"_publish_hash": "sha256:9396d71b6f925c942ba77e07bc3d976e452db124496d395958b9c35bb38e8ed9",
-		"_publish_commit": "main:80f5ac5e8abdb405c6ceb212945a870c2f7193be",
+		"_publish_hash": "sha256:a4078047d5c045e062b5a1777bf39184bfd2c7c2477d48b2530deeb005c96ee6",
+		"_publish_commit": "main:a642c1fb822c4cb753b205625af87242a8d4380e",
 		"_npm_package_name": "joplin-plugin-wrapped-line-indent"
 	},
 	"io.github.willianferreira.willdo": {
