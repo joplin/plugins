@@ -7348,7 +7348,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.joplin-heading-levels",
 		"app_min_version": "3.5",
-		"version": "1.0.7",
+		"version": "1.0.8",
 		"platforms": [
 			"desktop",
 			"mobile"
@@ -7374,8 +7374,8 @@
 		],
 		"icons": {},
 		"promo_tile": {},
-		"_publish_hash": "sha256:507dbfeb4d8bf54735ed6cbe076b543ed3d0f2c39db721330c13a79952cdcf12",
-		"_publish_commit": "main:2087247c08e23c3d93a5bbb1c68bec650c3ac578",
+		"_publish_hash": "sha256:a485d4d71c5af3b6a2fcdb1bb945c4a58a00164a84b88d89c2c78ddd4ddf0380",
+		"_publish_commit": "main:0a40f2e4b2af99ccc4f2b87db8371da72badd4b7",
 		"_npm_package_name": "joplin-plugin-heading-levels"
 	},
 	"com.chordpro.renderer": {
