@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.quicklinksplus.plugin",
 	"app_min_version": "2.14",
-	"version": "0.7.0",
+	"version": "0.7.1",
 	"name": "Quick Links Plus",
 	"description": "Quickly link to notes (@@), headings & anchors across all notes (@@#) and insert unique anchor ids (@@id). Adds a clickable chain link icon next to headings and anchors in the viewer.",
 	"author": "D0m7n7c",
@@ -16,7 +16,7 @@
 		"navigation",
 		"wikilink"
 	],
-	"_publish_hash": "sha256:e818e9c6ac12f0bfd69da16c515fe819003587c68d3aab50fd2c14d19994f626",
-	"_publish_commit": "main:b50b8ceca86b7da3be0aa244e88917a66c44dda7",
+	"_publish_hash": "sha256:20b904d96ff7a81d91505c81f0e5787bd2d2106c7bdbabfcdcf3ac8c7bfa6efb",
+	"_publish_commit": "main:6e346f022bc626c5098bbcf49f07ac0b9eb1989b",
 	"_npm_package_name": "joplin-plugin-quick-links-plus"
 }
