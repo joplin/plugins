@@ -3471,7 +3471,7 @@
 		"manifest_version": 1,
 		"id": "net.thomassloan.joplin-to-todoist",
 		"app_min_version": "2.13",
-		"version": "1.0.1",
+		"version": "1.0.2",
 		"name": "Joplin to Todoist",
 		"description": "Allows you to create a tasks in Todoist from Joplin and add it to your current note. A link to the Todoist task will be included in the note. A link to the note will be included in the Todoist task.",
 		"author": "Thomas Sloan",
@@ -3484,8 +3484,8 @@
 		],
 		"screenshots": [],
 		"icons": {},
-		"_publish_hash": "sha256:b7638dd0ed3a07e58c5eb9af1947a9d32c47b34bd306c4d95f4572c85f51b398",
-		"_publish_commit": "main:5d6665d2b681dd7f378f28d8b540da85e579091e",
+		"_publish_hash": "sha256:902929ac690756b2b52b40e2b4113ac761eec17c59aa9cde619a73c423b89677",
+		"_publish_commit": "main:bb39ebfa1d03479bf9a6e9866f49896a62273ebc",
 		"_npm_package_name": "joplin-plugin-joplin-to-todoist"
 	},
 	"jl15988.JoplinCodePerfectPlugin": {
