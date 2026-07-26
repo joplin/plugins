@@ -8454,5 +8454,22 @@
 		"_publish_hash": "sha256:694fa2d0df081f59a846a26d897ed68d7772a90c64d76d0ac52a735cdb0741d7",
 		"_publish_commit": "main:a725a9a8b5b2d1797b9e203d711a5a3585d03db4",
 		"_npm_package_name": "joplin-plugin-quick-links-plus"
+	},
+	"com.victorwiebe.embed-search-notebook-grouping": {
+		"manifest_version": 1,
+		"id": "com.victorwiebe.embed-search-notebook-grouping",
+		"app_min_version": "1.7",
+		"version": "2.1.0",
+		"name": "Embed Search (Notebook Grouping Fork)",
+		"description": "Embeds list of links specified by search inside of note. Fork of ambrt's Embed Search plugin, adding group:notebook and a fixed notebook:this.",
+		"author": "Victor Wiebe",
+		"homepage_url": "https://gitea.skeletonworks.online/vwiebe/joplin-plugin-embed-search-fork",
+		"repository_url": "https://gitea.skeletonworks.online/vwiebe/joplin-plugin-embed-search-fork",
+		"keywords": [
+			"joplin-plugin"
+		],
+		"_publish_hash": "sha256:8742cc1fe3ae72ec7051d496c41695427c3bc5721f015cf186e40f45efa7622f",
+		"_publish_commit": "master:03f7a385981af31e55b3ff2f199bf9b77d645f95",
+		"_npm_package_name": "joplin-plugin-victorwiebe-embed-search-notebook-grouping"
 	}
 }
