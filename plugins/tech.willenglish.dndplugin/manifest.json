@@ -2,14 +2,23 @@
 	"manifest_version": 1,
 	"id": "tech.willenglish.dndplugin",
 	"app_min_version": "3.3",
-	"version": "2.0.0",
+	"version": "3.0.0",
 	"name": "Dungeons and Dragons Character Manager",
-	"description": "A Joplin plugin for the creation and management of DnD 5e Character Sheets",
+	"description": "D&D 5e character sheets in Joplin: a D&D Beyond-style panel with import & sync from D&D Beyond, 3D dice, play sessions with roll logging to a Character Journal notebook, and full-sheet search.",
 	"author": "Will English",
 	"homepage_url": "https://willenglish.tech/",
 	"repository_url": "https://github.com/Dubascudes/DnD_Joplin",
-	"keywords": [],
-	"categories": [],
+	"keywords": [
+		"dnd",
+		"dungeons and dragons",
+		"character sheet",
+		"ttrpg",
+		"dice",
+		"rpg"
+	],
+	"categories": [
+		"productivity"
+	],
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
@@ -17,7 +26,7 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:1f36774f33eac1f9c928e28b77ca23472612628c8c1c2e772f9f664828e9f3a6",
-	"_publish_commit": "main:0fa68685c0c29cd7972f8a54b8a31629e6ec10d3",
+	"_publish_hash": "sha256:6555c3b6d4e73572b7888302b917aa675237c7a09e4b0cd3deba79632507e751",
+	"_publish_commit": "main:80c4a693aad1c0e3c5b1ccb8cbb3d064b45a07cb",
 	"_npm_package_name": "joplin-plugin-dungeons-and-dragons-character-manager"
 }
