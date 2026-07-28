@@ -7950,7 +7950,7 @@
 		"manifest_version": 1,
 		"id": "com.victorwiebe.joplin.plugin.gtd-calendar",
 		"app_min_version": "2.7",
-		"version": "0.8.0",
+		"version": "1.0.0",
 		"name": "GTD Calendar",
 		"description": "Day, week, and month calendars populated by your notes and to-dos, with click-through to the source note. Configure with simple YAML blocks. A GTD-friendly fork of Event Calendar by Franco Speziali.",
 		"author": "Victor Wiebe",
@@ -7967,8 +7967,8 @@
 			"productivity",
 			"viewer"
 		],
-		"_publish_hash": "sha256:8b859d26aee247cfb17078cda1c3d1110716576126d2e4be1e9288b40d38aca8",
-		"_publish_commit": "master:77d86d1beb720467349582783177a4770e3e3a72",
+		"_publish_hash": "sha256:c0e8b9d35842bfc0d053d4f00b637d1efaffad1f2904b90566a5998e5e232135",
+		"_publish_commit": "master:7a02834bec769e03a1710abc25455ceb4b6020a4",
 		"_npm_package_name": "joplin-plugin-gtd-calendar"
 	},
 	"com.bwat47.joplin-backlinks-navigator": {
