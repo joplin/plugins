@@ -8471,5 +8471,24 @@
 		"_publish_hash": "sha256:8742cc1fe3ae72ec7051d496c41695427c3bc5721f015cf186e40f45efa7622f",
 		"_publish_commit": "master:03f7a385981af31e55b3ff2f199bf9b77d645f95",
 		"_npm_package_name": "joplin-plugin-victorwiebe-embed-search-notebook-grouping"
+	},
+	"joplin.plugin.lookup": {
+		"manifest_version": 1,
+		"id": "joplin.plugin.lookup",
+		"app_min_version": "3.5",
+		"version": "1.0.0",
+		"name": "Lookup",
+		"description": "Adds a &#39;lookup&#39; shortcut to the context menu",
+		"author": "Haotian Zeng",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:bbcfcfd4b39897c4a975ca5697e523532fa9aa7fc2635c235703e272177e020a",
+		"_publish_commit": "main:9796b99d14bc37d08ad65dc4995d431e7d28a29d",
+		"_npm_package_name": "joplin-plugin-lookup"
 	}
 }

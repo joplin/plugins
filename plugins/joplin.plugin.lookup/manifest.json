@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.lookup",
+	"app_min_version": "3.5",
+	"version": "1.0.0",
+	"name": "Lookup",
+	"description": "Adds a &#39;lookup&#39; shortcut to the context menu",
+	"author": "Haotian Zeng",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:bbcfcfd4b39897c4a975ca5697e523532fa9aa7fc2635c235703e272177e020a",
+	"_publish_commit": "main:9796b99d14bc37d08ad65dc4995d431e7d28a29d",
+	"_npm_package_name": "joplin-plugin-lookup"
+}
