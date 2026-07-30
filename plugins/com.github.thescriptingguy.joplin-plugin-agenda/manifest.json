@@ -1,0 +1,27 @@
+{
+	"manifest_version": 1,
+	"id": "com.github.thescriptingguy.joplin-plugin-agenda",
+	"app_min_version": "2.9",
+	"app_min_version_mobile": "3.3",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"version": "4.0.0",
+	"name": "Agenda",
+	"description": "An agenda/calendar/schedule panel for joplin that shows all uncompleted to-dos with a due date.",
+	"author": "BeatLink",
+	"homepage_url": "https://discourse.joplinapp.org/t/agenda/21158",
+	"repository_url": "https://github.com/TheScriptingGuy/Joplin-Agenda-Plugin",
+	"keywords": [
+		"joplin",
+		"schedule",
+		"calendar",
+		"agenda",
+		"upcoming",
+		"date"
+	],
+	"_publish_hash": "sha256:2b6e7a4920f4d1d0beaf3197a3a931716908c79a8dd207add91bbeb0b673ab9b",
+	"_publish_commit": "master:b09d1525c9b644a8ef662c7a9611adff865ba5b5",
+	"_npm_package_name": "joplin-plugin-agenda2"
+}
