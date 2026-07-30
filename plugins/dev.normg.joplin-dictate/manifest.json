@@ -1,0 +1,47 @@
+{
+	"manifest_version": 1,
+	"id": "dev.normg.joplin-dictate",
+	"app_min_version": "3.6",
+	"version": "1.0.1",
+	"name": "Dictate",
+	"description": "Record voice, transcribe locally with Whisper, and create Joplin notes or to-dos",
+	"author": "Norm Green",
+	"homepage_url": "https://github.com/NormG/joplin-dictate-plugin",
+	"repository_url": "https://github.com/NormG/joplin-dictate-plugin",
+	"keywords": [
+		"dictate",
+		"voice",
+		"whisper",
+		"transcription",
+		"speech",
+		"todo"
+	],
+	"categories": [
+		"productivity",
+		"editor"
+	],
+	"screenshots": [
+		{
+			"src": "assets/screenshots/01-ready.png",
+			"label": "Dictate panel ready"
+		},
+		{
+			"src": "assets/screenshots/02-recording.png",
+			"label": "Recording in progress"
+		},
+		{
+			"src": "assets/screenshots/03-note-created.png",
+			"label": "Note created from your dictation"
+		}
+	],
+	"icons": {
+		"16": "icons/icon-16.png",
+		"32": "icons/icon-32.png",
+		"48": "icons/icon-48.png",
+		"128": "icons/icon-128.png"
+	},
+	"promo_tile": {},
+	"_publish_hash": "sha256:176d2c1445e030e7b1878b4f71f7ce639c35de642408eb2c977e69137f0dad5a",
+	"_publish_commit": "main:0d05d9913050d6838e835cc27115f30606cbb6d7",
+	"_npm_package_name": "joplin-plugin-dictate"
+}
