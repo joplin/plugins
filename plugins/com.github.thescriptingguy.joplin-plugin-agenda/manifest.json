@@ -7,7 +7,7 @@
 		"desktop",
 		"mobile"
 	],
-	"version": "4.0.0",
+	"version": "4.1.0",
 	"name": "Agenda",
 	"description": "An agenda/calendar/schedule panel for joplin that shows all uncompleted to-dos with a due date.",
 	"author": "BeatLink",
@@ -21,7 +21,7 @@
 		"upcoming",
 		"date"
 	],
-	"_publish_hash": "sha256:2b6e7a4920f4d1d0beaf3197a3a931716908c79a8dd207add91bbeb0b673ab9b",
-	"_publish_commit": "master:b09d1525c9b644a8ef662c7a9611adff865ba5b5",
+	"_publish_hash": "sha256:cd52253a1d4a4c41ec06830710d6dd8fd1b02e53dc1ecf8aa45da308a573b633",
+	"_publish_commit": "master:dd7a3ba4b3a2e53fcaebc07480acb0a73932b631",
 	"_npm_package_name": "joplin-plugin-agenda2"
 }
