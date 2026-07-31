@@ -8569,12 +8569,12 @@
 		"manifest_version": 1,
 		"id": "io.github.copynoteid",
 		"app_min_version": "3.7",
-		"version": "1.1.0",
+		"version": "1.1.1",
 		"name": "Copy Note ID",
 		"description": "Adds a one-click toolbar button (and a bindable command) to copy the current note's ID to the clipboard.",
 		"author": "pmslava",
-		"homepage_url": "",
-		"repository_url": "",
+		"homepage_url": "https://github.com/pmslava/joplin-plugin-copy-note-id",
+		"repository_url": "https://github.com/pmslava/joplin-plugin-copy-note-id",
 		"keywords": [
 			"note",
 			"id",
@@ -8584,11 +8584,21 @@
 		"categories": [
 			"productivity"
 		],
-		"screenshots": [],
-		"icons": {},
+		"screenshots": [
+			{
+				"src": "images/screenshot.png",
+				"label": "The Copy note ID button in the note toolbar"
+			}
+		],
+		"icons": {
+			"16": "images/icon16.png",
+			"32": "images/icon32.png",
+			"48": "images/icon48.png",
+			"128": "images/icon128.png"
+		},
 		"promo_tile": {},
-		"_publish_hash": "sha256:05f21a289868b53d59cff5cefae6a79eb9084ff8b374b9e32babca4d5ac9ce38",
-		"_publish_commit": "",
+		"_publish_hash": "sha256:601eb876dd3cfceab53fb84d7f30bfb947dbd5cb0122d60dc99f55a429cfddc3",
+		"_publish_commit": "main:ff16c44ef5db5bc1174fb67cd17c17cdbfd4411b",
 		"_npm_package_name": "joplin-plugin-copy-note-id"
 	}
 }
