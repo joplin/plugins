@@ -1,0 +1,31 @@
+{
+	"manifest_version": 1,
+	"id": "com.hugovalim.joplin-ai-agent",
+	"app_min_version": "3.6",
+	"platforms": [
+		"desktop"
+	],
+	"version": "0.17.1",
+	"name": "Joplin AI Agent",
+	"description": "Persistent AI chat, opt-in note retrieval, and controlled note and text-file editing.",
+	"author": "Hugo Valim",
+	"homepage_url": "https://github.com/HugoValim/joplin-ai-plugin",
+	"repository_url": "https://github.com/HugoValim/joplin-ai-plugin",
+	"keywords": [
+		"ai",
+		"rag",
+		"ollama",
+		"assistant"
+	],
+	"categories": [
+		"productivity",
+		"search",
+		"files"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:d92e8a9cb239d9d482a35a3ff89f88401b97b2607a516d4a0d0cfdf9a6c51184",
+	"_publish_commit": "main:36b6c9156f9330fed4ca6181d69919adc1c92d21",
+	"_npm_package_name": "joplin-plugin-joplin-ai-agent"
+}
