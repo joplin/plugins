@@ -23,6 +23,7 @@ This repository contains the following plugins:
 <!-- PLUGIN_LIST -->
 | &nbsp; | &nbsp; | Name  | Version | Description | Author |
 | ----- | ----- | ----- | ----- | ----- | ----- |
+| [🏠](https://github.com/comonduck/joplin-plugin-2docx) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/com.github.comonduck.2docx/plugin.jpl) | 2docx | 1.0.0 | Export notes to Microsoft Word (.docx) with images, real bordered tables, math and diagrams. | comonduck |
 | [🏠](https://github.com/joplin/plugin-abc-sheet-music) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.AbcSheetMusic/plugin.jpl) | ABC Sheet Music Plugin | 1.0.5 | Turns ABC text notation into sheet music | Laurent Cozic |
 | [🏠](https://github.com/maxnegro/joplin-plugin-admonition) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.admonition/plugin.jpl) | Admonition markdown extension | 1.1.0 | Enables markdownIt admonition plugin, which enables formatting notes | Massimiliano Masserelli |
 | [🏠](https://github.com/nickhobbs94/joplin-plugin-advanced-tags) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/com.nhobb.AdvancedJoplinTags/plugin.jpl) | Advanced Tagging Rules | 1.4.0 | Allow tags to be subsets of other tags, write rules to move tagged notes to a folder | Nicholas Hobbs |

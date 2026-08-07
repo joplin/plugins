@@ -8631,5 +8631,42 @@
 		"_publish_hash": "sha256:d92e8a9cb239d9d482a35a3ff89f88401b97b2607a516d4a0d0cfdf9a6c51184",
 		"_publish_commit": "main:36b6c9156f9330fed4ca6181d69919adc1c92d21",
 		"_npm_package_name": "joplin-plugin-joplin-ai-agent"
+	},
+	"com.github.comonduck.2docx": {
+		"manifest_version": 1,
+		"id": "com.github.comonduck.2docx",
+		"app_min_version": "3.0",
+		"version": "1.0.0",
+		"name": "2docx",
+		"description": "Export notes to Microsoft Word (.docx) with images, real bordered tables, math and diagrams.",
+		"author": "comonduck",
+		"homepage_url": "https://github.com/comonduck/joplin-plugin-2docx",
+		"repository_url": "https://github.com/comonduck/joplin-plugin-2docx",
+		"keywords": [
+			"docx",
+			"word",
+			"export",
+			"office"
+		],
+		"categories": [
+			"files",
+			"productivity"
+		],
+		"platforms": [
+			"desktop"
+		],
+		"icons": {
+			"16": "images/icon-16.png",
+			"32": "images/icon-32.png",
+			"48": "images/icon-48.png",
+			"128": "images/icon-128.png"
+		},
+		"promo_tile": {
+			"src": "images/promo_tile.png",
+			"label": "The 2docx wordmark on a Word-blue tile"
+		},
+		"_publish_hash": "sha256:1e8a1dd06904fedb6b1c06fc3efc93bc4644b1f02069f754272452d6c98920d9",
+		"_publish_commit": "main:760c6ddab010bf8cbf1431d1eb8cb35475524a45",
+		"_npm_package_name": "joplin-plugin-2docx"
 	}
 }
