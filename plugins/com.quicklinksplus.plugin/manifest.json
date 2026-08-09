@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.quicklinksplus.plugin",
 	"app_min_version": "2.14",
-	"version": "0.7.5",
+	"version": "0.7.6",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -20,7 +20,7 @@
 		"navigation",
 		"wikilink"
 	],
-	"_publish_hash": "sha256:a1aed409500eeb7a9fc1756b52c3162e824997185af35e24a89326737685b0d7",
-	"_publish_commit": "main:8383a619dbb051fce4b2c26963039d6e4c1a8fe3",
+	"_publish_hash": "sha256:3e256588833086b1135ef3a5f3c37232d1d2d498a9d2b00c28b36519f5c14753",
+	"_publish_commit": "main:b8a39fe440b90702198da8cf929f85d4723fff37",
 	"_npm_package_name": "joplin-plugin-quick-links-plus"
 }
