@@ -1,0 +1,30 @@
+{
+	"manifest_version": 1,
+	"id": "com.github.xfuture603.journal-timeline",
+	"app_min_version": "3.2",
+	"version": "1.0.2",
+	"name": "Journal Timeline",
+	"description": "Reads your dated journal notes as a continuous timeline, and opens or creates today's entry in one click.",
+	"author": "Daniel Uhlmann",
+	"homepage_url": "https://github.com/xFuture603/joplin-plugin-journal-timeline",
+	"repository_url": "https://github.com/xFuture603/joplin-plugin-journal-timeline",
+	"platforms": [
+		"desktop"
+	],
+	"keywords": [
+		"journal",
+		"diary",
+		"timeline",
+		"daily notes"
+	],
+	"categories": [
+		"productivity",
+		"viewer"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:0138a8a600c81485dc0982f4d695a63e80674d627e78350bcda9798ff4885a01",
+	"_publish_commit": "main:8555c77f04e88648b6c9ddb17e24a61e3b23b7bc",
+	"_npm_package_name": "joplin-plugin-journal-timeline"
+}
