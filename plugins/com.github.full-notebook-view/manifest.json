@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.github.full-notebook-view",
 	"app_min_version": "3.5",
-	"version": "1.0.0",
+	"version": "1.0.4",
 	"name": "Full Notebook View",
 	"description": "A Windows File Explorer-style tree view panel showing notebooks and notes with expand/collapse, search, sort, and new note creation.",
 	"author": "rinchord",
@@ -22,7 +22,7 @@
 	"icons": {
 		"256": "assets/icon.png"
 	},
-	"_publish_hash": "sha256:8807bdbc4f1319dfb983f42418c920defb610ce0acfc2fcf2f5027ffc144d1ed",
-	"_publish_commit": "main:2d846049cf72c5b3f5b78986e06ca21852ce9b0f",
+	"_publish_hash": "sha256:8e82bf1b669aaf632a4b884e3138aecf596cfd921ef31b25b33f11dc34bd3ce4",
+	"_publish_commit": "main:8d7a991a92372970692776de30bc7591d73f0e03",
 	"_npm_package_name": "joplin-plugin-full-notebook-view"
 }
