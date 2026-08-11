@@ -6243,8 +6243,8 @@
 			"desktop",
 			"mobile"
 		],
-		"_publish_hash": "sha256:298fc77d214977d294d430494ce88a12f781744609035625216338d18b2e493b",
-		"_publish_commit": "main:b6843d8f290192e05e47e7a00d91e85e81ddeba5",
+		"_publish_hash": "sha256:9815fc3f69ac3399bae3c1645928646d7977802563ab27935cfc81a5dfd655ae",
+		"_publish_commit": "master:1524087a483a9ac3921de9e4b473789fffba8a9f",
 		"_npm_package_name": "joplin-plugin-codemirror6-theme"
 	},
 	"com.bwat47.codeblock-autocomplete": {
