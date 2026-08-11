@@ -8698,5 +8698,35 @@
 		"_publish_hash": "sha256:0138a8a600c81485dc0982f4d695a63e80674d627e78350bcda9798ff4885a01",
 		"_publish_commit": "main:8555c77f04e88648b6c9ddb17e24a61e3b23b7bc",
 		"_npm_package_name": "joplin-plugin-journal-timeline"
+	},
+	"io.github.pb-strawberries.habit-tracker-plus": {
+		"manifest_version": 1,
+		"id": "io.github.pb-strawberries.habit-tracker-plus",
+		"app_min_version": "3.0.0",
+		"app_min_version_mobile": "3.1.0",
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"version": "1.2.2",
+		"name": "Habit Tracker Plus",
+		"description": "Track daily habits with weekly, monthly and yearly views; syncs via note-level metadata. Independent, AI-assisted fork of Daily Habits by pulsarnomada9 (MIT) - see README for credit and details.",
+		"author": "pb-strawberries",
+		"homepage_url": "https://github.com/pb-strawberries/habit-tracker-plus",
+		"repository_url": "https://github.com/pb-strawberries/habit-tracker-plus",
+		"keywords": [
+			"habits",
+			"tracker",
+			"productivity",
+			"streak"
+		],
+		"categories": [
+			"productivity",
+			"personal knowledge management"
+		],
+		"icons": {},
+		"_publish_hash": "sha256:e61a695d2cb91648e9c19ddc211dfea903842cb28686e187e1c294a8c823f3eb",
+		"_publish_commit": "main:d460c8cb29bd8815104b4ed375daaf3aaa40228c",
+		"_npm_package_name": "joplin-plugin-habit-tracker-plus"
 	}
 }
