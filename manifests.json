@@ -8433,7 +8433,7 @@
 		"manifest_version": 1,
 		"id": "com.quicklinksplus.plugin",
 		"app_min_version": "2.14",
-		"version": "0.8.1",
+		"version": "0.8.2",
 		"platforms": [
 			"desktop",
 			"mobile"
@@ -8451,8 +8451,8 @@
 			"navigation",
 			"wikilink"
 		],
-		"_publish_hash": "sha256:270da54964be73a1302c26cca0a1c7492fae53b441302a8e9cff2ef3ce7542e2",
-		"_publish_commit": "main:61fd7bd9c9b07d891cffc892cb12f7eb0d449f3c",
+		"_publish_hash": "sha256:77c99888d8c38ef63179e0f95a66a4c3e8a46dbd1af1b6443261fd920b9f9450",
+		"_publish_commit": "main:d36c917df7fb5eafb8796dc8fd430dffb5afc912",
 		"_npm_package_name": "joplin-plugin-quick-links-plus"
 	},
 	"com.victorwiebe.embed-search-notebook-grouping": {
