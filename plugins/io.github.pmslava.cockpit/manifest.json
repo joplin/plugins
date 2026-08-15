@@ -1,0 +1,49 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.pmslava.cockpit",
+	"app_min_version": "2.9",
+	"app_min_version_mobile": "3.3",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"version": "1.7.5",
+	"name": "Cockpit",
+	"description": "A tasks-and-notes command center panel: due dates with drag and drop and a calendar picker, checkbox progress rings, notebook and search filters, view profiles, and notebook management - on desktop and mobile.",
+	"author": "pmslava",
+	"homepage_url": "https://github.com/pmslava/joplin-plugin-cockpit",
+	"repository_url": "https://github.com/pmslava/joplin-plugin-cockpit",
+	"keywords": [
+		"joplin",
+		"todo",
+		"task",
+		"agenda",
+		"calendar",
+		"planner",
+		"panel",
+		"notes",
+		"due",
+		"schedule"
+	],
+	"categories": [
+		"productivity",
+		"personal knowledge management"
+	],
+	"screenshots": [
+		{
+			"src": "docs/images/hero-panel.png",
+			"label": "The Cockpit panel on desktop: every to-do and note grouped by due date, with a progress ring on each row"
+		},
+		{
+			"src": "docs/images/themes.png",
+			"label": "Theme presets and custom colours, with adjustable font and circle size"
+		},
+		{
+			"src": "docs/images/alarm-picker.png",
+			"label": "The alarm picker: ISO date, 24-hour time, a Monday-first calendar, and quick shortcuts"
+		}
+	],
+	"_publish_hash": "sha256:b05152cf4b93934d0735616245010b2768ca07934d0a99f51230704f24ac3aed",
+	"_publish_commit": "main:049a37b10cc442544fec264d749b1f28f23859cf",
+	"_npm_package_name": "joplin-plugin-cockpit"
+}
