@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.jop-pomidorko",
+	"app_min_version": "2.1",
+	"version": "1.0.8",
+	"name": "JopPomidorko",
+	"description": "Pomodoro timer with statistics, translations and customizable design for Joplin",
+	"author": "Aleksei Shevchenko",
+	"homepage_url": "https://github.com/Reexel/jop-pomidorko",
+	"repository_url": "https://github.com/Reexel/jop-pomidorko",
+	"keywords": [
+		"pomodoro",
+		"timer",
+		"productivity",
+		"statistics",
+		"translations"
+	],
+	"_npm_package_name": "joplin-plugin-jop-pomidorko"
+}
