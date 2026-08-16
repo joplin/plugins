@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.paste-as-markdown",
 	"app_min_version": "3.3",
-	"version": "1.3.0",
+	"version": "1.4.1",
 	"name": "Paste HTML as Markdown",
 	"description": "Paste HTML formatted text as markdown",
 	"author": "bwat47",
@@ -69,9 +69,20 @@
 			"label": "Force tight lists",
 			"description": "Remove blank lines between list items in output Markdown.",
 			"value": false
+		},
+		"listIndentation": {
+			"type": "string",
+			"label": "List indentation",
+			"description": "Choose whether nested list items and continuation lines are indented with spaces or tabs.",
+			"value": "tabs",
+			"isEnum": true,
+			"options": {
+				"spaces": "Spaces",
+				"tabs": "Tabs"
+			}
 		}
 	},
-	"_publish_hash": "sha256:8d549bb3d6db2368afca559ee292db6d395032ddeb68e595262d7e21dffbf6ba",
-	"_publish_commit": "main:cd248d7b1e2fcf7bb2188b708b6a08c76ff55904",
+	"_publish_hash": "sha256:6ee6c916cebaa3cf43568187a8d634cc399443d9516e5e63604240a248b592fd",
+	"_publish_commit": "main:3403bf620a8d98dbf7ec812178ab388ec2c5a348",
 	"_npm_package_name": "joplin-plugin-paste-as-markdown"
 }
