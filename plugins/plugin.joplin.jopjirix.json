@@ -1,0 +1,23 @@
+{
+  "id": "plugin.joplin.jopjirix",
+  "name": "JopJirix — Kanban & Wiki",
+  "description": "Kanban board with auto-generated task keys (2COF-1, 2COF-2...), statuses, assignees, dates. Built-in Wiki with subpage hierarchy. All data stored as native Joplin notes and tags.",
+  "author": "Aleksei Shevchenko",
+  "homepage_url": "https://github.com/Reexel/jopjirix",
+  "repository_url": "https://github.com/Reexel/jopjirix",
+  "category": "productivity",
+  "icons": {
+    "256": "https://raw.githubusercontent.com/Reexel/jopjirix/main/src/icons/icon-256.png"
+  },
+  "screenshots": {
+    "0": "https://raw.githubusercontent.com/Reexel/jopjirix/main/screenshots/board.png"
+  },
+  "api": "1",
+  "app_min_version": "2.6",
+  "platforms": ["desktop"],
+  "versions": {
+    "1.1.6": {
+      "downloadUrl": "https://github.com/Reexel/jopjirix/releases/download/v1.1.6/plugin.joplin.jopjirix-v1.1.6.jpl"
+    }
+  }
+}
