@@ -8795,7 +8795,7 @@
 			"desktop",
 			"mobile"
 		],
-		"version": "1.0.6",
+		"version": "1.0.7",
 		"name": "HTML Blocks",
 		"description": "Write styled HTML sections - cards, callouts, fancy lists, steps, timelines, grids and more - using a simple `!!! type` ... `!!!->` markdown fence.",
 		"author": "madusanka",
@@ -8813,10 +8813,31 @@
 			"viewer",
 			"appearance"
 		],
-		"screenshots": [],
-		"icons": {},
-		"promo_tile": {},
-		"_publish_hash": "sha256:990d5ec766ddae0ef129bf5c4818809d1cfdd66325f966b35ef2a75649db2683",
+		"screenshots": [
+			{
+				"src": "screenshots/01-block-picker.png",
+				"label": "The block picker: filter 298 blocks by name, id, colour or theme and insert one with a click"
+			},
+			{
+				"src": "screenshots/02-card-blocks.png",
+				"label": "Card blocks in the note viewer - solid, outline, tinted, gradient and elevated styles"
+			},
+			{
+				"src": "screenshots/03-lists-stats-grids.png",
+				"label": "Checklists, stat tiles, badge rows, grids and key/value tables"
+			}
+		],
+		"icons": {
+			"16": "images/icon16.png",
+			"32": "images/icon32.png",
+			"48": "images/icon48.png",
+			"128": "images/icon128.png"
+		},
+		"promo_tile": {
+			"src": "images/promo_tile.png",
+			"label": "HTML Blocks - styled cards, callouts and lists from a simple markdown fence"
+		},
+		"_publish_hash": "sha256:648180bec6410312cf0f2cc1365ccfe39303cf76c490bb42de9233fc0c5ef187",
 		"_publish_commit": "main:a2e1c8468acbe7994c44a0ab5b1b1ad3b5c3d597",
 		"_npm_package_name": "joplin-plugin-html-blocks"
 	}
