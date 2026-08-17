@@ -2,9 +2,9 @@
 	"manifest_version": 1,
 	"id": "com.schmittmachine.cwl_count",
 	"app_min_version": "3.5",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"name": "Char Word and Line Count",
-	"description": "Displays char, word and line count of current note and selection",
+	"description": "Constantly displays the number of characters, words and lines of the current note and the current selection",
 	"author": "Antoine Schmitt",
 	"homepage_url": "https://codeberg.org/schmittmachine/joplin_plugin_cwl_count",
 	"repository_url": "https://codeberg.org/schmittmachine/joplin_plugin_cwl_count",
@@ -15,22 +15,22 @@
 	],
 	"screenshots": [
 		{
-			"src": "images/screenshot.png",
+			"src": "./images/screenshot.png",
 			"label": "Displays characters, words and lines count of current note and selection"
 		}
 	],
 	"icons": {
-		"128": "images/icon-128.png",
-		"256": "images/icon-256.png"
+		"128": "./images/icon-128.png",
+		"256": "./images/icon-256.png"
 	},
 	"promo_tile": {
-		"src": "images/promo.png",
-		"label": "Displays characters, words and lines count of current note and selection"
+		"src": "./images/promo.png",
+		"label": "Constantly displays the number of characters, words and lines of the current note and the current selection"
 	},
 	"platforms": [
 		"desktop"
 	],
-	"_publish_hash": "sha256:d2fedd7fdde47ef4d0d293e42d76fa7fe7acb564c784873ce6bffeb46ae978d5",
-	"_publish_commit": "main:afd79bb10b82c9ce28f0a3c313d3d39ebae01630",
+	"_publish_hash": "sha256:66f33bef69ddea847e56c1841327534db420302b7239e12b4da564183a6d418a",
+	"_publish_commit": "main:4efda2fee4ce47f28ed73148a5e926312ce75978",
 	"_npm_package_name": "joplin-plugin-char-word-and-line-count"
 }
