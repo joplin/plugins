@@ -1,0 +1,34 @@
+{
+	"manifest_version": 1,
+	"id": "com.publora.joplin",
+	"app_min_version": "3.7",
+	"version": "1.0.1",
+	"name": "Publora",
+	"description": "Turn a note into a social post. Pick the accounts connected in Publora, then publish now, save a draft or schedule for a time you choose. Ten networks: LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon and Telegram.",
+	"author": "Publora",
+	"homepage_url": "https://publora.com",
+	"repository_url": "https://github.com/publora-team/joplin-publora",
+	"keywords": [
+		"social",
+		"publishing",
+		"scheduling",
+		"linkedin",
+		"mastodon",
+		"bluesky"
+	],
+	"categories": [
+		"productivity",
+		"integrations"
+	],
+	"screenshots": [],
+	"icons": {
+		"16": "assets/icon16.png",
+		"32": "assets/icon32.png",
+		"48": "assets/icon48.png",
+		"128": "assets/icon128.png"
+	},
+	"promo_tile": {},
+	"_publish_hash": "sha256:158ebf4d104e190ef18f72160b7175bcfc5e63d93b6e6f4292501c6411a48a94",
+	"_publish_commit": "main:b224b0760ddc166402ab2986962a830935bd4d0b",
+	"_npm_package_name": "@publora/joplin-plugin-publora"
+}
