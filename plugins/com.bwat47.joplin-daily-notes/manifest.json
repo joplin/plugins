@@ -1,0 +1,53 @@
+{
+	"manifest_version": 1,
+	"id": "com.bwat47.joplin-daily-notes",
+	"app_min_version": "3.5",
+	"version": "1.0.1",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"name": "Daily Notes",
+	"description": "Open or create date-based daily notes from today or a calendar.",
+	"author": "bwat47",
+	"homepage_url": "https://github.com/bwat47/joplin-daily-notes",
+	"repository_url": "https://github.com/bwat47/joplin-daily-notes",
+	"keywords": [
+		"daily notes",
+		"journal",
+		"calendar"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [
+		{
+			"src": "images/screenshot1.png",
+			"label": "Daily Notes screenshot 1"
+		},
+		{
+			"src": "images/screenshot2.png",
+			"label": "Daily Notes screenshot 2"
+		},
+		{
+			"src": "images/screenshot3.png",
+			"label": "Daily Notes screenshot 3"
+		}
+	],
+	"icons": {
+		"16": "images/16.png",
+		"24": "images/24.png",
+		"32": "images/32.png",
+		"48": "images/48.png",
+		"64": "images/64.png",
+		"128": "images/128.png",
+		"256": "images/256.png"
+	},
+	"promo_tile": {
+		"src": "images/daily_notes_promo_tile.png",
+		"label": "Daily Notes Promo Tile"
+	},
+	"_publish_hash": "sha256:5b70ab7807090df93b34aa6300bfebeca0da5c8012390931421308629f24c0dd",
+	"_publish_commit": "main:b7a60daf9ae91078fd2e39c3b69ee2f761d8bddd",
+	"_npm_package_name": "joplin-plugin-daily-notes"
+}
