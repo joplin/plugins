@@ -1,0 +1,32 @@
+{
+	"manifest_version": 1,
+	"id": "joplin-plugin-mlab-move-note",
+	"app_min_version": "3.0",
+	"app_min_version_mobile": "3.0",
+	"version": "2.0.0",
+	"name": "Перемещение заметок",
+	"platforms": [
+		"mobile",
+		"desktop"
+	],
+	"description": "Перемещение заметок внутри блокнота при пользовательской сортировке.",
+	"author": "mlab",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [
+		"move",
+		"note",
+		"sort",
+		"order",
+		"mobile"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:76526ac96e54939cbb77bfb1cdf49c61679bc6b11f297038d1699f99b75fc8e8",
+	"_publish_commit": "main:08fb2b25448c4eefeae8798e886b65717e88d032",
+	"_npm_package_name": "joplin-plugin-mlab-move-note"
+}

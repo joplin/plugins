@@ -354,4 +354,5 @@ This repository contains the following plugins:
 | [🏠](https://github.com/bwat47/joplin-wrapped-line-indent) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/com.bwat47.joplin-wrapped-line-indent/plugin.jpl) | Wrapped Line Indentation | 1.1.2 | Indent wrapped lines in the markdown editor (hanging indent) | bwat47 |
 | -     | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/org.joplinapp.plugins.YesYouKan/plugin.jpl) | YesYouKan | 1.1.3 | Create and manage Kanban boards from Joplin | Laurent Cozic |
 | [🏠](https://github.com/jannessm/joplin-zotero-link) | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/nz.magnusso.zotero-link/plugin.jpl) | Zotero Link | 2.1.5 | Link Zotero entries in notes | Jannes Magnusson |
+| -     | [⬇️](https://github.com/joplin/plugins/raw/master/plugins/joplin-plugin-mlab-move-note/plugin.jpl) | Перемещение заметок | 2.0.0 | Перемещение заметок внутри блокнота при пользовательской сортировке. | mlab  |
 <!-- PLUGIN_LIST -->
