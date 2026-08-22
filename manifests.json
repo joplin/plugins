@@ -9068,5 +9068,50 @@
 		"_publish_hash": "sha256:d68a50ee2a9884dcc285122185b1404a90aed0fafd72f29ce873268dbafdf54b",
 		"_publish_commit": "master:50d8644c68f3eb667afe38630417a0432221d5a8",
 		"_npm_package_name": "joplin-plugin-adoclive"
+	},
+	"io.github.pmslava.harper": {
+		"manifest_version": 1,
+		"id": "io.github.pmslava.harper",
+		"app_min_version": "3.1",
+		"platforms": [
+			"desktop"
+		],
+		"version": "1.0.2",
+		"name": "Harper",
+		"description": "Fast, offline, private grammar and spelling checking for the Joplin desktop Markdown editor, powered by Harper. Per-kind coloured underlines, a suggestion card with one-click fixes, add-to-dictionary, ignore and disable-rule, plus American, British, Australian and Canadian dialects.",
+		"author": "pmslava",
+		"homepage_url": "https://github.com/pmslava/joplin-plugin-harper",
+		"repository_url": "https://github.com/pmslava/joplin-plugin-harper",
+		"keywords": [
+			"harper",
+			"grammar",
+			"spelling",
+			"spell-check",
+			"linter",
+			"proofreading",
+			"writing",
+			"editor"
+		],
+		"categories": [
+			"editor",
+			"productivity"
+		],
+		"screenshots": [
+			{
+				"src": "docs/screenshots/card-light.png",
+				"label": "The Harper suggestion card in the Markdown editor: the lint kind, the message with the flagged word, one-click suggestion pills, add-to-dictionary and dismiss, next to the coloured underlines in the text"
+			},
+			{
+				"src": "docs/screenshots/card-dark.png",
+				"label": "The same suggestion card in Joplin's dark theme, showing a spelling lint with correction pills and the add-to-dictionary action"
+			},
+			{
+				"src": "docs/screenshots/underlines-light.png",
+				"label": "Close-up of the per-kind coloured squiggly underlines: a red spelling underline and a green word-choice underline"
+			}
+		],
+		"_publish_hash": "sha256:94bde0ecf9b0fa1f87b432614e6f8349c61d1179be49fde04755e692ff364900",
+		"_publish_commit": "master:bbc8d941e1691a3bbeae0c6f66d5792db27b2c02",
+		"_npm_package_name": "joplin-plugin-harper"
 	}
 }
