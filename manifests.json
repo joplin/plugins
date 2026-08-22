@@ -9041,5 +9041,32 @@
 		"_publish_hash": "sha256:fe75aa5caf87effaf2537420e335d2d2cbd588f6d158370e5b3263f8e14b9931",
 		"_publish_commit": "main:7f48dbf1f9c10eeee06d4280c95c634a71fe4c27",
 		"_npm_package_name": "joplin-plugin-link-checker"
+	},
+	"com.asciidoc.joplin-plugin": {
+		"manifest_version": 1,
+		"id": "com.asciidoc.joplin-plugin",
+		"app_min_version": "3.1.0",
+		"version": "1.0.4",
+		"name": "adocLIVE",
+		"description": "AsciiDoc live-preview editing for Joplin",
+		"author": "Amal Ghosh <amalghosh999@gmail.com>",
+		"homepage_url": "https://github.com/amalghosh999/adocLIVE-Joplin-Plugin",
+		"repository_url": "https://github.com/amalghosh999/adocLIVE-Joplin-Plugin",
+		"platforms": [
+			"desktop"
+		],
+		"keywords": [
+			"asciidoc",
+			"editor",
+			"preview",
+			"live-preview"
+		],
+		"categories": [
+			"productivity",
+			"editor"
+		],
+		"_publish_hash": "sha256:d68a50ee2a9884dcc285122185b1404a90aed0fafd72f29ce873268dbafdf54b",
+		"_publish_commit": "master:50d8644c68f3eb667afe38630417a0432221d5a8",
+		"_npm_package_name": "joplin-plugin-adoclive"
 	}
 }
