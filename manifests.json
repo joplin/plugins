@@ -6063,7 +6063,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.heading-navigator",
 		"app_min_version": "3.3",
-		"version": "0.7.1",
+		"version": "0.8.0",
 		"platforms": [
 			"desktop",
 			"mobile"
@@ -6119,8 +6119,8 @@
 				"type": "codeMirrorPlugin"
 			}
 		],
-		"_publish_hash": "sha256:511208a91475385c3f76d01ad87ee08e771268943d09212ebef94387b442fbc4",
-		"_publish_commit": "main:9472b1c1911a493438df8f436112dd630f00c69a",
+		"_publish_hash": "sha256:b7f10615ecb74676751955c0d7241f5a276cc8de5f997aa3c8d9fa200354a571",
+		"_publish_commit": "main:01a7d24b618d7aa6db9e2341ab0266ffb424d4a7",
 		"_npm_package_name": "joplin-plugin-heading-navigator"
 	},
 	"com.qaqqqqaq.tools": {
