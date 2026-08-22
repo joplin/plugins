@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.simple-image-resize",
 	"app_min_version": "3.3",
-	"version": "1.7.0",
+	"version": "1.7.1",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -108,7 +108,7 @@
 			"value": true
 		}
 	},
-	"_publish_hash": "sha256:7a8bba73c4240b18c0bce142b22958427cbe3d574b92f82da59ea9dace165356",
-	"_publish_commit": "main:0f233e3986c00793a18207e49fa894a37396e50a",
+	"_publish_hash": "sha256:7759bb8b2931de73022f65f2615d326e233932ce744b207b3c70ee84e1aec43c",
+	"_publish_commit": "main:4ca3603ae883857b2d327367e26e8a936e31fb28",
 	"_npm_package_name": "joplin-plugin-simple-image-resize"
 }
