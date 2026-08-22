@@ -9022,5 +9022,24 @@
 		"_publish_hash": "sha256:3f8389b7f5dbe18fa95a2d7569738b196f89e0651c49f4c3b7b6f349183abbe3",
 		"_publish_commit": "main:3c96681aa5090765239121e091c9a9cce1c2fa6e",
 		"_npm_package_name": "joplin-plugin-shared-notes-william"
+	},
+	"com.william.linkcheker": {
+		"manifest_version": 1,
+		"id": "com.william.linkcheker",
+		"app_min_version": "2.8.0",
+		"version": "1.0.6",
+		"name": "Link Checker",
+		"description": "Scans notes and notebooks for broken external links (link rot) with retry thresholds and Wayback Machine recovery options.",
+		"author": "William Baglioni",
+		"homepage_url": "https://github.com/William-webext/joplin-plugin-link-checker.git",
+		"repository_url": "https://github.com/William-webext/joplin-plugin-link-checker.git",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:fe75aa5caf87effaf2537420e335d2d2cbd588f6d158370e5b3263f8e14b9931",
+		"_publish_commit": "main:7f48dbf1f9c10eeee06d4280c95c634a71fe4c27",
+		"_npm_package_name": "joplin-plugin-link-checker"
 	}
 }
