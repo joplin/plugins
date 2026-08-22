@@ -8790,13 +8790,13 @@
 	"com.madusanka.htmlBlocks": {
 		"manifest_version": 1,
 		"id": "com.madusanka.htmlBlocks",
-		"app_min_version": "3.0.0",
-		"app_min_version_mobile": "3.1.0",
+		"app_min_version": "3.1.0",
+		"app_min_version_mobile": "3.2.0",
 		"platforms": [
 			"desktop",
 			"mobile"
 		],
-		"version": "1.0.8",
+		"version": "1.2.0",
 		"name": "HTML Blocks",
 		"description": "Write styled HTML sections - cards, callouts, fancy lists, steps, timelines, grids and more - using a simple `!!! type` ... `!!!->` markdown fence.",
 		"author": "madusanka",
@@ -8838,8 +8838,8 @@
 			"src": "images/promo_tile.png",
 			"label": "HTML Blocks - styled cards, callouts and lists from a simple markdown fence"
 		},
-		"_publish_hash": "sha256:de6cd3cd0c189bdf1c1357c438ed7806aa5e5ce003cee06fd3db74fd6afeaab4",
-		"_publish_commit": "main:f78c168a1dd686094bf53dda74a7ab73c98c7487",
+		"_publish_hash": "sha256:e630df4c140770d24725da9006a03add9f1970f06ab8bddef7d24a7cff5c493b",
+		"_publish_commit": "main:955360b5ed8bfe364d1a5939ee58ed4e0c7b2911",
 		"_npm_package_name": "joplin-plugin-html-blocks"
 	},
 	"joplin.plugin.jop-pomidorko": {
