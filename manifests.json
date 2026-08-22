@@ -9003,5 +9003,24 @@
 		"_publish_hash": "sha256:76526ac96e54939cbb77bfb1cdf49c61679bc6b11f297038d1699f99b75fc8e8",
 		"_publish_commit": "main:08fb2b25448c4eefeae8798e886b65717e88d032",
 		"_npm_package_name": "joplin-plugin-mlab-move-note"
+	},
+	"com.william.sharednotes": {
+		"manifest_version": 1,
+		"id": "com.william.sharednotes",
+		"app_min_version": "2.8.0",
+		"version": "1.0.10",
+		"name": "Shared Notes Panel",
+		"description": "Show the list of notes in shared notebooks",
+		"author": "William Baglioni",
+		"homepage_url": "https://github.com/William-webext/joplin-plugin-shared-notes",
+		"repository_url": "https://github.com/William-webext/joplin-plugin-shared-notes",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:3f8389b7f5dbe18fa95a2d7569738b196f89e0651c49f4c3b7b6f349183abbe3",
+		"_publish_commit": "main:3c96681aa5090765239121e091c9a9cce1c2fa6e",
+		"_npm_package_name": "joplin-plugin-shared-notes-william"
 	}
 }
