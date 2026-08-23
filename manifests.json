@@ -8426,7 +8426,7 @@
 		"manifest_version": 1,
 		"id": "com.harsh16gupta.notecategorization",
 		"app_min_version": "3.5",
-		"version": "0.1.11",
+		"version": "0.1.12",
 		"name": "Note Categorization Plugin",
 		"description": "AI-based note categorisation: clusters notes semantically, suggests tags and notebook structures, and detects stale notes.",
 		"author": "Harsh Gupta",
@@ -8437,8 +8437,8 @@
 		"screenshots": [],
 		"icons": {},
 		"promo_tile": {},
-		"_publish_hash": "sha256:d3295deca3b19e280545e2b282b232e759b2dd6e118e4c9f1593931975fd5a85",
-		"_publish_commit": "master:a486283c0b1ef995773701416ddfa4da1cb462cd",
+		"_publish_hash": "sha256:75e84b94d20965c497f910d4a645d081ccc4de0bb793fe0bd6c4ce7e7830e8fd",
+		"_publish_commit": "master:70c074057f86e6b1828096c4da86b010a784ae6a",
 		"_npm_package_name": "joplin-plugin-note-categorization"
 	},
 	"com.quicklinksplus.plugin": {
