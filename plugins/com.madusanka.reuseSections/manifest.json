@@ -1,0 +1,55 @@
+{
+	"manifest_version": 1,
+	"id": "com.madusanka.reuseSections",
+	"app_min_version": "3.1.0",
+	"app_min_version_mobile": "3.2.0",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"version": "1.0.0",
+	"name": "Reuse Sections",
+	"description": "Write a section once and reuse it anywhere: mark it with `&&&` ... `/&&&`, then embed it in any note with `&&&/notebook/note/#section`.",
+	"author": "madusanka",
+	"homepage_url": "https://github.com/madusankabibile/joplin-plugin-reuse-sections",
+	"repository_url": "https://github.com/madusankabibile/joplin-plugin-reuse-sections",
+	"keywords": [
+		"transclusion",
+		"embed",
+		"include",
+		"reuse",
+		"section"
+	],
+	"categories": [
+		"editor",
+		"viewer",
+		"productivity"
+	],
+	"screenshots": [
+		{
+			"src": "screenshots/01-mark-a-section.png",
+			"label": "Marking a section of a note as shareable with &&& ... /&&&"
+		},
+		{
+			"src": "screenshots/02-pick-a-section.png",
+			"label": "Typing &&&/ opens a drop-down of notebooks, then notes, then the sections of a note"
+		},
+		{
+			"src": "screenshots/03-reused-in-another-note.png",
+			"label": "The section rendered in another note, in another notebook, from a single reference line"
+		}
+	],
+	"icons": {
+		"16": "images/icon16.png",
+		"32": "images/icon32.png",
+		"48": "images/icon48.png",
+		"128": "images/icon128.png"
+	},
+	"promo_tile": {
+		"src": "images/promo_tile.png",
+		"label": "Reuse Sections - write a section once, embed it in any note"
+	},
+	"_publish_hash": "sha256:73bfbf704f09f4580a9dc3adfa6cfc0432213c97dfcb32ba3374549e1541fc07",
+	"_publish_commit": "main:b3f94aedbe8b500b4e603ba1cb09873868ba0acb",
+	"_npm_package_name": "joplin-plugin-reuse-sections"
+}
