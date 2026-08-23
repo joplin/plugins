@@ -2,12 +2,14 @@
 	"manifest_version": 1,
 	"id": "io.github.pmslava.harper",
 	"app_min_version": "3.1",
+	"app_min_version_mobile": "3.3",
 	"platforms": [
-		"desktop"
+		"desktop",
+		"mobile"
 	],
-	"version": "1.0.2",
+	"version": "1.1.1",
 	"name": "Harper",
-	"description": "Fast, offline, private grammar and spelling checking for the Joplin desktop Markdown editor, powered by Harper. Per-kind coloured underlines, a suggestion card with one-click fixes, add-to-dictionary, ignore and disable-rule, plus American, British, Australian and Canadian dialects.",
+	"description": "Fast, offline, private grammar and spelling checking for the Joplin Markdown editor on desktop and mobile, powered by Harper. Per-kind coloured underlines, a suggestion card with one-click fixes, add-to-dictionary, ignore and disable-rule, plus American, British, Australian and Canadian dialects. The dictionary can live in a synced Joplin note so words follow you across devices.",
 	"author": "pmslava",
 	"homepage_url": "https://github.com/pmslava/joplin-plugin-harper",
 	"repository_url": "https://github.com/pmslava/joplin-plugin-harper",
@@ -39,7 +41,7 @@
 			"label": "Close-up of the per-kind coloured squiggly underlines: a red spelling underline and a green word-choice underline"
 		}
 	],
-	"_publish_hash": "sha256:94bde0ecf9b0fa1f87b432614e6f8349c61d1179be49fde04755e692ff364900",
-	"_publish_commit": "master:bbc8d941e1691a3bbeae0c6f66d5792db27b2c02",
+	"_publish_hash": "sha256:4f68c980c84fa288df3bd27dc0320d3622c2fa7ed46b6aae823b346e5cb7586f",
+	"_publish_commit": "master:4eba2de8b24782d9e2ccefa900c23b4f3b2eef49",
 	"_npm_package_name": "joplin-plugin-harper"
 }
