@@ -6063,24 +6063,22 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.heading-navigator",
 		"app_min_version": "3.3",
-		"version": "0.9.0",
+		"version": "0.9.1",
 		"platforms": [
 			"desktop",
 			"mobile"
 		],
 		"name": "Heading Navigator",
-		"description": "VS Code/Sublime text style overlay panel to navigate through headings in the markdown editor",
+		"description": "VS Code/Sublime text style overlay panel to navigate through headings (table of contents) in the markdown editor",
 		"author": "bwat47",
 		"homepage_url": "https://github.com/bwat47/joplin-heading-navigator",
 		"repository_url": "https://github.com/bwat47/joplin-heading-navigator",
 		"keywords": [
-			"joplin-plugin",
 			"heading",
 			"outline",
 			"keyboard",
 			"navigation",
-			"toc",
-			"table of contents"
+			"toc"
 		],
 		"categories": [
 			"productivity",
@@ -6112,15 +6110,8 @@
 			"src": "images/heading-navigator_promo_tile.png",
 			"label": "heading Navigator Promo Tile"
 		},
-		"content_scripts": [
-			{
-				"id": "headingNavigatorPanel",
-				"path": "./contentScripts/headingNavigator.js",
-				"type": "codeMirrorPlugin"
-			}
-		],
-		"_publish_hash": "sha256:c8b2c05e064220750e80cf2e3d1450c5936ae694228e20dd5a9246618b27595d",
-		"_publish_commit": "main:2e3a63d0dfc52ae09e2a7bdbab226639e1459b22",
+		"_publish_hash": "sha256:fc79de0be3214a12c7f2f39835f4249af99abcff72812b1e4eb2e722d8576285",
+		"_publish_commit": "main:75e7bb4f85e981572cd4354c5c64b505595657ec",
 		"_npm_package_name": "joplin-plugin-heading-navigator"
 	},
 	"com.qaqqqqaq.tools": {
