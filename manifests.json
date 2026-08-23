@@ -9008,7 +9008,7 @@
 		"manifest_version": 1,
 		"id": "com.william.sharednotes",
 		"app_min_version": "2.8.0",
-		"version": "1.0.10",
+		"version": "1.0.13",
 		"name": "Shared Notes Panel",
 		"description": "Show the list of notes in shared notebooks",
 		"author": "William Baglioni",
@@ -9019,8 +9019,8 @@
 		"screenshots": [],
 		"icons": {},
 		"promo_tile": {},
-		"_publish_hash": "sha256:3f8389b7f5dbe18fa95a2d7569738b196f89e0651c49f4c3b7b6f349183abbe3",
-		"_publish_commit": "main:3c96681aa5090765239121e091c9a9cce1c2fa6e",
+		"_publish_hash": "sha256:0e3e3a3e2e6b0adc620ac0589848ea90b577fa3f7320b4eec43cd7f15cee0865",
+		"_publish_commit": "main:33c43c08390272c71d5d3e2910958ffe00fe26cf",
 		"_npm_package_name": "joplin-plugin-shared-notes-william"
 	},
 	"com.william.linkcheker": {
