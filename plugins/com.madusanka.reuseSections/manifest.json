@@ -7,7 +7,7 @@
 		"desktop",
 		"mobile"
 	],
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Reuse Sections",
 	"description": "Write a section once and reuse it anywhere: mark it with `&&&` ... `/&&&`, then embed it in any note with `&&&/notebook/note/#section`.",
 	"author": "madusanka",
@@ -49,7 +49,7 @@
 		"src": "images/promo_tile.png",
 		"label": "Reuse Sections - write a section once, embed it in any note"
 	},
-	"_publish_hash": "sha256:73bfbf704f09f4580a9dc3adfa6cfc0432213c97dfcb32ba3374549e1541fc07",
+	"_publish_hash": "sha256:b84c2b738fcf9add3d6a122009d13e4e5a163ad579337d279e164f27c8b374ba",
 	"_publish_commit": "main:b3f94aedbe8b500b4e603ba1cb09873868ba0acb",
 	"_npm_package_name": "joplin-plugin-reuse-sections"
 }
