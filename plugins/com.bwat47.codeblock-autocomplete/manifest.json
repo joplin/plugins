@@ -2,13 +2,13 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.codeblock-autocomplete",
 	"app_min_version": "3.3",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"platforms": [
 		"desktop",
 		"mobile"
 	],
 	"name": "Codeblock Autocomplete",
-	"description": "Code block utilities for the markdown editor: auto-completes fenced code, copy button for code blocks, toolbar button/editor command to create code blocks",
+	"description": "Code block utilities for the Markdown editor and viewer: fenced-code autocomplete and copy buttons, plus a command to create code blocks",
 	"author": "bwat47",
 	"homepage_url": "https://github.com/bwat47/joplin-codeblock-autocomplete",
 	"repository_url": "https://github.com/bwat47/joplin-codeblock-autocomplete",
@@ -25,12 +25,21 @@
 	"categories": [
 		"productivity",
 		"developer tools",
-		"editor"
+		"editor",
+		"viewer"
 	],
 	"screenshots": [
 		{
 			"src": "images/screenshot1.png",
-			"label": "Codeblock Autocomplete Screenshot 1"
+			"label": "Code autocomplete example"
+		},
+		{
+			"src": "images/screenshot2.png",
+			"label": "Markdown editor copy widget example"
+		},
+		{
+			"src": "images/screenshot3.png",
+			"label": "Markdown viewer copy widget example"
 		}
 	],
 	"icons": {
@@ -44,7 +53,7 @@
 		"src": "images/promo.png",
 		"label": "Codeblock Autocomplete Promo Tile"
 	},
-	"_publish_hash": "sha256:c3ab271445de6c9e0c076ae330fc01df7a169148aa53a992efdf1dff5f25d5e3",
-	"_publish_commit": "main:e600fde133f333d52efb405302ff15ca8aafb9ef",
+	"_publish_hash": "sha256:a82ea52d75044a6c0c2d6c04333080552038ce50e38b58c3b22d137de1181873",
+	"_publish_commit": "main:99794f2e20173bc346855a8c7a269b7bb77debb7",
 	"_npm_package_name": "joplin-plugin-codeblock-autocomplete"
 }
