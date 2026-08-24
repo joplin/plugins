@@ -1,0 +1,29 @@
+{
+	"manifest_version": 1,
+	"id": "com.yugalkaushik.plugin-note-graph",
+	"app_min_version": "3.5",
+	"version": "1.0.0",
+	"name": "Note Graph Plugin",
+	"description": "Visualizes your notes as an interactive graph, connecting them by links, tags and AI-detected semantic similarity.",
+	"author": "yugalkaushik",
+	"homepage_url": "",
+	"repository_url": "https://github.com/joplin/plugin-note-graph",
+	"keywords": [
+		"graph",
+		"network",
+		"ai",
+		"machine learning",
+		"text embeddings",
+		"knowledge graph"
+	],
+	"categories": [
+		"productivity",
+		"personal knowledge management"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:e38b6ea1624c0cfaa6c548cce77741e91d86586c4720e3154117b0861b3b8f82",
+	"_publish_commit": "master:ed429654a02f84ee94f9758c1b0922c6e320e3bc",
+	"_npm_package_name": "joplin-plugin-note-graph"
+}
