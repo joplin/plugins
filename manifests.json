@@ -9203,5 +9203,24 @@
 		"_publish_hash": "sha256:e38b6ea1624c0cfaa6c548cce77741e91d86586c4720e3154117b0861b3b8f82",
 		"_publish_commit": "master:ed429654a02f84ee94f9758c1b0922c6e320e3bc",
 		"_npm_package_name": "joplin-plugin-note-graph"
+	},
+	"com.william.webppublisher": {
+		"manifest_version": 1,
+		"id": "com.william.webppublisher",
+		"app_min_version": "2.8.0",
+		"version": "1.0.1",
+		"name": "Web Publisher",
+		"description": "Publish a notebook on a website in public or authenticated mode",
+		"author": "William Baglioni",
+		"homepage_url": "https://github.com/William-webext/joplin-plugin-web-publisher",
+		"repository_url": "https://github.com/William-webext/joplin-plugin-web-publisher",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:42eb7194cfc9ea43dbac1b3fa781e8f40bc72d5a6b0946dbf09d7bbf609e974f",
+		"_publish_commit": "main:42816bf2333358a4636ea9c8e0cf840f352afb88",
+		"_npm_package_name": "joplin-plugin-web-publisher"
 	}
 }
