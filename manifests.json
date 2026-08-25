@@ -5668,9 +5668,9 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.paste-as-markdown",
 		"app_min_version": "3.3",
-		"version": "1.4.2",
+		"version": "1.4.3",
 		"name": "Paste HTML as Markdown",
-		"description": "Paste HTML formatted text as markdown",
+		"description": "Paste clipboard HTML as clean markdown",
 		"author": "bwat47",
 		"homepage_url": "https://github.com/bwat47/paste-as-markdown",
 		"repository_url": "https://github.com/bwat47/paste-as-markdown",
@@ -5711,45 +5711,8 @@
 			"src": "images/pasteasmarkdown_promo_tile.png",
 			"label": "Paste as Markdown Promo Tile"
 		},
-		"settings": {
-			"includeImages": {
-				"type": "bool",
-				"label": "Include images",
-				"description": "If enabled, images will be included in the pasted markdown. If disabled, images will be removed entirely.",
-				"value": true
-			},
-			"convertImagesToResources": {
-				"type": "bool",
-				"label": "Include images",
-				"description": "If enabled, http(s) and base64 images are stored as Joplin resources (requires 'Include images').",
-				"value": false
-			},
-			"normalizeQuotes": {
-				"type": "bool",
-				"label": "Include images",
-				"description": "Convert Word/Office smart quotes to regular quotes for better markdown compatibility.",
-				"value": true
-			},
-			"forceTightLists": {
-				"type": "bool",
-				"label": "Force tight lists",
-				"description": "Remove blank lines between list items in output Markdown.",
-				"value": false
-			},
-			"listIndentation": {
-				"type": "string",
-				"label": "List indentation",
-				"description": "Choose whether nested list items and continuation lines are indented with spaces or tabs.",
-				"value": "tabs",
-				"isEnum": true,
-				"options": {
-					"spaces": "Spaces",
-					"tabs": "Tabs"
-				}
-			}
-		},
-		"_publish_hash": "sha256:d82327f16dc46d8bb99bc37b2c6c11eeaf893668366857fc9c6f91dc8ca0d624",
-		"_publish_commit": "main:073845acba58ba1e8d89cf247ffdae3ea87b249c",
+		"_publish_hash": "sha256:542ffef2686b6857478994f2596fab3cd380f83ee39ae00a63949be25409b20a",
+		"_publish_commit": "main:c66be4cd21fe4085f1a97268a3f056a95699bb38",
 		"_npm_package_name": "joplin-plugin-paste-as-markdown"
 	},
 	"tech.willenglish.dndplugin": {
