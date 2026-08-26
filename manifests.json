@@ -8862,15 +8862,32 @@
 		"manifest_version": 1,
 		"id": "com.advancedreminder.joplin",
 		"app_min_version": "3.6",
-		"version": "1.0.0",
+		"version": "1.1.1",
 		"name": "Advanced Reminder",
 		"description": "Adds multiple reminder times to Joplin To-Do notes.",
 		"author": "ramyyasser21102",
 		"homepage_url": "https://github.com/ramyyasser21102/joplin-advanced-reminder",
 		"repository_url": "https://github.com/ramyyasser21102/joplin-advanced-reminder",
-		"keywords": [],
-		"categories": [],
-		"screenshots": [],
+		"keywords": [
+			"reminder",
+			"reminders",
+			"alarm",
+			"todo",
+			"to-do",
+			"productivity",
+			"batch",
+			"preset",
+			"scheduling"
+		],
+		"categories": [
+			"productivity"
+		],
+		"screenshots": [
+			{
+				"src": "src/assets/screenshot_1.webp",
+				"label": "The Manage reminders dialog: quick-add presets, a custom batch builder, saved presets, and the note's reminder list"
+			}
+		],
 		"icons": {
 			"16": "assets/icon-16.png",
 			"32": "assets/icon-32.png",
@@ -8878,8 +8895,8 @@
 			"128": "assets/icon-128.png"
 		},
 		"promo_tile": {},
-		"_publish_hash": "sha256:3af953bd430edfc7ab6cf542d19734f877b26bf461a44f45834107d262491753",
-		"_publish_commit": "main:759e49024c3c3378e2071e127ebd0be67634ae3c",
+		"_publish_hash": "sha256:9ec7dff126060547265d6b3ae7f33670c2bebbb26192e65e76e2febcbc0e53d1",
+		"_publish_commit": "main:53dfc0ba65767d53a94309c7e24072685939d28c",
 		"_npm_package_name": "joplin-plugin-advanced-reminder"
 	},
 	"com.bwat47.joplin-daily-notes": {
