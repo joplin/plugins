@@ -1,0 +1,32 @@
+{
+	"manifest_version": 1,
+	"id": "com.github.justinvulz.typst-math",
+	"app_min_version": "3.0",
+	"app_min_version_mobile": "3.1",
+	"version": "0.1.0",
+	"name": "Typst Math",
+	"description": "Render $...$ and $$...$$ with the Typst engine. LaTeX equations keep rendering with KaTeX, so existing notes are unaffected.",
+	"author": "Justin Chen",
+	"homepage_url": "https://github.com/justinvulz/joplin-plugin-typst-math",
+	"repository_url": "https://github.com/justinvulz/joplin-plugin-typst-math",
+	"keywords": [
+		"typst",
+		"math",
+		"equations",
+		"latex",
+		"katex"
+	],
+	"categories": [
+		"viewer"
+	],
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:0ea6c275eda4c308fefc7a6110cbbb84a562faa28f8b9fcfd27de3f7df1cb712",
+	"_publish_commit": "main:aeebbe1c5123cbf238eef99ddc5074d5aca18e81",
+	"_npm_package_name": "joplin-plugin-typst-math"
+}
