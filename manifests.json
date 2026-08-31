@@ -9273,5 +9273,15 @@
 		"_publish_hash": "sha256:ec75ec0886874724a57ac78f3f271e01dda7ee275721c4f98639d2c0195655c9",
 		"_publish_commit": "main:7707df3338951aa3009168125de91f65c4e5c3d7",
 		"_npm_package_name": "joplin-plugin-typst-math"
+	},
+	"plugin.mrjo118.auto-sync-block": {
+		"manifest_version": 1,
+		"id": "plugin.mrjo118.auto-sync-block",
+		"app_min_version": "2.8",
+		"version": "1.0.0",
+		"name": "Auto Sync Block",
+		"description": "A plugin that continually postpones sync-as-you-type using a trashed notebook.",
+		"author": "mrjo118",
+		"_npm_package_name": "joplin-plugin-auto-sync-block"
 	}
 }

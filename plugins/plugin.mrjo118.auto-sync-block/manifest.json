@@ -1,0 +1,10 @@
+{
+	"manifest_version": 1,
+	"id": "plugin.mrjo118.auto-sync-block",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "Auto Sync Block",
+	"description": "A plugin that continually postpones sync-as-you-type using a trashed notebook.",
+	"author": "mrjo118",
+	"_npm_package_name": "joplin-plugin-auto-sync-block"
+}
