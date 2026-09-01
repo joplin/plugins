@@ -2,10 +2,10 @@
 	"manifest_version": 1,
 	"id": "com.asciidoc.joplin-plugin",
 	"app_min_version": "3.1.0",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"name": "adocLIVE",
 	"description": "AsciiDoc live-preview editing for Joplin",
-	"author": "Amal Ghosh <amalghosh999@gmail.com>",
+	"author": "Amal Ghosh",
 	"homepage_url": "https://github.com/amalghosh999/adocLIVE-Joplin-Plugin",
 	"repository_url": "https://github.com/amalghosh999/adocLIVE-Joplin-Plugin",
 	"platforms": [
@@ -21,7 +21,21 @@
 		"productivity",
 		"editor"
 	],
-	"_publish_hash": "sha256:d68a50ee2a9884dcc285122185b1404a90aed0fafd72f29ce873268dbafdf54b",
-	"_publish_commit": "master:50d8644c68f3eb667afe38630417a0432221d5a8",
+	"screenshots": [
+		{
+			"src": "docs/images/adoclive-live-preview.png",
+			"label": "Live Preview with the original adocLIVE ribbon toolbar"
+		},
+		{
+			"src": "docs/images/adoclive-raw-text.png",
+			"label": "Raw AsciiDoc source with the View controls"
+		},
+		{
+			"src": "docs/images/adoclive-dark-theme.png",
+			"label": "Dark theme with the original Insert toolbar"
+		}
+	],
+	"_publish_hash": "sha256:45df13eb1cc8e7ec50e4ebc8be18b24c953c10b07ab5c233f285640394fc0a83",
+	"_publish_commit": "master:ee4350f861f31c1aae6ee134f15ce40cde5d48d5",
 	"_npm_package_name": "joplin-plugin-adoclive"
 }
