@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.context-utils",
 	"app_min_version": "3.3",
-	"version": "1.8.3",
+	"version": "1.8.4",
 	"name": "Context Utils",
 	"description": "Adds various options to the right-click context menu in the Markdown Editor and commands for toggling task list items, contextual copy, and fetching link titles.",
 	"author": "bwat47",
@@ -39,7 +39,7 @@
 		"src": "images/context-utils_promo_tile.png",
 		"label": "Context Utils Promo Tile"
 	},
-	"_publish_hash": "sha256:6cf20350e5046804bdb8f2a2540c5ccbd9234f93c73326dfc6323d57b7cc827f",
-	"_publish_commit": "main:c527f9e8c1d4d174a39de6a114739b9a6386c6a8",
+	"_publish_hash": "sha256:907b82c52aeab9a3ab6541dadac5d54c77404eb7555ddd30b90880d2b4804f31",
+	"_publish_commit": "main:2331c9fb437a7eea453d2c8660adeb2c2fcf66ae",
 	"_npm_package_name": "joplin-plugin-context-utils"
 }
