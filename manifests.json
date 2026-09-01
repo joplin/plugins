@@ -9380,5 +9380,32 @@
 		"_publish_hash": "sha256:53f350cdea220d755b62a5e5782dd999aba4ba1a7fae5e27e550a76be136825b",
 		"_publish_commit": "main:aab21d9e18799a07b9a0b60b164a633e72657d03",
 		"_npm_package_name": "joplin-plugin-joplin2n8n"
+	},
+	"com.aronwu.search-match-count": {
+		"manifest_version": 1,
+		"id": "com.aronwu.search-match-count",
+		"app_min_version": "3.0",
+		"version": "1.0.0",
+		"name": "Search Match Count",
+		"description": "Restores the search match counter (e.g. 3/17) in the Markdown editor's search panel, which was lost in the CodeMirror 6 migration.",
+		"author": "Aron Wu",
+		"homepage_url": "https://github.com/ARON-HACK/joplin-search-match-count",
+		"repository_url": "https://github.com/ARON-HACK/joplin-search-match-count",
+		"keywords": [
+			"search",
+			"editor",
+			"codemirror",
+			"match",
+			"count"
+		],
+		"categories": [
+			"editor"
+		],
+		"platforms": [
+			"desktop"
+		],
+		"_publish_hash": "sha256:0729968af502955780e6100f13a084b6a0bbe6089f865790ee060b94f507266e",
+		"_publish_commit": "main:9e2aa9989f8dfa89e8496fd41c659d209841b452",
+		"_npm_package_name": "joplin-plugin-search-match-count"
 	}
 }
