@@ -6993,7 +6993,7 @@
 		"manifest_version": 1,
 		"id": "org.joplinapp.ChatGptImportPlugin",
 		"app_min_version": "3.6.4",
-		"version": "1.0.2",
+		"version": "1.0.3",
 		"name": "ChatGPT Import",
 		"description": "Import ChatGPT conversation archives (ZIP exports) into Joplin as notes, with support for images, audio, and video attachments",
 		"author": "Laurent Cozic",
@@ -7017,8 +7017,8 @@
 			"src": "doc/PromoTile.png",
 			"label": "Icon showing a chat bubble with an arrow pointing to a stack of notes, representing importing ChatGPT conversations into notes."
 		},
-		"_publish_hash": "sha256:2eee121b1c5f9c81b72fb51784874d45dc1acfec5f3c67c60ccc0fc0676bf6ce",
-		"_publish_commit": "master:176fcd1bf20fbf7c065335aac68e28c75d8d30af",
+		"_publish_hash": "sha256:5c42314f3a384cbaa60bf373520fb51b90248a065a1c50bb3ac5a7ca7ee26f25",
+		"_publish_commit": "master:1b51212ad3f2ba08eb592af9944ea18ff0c9c424",
 		"_npm_package_name": "joplin-plugin-chat-gpt-import"
 	},
 	"io.github.albertbaubledeem.joplin.google-docs": {
