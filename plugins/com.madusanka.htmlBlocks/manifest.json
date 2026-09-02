@@ -7,7 +7,7 @@
 		"desktop",
 		"mobile"
 	],
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"name": "HTML Blocks",
 	"description": "Write styled HTML sections - cards, callouts, fancy lists, steps, timelines, grids and more - using a simple `!!! type` ... `!!!->` markdown fence.",
 	"author": "madusanka",
@@ -27,16 +27,36 @@
 	],
 	"screenshots": [
 		{
-			"src": "screenshots/01-block-picker.png",
-			"label": "The block picker: filter 298 blocks by name, id, colour or theme and insert one with a click"
+			"src": "screenshots/01-admonitions.png",
+			"label": "The twelve admonitions, styled to match the Admonition markdown extension so existing notes migrate unchanged"
 		},
 		{
-			"src": "screenshots/02-card-blocks.png",
-			"label": "Card blocks in the note viewer - solid, outline, tinted, gradient and elevated styles"
+			"src": "screenshots/02-block-picker.png",
+			"label": "The block picker: filter 383 blocks by name, id, colour or theme and insert one with a click"
 		},
 		{
-			"src": "screenshots/03-lists-stats-grids.png",
-			"label": "Checklists, stat tiles, badge rows, grids and key/value tables"
+			"src": "screenshots/03-charts.png",
+			"label": "Charts drawn in plain CSS - columns, bars, pie, donut, line, area and gauges"
+		},
+		{
+			"src": "screenshots/04-stats-progress-ratings.png",
+			"label": "Stat tiles, progress bars and star ratings"
+		},
+		{
+			"src": "screenshots/05-tables-and-data.png",
+			"label": "Tables and key/value data, in striped, bordered, compact and minimal styles"
+		},
+		{
+			"src": "screenshots/06-collapsible-and-faq.png",
+			"label": "Collapsible sections and FAQ lists"
+		},
+		{
+			"src": "screenshots/07-text-art.png",
+			"label": "Big-text banners, gradient and neon headlines, outlines, 3D and rubber stamps"
+		},
+		{
+			"src": "screenshots/08-animations.png",
+			"label": "Fifteen CSS animations, all disabled again under prefers-reduced-motion"
 		}
 	],
 	"icons": {
@@ -49,7 +69,7 @@
 		"src": "images/promo_tile.png",
 		"label": "HTML Blocks - styled cards, callouts and lists from a simple markdown fence"
 	},
-	"_publish_hash": "sha256:e630df4c140770d24725da9006a03add9f1970f06ab8bddef7d24a7cff5c493b",
-	"_publish_commit": "main:955360b5ed8bfe364d1a5939ee58ed4e0c7b2911",
+	"_publish_hash": "sha256:9166723936b229542fcb5f38625d2bf49687e29c1b98aec640f1fef3d4a42f00",
+	"_publish_commit": "main:58718729848b6ad578f6b4b876b771335fd42d44",
 	"_npm_package_name": "joplin-plugin-html-blocks"
 }
