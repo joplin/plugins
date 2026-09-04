@@ -9474,5 +9474,28 @@
 		"_publish_hash": "sha256:2ef9673658503aa84a5905b7c4bbb667660bec11dc66adda2e52d482ca55d3e2",
 		"_publish_commit": "master:3705d67a75d518ee60f2358ed87c3b858cfe4f3d",
 		"_npm_package_name": "joplin-plugin-whereabouts"
+	},
+	"io.gitlab.mh8.JoplinHeadingControl": {
+		"manifest_version": 1,
+		"id": "io.gitlab.mh8.JoplinHeadingControl",
+		"app_min_version": "3.6",
+		"version": "1.0.0",
+		"name": "Joplin Heading Control",
+		"description": "Customize Markdown heading appearance in Joplin with per-level styling controls for H1 through H6, while keeping note Markdown clean and unchanged.",
+		"author": "Mathieu Hery",
+		"homepage_url": "https://gitlab.com/mh8/joplin-heading-control",
+		"repository_url": "https://gitlab.com/mh8/joplin-heading-control",
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:61d0f111289a7816c627a0b65ff446eeb9c9de61b6c2471bd4d627c0530bc5ae",
+		"_publish_commit": "main:2f985f5167225518182f03353314cbd11695a2c2",
+		"_npm_package_name": "joplin-plugin-heading-control"
 	}
 }
