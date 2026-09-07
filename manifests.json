@@ -9502,5 +9502,33 @@
 		"_publish_hash": "sha256:61d0f111289a7816c627a0b65ff446eeb9c9de61b6c2471bd4d627c0530bc5ae",
 		"_publish_commit": "main:2f985f5167225518182f03353314cbd11695a2c2",
 		"_npm_package_name": "joplin-plugin-heading-control"
+	},
+	"io.github.nm802.cjk-search": {
+		"manifest_version": 1,
+		"id": "io.github.nm802.cjk-search",
+		"app_min_version": "3.7.16",
+		"version": "1.0.0",
+		"name": "CJK Search",
+		"description": "Language-agnostic full-text search. Finds Japanese, Chinese, Korean and mixed-script text that the built-in search misses.",
+		"author": "masayanishida",
+		"homepage_url": "https://github.com/nm802/joplin-plugin-cjk-search",
+		"repository_url": "https://github.com/nm802/joplin-plugin-cjk-search",
+		"keywords": [
+			"search",
+			"cjk",
+			"japanese",
+			"chinese",
+			"korean",
+			"fulltext"
+		],
+		"categories": [
+			"search"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:cbd119339f187b5360e32d76832f39f442ffc3538a22d425415698b723e17a4d",
+		"_publish_commit": "main:8552dbdf226f008a3d6370ff31cf6fe3703642cf",
+		"_npm_package_name": "joplin-plugin-cjk-search"
 	}
 }
