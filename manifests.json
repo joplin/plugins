@@ -8074,11 +8074,11 @@
 		"manifest_version": 1,
 		"id": "vip.bestsvip.note-ai",
 		"app_min_version": "3.6",
-		"version": "1.0.2",
+		"version": "1.1.2",
 		"name": "Note AI",
 		"description": "用 AI 處理筆記內容 — 支援任何 OpenAI-compatible API（DeepSeek、OpenAI、Ollama、LM Studio 等）",
 		"author": "Jesse Lin",
-		"homepage_url": "https://github.com/linuxxunil",
+		"homepage_url": "https://github.com/linuxxunil/joplin-plugin-note-ai",
 		"repository_url": "https://github.com/linuxxunil",
 		"keywords": [
 			"ai",
@@ -8094,8 +8094,8 @@
 		"screenshots": [],
 		"icons": {},
 		"promo_tile": {},
-		"_publish_hash": "sha256:99f69249bc48c244090b06917b1b7d77cb9913e16a428af9ac56895c1d24fdf7",
-		"_publish_commit": "main:1231b924c1fb4339591b92db6f54344a108912e6",
+		"_publish_hash": "sha256:48aa01e31fc2ff3a1e9d61b7762d41464de9117a138a58d698c8e15238c59a5f",
+		"_publish_commit": "main:74a607a3779dc6796a869a46b085a7ef2b298040",
 		"_npm_package_name": "joplin-plugin-note-ai"
 	},
 	"hack.aron.joplin.favorites": {
