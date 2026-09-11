@@ -1,0 +1,39 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.pmslava.excalidraw",
+	"app_min_version": "3.3",
+	"version": "3.0.1",
+	"name": "Excalidraw",
+	"description": "Excalidraw drawings in your notes: create and edit hand-drawn sketches, diagrams and whiteboards without leaving Joplin, with light and dark theme support and editing straight from the editor. Continuation of joplin-excalidraw-v2 (neagix) and joplin-excalidraw (artikell).",
+	"author": "pmslava",
+	"homepage_url": "https://github.com/pmslava/joplin-plugin-excalidraw",
+	"repository_url": "https://github.com/pmslava/joplin-plugin-excalidraw",
+	"keywords": [
+		"excalidraw",
+		"drawing",
+		"sketch",
+		"diagram",
+		"whiteboard",
+		"svg"
+	],
+	"categories": [
+		"editor",
+		"integrations"
+	],
+	"platforms": [
+		"desktop"
+	],
+	"screenshots": [
+		{
+			"src": "docs/images/editor-full-size.png",
+			"label": "The editor at full size, with Save, Close and the size toggle in the bottom-right corner"
+		},
+		{
+			"src": "docs/images/viewer-toolbar.png",
+			"label": "The hover toolbar on a drawing in the note viewer"
+		}
+	],
+	"_publish_hash": "sha256:111d673cb90f0f5023291febea8f4532352149b396a967c101a55e6b3e2b28cd",
+	"_publish_commit": "master:f0d6e6de3a1b853b87e5eaab00d39c1fcbd62714",
+	"_npm_package_name": "joplin-plugin-excalidraw"
+}
