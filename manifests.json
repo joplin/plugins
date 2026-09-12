@@ -9580,7 +9580,7 @@
 		"manifest_version": 1,
 		"id": "mealie.joplin.shopping-list-sync",
 		"app_min_version": "3.5",
-		"version": "1.0.0",
+		"version": "1.0.1",
 		"name": "Mealie Shopping List Sync",
 		"description": "Synchronize a Mealie shopping list with a Joplin Markdown note.",
 		"author": "David Niederweis",
@@ -9602,8 +9602,8 @@
 		"screenshots": [],
 		"icons": {},
 		"promo_tile": {},
-		"_publish_hash": "sha256:72a0d4269d6f1dc9c71324a40735bcfc6e1362cbd0346075ae4190e897c5da97",
-		"_publish_commit": "main:0468fc6dcdfb1790aa6873bb958021cd7eb39383",
+		"_publish_hash": "sha256:5b4e6fa9c21939f01324276622d9a76111116ed43beca61d3bf66afdc2d05185",
+		"_publish_commit": "main:281e7a5e82b09925c9829f5364b170b3df7286c5",
 		"_npm_package_name": "joplin-plugin-mealie-shopping-list-sync"
 	}
 }
