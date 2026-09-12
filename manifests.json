@@ -9605,5 +9605,32 @@
 		"_publish_hash": "sha256:39e05ae794e1f253e2e6a68e5ae128f8057b956e1974a91aa2a1934b638dc051",
 		"_publish_commit": "main:c6f6300e117cfdf3799b711720f05cb7ce17a010",
 		"_npm_package_name": "joplin-plugin-mealie-shopping-list-sync"
+	},
+	"bluedrink9.CommandServer": {
+		"manifest_version": 1,
+		"id": "bluedrink9.CommandServer",
+		"app_min_version": "3.5",
+		"version": "1.0.0",
+		"name": "Joplin Command Server",
+		"description": "Simple Joplin plugin allowing executing of commands in the UI by file-based interprocess communication, allowing remote process control (RPC). Useful for advanced keyboard shortcuts, AI agents, or voice control",
+		"author": "BlueDrink9",
+		"homepage_url": "https://github.com/BlueDrink9/joplin-command-server",
+		"repository_url": "https://github.com/BlueDrink9/joplin-command-server",
+		"keywords": [
+			"command",
+			"server",
+			"RPC",
+			"IPC"
+		],
+		"categories": [
+			"developer tools",
+			"integrations"
+		],
+		"platforms": [
+			"desktop"
+		],
+		"_publish_hash": "sha256:be39ce47b2afb1bd4a593ff59a4cf5648d59372cd32e6a5c04918b03657146a3",
+		"_publish_commit": "main:d2bf3d60e78141b7a107e953703dd96aa523f02e",
+		"_npm_package_name": "joplin-plugin-command-server"
 	}
 }
