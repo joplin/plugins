@@ -1,0 +1,51 @@
+{
+	"manifest_version": 1,
+	"id": "joplin-plugin-on-deck",
+	"app_min_version": "3.6",
+	"app_min_version_mobile": "3.6",
+	"version": "1.15.0",
+	"name": "On Deck",
+	"description": "Shows a standalone window with tasks that are due or overdue. Auto-opens when tasks need attention. Supports opening notes and snoozing tasks.",
+	"author": "eltobiando",
+	"homepage_url": "https://github.com/eltobiando/joplin-plugin-on-deck",
+	"repository_url": "https://github.com/eltobiando/joplin-plugin-on-deck",
+	"keywords": [
+		"todo",
+		"tasks",
+		"reminders",
+		"due date",
+		"overdue"
+	],
+	"categories": [
+		"productivity"
+	],
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"screenshots": [
+		{
+			"src": "images/screenshots/screenshot-01.png",
+			"label": "Screenshot: The On-Deck window listing due and overdue tasks"
+		},
+		{
+			"src": "images/screenshots/screenshot-02.png",
+			"label": "Screenshot: Snooze dropdown with preset and custom durations"
+		},
+		{
+			"src": "images/screenshots/screenshot-04.png",
+			"label": "Screenshot: On-Deck plugin settings"
+		}
+	],
+	"icons": {
+		"64": "images/icon/icon-64.png",
+		"96": "images/icon/icon-96.png",
+		"128": "images/icon/icon-128.png",
+		"192": "images/icon/icon-192.png",
+		"512": "images/icon/icon-512.png"
+	},
+	"promo_tile": {},
+	"_publish_hash": "sha256:d8cef974af322f6f2e4147f473c3d67ac7d754dae85f5c938d9a18b00b1728c9",
+	"_publish_commit": "main:0cee6b749d34c7b2b92e4a735aab48f7e20b14ed",
+	"_npm_package_name": "joplin-plugin-on-deck"
+}
