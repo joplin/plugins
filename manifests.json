@@ -8349,7 +8349,7 @@
 		"description": "Place your cursor in front of a task in a note, run the command, and it converts the text to the right of the cursor into an @TODO line with an optional due date (defaults to tomorrow, with a click-to-pick calendar) and tags. Pairs with the Inline TODO plugin (plugin.calebjohn.todo).",
 		"author": "Frank DeJoy",
 		"homepage_url": "https://github.com/dejoyf-jpg/homelab/tree/main/plugins/joplin-inline-todo-gui",
-		"repository_url": "https://github.com/dejoyf-jpg/homelab",
+		"repository_url": "https://github.com/dejoyf-jpg/joplin-inline-todo-gui",
 		"keywords": [
 			"todo",
 			"task",
