@@ -3,7 +3,7 @@
 	"id": "joplin-plugin-on-deck",
 	"app_min_version": "3.6",
 	"app_min_version_mobile": "3.6",
-	"version": "1.16.0",
+	"version": "1.17.0",
 	"name": "On Deck",
 	"description": "Shows a standalone window with tasks that are due or overdue. Auto-opens when tasks need attention. Supports opening notes and snoozing tasks.",
 	"author": "eltobiando",
@@ -45,7 +45,7 @@
 		"512": "images/icon/icon-512.png"
 	},
 	"promo_tile": {},
-	"_publish_hash": "sha256:b01b8542d12aadbb7744c763bbe2da1380db73ad76f8f8b3440f0b63bf6ffc48",
-	"_publish_commit": "main:4af7e563f747087243dfe240efaa10d6b056b53b",
+	"_publish_hash": "sha256:5927d896852e7a7f7f891e40fb6381bec30f9fd4d5a3c7a5d91665d409e0d3ec",
+	"_publish_commit": "main:dce1c7e358c49029f85f54d02466ff86c25e4152",
 	"_npm_package_name": "joplin-plugin-on-deck"
 }
