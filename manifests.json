@@ -9711,5 +9711,32 @@
 		"_publish_hash": "sha256:8f4f32e32a38b89ea6109f83eb35b0558f6479a158c79ee285b70b97ed8b387b",
 		"_publish_commit": "main:76b8cde003232a8c25e63b1c504fe2cc296f295d",
 		"_npm_package_name": "joplin-plugin-inline-timers"
+	},
+	"com.joekaufeld.sendwebhook": {
+		"manifest_version": 1,
+		"id": "com.joekaufeld.sendwebhook",
+		"app_min_version": "3.7",
+		"version": "1.0.2",
+		"name": "Webhook Button",
+		"description": "Turn a page into a button that sends a webhook payload to an endpoint and displays the response.",
+		"author": "Joe Kaufeld",
+		"homepage_url": "",
+		"repository_url": "https://github.com/itsthejoker/joplin-send-webhook",
+		"keywords": [
+			"webhook",
+			"automation",
+			"http",
+			"post"
+		],
+		"categories": [
+			"integrations",
+			"productivity"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:97aec345d20bff17dafa72505faf6207f6919fdcc415c9ef8e46fd4c6e926ef0",
+		"_publish_commit": "main:af00fbfd6809c4a70659d5204167098da6654f76",
+		"_npm_package_name": "joplin-plugin-webhook-button"
 	}
 }
