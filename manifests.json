@@ -9788,5 +9788,31 @@
 		"_publish_hash": "sha256:2b17a859039283574808a75f173c2d78af7a6ac541b9beb1d16e0824c030795c",
 		"_publish_commit": "master:c493f66c3be8f7ae45e127aa6a780d16327ac06b",
 		"_npm_package_name": "joplin-plugin-asyntai-ai-chatbot"
+	},
+	"com.jk.applenoteslist": {
+		"manifest_version": 1,
+		"id": "com.jk.applenoteslist",
+		"app_min_version": "3.0",
+		"version": "1.0.0",
+		"name": "Apple Notes",
+		"description": "Gives Joplin the look and feel of Apple Notes on macOS — an Apple-Notes-style note list, editor chrome, and colors in both light and dark mode. All standard Joplin functionality is preserved; every control is restyled, never removed.",
+		"author": "Joseph Jake Klein",
+		"homepage_url": "https://github.com/JCKGH/joplin-plugin-apple-notes",
+		"repository_url": "https://github.com/JCKGH/joplin-plugin-apple-notes",
+		"categories": [
+			"appearance",
+			"themes"
+		],
+		"keywords": [
+			"theme",
+			"apple",
+			"notes",
+			"appearance",
+			"note list",
+			"light",
+			"dark",
+			"macos"
+		],
+		"_npm_package_name": "joplin-plugin-apple-notes"
 	}
 }
