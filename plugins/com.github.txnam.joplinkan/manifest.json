@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.github.txnam.joplinkan",
 	"app_min_version": "3.5",
-	"version": "0.5.0",
+	"version": "0.6.2",
 	"name": "JoplinKan",
 	"description": "Create and edit Kanban boards directly in Joplin Markdown notes.",
 	"author": "https://github.com/txnam/JoplinKan",
@@ -24,8 +24,8 @@
 	],
 	"screenshots": [
 		{
-			"src": "docs/screenshots/joplin-kan-1.png",
-			"label": "Simple kanban panel with drag-n-drop task"
+			"src": "docs/screenshots/joplin-kan-2.png",
+			"label": "Kanban board with task details and grouped color palettes"
 		}
 	],
 	"icons": {
@@ -34,7 +34,7 @@
 		"48": "assets/joplin-kan-48.png",
 		"128": "assets/joplin-kan-128.png"
 	},
-	"_publish_hash": "sha256:47b7b3e650eb0a9b59d808169fbc66fbb52a09c0b6d3752ba4906757798ccd17",
-	"_publish_commit": "main:f0d60f97b12de2ef01a45baa6031c7249fec4218",
+	"_publish_hash": "sha256:9cabbfab634963802680948083802b957549eeb2944f43a84f1d412e334a1966",
+	"_publish_commit": "main:841fa04f4d1e7b26ec4303b5da6af3dee87036cd",
 	"_npm_package_name": "joplin-plugin-joplinkan"
 }
