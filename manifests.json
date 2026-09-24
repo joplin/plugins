@@ -9150,7 +9150,7 @@
 		"manifest_version": 1,
 		"id": "io.github.pmslava.ridgeline",
 		"app_min_version": "3.3",
-		"version": "0.3.0",
+		"version": "0.4.0",
 		"name": "Ridgeline",
 		"description": "A hover-expanding minimap outline for the Markdown editor and viewer: a compact stack of level-encoded bars that tracks the current section and expands into a full clickable table of contents on hover. Theme-aware, live settings, multi-window.",
 		"author": "pmslava",
@@ -9183,8 +9183,8 @@
 				"label": "In a split view the strip tracks the current section in both the editor and the rendered viewer at once"
 			}
 		],
-		"_publish_hash": "sha256:c5224081ff5b9922b38d812fd6e33ded9139cca53717bebbcb170929be6bcc67",
-		"_publish_commit": "master:dd293f88eafbaa7a548fabc2bef8c7c7e10d6570",
+		"_publish_hash": "sha256:a485beb8b9f672f63d56b94aa59d831d0c21900859f8cbf434262bbda646936b",
+		"_publish_commit": "master:e94fce7dee82dc31a63f63b9aededc30b4fa0b9d",
 		"_npm_package_name": "joplin-plugin-ridgeline"
 	},
 	"com.madusanka.reuseSections": {
