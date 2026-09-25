@@ -1,0 +1,25 @@
+{
+	"manifest_version": 1,
+	"id": "com.mrjo118.orphaned-note-repair-tool",
+	"app_min_version": "3.5",
+	"version": "1.0.0",
+	"name": "joplin-plugin-orphaned-note-repair-tool",
+	"description": "Find and recreate notebooks referenced by orphaned Joplin items.",
+	"author": "mrjo118",
+	"repository_url": "https://github.com/mrjo118/joplin-orphaned-note-repair-tool",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"keywords": [
+		"orphaned",
+		"notes",
+		"notebooks",
+		"repair",
+		"recovery"
+	],
+	"categories": [
+		"productivity"
+	],
+	"_npm_package_name": "joplin-plugin-orphaned-note-repair-tool"
+}
