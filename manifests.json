@@ -9842,5 +9842,37 @@
 			"productivity"
 		],
 		"_npm_package_name": "joplin-plugin-orphaned-note-repair-tool"
+	},
+	"com.github.smieltalker.recall": {
+		"manifest_version": 1,
+		"id": "com.github.smieltalker.recall",
+		"app_min_version": "3.0",
+		"version": "1.0.0",
+		"name": "Recall",
+		"description": "Rediscover your notes: open a random note, resurface notes from this day in past years, and see writing statistics for your whole library (counts CJK correctly).",
+		"author": "smiletalker",
+		"homepage_url": "https://github.com/smieltalker/joplin-plugin-recall",
+		"repository_url": "https://github.com/smieltalker/joplin-plugin-recall",
+		"keywords": [
+			"random",
+			"review",
+			"on this day",
+			"memories",
+			"anniversary",
+			"word count",
+			"statistics",
+			"cjk",
+			"chinese"
+		],
+		"categories": [
+			"personal knowledge management",
+			"productivity"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:60cd3187b4cc7a1af18e96cffcf72f744cbdb04e5f760ba234cd70ba0c0ae019",
+		"_publish_commit": "main:f7d4c73aa59b79049655bb0764bb6d8fda14bae6",
+		"_npm_package_name": "joplin-plugin-recall"
 	}
 }
