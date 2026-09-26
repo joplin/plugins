@@ -6224,13 +6224,13 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.codeblock-autocomplete",
 		"app_min_version": "3.3",
-		"version": "1.5.1",
+		"version": "1.6.0",
 		"platforms": [
 			"desktop",
 			"mobile"
 		],
-		"name": "Codeblock Autocomplete",
-		"description": "Code block utilities for the Markdown editor and viewer: fenced-code autocomplete and copy buttons, plus a command to create code blocks",
+		"name": "Codeblock Utils",
+		"description": "Code block utilities for the Markdown editor and viewer: language autocomplete, copy buttons, line numbers, and a command to insert or toggle code blocks",
 		"author": "bwat47",
 		"homepage_url": "https://github.com/bwat47/joplin-codeblock-autocomplete",
 		"repository_url": "https://github.com/bwat47/joplin-codeblock-autocomplete",
@@ -6273,10 +6273,10 @@
 		},
 		"promo_tile": {
 			"src": "images/promo.png",
-			"label": "Codeblock Autocomplete Promo Tile"
+			"label": "Codeblock Utils Promo Tile"
 		},
-		"_publish_hash": "sha256:27ef6df2d0629bfb25c0ba3b38a41c58c9acc809c4198cd9ea37163c5577f8be",
-		"_publish_commit": "main:97ce4368617a3b2642e6d10656d4ab7b41cf0dba",
+		"_publish_hash": "sha256:7019157752bd88ba6fcf15acede1a970aa49108adf3582eed3e7c15d765d3c1b",
+		"_publish_commit": "main:90e131c330c7349edaa72ae463da9c7e360840db",
 		"_npm_package_name": "joplin-plugin-codeblock-autocomplete"
 	},
 	"joplin.hyongew.hide-notebooks": {
