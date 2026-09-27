@@ -1,0 +1,40 @@
+{
+	"manifest_version": 1,
+	"id": "com.fsrs.review-calendar",
+	"name": "FSRS Review Calendar",
+	"description": "Plan study topics, manage Joplin to-dos, and schedule future reviews with FSRS.",
+	"version": "2.2.0",
+	"app_min_version": "3.0",
+	"app_min_version_mobile": "3.0.3",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"author": "TacoHubble",
+	"homepage_url": "https://github.com/TacoHubble/joplin-plugin-fsrs-review-calendar",
+	"repository_url": "https://github.com/TacoHubble/joplin-plugin-fsrs-review-calendar",
+	"categories": [
+		"productivity",
+		"personal knowledge management"
+	],
+	"keywords": [
+		"fsrs",
+		"spaced repetition",
+		"calendar",
+		"review",
+		"todo",
+		"study planner"
+	],
+	"icons": {
+		"16": "images/icon-16.png",
+		"32": "images/icon-32.png",
+		"48": "images/icon-48.png",
+		"128": "images/icon-128.png"
+	},
+	"promo_tile": {
+		"src": "images/promo-tile.png",
+		"label": "FSRS Review Calendar"
+	},
+	"_publish_hash": "sha256:fa2a2d156486bc6222aa6a877ca8306f0984bccb9a4897260b172bc72c8ba4e3",
+	"_npm_package_name": "joplin-plugin-fsrs-review-calendar"
+}
