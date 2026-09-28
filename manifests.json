@@ -8467,7 +8467,7 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.lookup",
 		"app_min_version": "3.5",
-		"version": "1.0.1",
+		"version": "1.0.2",
 		"name": "Lookup",
 		"description": "Look up definitions for words directly from Joplin.",
 		"author": "Haotian Zeng",
@@ -8478,8 +8478,8 @@
 		"screenshots": [],
 		"icons": {},
 		"promo_tile": {},
-		"_publish_hash": "sha256:6b18de4a815a66ce06f59b663b1e3fb4cf2314d0bf7548b4f8e45d4566fba186",
-		"_publish_commit": "main:47b4ec82a915f958c18caa89c136bbd161fde928",
+		"_publish_hash": "sha256:b4c5bef64c1debe5bcbe645531b2262b5f39f7bbf176b43dce4f6cc6a7bc9792",
+		"_publish_commit": "main:085433c57a4f8dcbdffb61c5b807aab09a9ef922",
 		"_npm_package_name": "joplin-plugin-lookup"
 	},
 	"com.github.thescriptingguy.joplin-plugin-agenda": {
