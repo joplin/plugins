@@ -16,9 +16,10 @@ jobs:
           path: 'plugins'
 
       - name: Install Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
+        package-manager-cache: false
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Prepare git
         shell: bash
