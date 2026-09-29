@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.sarsmini.joplin-md-mirror",
 	"app_min_version": "3.0",
-	"version": "0.1.3",
+	"version": "0.2.1",
 	"name": "Joplin Markdown Mirror",
 	"description": "Mirror Joplin notes to a local Markdown directory for personal RAG workflows.",
 	"author": "sars",
@@ -30,7 +30,7 @@
 		"src": "assets/promo-tile.png",
 		"label": "Joplin Markdown Mirror"
 	},
-	"_publish_hash": "sha256:d1f42c4478ad21c778df640ef8cffebf75bafde2ae8288793304dae575c17e1f",
-	"_publish_commit": "plugin-public-main:e2013749ada753d7ede9fe988ddfb386d157f78b",
+	"_publish_hash": "sha256:5784559c0a24453337d69fb17a13e27ed8c2a2a8be951da3a9f2512df3e7d7c4",
+	"_publish_commit": "main:ed3e5e17bb0532f6daf62d19ba4f35ef0725994e",
 	"_npm_package_name": "joplin-plugin-joplin-md-mirror"
 }
