@@ -9953,5 +9953,35 @@
 		},
 		"_publish_hash": "sha256:fa2a2d156486bc6222aa6a877ca8306f0984bccb9a4897260b172bc72c8ba4e3",
 		"_npm_package_name": "joplin-plugin-fsrs-review-calendar"
+	},
+	"org.otherware.joplin-navigator": {
+		"manifest_version": 1,
+		"id": "org.otherware.joplin-navigator",
+		"app_min_version": "3.5",
+		"version": "1.1.0",
+		"name": "Joplin Navigator",
+		"description": "A focused navigation workspace for Joplin with notebook, tag, outline, and all-notes views, search, filtering, and navigation history.",
+		"author": "rinchord",
+		"homepage_url": "https://github.com/danielb2/Joplin-Navigator",
+		"repository_url": "https://github.com/danielb2/Joplin-Navigator",
+		"keywords": [
+			"notebooks",
+			"tags",
+			"outline",
+			"all-notes",
+			"tree-view",
+			"navigation"
+		],
+		"categories": [
+			"productivity",
+			"appearance"
+		],
+		"screenshots": [],
+		"icons": {
+			"256": "icon.png"
+		},
+		"_publish_hash": "sha256:6430029aade24c98717301874793986f9f24fa2330df6150cc60da18a8099164",
+		"_publish_commit": "master:1ef0382b856beecfccc6cd0b82d472a6c2706771",
+		"_npm_package_name": "joplin-plugin-navigator"
 	}
 }
