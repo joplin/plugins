@@ -9340,7 +9340,7 @@
 		"manifest_version": 1,
 		"id": "com.bonik.joplin2n8n",
 		"app_min_version": "3.6",
-		"version": "1.0.4",
+		"version": "1.0.5",
 		"name": "Joplin to n8n",
 		"description": "Export and send Joplin notes to n8n webhooks",
 		"author": "BoniK",
@@ -9415,8 +9415,8 @@
 			"desktop",
 			"mobile"
 		],
-		"_publish_hash": "sha256:53f350cdea220d755b62a5e5782dd999aba4ba1a7fae5e27e550a76be136825b",
-		"_publish_commit": "main:aab21d9e18799a07b9a0b60b164a633e72657d03",
+		"_publish_hash": "sha256:f98afa6b3bc2a835c81cf27c5b6c217398d08021958dce738077b7a31f391c2e",
+		"_publish_commit": "master:caa092d599d55dd95c00345e4109b71b52662ccd",
 		"_npm_package_name": "joplin-plugin-joplin2n8n"
 	},
 	"com.aronwu.search-match-count": {
