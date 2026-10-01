@@ -9986,5 +9986,29 @@
 		"_publish_hash": "sha256:c91e9be0f9f03722a88ed8c260ad075464ed06fae88922a3bf13eac675816b99",
 		"_publish_commit": "master:bd17f291a112daf09619f6284e58cc5139e20679",
 		"_npm_package_name": "joplin-plugin-navigator"
+	},
+	"com.aspyk.jotypst": {
+		"manifest_version": 1,
+		"id": "com.aspyk.jotypst",
+		"app_min_version": "3.7",
+		"version": "0.1.0",
+		"name": "JoTypst",
+		"description": "Render Typst snippets in the Joplin Markdown preview.",
+		"author": "aspyk",
+		"homepage_url": "https://github.com/aspyk/jotypst",
+		"repository_url": "https://github.com/aspyk/jotypst",
+		"keywords": [
+			"typst",
+			"markdown",
+			"preview",
+			"rendering"
+		],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:4ae3623b38e23ee4c6106a6514fe54392da56b07ba7814c2a96dc45552f516a0",
+		"_publish_commit": "main:22d69e513db7550511f49b43facca22f9635c126",
+		"_npm_package_name": "joplin-plugin-jotypst"
 	}
 }
