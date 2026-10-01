@@ -2,10 +2,10 @@
 	"manifest_version": 1,
 	"id": "org.otherware.joplin-navigator",
 	"app_min_version": "3.5",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"name": "Joplin Navigator",
 	"description": "A focused navigation workspace for Joplin with notebook, tag, outline, and all-notes views, search, filtering, and navigation history.",
-	"author": "rinchord",
+	"author": "danielb2",
 	"homepage_url": "https://github.com/danielb2/Joplin-Navigator",
 	"repository_url": "https://github.com/danielb2/Joplin-Navigator",
 	"keywords": [
@@ -24,7 +24,7 @@
 	"icons": {
 		"256": "icon.png"
 	},
-	"_publish_hash": "sha256:6430029aade24c98717301874793986f9f24fa2330df6150cc60da18a8099164",
-	"_publish_commit": "master:1ef0382b856beecfccc6cd0b82d472a6c2706771",
+	"_publish_hash": "sha256:c91e9be0f9f03722a88ed8c260ad075464ed06fae88922a3bf13eac675816b99",
+	"_publish_commit": "master:bd17f291a112daf09619f6284e58cc5139e20679",
 	"_npm_package_name": "joplin-plugin-navigator"
 }
