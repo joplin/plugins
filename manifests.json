@@ -10010,5 +10010,36 @@
 		"_publish_hash": "sha256:4ae3623b38e23ee4c6106a6514fe54392da56b07ba7814c2a96dc45552f516a0",
 		"_publish_commit": "main:22d69e513db7550511f49b43facca22f9635c126",
 		"_npm_package_name": "joplin-plugin-jotypst"
+	},
+	"com.dejoyf.keepBlankBullets": {
+		"manifest_version": 1,
+		"id": "com.dejoyf.keepBlankBullets",
+		"app_min_version": "3.4.2",
+		"version": "1.3.0",
+		"name": "Keep Blank Bullets",
+		"description": "Rich Text editor, desktop and Android: an empty bullet, numbered item or checkbox stays in the note until you type in it, instead of being dropped when the note saves. Mobile support was developed and tested on Android only (untested on iOS).",
+		"author": "Frank DeJoy",
+		"keywords": [
+			"list",
+			"bullet",
+			"checkbox",
+			"rich text",
+			"editor"
+		],
+		"categories": [
+			"editor"
+		],
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"homepage_url": "https://github.com/dejoyf-jpg/joplin-keep-blank-bullets",
+		"repository_url": "https://github.com/dejoyf-jpg/joplin-keep-blank-bullets",
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:1a019934cc280dbae4430cc83e7cb1e1fe712202766f9b9ebc75b6bbb4df684e",
+		"_publish_commit": "main:b24e7afb02616282c5fb6aecf1dea282e07099b9",
+		"_npm_package_name": "joplin-plugin-keep-blank-bullets"
 	}
 }
