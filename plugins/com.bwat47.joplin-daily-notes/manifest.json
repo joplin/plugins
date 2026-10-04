@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.joplin-daily-notes",
 	"app_min_version": "3.5",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -47,7 +47,7 @@
 		"src": "images/daily_notes_promo_tile.png",
 		"label": "Daily Notes Promo Tile"
 	},
-	"_publish_hash": "sha256:7b1455656aa34bbc717476c3ee520f91c922bdb7bcecf6453377c157c749eb80",
-	"_publish_commit": "main:09101245d6530896d7d34a34e23a24d2a828fdf8",
+	"_publish_hash": "sha256:8af15057ea594599c186825dce797ad004f6dd8d6c0ddb1b6f11cab4a3b95bf9",
+	"_publish_commit": "main:c8b4ea704c0d67fc1432df1f2ed10e03dc02c40e",
 	"_npm_package_name": "joplin-plugin-daily-notes"
 }
