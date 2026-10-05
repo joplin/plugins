@@ -10104,5 +10104,25 @@
 			"mobile"
 		],
 		"_npm_package_name": "joplin-plugin-tree-outline"
+	},
+	"com.lucas.barraprogresso": {
+		"manifest_version": 1,
+		"id": "com.lucas.barraprogresso",
+		"main": "index.js",
+		"app_min_version": "2.0",
+		"version": "1.0.0",
+		"name": "barra-progresso",
+		"description": "Barra de progresso automatica para notas com nota X/5",
+		"author": "lucascompiles",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:bd782f536387412854a8781b0446a31d9acb7581f3fc3edecdaba73b8dc281da",
+		"_publish_commit": "main:692b72f1a3cab771829b0422132364881f871a6e",
+		"_npm_package_name": "joplin-plugin-barra-progresso"
 	}
 }
