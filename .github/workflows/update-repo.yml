@@ -10,15 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Joplin plugin repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: master
           path: 'plugins'
 
       - name: Install Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
-          node-version: '20'
+          node-version: '24'
+          package-manager-cache: false
 
       - name: Prepare git
         shell: bash
