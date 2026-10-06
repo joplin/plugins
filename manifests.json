@@ -10091,11 +10091,11 @@
 		"manifest_version": 1,
 		"id": "com.xyasharx.treeoutline",
 		"app_min_version": "2.8.0",
-		"version": "1.0.0",
+		"version": "1.0.5",
 		"name": "TreeOutline",
 		"description": "Hierarchical table of contents and outline panel with collapsible sections, search filtering, and bidirectional RTL/LTR support.",
 		"author": "Yashar",
-		"homepage_url": "https://github.com/your-username/joplin-plugin-tree-outline",
+		"homepage_url": "https://github.com/xyasharx/joplin-plugin-tree-outline",
 		"repository_url": "https://github.com/your-username/joplin-plugin-tree-outline",
 		"keywords": [
 			"outline",
