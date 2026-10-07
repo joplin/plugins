@@ -5330,8 +5330,8 @@
 	"com.bwat47.copyashtml": {
 		"manifest_version": 1,
 		"id": "com.bwat47.copyashtml",
-		"app_min_version": "3.3",
-		"version": "1.6.6",
+		"app_min_version": "3.5.11",
+		"version": "1.6.7",
 		"name": "Copy as HTML",
 		"description": "Allows you to copy text with HTML (rich text) formatting from the markdown editor (including images). Also allows you to copy as plain text (without markdown formatting)",
 		"author": "bwat47",
@@ -5377,143 +5377,8 @@
 			"src": "images/copyashtml_promo_tile.png",
 			"label": "Copy as HTML Promo Tile"
 		},
-		"settings": {
-			"embedImages": {
-				"type": "bool",
-				"label": "Embed images as base64",
-				"description": "If enabled, images in selection will be embedded as base64 in HTML output.",
-				"value": true
-			},
-			"exportFullHtml": {
-				"type": "bool",
-				"label": "Export as full HTML document",
-				"description": "If enabled, exported HTML will be a full document with your custom stylesheet (copy-as-html-user.css in your profile folder).",
-				"value": false
-			},
-			"downloadRemoteImages": {
-				"type": "bool",
-				"label": "Download and embed remote images",
-				"description": "If enabled (along with Embed images as base64), remote HTTP/HTTPS images will be downloaded and embedded as base64. If un-checked, the resulting document may contain links to external resources.",
-				"value": false
-			},
-			"embedSvgAsPng": {
-				"type": "bool",
-				"label": "Convert SVG images to PNG",
-				"description": "If enabled, embedded SVG images will be rasterized as PNG to improve compatibility with applications that cannot display inline SVG.",
-				"value": true
-			},
-			"preserveSuperscript": {
-				"type": "bool",
-				"label": "Preserve superscript markers",
-				"description": "If enabled, superscript markers will be preserved in plain text output.",
-				"value": false
-			},
-			"preserveSubscript": {
-				"type": "bool",
-				"label": "Preserve subscript markers",
-				"description": "If enabled, subscript markers will be preserved in plain text output.",
-				"value": false
-			},
-			"preserveEmphasis": {
-				"type": "bool",
-				"label": "Preserve emphasis markers",
-				"description": "If enabled, emphasis markers will be preserved in plain text output.",
-				"value": false
-			},
-			"preserveBold": {
-				"type": "bool",
-				"label": "Preserve bold markers",
-				"description": "If enabled, bold markers will be preserved in plain text output.",
-				"value": false
-			},
-			"preserveHeading": {
-				"type": "bool",
-				"label": "Preserve heading markers",
-				"description": "If enabled, heading markers will be preserved in plain text output.",
-				"value": false
-			},
-			"preserveQuoteMarkers": {
-				"type": "bool",
-				"label": "Preserve quote markers",
-				"description": "If enabled, blockquote markers will be preserved in plain text output.",
-				"value": false
-			},
-			"preserveStrikethrough": {
-				"type": "bool",
-				"label": "Preserve strikethrough markers",
-				"description": "If enabled, strikethrough markers will be preserved in plain text output.",
-				"value": false
-			},
-			"preserveHorizontalRule": {
-				"type": "bool",
-				"label": "Preserve horizontal rules",
-				"description": "If enabled, horizontal rules will be preserved in plain text output.",
-				"value": false
-			},
-			"preserveMark": {
-				"type": "bool",
-				"label": "Preserve highlight markers",
-				"description": "If enabled, highlight markers will be preserved in plain text output.",
-				"value": false
-			},
-			"preserveInsert": {
-				"type": "bool",
-				"label": "Preserve insert markers",
-				"description": "If enabled, insert markers will be preserved in plain text output.",
-				"value": false
-			},
-			"preserveCodeBackticks": {
-				"type": "bool",
-				"label": "Preserve code backticks",
-				"description": "If enabled, inline code and code block backticks will be preserved in plain text output.",
-				"value": false
-			},
-			"hyperlinkBehavior": {
-				"type": "enum",
-				"label": "Plain text hyperlink behavior",
-				"description": "How external HTTP/HTTPS links should appear in plain text output.",
-				"options": {
-					"title": "Link Title",
-					"url": "Link URL",
-					"markdown": "Markdown Format"
-				},
-				"value": "title"
-			},
-			"indentType": {
-				"type": "enum",
-				"label": "List indentation type",
-				"description": "How nested lists should be indented in plain text output.",
-				"options": {
-					"spaces": "4 Spaces",
-					"tabs": "Tabs"
-				},
-				"value": "spaces"
-			},
-			"listSpacing": {
-				"type": "enum",
-				"label": "List spacing",
-				"description": "Whether plain text lists should include blank lines between list items.",
-				"options": {
-					"tight": "Tight",
-					"loose": "Loose"
-				},
-				"value": "loose"
-			},
-			"displayEmojis": {
-				"type": "bool",
-				"label": "Display emojis",
-				"description": "If enabled, emojis will be displayed in the plain text output.",
-				"value": true
-			},
-			"preserveTablePipes": {
-				"type": "bool",
-				"label": "Preserve table pipes",
-				"description": "If enabled, markdown pipe separators will be preserved in plain text output.",
-				"value": false
-			}
-		},
-		"_publish_hash": "sha256:baab5ce025137cc5d807d178d6e7b05268bad849ab4677303132870ce1859d45",
-		"_publish_commit": "main:76fe5327e1f07769b06a79512868b5c53ca9b513",
+		"_publish_hash": "sha256:ae49993ffb10462eaf9343af39b313c15c3c73db49ba1826a6b1beaab84b2c6b",
+		"_publish_commit": "main:a02aa0c010289b4863fb344282691ff3388b49d3",
 		"_npm_package_name": "joplin-plugin-copy-as-html"
 	},
 	"com.levi.NoteStatus": {
