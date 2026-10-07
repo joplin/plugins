@@ -10130,5 +10130,59 @@
 		"_publish_hash": "sha256:bd782f536387412854a8781b0446a31d9acb7581f3fc3edecdaba73b8dc281da",
 		"_publish_commit": "main:692b72f1a3cab771829b0422132364881f871a6e",
 		"_npm_package_name": "joplin-plugin-barra-progresso"
+	},
+	"com.kamleshnanda.joplin-notesheet": {
+		"manifest_version": 1,
+		"id": "com.kamleshnanda.joplin-notesheet",
+		"app_min_version": "3.5",
+		"platforms": [
+			"desktop"
+		],
+		"version": "1.0.0",
+		"name": "Notesheet",
+		"description": "Spreadsheets for Joplin. A Joplin note can be a full spreadsheet powered by the Univer SDK — formulas, formatting, sort, filter, charts, and .xlsx import/export.",
+		"author": "Kamlesh Nanda",
+		"homepage_url": "https://github.com/kamleshnanda/joplin-notesheet-plugin",
+		"repository_url": "https://github.com/kamleshnanda/joplin-notesheet-plugin",
+		"keywords": [
+			"spreadsheet",
+			"sheet",
+			"table",
+			"formula",
+			"calculation",
+			"xlsx",
+			"excel"
+		],
+		"categories": [
+			"productivity",
+			"editor"
+		],
+		"icons": {
+			"16": "assets/icons/icon16.png",
+			"32": "assets/icons/icon32.png",
+			"48": "assets/icons/icon48.png",
+			"128": "assets/icons/icon128.png"
+		},
+		"screenshots": [
+			{
+				"src": "assets/screenshots/charts-editor.png",
+				"label": "An imported Excel workbook with a bar chart and a pie chart, anchored to the grid and updating live"
+			},
+			{
+				"src": "assets/screenshots/formatting-editor.png",
+				"label": "A named table with banded rows, hyperlinks, number formats and a totals row"
+			},
+			{
+				"src": "assets/screenshots/cf-editor.png",
+				"label": "Conditional formatting: color scales, data bars, highlight rules, top-N and icon sets"
+			}
+		],
+		"promo_tile": {
+			"src": "assets/promo_tile.png",
+			"label": "Notesheet: real spreadsheets inside Joplin notes"
+		},
+		"_publish_hash": "sha256:afeaa74a22e28767f664ab94c616f9714cb30c759716c6bd4baaccc5ee5d81e2",
+		"_publish_commit": "main:868adcacc66299cda6559542bf778297cd69a0f7",
+		"_npm_package_name": "joplin-plugin-notesheet"
 	}
 }
