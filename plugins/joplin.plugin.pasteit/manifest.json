@@ -1,0 +1,31 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.pasteit",
+	"app_min_version": "3.0",
+	"version": "1.0.0",
+	"name": "Paste It",
+	"description": "Paste clipboard content as Markdown with selectable formatting and tracking parameter removal.",
+	"author": "Jeremy Kao",
+	"homepage_url": "https://github.com/imsardine/joplin-plugin-pasteit",
+	"repository_url": "https://github.com/imsardine/joplin-plugin-pasteit",
+	"keywords": [
+		"paste",
+		"markdown",
+		"clipboard",
+		"privacy"
+	],
+	"categories": [
+		"editor",
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"_publish_hash": "sha256:ea66cd67f2916ff990a1d6a29ebb248aa3b0a10cd6e5f1f8e786e88641937f51",
+	"_publish_commit": "main:c078bf460d9aa3663c27825cecb78ef7b26606b5",
+	"_npm_package_name": "joplin-plugin-pasteit"
+}
