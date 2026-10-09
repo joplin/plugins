@@ -10110,5 +10110,32 @@
 		"_publish_hash": "sha256:6f376c88ea8cdc7dc8f063eb720a9bdf2765b773c76dadedd5efc16346e4858c",
 		"_publish_commit": "main:ac20bcfdbee7aab7857712d288cef1d330257841",
 		"_npm_package_name": "joplin-plugin-note-dashboard"
+	},
+	"app.scribe.joplin": {
+		"manifest_version": 1,
+		"id": "app.scribe.joplin",
+		"app_min_version": "3.0",
+		"version": "0.1.0",
+		"name": "Mnemo Scribe",
+		"description": "Your Mnemo Scribe voice notes in Joplin: synced both ways with the notebooks you choose, and a panel to ask your notes, read them for what next, search them by meaning, and record a new one.",
+		"author": "Mnemo Scribe",
+		"homepage_url": "https://scribe02.netlify.app",
+		"keywords": [
+			"voice notes",
+			"transcription",
+			"ai",
+			"sync",
+			"search"
+		],
+		"categories": [
+			"productivity",
+			"personal knowledge management"
+		],
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"_publish_hash": "sha256:e4b6a055c44b3a27d758b20ec748ed0e0517db9ecd71acebe6b056c7483372bd",
+		"_npm_package_name": "joplin-plugin-mnemo-scribe"
 	}
 }
