@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.heading-navigator",
 	"app_min_version": "3.3",
-	"version": "0.9.3",
+	"version": "0.9.4",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -57,7 +57,7 @@
 		"src": "images/heading-navigator_promo_tile.png",
 		"label": "heading Navigator Promo Tile"
 	},
-	"_publish_hash": "sha256:cf463155a2853d469fd1b332596ef2a5794c46320404e85b0a58f06bd1e33229",
-	"_publish_commit": "main:47e9010762667bb39c943fa84dae89eab4f6f449",
+	"_publish_hash": "sha256:bcb30d60ad5c2bdcd4dea8d4b3f01ff8aab122b3346f9e2762fe2bb9adad4d10",
+	"_publish_commit": "main:7b93aa77f0437a76d3deab83ef5a8dcd17f84a3a",
 	"_npm_package_name": "joplin-plugin-heading-navigator"
 }
