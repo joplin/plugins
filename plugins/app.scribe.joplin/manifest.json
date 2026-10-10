@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "app.scribe.joplin",
 	"app_min_version": "3.0",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"name": "Mnemo Scribe",
 	"description": "Your Mnemo Scribe voice notes in Joplin: synced both ways with the notebooks you choose, and a panel to ask your notes, read them for what next, search them by meaning, and record a new one.",
 	"author": "Mnemo Scribe",
@@ -22,6 +22,6 @@
 		"desktop",
 		"mobile"
 	],
-	"_publish_hash": "sha256:e4b6a055c44b3a27d758b20ec748ed0e0517db9ecd71acebe6b056c7483372bd",
+	"_publish_hash": "sha256:d74f59daa80cab04bda42a1aa4ef73e3106383c29420282942f44c72e4544070",
 	"_npm_package_name": "joplin-plugin-mnemo-scribe"
 }
