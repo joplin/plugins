@@ -8810,7 +8810,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.joplin-daily-notes",
 		"app_min_version": "3.5",
-		"version": "1.0.3",
+		"version": "1.0.4",
 		"platforms": [
 			"desktop",
 			"mobile"
@@ -8855,8 +8855,8 @@
 			"src": "images/daily_notes_promo_tile.png",
 			"label": "Daily Notes Promo Tile"
 		},
-		"_publish_hash": "sha256:8af15057ea594599c186825dce797ad004f6dd8d6c0ddb1b6f11cab4a3b95bf9",
-		"_publish_commit": "main:c8b4ea704c0d67fc1432df1f2ed10e03dc02c40e",
+		"_publish_hash": "sha256:4f8dae34babe8614c6991cab63feae7e571f2bcbef6ce7f95d1b41ddcde7f891",
+		"_publish_commit": "main:175675d46f3b5ec2b2900cbc533b8dd81f0815ed",
 		"_npm_package_name": "joplin-plugin-daily-notes"
 	},
 	"joplin-plugin-mlab-move-note": {
