@@ -10166,5 +10166,26 @@
 		"_publish_hash": "sha256:e9747507e83dcf909cc0ce94761ffa572f8ff10de568d374bc374ca8d4e27054",
 		"_publish_commit": "",
 		"_npm_package_name": "@sewingselami/joplin-plugin-sewlore-fabric-specimen-log"
+	},
+	"joplin.plugin.spoiler.blocks": {
+		"manifest_version": 1,
+		"id": "joplin.plugin.spoiler.blocks",
+		"app_min_version": "2.9",
+		"version": "2.0.1",
+		"name": "Spoilers blocks",
+		"description": "Spoiler blocks with a title and an expandable body. Fork of Spoilers by Martin Korelič, inline spoilers removed.",
+		"author": "agteamdev (based on work by Martin Korelič)",
+		"homepage_url": "https://github.com/agteamdev/joplin-plugin-spoiler-blocks",
+		"repository_url": "https://github.com/agteamdev/joplin-plugin-spoiler-blocks",
+		"keywords": [
+			"joplin-plugin",
+			"joplin",
+			"plugin",
+			"spoiler",
+			"blocks"
+		],
+		"_publish_hash": "sha256:b270fa46350fc1fcca59341833a9be4dd452c38855a8911d8b640d5e317fcf58",
+		"_publish_commit": "main:9f18e6bcfbc2e4bfe71ebbd3a35c2d6087c63a81",
+		"_npm_package_name": "joplin-plugin-spoiler-blocks"
 	}
 }
