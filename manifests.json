@@ -10137,5 +10137,34 @@
 		],
 		"_publish_hash": "sha256:80429286bc3d9aef9c64070df4124e9ee7b80d672c41dbd1314e772a83ae6958",
 		"_npm_package_name": "joplin-plugin-mnemo-scribe"
+	},
+	"com.sewlore.fabric-specimen-log": {
+		"manifest_version": 1,
+		"id": "com.sewlore.fabric-specimen-log",
+		"app_min_version": "3.7",
+		"platforms": [
+			"desktop"
+		],
+		"version": "1.0.0",
+		"name": "Fabric Specimen Log",
+		"description": "Record local fabric specimens, compare washing dimensions on two axes, and import or export CSV.",
+		"author": "Sewlore",
+		"homepage_url": "https://sewlore.com/pages/fabric-measurement-methods-guide",
+		"repository_url": "https://github.com/gokimedia/joplin-plugin-sewlore-fabric-specimen-log",
+		"keywords": [
+			"fabric",
+			"sewing",
+			"measurement",
+			"shrinkage",
+			"csv"
+		],
+		"categories": [
+			"personal knowledge management",
+			"productivity",
+			"files"
+		],
+		"_publish_hash": "sha256:e9747507e83dcf909cc0ce94761ffa572f8ff10de568d374bc374ca8d4e27054",
+		"_publish_commit": "",
+		"_npm_package_name": "@sewingselami/joplin-plugin-sewlore-fabric-specimen-log"
 	}
 }
