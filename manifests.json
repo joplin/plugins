@@ -10212,5 +10212,56 @@
 		"_publish_hash": "sha256:534a9f9df37f014e0546eec404cdd13bf48d3d70417220048551cd440c4a2aa2",
 		"_publish_commit": "master:cc23c067f97c69c1170a4d0445fccd42c05b9b67",
 		"_npm_package_name": "joplin-plugin-checkbox-toggle"
+	},
+	"io.github.pmslava.jot": {
+		"manifest_version": 1,
+		"id": "io.github.pmslava.jot",
+		"app_min_version": "3.1",
+		"app_min_version_mobile": "3.3",
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"version": "0.1.1",
+		"name": "Jot",
+		"description": "Quick capture of a note or to-do without leaving the one you are in. A small form for the title, a line or two of text, the notebook, tags and the due date, opened by a shortcut, from highlighted text, or by typing ++ in the editor. The note is created where you say, and you stay where you were.",
+		"author": "pmslava",
+		"homepage_url": "https://github.com/pmslava/joplin-plugin-jot",
+		"repository_url": "https://github.com/pmslava/joplin-plugin-jot",
+		"keywords": [
+			"joplin",
+			"capture",
+			"quick",
+			"note",
+			"todo"
+		],
+		"categories": [
+			"productivity"
+		],
+		"screenshots": [
+			{
+				"src": "docs/images/form-new-todo.png",
+				"label": "The form for a new to-do: title, text, notebook, tags and a due date, opened by the shortcut over the note you are in"
+			},
+			{
+				"src": "docs/images/form-picker.png",
+				"label": "The date picker unfolded under the Due row, with its calendar, time columns and quick buttons"
+			},
+			{
+				"src": "docs/images/form-selection.png",
+				"label": "Two highlighted lines become the title and text of a new to-do, with the choice of what happens to them in the note"
+			},
+			{
+				"src": "docs/images/form-trigger.png",
+				"label": "Typing ++ in the Markdown editor opens the form, and the ++ becomes a link to the new note or is removed"
+			},
+			{
+				"src": "docs/images/form-edit.png",
+				"label": "Edit with Jot… changes an existing to-do's title, type, notebook, tags and due date without opening it"
+			}
+		],
+		"_publish_hash": "sha256:af37b68937ba2e60ebb2d06b62d2c3b5f3773f88cb29c26bc8aa0dd6daf421b4",
+		"_publish_commit": "master:1b698bea6096c2f8d6cabdaec4113de1aae85476",
+		"_npm_package_name": "joplin-plugin-jot"
 	}
 }
