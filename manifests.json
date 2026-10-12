@@ -10222,7 +10222,7 @@
 			"desktop",
 			"mobile"
 		],
-		"version": "0.1.1",
+		"version": "0.1.2",
 		"name": "Jot",
 		"description": "Quick capture of a note or to-do without leaving the one you are in. A small form for the title, a line or two of text, the notebook, tags and the due date, opened by a shortcut, from highlighted text, or by typing ++ in the editor. The note is created where you say, and you stay where you were.",
 		"author": "pmslava",
@@ -10260,8 +10260,8 @@
 				"label": "Edit with Jot… changes an existing to-do's title, type, notebook, tags and due date without opening it"
 			}
 		],
-		"_publish_hash": "sha256:af37b68937ba2e60ebb2d06b62d2c3b5f3773f88cb29c26bc8aa0dd6daf421b4",
-		"_publish_commit": "master:1b698bea6096c2f8d6cabdaec4113de1aae85476",
+		"_publish_hash": "sha256:3ccf03d2030658981f8a120a7b22c60c395570d92cbff9ae5d1f3d5980b2f585",
+		"_publish_commit": "master:211e0fba95a1afaa301463d2429219f112fc7109",
 		"_npm_package_name": "joplin-plugin-jot"
 	}
 }
