@@ -1,0 +1,31 @@
+{
+	"manifest_version": 1,
+	"id": "com.idraaak.digitSwitcher",
+	"app_min_version": "3.7",
+	"version": "0.1.0",
+	"platforms": [
+		"desktop"
+	],
+	"name": "Idraaak Digit Switcher",
+	"description": "Preview and copy selected Markdown text with Western, Arabic-Indic, or Eastern Arabic-Indic digits, entirely offline.",
+	"author": "Idraaak",
+	"homepage_url": "https://github.com/nedal-dev/joplin-plugin-idraaak-digit-switcher#readme",
+	"repository_url": "https://github.com/nedal-dev/joplin-plugin-idraaak-digit-switcher",
+	"keywords": [
+		"digits",
+		"Arabic",
+		"Persian",
+		"Markdown",
+		"offline"
+	],
+	"categories": [
+		"editor",
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:4eae7ea9a9d24e8a75363e9ddfb3b985179a89d86e03a9d45c30f196d325d179",
+	"_publish_commit": "main:a58e09113e015e38d212d668fe4cc32b82e40fd8",
+	"_npm_package_name": "joplin-plugin-idraaak-digit-switcher"
+}
