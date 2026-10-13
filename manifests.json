@@ -10171,12 +10171,21 @@
 		"manifest_version": 1,
 		"id": "joplin.plugin.spoiler.blocks",
 		"app_min_version": "2.9",
-		"version": "2.0.1",
+		"version": "2.0.2",
 		"name": "Spoilers blocks",
-		"description": "Spoiler blocks with a title and an expandable body. Fork of Spoilers by Martin Korelič, inline spoilers removed.",
-		"author": "agteamdev (based on work by Martin Korelič)",
+		"description": "This Joplin plugin adds spoiler blocks: a title that expands to show an extendable body. The block adapts to light and dark themes.",
+		"author": "al3xg0r",
 		"homepage_url": "https://github.com/agteamdev/joplin-plugin-spoiler-blocks",
 		"repository_url": "https://github.com/agteamdev/joplin-plugin-spoiler-blocks",
+		"categories": [
+			"productivity"
+		],
+		"icons": {
+			"256": "docs/icon_256.png"
+		},
+		"promo_tile": {
+			"src": "docs/spoiler-blocks.png"
+		},
 		"keywords": [
 			"joplin-plugin",
 			"joplin",
@@ -10184,8 +10193,12 @@
 			"spoiler",
 			"blocks"
 		],
-		"_publish_hash": "sha256:b270fa46350fc1fcca59341833a9be4dd452c38855a8911d8b640d5e317fcf58",
-		"_publish_commit": "main:9f18e6bcfbc2e4bfe71ebbd3a35c2d6087c63a81",
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"_publish_hash": "sha256:fe2c1616c2fe337a3b4b79a451b41c2b30c97334802dbcebcf65c97a8bd7f506",
+		"_publish_commit": "main:3af83af4207425528a98cc39387315072c613505",
 		"_npm_package_name": "joplin-plugin-spoiler-blocks"
 	},
 	"e2682456-d766-4950-b61c-81d4cb911407": {
