@@ -9918,13 +9918,46 @@
 		"id": "org.joplin.plugin.theme-studio",
 		"app_min_version": "2.8.0",
 		"name": "Theme Studio",
-		"version": "1.3.0",
+		"version": "1.3.2",
 		"description": "All-in-one multi-palette engine (Tokyo Night, Everforest, Catppuccin, Nord, Dracula, Gruvbox, Atom One) with native RTL/LTR typography & mobile support.",
 		"author": "Yashar",
 		"homepage_url": "https://github.com/xyasharx/joplin-plugin-theme-studio",
+		"repository_url": "https://github.com/xyasharx/joplin-plugin-theme-studio",
 		"platforms": [
 			"desktop",
 			"mobile"
+		],
+		"categories": [
+			"themes",
+			"appearance",
+			"editor",
+			"viewer"
+		],
+		"screenshots": [
+			{
+				"src": "screenshots/01-hero-tokyo-night.png",
+				"label": "Theme Studio in Tokyo Night with split editor and viewer"
+			},
+			{
+				"src": "screenshots/02-persian-arabic-rtl.png",
+				"label": "BiDi and native RTL typography in Vazirmatn"
+			},
+			{
+				"src": "screenshots/03-arabic-everforest-light.png",
+				"label": "Everforest Light warm reading palette"
+			},
+			{
+				"src": "screenshots/04-chinese-dracula.png",
+				"label": "Dracula Chinese Noto Sans SC"
+			},
+			{
+				"src": "screenshots/05-Hindi-catppuccin-latte.png",
+				"label": "Catppuccin Latte Hindi Noto Sans Devanagari"
+			},
+			{
+				"src": "screenshots/06-hebrew-one-dark.png",
+				"label": "Atom One Dark Hebrew Heebo"
+			}
 		],
 		"keywords": [
 			"theme",
@@ -9948,8 +9981,8 @@
 			"mobile",
 			"mermaid"
 		],
-		"_publish_hash": "sha256:49dbbcec2f5a7d40572abf6ef78fe7957eeb0b424d3004583436b8ab68ab4884",
-		"_publish_commit": "96cd4ad8fe2757edfb5543c74436c4ad9fac9b0b",
+		"_publish_hash": "sha256:fcc86d98294e8a8e540db1fcf0e1a4fea1cd93fb37a867fe74d2ac41f520f854",
+		"_publish_commit": "e6ba681501fcc3a2566c60fbef0e6d9936f00af0",
 		"_npm_package_name": "joplin-plugin-theme-studio"
 	},
 	"com.xyasharx.treeoutline": {
