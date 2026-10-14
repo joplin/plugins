@@ -5,7 +5,7 @@
 	"platforms": [
 		"desktop"
 	],
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Notesheet",
 	"description": "Spreadsheets for Joplin. A Joplin note can be a full spreadsheet powered by the Univer SDK — formulas, formatting, sort, filter, charts, and .xlsx import/export.",
 	"author": "Kamlesh Nanda",
@@ -48,7 +48,7 @@
 		"src": "assets/promo_tile.png",
 		"label": "Notesheet: real spreadsheets inside Joplin notes"
 	},
-	"_publish_hash": "sha256:afeaa74a22e28767f664ab94c616f9714cb30c759716c6bd4baaccc5ee5d81e2",
-	"_publish_commit": "main:868adcacc66299cda6559542bf778297cd69a0f7",
+	"_publish_hash": "sha256:0e9d76a26c1ee5a987a7751c4da180c64b902dbbedfc47bdbac3940a50260d98",
+	"_publish_commit": "main:7ef59948a507b05610bbaad61ea843f4d4d5e721",
 	"_npm_package_name": "joplin-plugin-notesheet"
 }
