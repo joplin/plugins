@@ -1,0 +1,20 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.tabout",
+	"app_min_version": "3.0",
+	"name": "Tab Out",
+	"description": "Press Tab to jump past closing characters like quotes, brackets, and parentheses — just like VS Code's Tab Out extension.",
+	"version": "1.0.0",
+	"author": "mindfultatiana",
+	"homepage_url": "https://github.com/mindfultatiana/joplin-tabout",
+	"repository_url": "https://github.com/mindfultatiana/joplin-tabout",
+	"keywords": [
+		"tab",
+		"tabout",
+		"bracket",
+		"quote",
+		"cursor",
+		"editor"
+	],
+	"_npm_package_name": "joplin-plugin-tabout"
+}
