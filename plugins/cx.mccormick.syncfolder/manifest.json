@@ -1,0 +1,27 @@
+{
+	"manifest_version": 1,
+	"id": "cx.mccormick.syncfolder",
+	"app_min_version": "2.8",
+	"version": "0.1.3",
+	"name": "External Folder Sync",
+	"description": "Bidirectional sync between Joplin notebooks and external directories of markdown files",
+	"author": "Chris McCormick",
+	"platforms": [
+		"desktop"
+	],
+	"public": true,
+	"keywords": [
+		"sync",
+		"folder",
+		"directory",
+		"notebook",
+		"markdown"
+	],
+	"categories": [
+		"files",
+		"productivity"
+	],
+	"_publish_hash": "sha256:c1d1f96810c21467e52d95f6b58b04a114ac8f3e4486d2574206b98dfdbfa3f0",
+	"_publish_commit": "master:f4db15779111e77a55c1b6772e23d9f302c2f9eb",
+	"_npm_package_name": "joplin-plugin-mccormick-syncfolder"
+}
