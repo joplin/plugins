@@ -10360,5 +10360,32 @@
 			"editor"
 		],
 		"_npm_package_name": "joplin-plugin-tabout"
+	},
+	"cx.mccormick.runshellcmd": {
+		"manifest_version": 1,
+		"id": "cx.mccormick.runshellcmd",
+		"app_min_version": "2.8",
+		"version": "0.1.2",
+		"name": "Run Shell Command Note",
+		"description": "Runs shell commands on notes starting with ❕cmd: and caches output",
+		"author": "Chris McCormick",
+		"platforms": [
+			"desktop"
+		],
+		"public": true,
+		"keywords": [
+			"shell",
+			"command",
+			"terminal",
+			"automation",
+			"bash"
+		],
+		"categories": [
+			"productivity",
+			"developer tools"
+		],
+		"_publish_hash": "sha256:bd2f9ac92f34c2ffe724edbb578c6a116bfa499d006d3b538136ac91689c6b1f",
+		"_publish_commit": "master:f4db15779111e77a55c1b6772e23d9f302c2f9eb",
+		"_npm_package_name": "joplin-plugin-mccormick-runshellcmd"
 	}
 }
