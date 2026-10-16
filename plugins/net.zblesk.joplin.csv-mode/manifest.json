@@ -1,0 +1,21 @@
+{
+	"manifest_version": 1,
+	"id": "net.zblesk.joplin.csv-mode",
+	"app_min_version": "3.7",
+	"version": "1.0.0",
+	"name": "CSV;Mode",
+	"description": "Lets you view CSV files in Joplin as tables",
+	"author": "zblesk",
+	"homepage_url": "https://github.com/zblesk/joplin-csv-mode",
+	"repository_url": "https://github.com/zblesk/joplin-csv-mode",
+	"keywords": [
+		"csv"
+	],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:fd7999c23da66cc3f2c407f2ab263da35f08c141e4b209c8ca7acae2bf60b9bb",
+	"_publish_commit": "master:feeb03012f4409c7f4ded69304821e600cd167cc",
+	"_npm_package_name": "joplin-plugin-csv-mode"
+}
