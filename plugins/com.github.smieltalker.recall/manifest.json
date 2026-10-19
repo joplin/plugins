@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.github.smieltalker.recall",
 	"app_min_version": "3.0",
-	"version": "1.0.1",
+	"version": "1.1.1",
 	"name": "Recall",
 	"description": "Rediscover your notes: open a random note, resurface notes from this day in past years, and see writing statistics for your whole library (counts CJK correctly).",
 	"author": "smiletalker",
@@ -26,7 +26,12 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:551a66e797cc337845250464a9a6f9a3c653ec80450ed3d28f461ebda1109019",
-	"_publish_commit": "main:95b6adcbcea88f089cded6e88401e2d00f361144",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"app_min_version_mobile": "3.4",
+	"_publish_hash": "sha256:6ec0bdd46900ea1158cc0dc6f07c36ff7882f37823cc5428e1e565ef0818c03d",
+	"_publish_commit": "codex/android-beta:ccad9ddcca7a27efc075c011a9140e0f636c9fc1",
 	"_npm_package_name": "joplin-plugin-recall"
 }
