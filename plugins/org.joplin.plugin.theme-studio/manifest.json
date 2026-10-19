@@ -3,7 +3,7 @@
 	"id": "org.joplin.plugin.theme-studio",
 	"app_min_version": "3.0.0",
 	"name": "Theme Studio",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"description": "All-in-one multi-palette engine (Tokyo Night, Everforest, Catppuccin, Nord, Dracula, Gruvbox, Atom One) with native RTL/LTR typography & mobile support.",
 	"author": "Yashar",
 	"homepage_url": "https://github.com/xyasharx/joplin-plugin-theme-studio",
@@ -66,7 +66,7 @@
 		"mobile",
 		"mermaid"
 	],
-	"_publish_hash": "sha256:2566032c67dd3e5b80d0b6e548ee2667dad18bb26b4f264ddffb4a014e7ed9be",
-	"_publish_commit": "e19828dbd1a47206b9661585072adcaf3eff0365",
+	"_publish_hash": "sha256:fa85e1026f4beb0e5dc14380771817bc6813147888018409446c8dc40fa26fea",
+	"_publish_commit": "2be848c2f327d61b4985b09ebdaf15e4c8643e03",
 	"_npm_package_name": "joplin-plugin-theme-studio"
 }
