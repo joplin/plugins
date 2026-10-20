@@ -7,7 +7,7 @@
 		"desktop",
 		"mobile"
 	],
-	"version": "2.9.0",
+	"version": "2.9.1",
 	"name": "Cockpit",
 	"description": "A tasks-and-notes command center panel: due dates with drag and drop and a calendar picker, checkbox progress rings, notebook and search filters, view profiles, and notebook management - on desktop and mobile.",
 	"author": "pmslava",
@@ -43,7 +43,7 @@
 			"label": "The alarm picker: ISO date, 24-hour time, a Monday-first calendar, and quick shortcuts"
 		}
 	],
-	"_publish_hash": "sha256:03172a4c7faabbe0a0485d41e52b28a172e9731b81f43c0b8a11f0e22cceeae7",
-	"_publish_commit": "master:aa64549a10be96e2ba3da5fce6a733c7a7034799",
+	"_publish_hash": "sha256:9833e32590c867c8ce0e0324566a39be458bf70cc00cf258939d3fa0ed970259",
+	"_publish_commit": "master:696f380c4eefc0e9f89f53383450d5db891645fe",
 	"_npm_package_name": "joplin-plugin-cockpit"
 }
