@@ -10473,5 +10473,24 @@
 		"_publish_hash": "sha256:b82002d7b8bbe27676a79e6f39a9c54009240556a66575374997ef67b0596ec7",
 		"_publish_commit": "master:ea7aab4d49185b0a7e9fe8b007d05e8af285b07d",
 		"_npm_package_name": "joplin-plugin-csv-mode"
+	},
+	"com.giicha.joplin-checkboxes-sum-plugin": {
+		"manifest_version": 1,
+		"id": "com.giicha.joplin-checkboxes-sum-plugin",
+		"app_min_version": "3.7",
+		"version": "1.0.0",
+		"name": "Checkbox Sum",
+		"description": "Sum up all numbers inside note checkboxes.",
+		"author": "giicha",
+		"homepage_url": "",
+		"repository_url": "https://github.com/giicha/joplin-checkboxes-sum-plugin",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:6b360c2034ad409fd10f05c8aba99c76e31340f43565036304d7ce5044673580",
+		"_publish_commit": "master:1b9c2c6d2b47974b8596589307cf27f42ff140d9",
+		"_npm_package_name": "@giicha/joplin-plugin-checkbox-sum"
 	}
 }
