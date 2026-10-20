@@ -5419,7 +5419,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.simple-image-resize",
 		"app_min_version": "3.3",
-		"version": "1.8.1",
+		"version": "1.9.0",
 		"platforms": [
 			"desktop",
 			"mobile"
@@ -5477,62 +5477,8 @@
 			"src": "images/simple-image-resize_promo_tile.png",
 			"label": "Simple Resize Promo Tile"
 		},
-		"settings": {
-			"defaultResizeMode": {
-				"type": "enum",
-				"label": "Default resize mode",
-				"description": "The resize mode that will be selected by default when opening the resize dialog",
-				"options": {
-					"percentage": "Percentage",
-					"absolute": "Absolute size"
-				},
-				"value": "percentage"
-			},
-			"defaultPercentage": {
-				"type": "int",
-				"label": "Default percentage",
-				"description": "The default percentage value (1-100) when using percentage resize mode",
-				"value": 50,
-				"minimum": 1,
-				"maximum": 100
-			},
-			"htmlSyntaxStyle": {
-				"type": "enum",
-				"label": "HTML syntax style",
-				"description": "Controls whether HTML image tags include both width and height attributes or just width",
-				"options": {
-					"widthAndHeight": "Width and height",
-					"widthOnly": "Width only"
-				},
-				"value": "widthAndHeight"
-			},
-			"showQuickResizeInContextMenu": {
-				"type": "bool",
-				"label": "Display quick resize options in context menu",
-				"description": "[Desktop Only] Show configured quick resize options in the right-click context menu",
-				"value": false
-			},
-			"quickResizeOptions": {
-				"type": "string",
-				"label": "Quick resize options",
-				"description": "Comma-separated list that determines the Quick resize options. Use 1-5 positive whole-number values, with units (percent or pixels), e.g.: 100%, 75%, 300px.",
-				"value": "100%, 75%, 50%, 33%, 25%"
-			},
-			"showToastMessages": {
-				"type": "bool",
-				"label": "Show toast notifications",
-				"description": "Display brief notification messages for plugin actions",
-				"value": true
-			},
-			"showFormattingToolbarIcon": {
-				"type": "bool",
-				"label": "Show formatting toolbar icon",
-				"description": "Display the resize icon in the Markdown formatting toolbar. Requires restarting Joplin.",
-				"value": true
-			}
-		},
-		"_publish_hash": "sha256:c6e840d267a8ed825db9cf1cf0d871801a17f3bf0482ebf7a779bb95e0278e12",
-		"_publish_commit": "main:1971f99fa2ebfab115a46fcaba6226e07670c99d",
+		"_publish_hash": "sha256:197bb6031ba6a28b4e90a5a41e07f3273b81fbf23126f53b43cb7927bd601086",
+		"_publish_commit": "main:75828fefba51c713d86593b89464114d06cbbfc0",
 		"_npm_package_name": "joplin-plugin-simple-image-resize"
 	},
 	"com.bwat47.paste-as-markdown": {
