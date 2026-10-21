@@ -10349,9 +10349,9 @@
 		"manifest_version": 1,
 		"id": "cx.mccormick.syncnotes",
 		"app_min_version": "2.8",
-		"version": "0.1.3",
+		"version": "0.1.5",
 		"name": "External File Sync",
-		"description": "Bidirectional sync between Joplin notes and external markdown files",
+		"description": "Bidirectional sync between Joplin notes and external markdown files. ⚠️ Caution: backups recommended",
 		"author": "Chris McCormick",
 		"platforms": [
 			"desktop"
@@ -10368,8 +10368,8 @@
 			"files",
 			"productivity"
 		],
-		"_publish_hash": "sha256:6a5299153114bf17246a3880d3088aa831fca0fbfb82601e9072ec9d1161deb8",
-		"_publish_commit": "master:f4db15779111e77a55c1b6772e23d9f302c2f9eb",
+		"_publish_hash": "sha256:39071df2889f8dd7c1847498d7801fcc39dbba4b03ec556c6c2ba1d8057437d4",
+		"_publish_commit": "master:b26d98d5dc2b24fff12025d10ffb2ca808a90768",
 		"_npm_package_name": "joplin-plugin-mccormick-syncnotes"
 	},
 	"cx.mccormick.syncfolder": {
