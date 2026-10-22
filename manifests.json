@@ -10438,5 +10438,49 @@
 		"_publish_hash": "sha256:6b360c2034ad409fd10f05c8aba99c76e31340f43565036304d7ce5044673580",
 		"_publish_commit": "master:1b9c2c6d2b47974b8596589307cf27f42ff140d9",
 		"_npm_package_name": "@giicha/joplin-plugin-checkbox-sum"
+	},
+	"com.giicha.joplin-plugin-checkboxes-sum-calculator": {
+		"manifest_version": 1,
+		"id": "com.giicha.joplin-plugin-checkboxes-sum-calculator",
+		"app_min_version": "3.7",
+		"version": "1.0.27",
+		"name": "Checkbox Sum Calculator",
+		"description": "Summing up all numbers in strings, rows or cells with checked checkboxes.",
+		"author": "giicha",
+		"homepage_url": "https://github.com/giicha/joplin-plugin-checkboxes-sum-calculator",
+		"repository_url": "https://github.com/giicha/joplin-plugin-checkboxes-sum-calculator",
+		"keywords": [
+			"joplin-plugin",
+			"checkbox",
+			"sum",
+			"calculator",
+			"checklist",
+			"budget"
+		],
+		"categories": [
+			"productivity"
+		],
+		"screenshots": [
+			{
+				"src": "images/ExA_1-0-11_s.png",
+				"label": "Calculate example"
+			}
+		],
+		"icons": {
+			"16": "images/CSC-16.png",
+			"24": "images/CSC-24.png",
+			"32": "images/CSC-32.png",
+			"48": "images/CSC-48.png",
+			"64": "images/CSC-64.png",
+			"128": "images/CSC-128.png",
+			"256": "images/CSC-256.png"
+		},
+		"promo_tile": {
+			"src": "images/CSC_Promo.png",
+			"label": "Checkbox Sum Calculator"
+		},
+		"_publish_hash": "sha256:4ee59868b4519913dc8fd2995497c4e1cfaed57966781a088c3005abfb1630c8",
+		"_publish_commit": "master:3fe53ceaa3e298e28a5d4bc5b1e67412e9fe596e",
+		"_npm_package_name": "joplin-plugin-checkboxes-sum-calculator"
 	}
 }
