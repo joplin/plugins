@@ -2,13 +2,13 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.simple-image-resize",
 	"app_min_version": "3.3",
-	"version": "1.9.0",
+	"version": "1.9.1",
 	"platforms": [
 		"desktop",
 		"mobile"
 	],
 	"name": "Simple Image Resize",
-	"description": "A simple dialogue to switch image syntax between markdown/html and losslessly resize images",
+	"description": "Allows you to quickly resize images in the markdown editor (and viewer) using HTML image syntax via a dialog or customizable quick resize slots (context menu/keyboard shortcuts).",
 	"author": "bwat47",
 	"homepage_url": "https://github.com/bwat47/simple-image-resize",
 	"repository_url": "https://github.com/bwat47/simple-image-resize",
@@ -43,10 +43,6 @@
 		{
 			"src": "images/simple-resize5.png",
 			"label": "simple resize example 5"
-		},
-		{
-			"src": "images/simple-resize6.png",
-			"label": "simple resize example 6"
 		}
 	],
 	"icons": {
@@ -60,7 +56,7 @@
 		"src": "images/simple-image-resize_promo_tile.png",
 		"label": "Simple Resize Promo Tile"
 	},
-	"_publish_hash": "sha256:197bb6031ba6a28b4e90a5a41e07f3273b81fbf23126f53b43cb7927bd601086",
-	"_publish_commit": "main:75828fefba51c713d86593b89464114d06cbbfc0",
+	"_publish_hash": "sha256:fefb2c9e3db55c3e6681a4fd8b4313bb472e3fd1d22a4add46d8dd7da5b8598b",
+	"_publish_commit": "main:994c1db6cdadedde285c76b40e779c1ae210e985",
 	"_npm_package_name": "joplin-plugin-simple-image-resize"
 }
