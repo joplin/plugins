@@ -718,8 +718,8 @@
 		"promo_tile": {},
 		"_publish_hash": "sha256:6b360c2034ad409fd10f05c8aba99c76e31340f43565036304d7ce5044673580",
 		"_publish_commit": "master:1b9c2c6d2b47974b8596589307cf27f42ff140d9",
-		"_npm_package_name": "@giicha/joplin-plugin-checkbox-sum"
-		"_obsolete": true
+		"_npm_package_name": "@giicha/joplin-plugin-checkbox-sum",
+		"_obsolete": true,
 		"_obsolete_reason": "Renamed and republished aka com.giicha.joplin-plugin-checkboxes-sum-calculator"
 	}
 }
