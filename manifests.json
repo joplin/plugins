@@ -10511,5 +10511,37 @@
 		"_publish_hash": "sha256:5883ec932366c6e2eb5f2b45ebd6500a774e122b6d1726b920b10139ca85d497",
 		"_publish_commit": "main:c7f90b3d0cc0b0d68c905488e4904b8a99fefbc6",
 		"_npm_package_name": "joplin-plugin-comment-scraper"
+	},
+	"io.github.rezarys.joplinclips": {
+		"manifest_version": 1,
+		"id": "io.github.rezarys.joplinclips",
+		"app_min_version": "2.13",
+		"version": "1.0.0",
+		"name": "Clippings Import",
+		"description": "Import the My Clippings.txt file of a Kindle e-reader: one note per book, with highlights, notes, locations and dates. Reads the local file only, no account, no network.",
+		"author": "Younes Z.",
+		"homepage_url": "https://github.com/Rezarys/joplinclips#readme",
+		"repository_url": "https://github.com/Rezarys/joplinclips",
+		"keywords": [
+			"kindle",
+			"clippings",
+			"highlights",
+			"import",
+			"books",
+			"reading"
+		],
+		"categories": [
+			"files",
+			"productivity"
+		],
+		"platforms": [
+			"desktop"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:c5420e69b235018fdbb89d0ce3b053a3668f00dbd52880a92958ab80cbfd01c9",
+		"_publish_commit": "",
+		"_npm_package_name": "joplin-plugin-clippings-import"
 	}
 }
