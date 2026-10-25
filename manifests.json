@@ -10479,5 +10479,37 @@
 		"_publish_hash": "sha256:d46237462a3ca5c22dce8545292d809ccea70ff1786fd4d118cc4a6be5a5d652",
 		"_publish_commit": "master:e3f9271d04ccb124d112916a95fb09b312c52c60",
 		"_npm_package_name": "joplin-plugin-checkboxes-sum-calculator"
+	},
+	"com.comment-scraper.import": {
+		"manifest_version": 1,
+		"id": "com.comment-scraper.import",
+		"app_min_version": "3.7",
+		"version": "1.0.0",
+		"name": "Comment Scraper Import",
+		"description": "Import Reddit and Hacker News threads exported by the Comment Scraper browser extension as notes, with comment numbers, nested replies, times, links and scores where available.",
+		"author": "Super Lede",
+		"homepage_url": "https://comment-scraper.com/",
+		"repository_url": "https://github.com/supertj/joplin-plugin-comment-scraper",
+		"keywords": [
+			"joplin-plugin",
+			"comment scraper",
+			"reddit",
+			"hacker news",
+			"import",
+			"csv",
+			"json"
+		],
+		"categories": [
+			"files"
+		],
+		"platforms": [
+			"desktop"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:5883ec932366c6e2eb5f2b45ebd6500a774e122b6d1726b920b10139ca85d497",
+		"_publish_commit": "main:c7f90b3d0cc0b0d68c905488e4904b8a99fefbc6",
+		"_npm_package_name": "joplin-plugin-comment-scraper"
 	}
 }
