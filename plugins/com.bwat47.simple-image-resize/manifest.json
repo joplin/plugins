@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.simple-image-resize",
 	"app_min_version": "3.3",
-	"version": "1.9.1",
+	"version": "1.9.2",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -56,7 +56,7 @@
 		"src": "images/simple-image-resize_promo_tile.png",
 		"label": "Simple Resize Promo Tile"
 	},
-	"_publish_hash": "sha256:fefb2c9e3db55c3e6681a4fd8b4313bb472e3fd1d22a4add46d8dd7da5b8598b",
-	"_publish_commit": "main:994c1db6cdadedde285c76b40e779c1ae210e985",
+	"_publish_hash": "sha256:e6efe5904bb76a4a2465f11d87c3bebf2d5c1679a5eeffce647c31d00d8ca2a5",
+	"_publish_commit": "main:b89c288a0a905ddb3836dad2b9c6d808509d97bb",
 	"_npm_package_name": "joplin-plugin-simple-image-resize"
 }
