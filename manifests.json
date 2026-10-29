@@ -10547,5 +10547,31 @@
 		"_publish_hash": "sha256:c5420e69b235018fdbb89d0ce3b053a3668f00dbd52880a92958ab80cbfd01c9",
 		"_publish_commit": "",
 		"_npm_package_name": "joplin-plugin-clippings-import"
+	},
+	"io.github.raytray.joplin-incremental-backup": {
+		"manifest_version": 1,
+		"id": "io.github.raytray.joplin-incremental-backup",
+		"app_min_version": "3.7",
+		"version": "1.0.2",
+		"name": "Incremental Backup",
+		"description": "Deduplicated incremental snapshots of your Joplin data using the native Raw export format.",
+		"author": "raytray",
+		"homepage_url": "https://github.com/Raytray/joplin-incremental-backup",
+		"repository_url": "https://github.com/Raytray/joplin-incremental-backup",
+		"keywords": [
+			"backup"
+		],
+		"platform": [
+			"deskop"
+		],
+		"categories": [
+			"files"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:ac4f78b1972925a5b3b55d0da17827f748d6a195ba187a2f2c2ca8a29d2607ee",
+		"_publish_commit": "main:8a71e1debc8d2fd1e1ed14deb75efcfeb31bc006",
+		"_npm_package_name": "joplin-plugin-incremental-backup"
 	}
 }
