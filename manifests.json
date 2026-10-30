@@ -10554,5 +10554,31 @@
 		"_publish_hash": "sha256:ac4f78b1972925a5b3b55d0da17827f748d6a195ba187a2f2c2ca8a29d2607ee",
 		"_publish_commit": "main:8a71e1debc8d2fd1e1ed14deb75efcfeb31bc006",
 		"_npm_package_name": "joplin-plugin-incremental-backup"
+	},
+	"io.journey.tasks.97d1cd8a-5ed4-4cc9-9bf8-f0b287db6cad": {
+		"manifest_version": 1,
+		"id": "io.journey.tasks.97d1cd8a-5ed4-4cc9-9bf8-f0b287db6cad",
+		"app_min_version": "3.3",
+		"platforms": [
+			"desktop"
+		],
+		"version": "0.5.5",
+		"name": "Journey Tasks",
+		"description": "今日、七天、月年日历、公历农历重复任务与系列模板",
+		"author": "Journey",
+		"keywords": [
+			"tasks",
+			"agenda",
+			"lunar",
+			"recurring"
+		],
+		"categories": [
+			"productivity",
+			"personal knowledge management"
+		],
+		"homepage_url": "https://github.com/tigerwoo/journey-tasks-joplin-desktop",
+		"repository_url": "https://github.com/tigerwoo/journey-tasks-joplin-desktop",
+		"_publish_hash": "sha256:007409cefc441a8c4e9e8e6de3992749561e28eaa52429dc69f553cca044252b",
+		"_npm_package_name": "joplin-plugin-journey-tasks"
 	}
 }
