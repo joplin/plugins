@@ -10580,5 +10580,60 @@
 		"repository_url": "https://github.com/tigerwoo/journey-tasks-joplin-desktop",
 		"_publish_hash": "sha256:007409cefc441a8c4e9e8e6de3992749561e28eaa52429dc69f553cca044252b",
 		"_npm_package_name": "joplin-plugin-journey-tasks"
+	},
+	"net.jotdrop.joplin": {
+		"manifest_version": 1,
+		"id": "net.jotdrop.joplin",
+		"app_min_version": "3.5",
+		"app_min_version_mobile": "3.5",
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"version": "1.0.0",
+		"name": "JotDrop",
+		"description": "All your notes as Google Keep-style cards: pin, color, drag into your own order, tick checklists, set reminders, archive, and take a quick note. No account needed.",
+		"author": "Diexar Labs",
+		"homepage_url": "https://jotdrop.net/",
+		"repository_url": "https://github.com/Diexar-Labs/joplin-plugin-jotdrop",
+		"keywords": [
+			"cards",
+			"google keep",
+			"grid",
+			"board",
+			"quick capture"
+		],
+		"categories": [
+			"appearance",
+			"productivity",
+			"personal knowledge management"
+		],
+		"icons": {
+			"16": "images/icon16.png",
+			"32": "images/icon32.png",
+			"48": "images/icon48.png",
+			"128": "images/icon128.png"
+		},
+		"promo_tile": {
+			"src": "images/promo-tile.png",
+			"label": "JotDrop: all your notes as cards in Joplin"
+		},
+		"screenshots": [
+			{
+				"src": "images/screenshot-board.png",
+				"label": "The JotDrop board in Joplin: pinned notes on top and every other note as a colored card"
+			},
+			{
+				"src": "images/screenshot-reminder.png",
+				"label": "Setting a reminder on a card with Joplin's own to-do alarm"
+			},
+			{
+				"src": "images/screenshot-android.png",
+				"label": "The JotDrop board in Joplin for Android"
+			}
+		],
+		"_publish_hash": "sha256:3ea8f981a20f7f64440031632f7ebf347ce02f5f557aea34df057f492fe427ee",
+		"_publish_commit": "main:5088429d5173f392725f76c891a8b26b1ec3ebc6",
+		"_npm_package_name": "joplin-plugin-jotdrop"
 	}
 }
