@@ -10635,5 +10635,31 @@
 		"_publish_hash": "sha256:866c46dd153bf5b716d9490a10b5be04324b730a447d1ea0e9bde4a21cad98b6",
 		"_publish_commit": "main:f07abd161fa842e9509be3d0c5a0efa26fd2830f",
 		"_npm_package_name": "joplin-plugin-jotdrop"
+	},
+	"com.coworkingview.joplin": {
+		"manifest_version": 1,
+		"id": "com.coworkingview.joplin",
+		"app_min_version": "3.7",
+		"version": "1.0.0",
+		"name": "CoworkingView",
+		"description": "Insert CoworkingView workspace listings and city price figures into a note.",
+		"author": "CoworkingView",
+		"homepage_url": "https://coworkingview.com",
+		"repository_url": "https://github.com/coworkingview/flex-office-data",
+		"keywords": [
+			"joplin-plugin",
+			"coworking",
+			"coworkingview"
+		],
+		"categories": [
+			"integrations",
+			"search"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:c09a4949e096981282329e835ea6424d0b6115cf49a00047c97d19087152afa7",
+		"_publish_commit": "main:f17ed4b0872cb9ff3bfdd9c06303901871fb8946",
+		"_npm_package_name": "joplin-plugin-coworkingview"
 	}
 }
