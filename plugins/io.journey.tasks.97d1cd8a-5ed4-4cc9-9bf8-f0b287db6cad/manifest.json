@@ -5,10 +5,10 @@
 	"platforms": [
 		"desktop"
 	],
-	"version": "0.5.5",
+	"version": "0.1.0",
 	"name": "Journey Tasks",
-	"description": "今日、七天、月年日历、公历农历重复任务与系列模板",
-	"author": "Journey",
+	"description": "Task lists and calendars for native Joplin to-dos with Gregorian and Chinese lunar recurrence.",
+	"author": "tigerwoo",
 	"keywords": [
 		"tasks",
 		"agenda",
@@ -21,6 +21,6 @@
 	],
 	"homepage_url": "https://github.com/tigerwoo/journey-tasks-joplin-desktop",
 	"repository_url": "https://github.com/tigerwoo/journey-tasks-joplin-desktop",
-	"_publish_hash": "sha256:007409cefc441a8c4e9e8e6de3992749561e28eaa52429dc69f553cca044252b",
+	"_publish_hash": "sha256:6b6e0abf0dd96923c877b2eb62869a3af3d1283bef3375d3dcec6641dbae737f",
 	"_npm_package_name": "joplin-plugin-journey-tasks"
 }
