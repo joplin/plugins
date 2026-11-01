@@ -1,0 +1,28 @@
+{
+	"manifest_version": 1,
+	"id": "com.gosavetool.text-tools",
+	"app_min_version": "2.14",
+	"version": "1.0.0",
+	"name": "GoSaveTool Text Tools",
+	"description": "Word and character counter with social media and SEO limits, one-click case changes and SRT/WebVTT subtitle conversion. Works offline.",
+	"author": "GoSaveTool",
+	"homepage_url": "https://www.gosavetool.com/character-counter",
+	"repository_url": "https://github.com/mitolocya/joplin-plugin-gosavetool",
+	"keywords": [
+		"word count",
+		"character count",
+		"title case",
+		"case converter",
+		"subtitles",
+		"srt",
+		"webvtt"
+	],
+	"categories": [
+		"productivity",
+		"editor"
+	],
+	"platforms": [
+		"desktop"
+	],
+	"_npm_package_name": "joplin-plugin-gosavetool"
+}
