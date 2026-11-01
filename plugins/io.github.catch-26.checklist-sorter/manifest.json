@@ -1,0 +1,27 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.catch-26.checklist-sorter",
+	"app_min_version": "3.2",
+	"name": "Checklist Sorter",
+	"description": "Automatically sorts checklist items on toggle: unchecked items stay in manual order at top, checked items sort alphabetically at bottom.",
+	"author": "catch-26",
+	"homepage_url": "https://github.com/catch-26/checklist-sorter",
+	"repository_url": "https://github.com/catch-26/checklist-sorter",
+	"keywords": [
+		"checklist",
+		"checkbox",
+		"sort",
+		"todo",
+		"list"
+	],
+	"categories": [
+		"productivity",
+		"editor"
+	],
+	"version": "26.11.1",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"_npm_package_name": "joplin-plugin-checklist-sorter"
+}
