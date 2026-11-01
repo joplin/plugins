@@ -1,0 +1,32 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.rezarys.joplintagtree",
+	"app_min_version": "2.13",
+	"version": "1.0.0",
+	"name": "Tag Tree",
+	"description": "Shows your tags as a tree in a side panel, the levels read from the tag name: \"project/alpha\" sits under \"project\". Separator is a setting. Read only: it never changes your tags or notes.",
+	"author": "Younes Z.",
+	"homepage_url": "https://github.com/Rezarys/joplintagtree#readme",
+	"repository_url": "https://github.com/Rezarys/joplintagtree",
+	"keywords": [
+		"tags",
+		"tree",
+		"hierarchical tags",
+		"nested tags",
+		"sidebar",
+		"navigation"
+	],
+	"categories": [
+		"tags",
+		"personal knowledge management"
+	],
+	"platforms": [
+		"desktop"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:4dc1c49f233e24cbbd5beb051ed902ea2a4d82eacf35064f51ca7de55f501692",
+	"_publish_commit": "",
+	"_npm_package_name": "joplin-plugin-tag-tree"
+}
