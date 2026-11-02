@@ -10748,5 +10748,69 @@
 			"desktop"
 		],
 		"_npm_package_name": "joplin-plugin-gosavetool"
+	},
+	"io.github.mohitgoel188.book-export": {
+		"manifest_version": 1,
+		"id": "io.github.mohitgoel188.book-export",
+		"app_min_version": "3.7",
+		"version": "1.0.0",
+		"name": "Book Export",
+		"description": "Export a notebook or linked notes as one HTML or EPUB book, with Mermaid diagrams and images",
+		"author": "Mohit Goel",
+		"homepage_url": "https://github.com/mohitgoel188/joplin-plugin-book-export",
+		"repository_url": "https://github.com/mohitgoel188/joplin-plugin-book-export",
+		"keywords": [
+			"export",
+			"epub",
+			"html",
+			"kindle",
+			"koreader",
+			"mermaid",
+			"notebook",
+			"backlinks"
+		],
+		"categories": [
+			"productivity",
+			"files"
+		],
+		"screenshots": [
+			{
+				"src": "images/reader-start.png",
+				"label": "HTML reader with the Diátaxis sidebar and the hub note pinned as Start here"
+			},
+			{
+				"src": "images/reader-dark-diagram.png",
+				"label": "Dark theme with a rendered Mermaid diagram"
+			},
+			{
+				"src": "images/reader-howto-preview.png",
+				"label": "Link preview, backlinks and previous / next links"
+			},
+			{
+				"src": "images/reader-search.png",
+				"label": "Search across every note in the book"
+			},
+			{
+				"src": "images/epub-chapter.png",
+				"label": "An EPUB chapter, with the diagram as an image for e-ink readers"
+			},
+			{
+				"src": "images/options-dialog.png",
+				"label": "Export options"
+			}
+		],
+		"icons": {
+			"16": "images/icon16.png",
+			"32": "images/icon32.png",
+			"48": "images/icon48.png",
+			"128": "images/icon128.png"
+		},
+		"promo_tile": {
+			"src": "images/promo_tile.jpg",
+			"label": "Book Export: notebooks as one HTML page or EPUB"
+		},
+		"_publish_hash": "sha256:194b8e57d25b9a29e9d85e79d467d42de2146fbc34dca9cec8a1fc3e02bb4c6e",
+		"_publish_commit": "master:5d669c6ee2ef32047525cdf4eda3dc9f0434fa19",
+		"_npm_package_name": "joplin-plugin-book-export"
 	}
 }
