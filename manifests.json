@@ -10812,5 +10812,29 @@
 		"_publish_hash": "sha256:194b8e57d25b9a29e9d85e79d467d42de2146fbc34dca9cec8a1fc3e02bb4c6e",
 		"_publish_commit": "master:5d669c6ee2ef32047525cdf4eda3dc9f0434fa19",
 		"_npm_package_name": "joplin-plugin-book-export"
+	},
+	"io.github.loond0l.img-bbcode": {
+		"manifest_version": 1,
+		"id": "io.github.loond0l.img-bbcode",
+		"app_min_version": "2.13",
+		"version": "1.0.5",
+		"name": "IMG 图片标签",
+		"description": "把 [img]图片链接[/img] 渲染成图片，用于显示论坛图床链接。",
+		"author": "loond0l",
+		"homepage_url": "https://github.com/loond0l/joplin-plugin-img-bbcode",
+		"repository_url": "https://github.com/loond0l/joplin-plugin-img-bbcode",
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"categories": [
+			"viewer"
+		],
+		"keywords": [
+			"image",
+			"img",
+			"bbcode"
+		],
+		"_npm_package_name": "joplin-plugin-img-bbcode"
 	}
 }
