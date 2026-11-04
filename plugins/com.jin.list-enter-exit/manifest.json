@@ -1,0 +1,25 @@
+{
+	"manifest_version": 1,
+	"id": "com.jin.list-enter-exit",
+	"app_min_version": "3.1",
+	"version": "1.0.3",
+	"name": "List Enter Exit",
+	"description": "Press Enter on an empty list item to return immediately to plain text. Supports bullet, numbered and task lists in the Markdown editor.",
+	"author": "Jin",
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"categories": [
+		"editor"
+	],
+	"keywords": [
+		"lists",
+		"enter",
+		"markdown",
+		"keyboard",
+		"android"
+	],
+	"_publish_hash": "sha256:50c7d8f7201275fb2e1480e76fef1f6049caafe14c386150d8b1384829bb408c",
+	"_npm_package_name": "joplin-plugin-list-enter-exit"
+}
