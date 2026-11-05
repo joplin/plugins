@@ -10861,5 +10861,22 @@
 		],
 		"_publish_hash": "sha256:50c7d8f7201275fb2e1480e76fef1f6049caafe14c386150d8b1384829bb408c",
 		"_npm_package_name": "joplin-plugin-list-enter-exit"
+	},
+	"ai.svgdiagram.joplin": {
+		"manifest_version": 1,
+		"id": "ai.svgdiagram.joplin",
+		"app_min_version": "3.2",
+		"version": "0.1.0",
+		"name": "SVG Diagram",
+		"description": "Create and insert diagrams into your notes.",
+		"author": "Tony Zedginidze",
+		"homepage_url": "https://svgdiagram.ai/",
+		"repository_url": "https://github.com/tonyzedginidze/svgdiagram-joplin",
+		"keywords": [
+			"diagram",
+			"svg",
+			"charts"
+		],
+		"_npm_package_name": "joplin-plugin-svgdiagram"
 	}
 }
