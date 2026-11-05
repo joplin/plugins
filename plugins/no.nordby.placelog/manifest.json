@@ -1,0 +1,30 @@
+{
+	"manifest_version": 1,
+	"id": "no.nordby.placelog",
+	"app_min_version": "3.2",
+	"version": "1.0.1",
+	"name": "Placelog",
+	"description": "Log the time and your current place in a diary note, keep a list of known places, and show notes on a map.",
+	"author": "Anders Nordby",
+	"homepage_url": "https://github.com/agnordby/joplin-plugin-placelog",
+	"repository_url": "https://github.com/agnordby/joplin-plugin-placelog",
+	"platforms": [
+		"mobile",
+		"desktop"
+	],
+	"keywords": [
+		"diary",
+		"location",
+		"map",
+		"gps"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:3c74d760912140776550b8fed37e39e3c1ca40a62bbe3a17ecb3fe03aadc8a3b",
+	"_publish_commit": "main:c5901e2508954bc532fcf85abf7fdbb45cf4adfc",
+	"_npm_package_name": "joplin-plugin-placelog"
+}
