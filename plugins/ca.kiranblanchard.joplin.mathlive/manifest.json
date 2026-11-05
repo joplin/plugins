@@ -1,0 +1,20 @@
+{
+	"manifest_version": 1,
+	"id": "ca.kiranblanchard.joplin.mathlive",
+	"app_min_version": "3.7",
+	"version": "1.0.1",
+	"name": "MathLive Equation Editor",
+	"description": "Easily edit math equations with MathLive, no need to learn LaTeX",
+	"author": "KiranB",
+	"homepage_url": "https://github.com/kiranlbl/joplin-plugin-mathlive",
+	"repository_url": "https://github.com/kiranlbl/joplin-plugin-mathlive",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"license": "MIT",
+	"_publish_hash": "sha256:fd6088e0d6e07e5463a1f5d5fae5ca9cb5a9108c227adfd0eb3e534b8c89a943",
+	"_publish_commit": "main:a10e2c459e5236444d062d48d308763382caabac",
+	"_npm_package_name": "joplin-plugin-mathlive"
+}
