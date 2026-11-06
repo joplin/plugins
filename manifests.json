@@ -10546,7 +10546,7 @@
 		"manifest_version": 1,
 		"id": "io.github.raytray.joplin-incremental-backup",
 		"app_min_version": "3.7",
-		"version": "1.0.2",
+		"version": "1.0.3",
 		"name": "Incremental Backup",
 		"description": "Deduplicated incremental snapshots of your Joplin data using the native Raw export format.",
 		"author": "raytray",
@@ -10555,8 +10555,8 @@
 		"keywords": [
 			"backup"
 		],
-		"platform": [
-			"deskop"
+		"platforms": [
+			"desktop"
 		],
 		"categories": [
 			"files"
@@ -10564,8 +10564,8 @@
 		"screenshots": [],
 		"icons": {},
 		"promo_tile": {},
-		"_publish_hash": "sha256:ac4f78b1972925a5b3b55d0da17827f748d6a195ba187a2f2c2ca8a29d2607ee",
-		"_publish_commit": "main:8a71e1debc8d2fd1e1ed14deb75efcfeb31bc006",
+		"_publish_hash": "sha256:cfeee5c68acb2a7ddf31f3f1981dea03ff960cefde01932ef16ccaedc48611d2",
+		"_publish_commit": "main:24c6b70de862802fe79d3c67b2afa903b4662630",
 		"_npm_package_name": "joplin-plugin-incremental-backup"
 	},
 	"io.journey.tasks.97d1cd8a-5ed4-4cc9-9bf8-f0b287db6cad": {
