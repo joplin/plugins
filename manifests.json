@@ -10988,5 +10988,67 @@
 		"_publish_hash": "sha256:62c547f265ee8a88940831109d553b25ec0dbc1228c4ff843fbc8cf58ccc3acc",
 		"_publish_commit": "main:dc933b561fb916f2a0038abeb2158a70f903c7a9",
 		"_npm_package_name": "joplin-plugin-pdf-header-footer"
+	},
+	"local.lpowers.code-studio": {
+		"manifest_version": 1,
+		"id": "local.lpowers.code-studio",
+		"app_min_version": "3.7.22",
+		"version": "1.7.5",
+		"name": "Code Block Studio",
+		"description": "Readable code blocks, offline formatting previews and retro computer displays for Joplin Desktop.",
+		"author": "Leonard Powers",
+		"homepage_url": "https://github.com/HumuHumuUK/codeblock-studio",
+		"repository_url": "https://github.com/HumuHumuUK/codeblock-studio",
+		"keywords": [
+			"code",
+			"code blocks",
+			"syntax highlighting",
+			"line numbers",
+			"copy",
+			"formatting",
+			"python",
+			"shell",
+			"sql"
+		],
+		"categories": [
+			"appearance",
+			"viewer"
+		],
+		"platforms": [
+			"desktop"
+		],
+		"screenshots": [
+			{
+				"src": "docs/images/code-cards.png",
+				"label": "Python, SQL and Bash code cards with syntax highlighting, line numbers and Format, Wrap and Copy controls."
+			},
+			{
+				"src": "docs/images/format-comparison.png",
+				"label": "Original and formatted Python aligned side by side, with highlighted whitespace changes and linked scrolling."
+			},
+			{
+				"src": "docs/images/retro-displays.png",
+				"label": "Commodore 64, BBC Micro, ZX Spectrum and Amstrad CPC code blocks with saved retro displays."
+			},
+			{
+				"src": "docs/images/bbc-modes.png",
+				"label": "BBC Micro bitmap and teletext presets, including blue and red Mode 6 displays with black row gaps."
+			},
+			{
+				"src": "docs/images/language-picker.png",
+				"label": "Search the Rich Text language dropdown by language, alias or retro computer name."
+			},
+			{
+				"src": "docs/images/wrapped-code.png",
+				"label": "A long JavaScript code line wrapped inside its card while retaining the original line number."
+			}
+		],
+		"icons": {
+			"48": "assets/icon-48.png",
+			"128": "assets/icon-128.png"
+		},
+		"_publish_hash": "sha256:2011e611312f89cc8baca718ec3f72be6c5f3e060385b8365ec5648ce3d33df3",
+		"_publish_commit": "main:f64e5b103063ec2833d93c3d84995e865a45fa74",
+		"_npm_package_name": "joplin-plugin-code-block-studio"
 	}
 }
