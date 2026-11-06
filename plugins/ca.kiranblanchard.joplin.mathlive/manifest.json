@@ -2,19 +2,30 @@
 	"manifest_version": 1,
 	"id": "ca.kiranblanchard.joplin.mathlive",
 	"app_min_version": "3.7",
-	"version": "1.0.1",
+	"version": "1.1.1",
 	"name": "MathLive Equation Editor",
-	"description": "Easily edit math equations with MathLive, no need to learn LaTeX",
+	"description": "Edit math equations, formulas and LaTeX/KaTeX expressions visually with MathLive — no need to learn LaTeX syntax.",
 	"author": "KiranB",
 	"homepage_url": "https://github.com/kiranlbl/joplin-plugin-mathlive",
 	"repository_url": "https://github.com/kiranlbl/joplin-plugin-mathlive",
-	"keywords": [],
-	"categories": [],
+	"keywords": [
+		"math",
+		"equation",
+		"latex",
+		"mathlive",
+		"katex",
+		"formula",
+		"math editor",
+		"wysiwyg"
+	],
+	"categories": [
+		"editor"
+	],
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
 	"license": "MIT",
-	"_publish_hash": "sha256:fd6088e0d6e07e5463a1f5d5fae5ca9cb5a9108c227adfd0eb3e534b8c89a943",
-	"_publish_commit": "main:a10e2c459e5236444d062d48d308763382caabac",
+	"_publish_hash": "sha256:06582c82c1b52740f2e364067dd6f97b2aebe378cbcc029fa2366b5a4d8e5d54",
+	"_publish_commit": "main:0c405249daaaaf7308e1e14bf3ab66a531f9c721",
 	"_npm_package_name": "joplin-plugin-mathlive"
 }
