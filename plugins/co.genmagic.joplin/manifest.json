@@ -1,0 +1,34 @@
+{
+	"manifest_version": 1,
+	"id": "co.genmagic.joplin",
+	"app_min_version": "3.0",
+	"platforms": [
+		"desktop"
+	],
+	"version": "1.0.1",
+	"name": "GenMagic",
+	"description": "Generate an image from a prompt or read a note aloud, saved as an attachment in the note. 60+ AI image models with each price shown first, and natural voices. Pay per use with a GenMagic account.",
+	"author": "GenMagic",
+	"homepage_url": "https://genmagic.co/?utm_source=joplin&utm_medium=plugin",
+	"repository_url": "https://codeberg.org/genmagic/genmagic-joplin",
+	"keywords": [
+		"ai",
+		"image generation",
+		"text to speech",
+		"images",
+		"audio"
+	],
+	"categories": [
+		"editor",
+		"integrations"
+	],
+	"screenshots": [],
+	"icons": {
+		"48": "icons/icon48.png",
+		"128": "icons/icon128.png"
+	},
+	"promo_tile": {},
+	"_publish_hash": "sha256:4f3f139c0a7a7bdcc2603dfea3ec933890a8243ec2b311c33c8db244a77fe9a2",
+	"_publish_commit": "main:75d0c67352210ff5e9b4a231828e3824c1636dec",
+	"_npm_package_name": "joplin-plugin-genmagic"
+}
