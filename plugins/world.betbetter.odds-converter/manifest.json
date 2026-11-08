@@ -1,0 +1,31 @@
+{
+	"manifest_version": 1,
+	"id": "world.betbetter.odds-converter",
+	"app_min_version": "2.6",
+	"version": "1.0.0",
+	"name": "Odds Converter",
+	"description": "Select a betting price (-110, 2.50, 5/2) and get American, decimal, fractional and implied probability as a Markdown table. Also removes the bookmaker margin to show fair prices. Works offline.",
+	"author": "Bet Better",
+	"homepage_url": "https://github.com/edushinka/joplin-plugin-odds-converter",
+	"repository_url": "https://github.com/edushinka/joplin-plugin-odds-converter",
+	"keywords": [
+		"odds",
+		"betting",
+		"converter",
+		"american odds",
+		"decimal odds",
+		"fractional odds",
+		"implied probability",
+		"no-vig",
+		"sports"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:188d689bdc17e9cd16bad2ae4792c01cb28007fe56f5d1b9c5b24e2bdb394ea0",
+	"_publish_commit": "",
+	"_npm_package_name": "joplin-plugin-odds-converter"
+}
