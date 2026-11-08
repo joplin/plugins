@@ -15,6 +15,7 @@ For additional information regarding this repository and to make changes to it, 
 - [How to remove a plugin from the repository](readme/obsoletes.md)
 - [How to mark as a plugin as superseded by another plugin](readme/superseded.md)
 - [About recommended plugins](readme/recommended.md)
+- [How to block a compromised plugin](readme/blocked.md)
 
 ## Plugins
 
