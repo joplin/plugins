@@ -5481,7 +5481,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.paste-as-markdown",
 		"app_min_version": "3.3",
-		"version": "1.6.0",
+		"version": "1.6.1",
 		"name": "Paste HTML as Markdown",
 		"description": "Paste clipboard HTML as clean markdown",
 		"author": "bwat47",
@@ -5528,8 +5528,8 @@
 			"src": "images/pasteasmarkdown_promo_tile.png",
 			"label": "Paste as Markdown Promo Tile"
 		},
-		"_publish_hash": "sha256:9d5d2ced1b89ea4a3af3118fefb8ec2bab82bebb1d6379f6e8b0ac4c9a75a5d5",
-		"_publish_commit": "main:ca12eec35124792f62f1256543abd86860b367f8",
+		"_publish_hash": "sha256:c0c106561e0270b86801c405d0ee21acc5e15d820a9d014d5aa336e6f1dbbfaf",
+		"_publish_commit": "main:3eee9e2c98a4f6b4dfc9bd04747063d14bb8b9b4",
 		"_npm_package_name": "joplin-plugin-paste-as-markdown"
 	},
 	"tech.willenglish.dndplugin": {
