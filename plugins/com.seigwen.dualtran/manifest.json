@@ -1,0 +1,22 @@
+{
+	"manifest_version": 1,
+	"id": "com.seigwen.dualtran",
+	"app_min_version": "2.13",
+	"version": "0.1.3",
+	"name": "DualTran Translate",
+	"description": "Translate a note and keep the source: the translation goes into a separate note. Google works without a key; any OpenAI-compatible endpoint works with your own key.",
+	"author": "seigwen",
+	"homepage_url": "https://github.com/seigwen/dualtran-joplin",
+	"repository_url": "https://github.com/seigwen/dualtran-joplin",
+	"keywords": [
+		"translate",
+		"translation",
+		"bilingual",
+		"ai"
+	],
+	"categories": [
+		"productivity",
+		"personal knowledge management"
+	],
+	"_npm_package_name": "joplin-plugin-dualtran"
+}
