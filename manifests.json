@@ -10575,7 +10575,7 @@
 		"platforms": [
 			"desktop"
 		],
-		"version": "0.1.1",
+		"version": "0.1.2",
 		"name": "Journey Tasks",
 		"description": "Task lists and calendars for native Joplin to-dos with Gregorian and Chinese lunar recurrence.",
 		"author": "tigerwoo",
@@ -10591,7 +10591,7 @@
 		],
 		"homepage_url": "https://github.com/tigerwoo/journey-tasks-joplin-desktop",
 		"repository_url": "https://github.com/tigerwoo/journey-tasks-joplin-desktop",
-		"_publish_hash": "sha256:cec91ce044fc671ea8e5e1f7fccbbe0992a990a9c901ed19131d557c76da0e8f",
+		"_publish_hash": "sha256:9954b6cb986ec98ed8a54ceb2928b636c8399177428198dc839c1c16a2f3bf1c",
 		"_npm_package_name": "joplin-plugin-journey-tasks"
 	},
 	"net.jotdrop.joplin": {
