@@ -11161,5 +11161,31 @@
 			"desktop"
 		],
 		"_npm_package_name": "joplin-plugin-odds-margin-calculator"
+	},
+	"ai.kavel.joplin.image": {
+		"manifest_version": 1,
+		"id": "ai.kavel.joplin.image",
+		"app_min_version": "3.0",
+		"version": "1.0.1",
+		"name": "Kavel AI Image",
+		"description": "Turn the selected text into an AI image with Kavel and insert it into the note. Works on Kavel's free tier with no API key.",
+		"author": "Kavel",
+		"homepage_url": "https://www.kavel.ai/?utm_source=joplin&utm_medium=plugin",
+		"repository_url": "https://github.com/hanshs474/joplin-plugin-kavel",
+		"keywords": [
+			"ai",
+			"image",
+			"image generation",
+			"kavel"
+		],
+		"categories": [
+			"productivity"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:a4a67d5c75f9d51b8cad8b82872339b884b8d5d75fb9c41ecadd6ed20bf247ec",
+		"_publish_commit": "main:0c6435d2240659b410340914380188c96908f4fb",
+		"_npm_package_name": "joplin-plugin-kavel"
 	}
 }
