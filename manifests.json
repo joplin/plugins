@@ -11137,5 +11137,29 @@
 			"personal knowledge management"
 		],
 		"_npm_package_name": "joplin-plugin-dualtran"
+	},
+	"world.betbetter.odds-margin-calculator": {
+		"manifest_version": 1,
+		"id": "world.betbetter.odds-margin-calculator",
+		"app_min_version": "2.13",
+		"version": "1.0.0",
+		"name": "Odds & Bookmaker Margin Calculator",
+		"description": "A side panel that converts betting odds (decimal, fractional, American), shows the implied chance, and works out the bookmaker margin and fair odds. Works offline.",
+		"author": "Bet Better",
+		"homepage_url": "https://betbetter.world/tools/odds-converter",
+		"keywords": [
+			"odds",
+			"calculator",
+			"probability",
+			"sports",
+			"statistics"
+		],
+		"categories": [
+			"productivity"
+		],
+		"platforms": [
+			"desktop"
+		],
+		"_npm_package_name": "joplin-plugin-odds-margin-calculator"
 	}
 }
