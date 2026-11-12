@@ -10603,7 +10603,7 @@
 			"desktop",
 			"mobile"
 		],
-		"version": "1.6.2",
+		"version": "1.7.0",
 		"name": "JotDrop",
 		"description": "All your notes as Google Keep-style cards: pin, color, drag into your own order, tick checklists, set reminders, archive, and take a quick note. No account needed. Optional: bring in notes from the JotDrop app through JotDrop Cloud.",
 		"author": "Diexar Labs",
@@ -10645,8 +10645,8 @@
 				"label": "The JotDrop board in Joplin for Android"
 			}
 		],
-		"_publish_hash": "sha256:e8ddf9c067cb3c650efe04107722f7b62f36c3c10a97baa3fbb7ee579d9c1e7f",
-		"_publish_commit": "main:0d7c702b249e376ccefacd281fa0e8ca453960c1",
+		"_publish_hash": "sha256:5c8b709d1423fe07aa0ed90de05c93875016407848cc3afaaa652c3802edbee2",
+		"_publish_commit": "main:266ae8797d864adc49556629737909dd4ff75023",
 		"_npm_package_name": "joplin-plugin-jotdrop"
 	},
 	"com.coworkingview.joplin": {
