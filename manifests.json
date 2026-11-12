@@ -10926,7 +10926,7 @@
 		"manifest_version": 1,
 		"id": "ca.kiranblanchard.joplin.mathlive",
 		"app_min_version": "3.7",
-		"version": "1.3.0",
+		"version": "1.3.1",
 		"name": "MathLive Equation Editor",
 		"description": "Edit math equations, formulas and LaTeX/KaTeX expressions visually with MathLive — no need to learn LaTeX syntax.",
 		"author": "KiranB",
@@ -10958,8 +10958,8 @@
 		},
 		"promo_tile": {},
 		"license": "MIT",
-		"_publish_hash": "sha256:765f1d0d3b3b1a97c364d6162cbe8c8993b7266c6aa2d92a2ff59f72a0fab94d",
-		"_publish_commit": "main:26304fed020593faf6caa142923fd3f5f873141b",
+		"_publish_hash": "sha256:88f6803ed59d7297c33ba4073894a55df3cf5aaa6f82360d2b966c610a8db1a0",
+		"_publish_commit": "main:2ab12ccad49e1fed2bd98d258f5826d475140129",
 		"_npm_package_name": "joplin-plugin-mathlive"
 	},
 	"plugin.tnoahc.pdf-header-footer": {
