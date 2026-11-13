@@ -11213,5 +11213,24 @@
 		"_publish_hash": "sha256:2595e6e6a90bace13372757652165cf95cfd27ac946dc94ce5c03ef8506ecef3",
 		"_publish_commit": "main:8e879f5f6d4dc262e5b9ba51c5ade7d210c51256",
 		"_npm_package_name": "joplin-plugin-veida"
+	},
+	"com.giicha.joplin-plugin-scriptwriter": {
+		"manifest_version": 1,
+		"id": "com.giicha.joplin-plugin-scriptwriter",
+		"app_min_version": "3.7",
+		"version": "1.0.4",
+		"name": "Scriptwriter",
+		"description": "Screenwriting mode for Fountain format with Tab/Enter workflow, outline panel, and PDF export",
+		"author": "giicha",
+		"homepage_url": "https://github.com/giicha/joplin-plugin-scriptwriter",
+		"repository_url": "https://github.com/giicha/joplin-plugin-scriptwriter",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:872db4ccdfcc808d3f18d612b9d4ea2a2e3d24f28d55a481c18505c9db982cae",
+		"_publish_commit": "master:55d6fbbc751d4e69afa5700fd79807bfd158e838",
+		"_npm_package_name": "joplin-plugin-scriptwriter"
 	}
 }
