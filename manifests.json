@@ -9073,7 +9073,7 @@
 		"manifest_version": 1,
 		"id": "com.yugalkaushik.plugin-note-graph",
 		"app_min_version": "3.5",
-		"version": "1.0.1",
+		"version": "1.2.0",
 		"name": "Note Graph Plugin",
 		"description": "Visualizes your notes as an interactive graph, connecting them by links, tags and AI-detected semantic similarity.",
 		"author": "yugalkaushik",
@@ -9094,8 +9094,8 @@
 		"screenshots": [],
 		"icons": {},
 		"promo_tile": {},
-		"_publish_hash": "sha256:d73276656e0ed9f81615a12eb83a67659d84278918293099eef6b76024c8187e",
-		"_publish_commit": "ANG-016:9666499d7ed58855bd13f9c1980c27eb76823ad3",
+		"_publish_hash": "sha256:fc4af322ea3d888d40ee7f30e9845c569bcc8dbaf0206387c420d82e529adc06",
+		"_publish_commit": "dev:89d00e20024a19beea7fb25f6b3bd6b0663e4134",
 		"_npm_package_name": "joplin-plugin-note-graph"
 	},
 	"com.william.webppublisher": {
