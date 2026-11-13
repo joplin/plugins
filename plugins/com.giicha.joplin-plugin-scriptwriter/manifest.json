@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.giicha.joplin-plugin-scriptwriter",
 	"app_min_version": "3.7",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"name": "Scriptwriter",
 	"description": "Screenwriting mode for Fountain format with Tab/Enter workflow, outline panel, and PDF export",
 	"author": "giicha",
@@ -24,13 +24,16 @@
 	],
 	"screenshots": [
 		{
-			"src": "images/screenshot.png",
+			"src": "images/scriptwriter-screenshot.png",
 			"label": "Draft example"
 		}
 	],
 	"icons": {},
-	"promo_tile": {},
-	"_publish_hash": "sha256:a43a7c0ca74b40048934cd79ec26b4ba535b5d41037fc71055cb21d483d6639e",
-	"_publish_commit": "master:4ead0cea9efab9f71fd4470cc450f8abe0987cf2",
+	"promo_tile": {
+		"src": "images/scriptwriter-promo.png",
+		"label": "Scriptwriter Plugin"
+	},
+	"_publish_hash": "sha256:53ce9080904934f4f14cc83456216229a642f43222f9be99b672b3c1856432d8",
+	"_publish_commit": "master:90c8da7b242715c05d4f880b09ad542eb55d028b",
 	"_npm_package_name": "joplin-plugin-scriptwriter"
 }
