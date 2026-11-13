@@ -6321,7 +6321,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.joplin-markdown-alerts",
 		"app_min_version": "3.3",
-		"version": "1.7.3",
+		"version": "1.7.5",
 		"platforms": [
 			"desktop",
 			"mobile"
@@ -6370,8 +6370,8 @@
 			"src": "images/markdown-alerts-promo.png",
 			"label": "Markdown Alerts Promo Tile"
 		},
-		"_publish_hash": "sha256:874a3427ce03254a122c62f02d1dba9a672b8cecde19afca0360c008bbd0df96",
-		"_publish_commit": "main:bd38a6ecd3931f0015e51c43ceea46061e3928a9",
+		"_publish_hash": "sha256:75b404cd61c3c6dddd6fd252947b9edf59a3a1153baa39513e50381597155fdf",
+		"_publish_commit": "main:cfb5028553cbd5886ef12e88f71837c9f2ca5008",
 		"_npm_package_name": "joplin-plugin-markdown-alerts"
 	},
 	"com.cogitations.ai-writing-toolkit": {
