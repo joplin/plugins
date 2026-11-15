@@ -1,0 +1,26 @@
+{
+	"manifest_version": 1,
+	"id": "kr.smlabor.joplin.no-setext-heading",
+	"app_min_version": "3.0",
+	"version": "1.1.0",
+	"name": "No Setext Heading",
+	"description": "Stops a line followed by '-' or '=' from turning into a heading (Setext heading) in the viewer and Markdown editor. 글 아래 줄의 '-'·'='가 제목으로 바뀌지 않게 합니다.",
+	"author": "Seo Jinbae",
+	"homepage_url": "https://github.com/smlabor/joplin-plugin-no-setext-heading",
+	"repository_url": "https://github.com/smlabor/joplin-plugin-no-setext-heading",
+	"keywords": [
+		"markdown",
+		"heading",
+		"setext",
+		"korean"
+	],
+	"categories": [
+		"viewer",
+		"editor"
+	],
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"_npm_package_name": "joplin-plugin-no-setext-heading"
+}
