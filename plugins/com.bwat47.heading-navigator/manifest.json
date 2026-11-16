@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.bwat47.heading-navigator",
 	"app_min_version": "3.3",
-	"version": "0.9.4",
+	"version": "1.0.0",
 	"platforms": [
 		"desktop",
 		"mobile"
@@ -25,20 +25,24 @@
 	],
 	"screenshots": [
 		{
-			"src": "images/screenshot1.png",
-			"label": "Heading Navigator screenshot 1"
+			"src": "images/screenshot_theme_light.png",
+			"label": "Heading Navigator light theme - heading badge mode"
 		},
 		{
-			"src": "images/screenshot2.png",
-			"label": "Heading Navigator screenshot 2"
+			"src": "images/screenshot_theme_dark.png",
+			"label": "Heading Navigator dark theme - heading badge mode"
 		},
 		{
-			"src": "images/screenshot3.png",
-			"label": "Heading Navigator screenshot 3"
+			"src": "images/screenshot_mobile.png",
+			"label": "Heading Navigator mobile screenshot"
 		},
 		{
 			"src": "images/screenshot_full_mode.png",
 			"label": "Heading Navigator screenshot full mode"
+		},
+		{
+			"src": "images/screenshot_atx_mode.png",
+			"label": "Heading Navigator screenshot atx mode"
 		},
 		{
 			"src": "images/screenshot_none_mode.png",
@@ -54,10 +58,10 @@
 		"128": "images/128.png"
 	},
 	"promo_tile": {
-		"src": "images/heading-navigator_promo_tile.png",
+		"src": "images/heading_navigator_promo_tile.png",
 		"label": "heading Navigator Promo Tile"
 	},
-	"_publish_hash": "sha256:bcb30d60ad5c2bdcd4dea8d4b3f01ff8aab122b3346f9e2762fe2bb9adad4d10",
-	"_publish_commit": "main:7b93aa77f0437a76d3deab83ef5a8dcd17f84a3a",
+	"_publish_hash": "sha256:832e950a341d8ecc3f02b7974b25276ca11af3608d5a43283c7ea48a099b24fd",
+	"_publish_commit": "main:665e9e33c68180e7d357975471520466b6842cf4",
 	"_npm_package_name": "joplin-plugin-heading-navigator"
 }
