@@ -1,0 +1,26 @@
+{
+	"manifest_version": 1,
+	"id": "ai.movoa.joplin.video",
+	"app_min_version": "3.0",
+	"version": "1.0.0",
+	"name": "Movoa AI Video",
+	"description": "Unlimited AI video generator with sound: on paid plans the tenth take of a shot costs what the first did, and your first clip is free to make right now.",
+	"author": "Movoa",
+	"homepage_url": "https://movoa.ai/?utm_source=joplin&utm_medium=plugin",
+	"repository_url": "https://github.com/hanshs474/joplin-plugin-movoa",
+	"keywords": [
+		"ai",
+		"video",
+		"text to video",
+		"movoa"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:fe7be6cc143b903225063df3e2d794c99f94bc8a841f5da703b0bf215321e4b4",
+	"_publish_commit": "main:ff7340ec8e04d8b82929a44cba351f6e7a50a52a",
+	"_npm_package_name": "joplin-plugin-movoa"
+}
