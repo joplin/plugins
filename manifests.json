@@ -11352,5 +11352,32 @@
 		"_publish_hash": "sha256:0c03d9e51ea3ab2f37f1e1e77fde5df5c14aa27df6750123240d6fddc206aa27",
 		"_publish_commit": "main:8ce7e1bec1da49125e94e8e1a1847c4986ec43de",
 		"_npm_package_name": "joplin-plugin-selection-fix"
+	},
+	"ai.aigifmaker.joplin.gif": {
+		"manifest_version": 1,
+		"id": "ai.aigifmaker.joplin.gif",
+		"app_min_version": "3.0",
+		"version": "1.0.0",
+		"name": "AI GIF Maker",
+		"description": "Turn text into animated GIFs with AI GIF Maker. Native GIF generation — no video conversion. Type what you want and download your GIF in about a minute.",
+		"author": "AI GIF Maker",
+		"homepage_url": "https://aigifmaker.ai/?utm_source=joplin&utm_medium=plugin",
+		"repository_url": "https://github.com/hanshs474/joplin-plugin-aigifmaker",
+		"keywords": [
+			"ai",
+			"gif",
+			"animated gif",
+			"text to gif",
+			"aigifmaker"
+		],
+		"categories": [
+			"productivity"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:094ae29bdc7dd5c8d1b550bfa8a617bbfcf53a04ae6636ed1aa069f2159ea345",
+		"_publish_commit": "main:1ea3c9ea2d1543c9fc6962aa0857774e4a8c8041",
+		"_npm_package_name": "joplin-plugin-aigifmaker"
 	}
 }
