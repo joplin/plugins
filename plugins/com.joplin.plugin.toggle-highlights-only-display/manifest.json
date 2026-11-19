@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.joplin.plugin.toggle-highlights-only-display",
 	"app_min_version": "3.5",
-	"version": "1.0.18",
+	"version": "1.0.19",
 	"name": "Toggle highlights-only display",
 	"description": "This plugin can be used to toggle between highlights-only display or complete text of a note",
 	"author": "Alex Pot",
@@ -24,12 +24,12 @@
 			"label": "Default look of note with hilights-mode enabled"
 		},
 		{
-			"src": "screenshots/3-no-highlights-notification-default-look.png",
-			"label": "Default look for pages without highlights, when highlights-only mode was enabled"
+			"src": "screenshots/3-highlights-only-with-user-css.png",
+			"label": "Look of note with user-defined CSS for highlights-mode enabled"
 		},
 		{
-			"src": "screenshots/4-highlights-only-with-user-css.png",
-			"label": "Look of note with user-defined CSS for highlights-mode enabled"
+			"src": "screenshots/4-no-highlights-notification-default-look.png",
+			"label": "Default look for pages without highlights, when highlights-only mode was enabled"
 		},
 		{
 			"src": "screenshots/5-plugin-settings.png",
@@ -44,7 +44,7 @@
 		"src": "screenshots/promo_tile.png",
 		"label": "a page containing highlights"
 	},
-	"_publish_hash": "sha256:cdff998b70af7d1f4e051027d61ee9fff76f8bc5f006dadca8582d2e93c25b48",
-	"_publish_commit": "master:9e2dc5349cefd2d5d07eaad7f7b97e94454e8200",
+	"_publish_hash": "sha256:a1f85e4592129271e0eb9b73f9d189b967df6e4a6e4cabf45f0a377455f1466b",
+	"_publish_commit": "master:872ca107816d02534f7afff13dff2cd72228dfdb",
 	"_npm_package_name": "joplin-plugin-toggle-highlights-only-display"
 }
