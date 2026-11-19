@@ -11423,5 +11423,36 @@
 		"_publish_hash": "sha256:e96b6548391d6b70173a09e888b5a0bb202c73d760a2c40eab4e55f8613b370b",
 		"_publish_commit": "main:4695b09280d85de54f9e7f93f2671b1abd555b96",
 		"_npm_package_name": "joplin-plugin-enhanced-rendering"
+	},
+	"io.github.spingras.hue-md": {
+		"manifest_version": 1,
+		"id": "io.github.spingras.hue-md",
+		"app_min_version": "3.0",
+		"version": "0.2.2",
+		"name": "Hue MD",
+		"description": "Hue Markdown in the note viewer: colored spans {ok: text}, diff spans, key caps [[Ctrl+C]], progress bars, multi-state tasks and drawn +-- callout boxes, side by side too.",
+		"author": "spingras",
+		"homepage_url": "https://spingras.github.io/hue-md/",
+		"repository_url": "https://github.com/spingras/hue-md",
+		"keywords": [
+			"markdown",
+			"color",
+			"callout",
+			"box",
+			"tasks",
+			"progress",
+			"kbd",
+			"hue-md"
+		],
+		"categories": [
+			"viewer",
+			"appearance"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:8cd7de485523c44388303e8714594404a6c83063844b05f4873308ebe79466b6",
+		"_publish_commit": "main:2cd874ae426f95468bfb0b4235e350f85e4dbeb3",
+		"_npm_package_name": "joplin-plugin-hue-md"
 	}
 }
