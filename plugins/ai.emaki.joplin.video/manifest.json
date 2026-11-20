@@ -1,0 +1,27 @@
+{
+	"manifest_version": 1,
+	"id": "ai.emaki.joplin.video",
+	"app_min_version": "3.0",
+	"version": "1.0.0",
+	"name": "Emaki Seedance AI Video",
+	"description": "シーダンス（Seedance）2.5 と 2.0 を日本語のまま使えます。一文や写真から 1 本最長 30 秒の AI 動画を生成でき、480p〜1080p・音声つきに対応。登録するだけで無料クレジットがつき、消費するクレジットは生成前に必ず表示されます。",
+	"author": "Emaki",
+	"homepage_url": "https://emaki.ai/?utm_source=joplin&utm_medium=plugin",
+	"repository_url": "https://github.com/hanshs474/joplin-plugin-emaki",
+	"keywords": [
+		"ai",
+		"video",
+		"seedance",
+		"emaki",
+		"text to video"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:0282ac364078ddd51534f4112a779086750adf8614abf5c7c1baf37c25a3324b",
+	"_publish_commit": "main:8938df1bd710b232b433c57bcbccfffcbdc4e896",
+	"_npm_package_name": "joplin-plugin-emaki"
+}
