@@ -11583,5 +11583,31 @@
 		"_publish_hash": "sha256:949b553894a6de8dc0df1fd7cfe1612cb2519ed64ac4432250e8b6a66e58d76e",
 		"_publish_commit": "main:f5b7bfa4c5178fc3bfcba3104e723037102b4c66",
 		"_npm_package_name": "joplin-plugin-headings-to-tabs"
+	},
+	"io.github.wernerhertzog.joplin-tag-network": {
+		"manifest_version": 1,
+		"id": "io.github.wernerhertzog.joplin-tag-network",
+		"app_min_version": "3.7.22",
+		"version": "0.2.2",
+		"name": "Tag Network",
+		"description": "Explore how your Joplin tags connect across notes.",
+		"author": "Werner Hertzog",
+		"keywords": [
+			"tags",
+			"network",
+			"graph"
+		],
+		"categories": [
+			"tags",
+			"productivity"
+		],
+		"platforms": [
+			"desktop"
+		],
+		"homepage_url": "https://github.com/wernerhertzog/joplin-plugin-tag-network",
+		"repository_url": "https://github.com/wernerhertzog/joplin-plugin-tag-network",
+		"_publish_hash": "sha256:dcd739192c7264db2095694a68b9b1352ec09c10afcfd6cbceebe9298b266be6",
+		"_publish_commit": "main:b806f2f0436251d6f1cb0c120542ff6c307f604a",
+		"_npm_package_name": "joplin-plugin-tag-network"
 	}
 }
