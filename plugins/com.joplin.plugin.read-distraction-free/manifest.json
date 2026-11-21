@@ -2,13 +2,34 @@
 	"manifest_version": 1,
 	"id": "com.joplin.plugin.read-distraction-free",
 	"app_min_version": "3.7.22",
-	"version": "1.2.12",
+	"version": "1.2.13",
 	"name": "Read Distraction Free",
 	"description": "Read and edit the selected note in a separate Joplin window with adjustable margins.",
 	"platforms": [
 		"desktop"
 	],
-	"_publish_hash": "sha256:28dccd4c0189f54a434c313285c0be09cba9e80df127c7fc4c224603c70de5fe",
-	"_publish_commit": "main:858f438b1233015815d9fa2cf03ba1fb62237df5",
+	"author": "Alex Pot",
+	"homepage_url": "",
+	"repository_url": "https://github.com/smartscripts-nl/joplin-plugin-read-distraction-free",
+	"keywords": [
+		"zen mode",
+		"distraction free"
+	],
+	"icons": {},
+	"screenshots": [
+		{
+			"src": "screenshots/1-distraction-free-read-modus.png",
+			"label": "The Read Distraction Free popup, with configurable left and right margins"
+		}
+	],
+	"promo_tile": {
+		"src": "screenshots/promo_tile.png",
+		"label": "Read Distraction Free in action"
+	},
+	"categories": [
+		"viewer"
+	],
+	"_publish_hash": "sha256:0a575afe3b750aebc80168211c9ab4a3b9a1f4df518fc923613354233e3c5f03",
+	"_publish_commit": "main:7c959ac817f583c5a9c82f925023f0e431928bb6",
 	"_npm_package_name": "joplin-plugin-read-distraction-free"
 }
