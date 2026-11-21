@@ -1,0 +1,27 @@
+{
+	"manifest_version": 1,
+	"id": "ai.freeimagetovideo.joplin.video",
+	"app_min_version": "3.0",
+	"version": "1.0.0",
+	"name": "Free Image to Video AI",
+	"description": "Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark.",
+	"author": "Free Image to Video",
+	"homepage_url": "https://freeimagetovideo.ai/?utm_source=joplin&utm_medium=plugin",
+	"repository_url": "https://github.com/hanshs474/joplin-plugin-freeimagetovideo",
+	"keywords": [
+		"ai",
+		"video",
+		"image to video",
+		"text to video",
+		"freeimagetovideo"
+	],
+	"categories": [
+		"productivity"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:1092308c248259892cd6f5f8f27f5574f46c2be65d2cbea7a324e47c9e2a04d2",
+	"_publish_commit": "main:597dad627902d0e63b4574cd6d185cc9c7f8599c",
+	"_npm_package_name": "joplin-plugin-freeimagetovideo"
+}
