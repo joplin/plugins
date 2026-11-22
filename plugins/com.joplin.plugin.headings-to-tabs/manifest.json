@@ -13,6 +13,7 @@
 		"tabs"
 	],
 	"categories": [
+		"appearance",
 		"viewer"
 	],
 	"screenshots": [
@@ -34,7 +35,7 @@
 		"label": "Headings to Tabs in action"
 	},
 	"license": "MIT",
-	"_publish_hash": "sha256:949b553894a6de8dc0df1fd7cfe1612cb2519ed64ac4432250e8b6a66e58d76e",
-	"_publish_commit": "main:f5b7bfa4c5178fc3bfcba3104e723037102b4c66",
+	"_publish_hash": "sha256:d5ce4b47fb566aec0193d35ed579ededb755184043110d746b9af84da537b995",
+	"_publish_commit": "main:3e94ca03c57da0e04c7c3c86573948800f5da8c1",
 	"_npm_package_name": "joplin-plugin-headings-to-tabs"
 }
