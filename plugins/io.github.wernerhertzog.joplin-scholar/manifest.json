@@ -1,0 +1,25 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.wernerhertzog.joplin-scholar",
+	"app_min_version": "3.3",
+	"version": "0.10.2",
+	"name": "Joplin Scholar",
+	"description": "Live typeset PDF preview and LaTeX export for academic writing.",
+	"author": "Werner Hertzog",
+	"homepage_url": "https://github.com/wernerhertzog/joplin-scholar",
+	"repository_url": "https://github.com/wernerhertzog/joplin-scholar",
+	"categories": [
+		"productivity",
+		"viewer"
+	],
+	"keywords": [
+		"academic",
+		"pandoc",
+		"latex",
+		"pdf"
+	],
+	"platforms": [
+		"desktop"
+	],
+	"_npm_package_name": "joplin-plugin-scholar"
+}
