@@ -11384,7 +11384,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.joplin-enhanced-rendering",
 		"app_min_version": "3.7",
-		"version": "0.2.0",
+		"version": "0.2.1",
 		"platforms": [
 			"desktop",
 			"mobile"
@@ -11420,8 +11420,8 @@
 			"src": "images/promo_tile.png",
 			"label": "Enhanced Rendering Promo Tile"
 		},
-		"_publish_hash": "sha256:327a1d5bcb374c17cbdc639e0152f848d5feac5a44cc23fda76bd84565e0208f",
-		"_publish_commit": "main:bd85965dc4e09ebcba0da9a38d0fbb421072beee",
+		"_publish_hash": "sha256:4e727b27a9f85af0711754dffd23ed4041e53b6da9c85e36dfcbbb7e902249eb",
+		"_publish_commit": "main:452b55fae436812797c3bd6790bb0c6368071695",
 		"_npm_package_name": "joplin-plugin-enhanced-rendering"
 	},
 	"io.github.spingras.hue-md": {
