@@ -11459,7 +11459,7 @@
 		"manifest_version": 1,
 		"id": "com.joplin.plugin.read-distraction-free",
 		"app_min_version": "3.7.22",
-		"version": "1.2.14",
+		"version": "1.2.15",
 		"name": "Read Distraction Free",
 		"description": "Read and edit the selected note in a separate Joplin window with adjustable margins.",
 		"platforms": [
@@ -11484,10 +11484,11 @@
 			"label": "Read Distraction Free in action"
 		},
 		"categories": [
+			"appearance",
 			"viewer"
 		],
-		"_publish_hash": "sha256:beb74a8730313f2e2ef5a986362f2f21641660115d3f5dad0adc52758fa78bea",
-		"_publish_commit": "main:2506808911b4a9679719ab1a5f3a19e9970fc8da",
+		"_publish_hash": "sha256:a01c2a3d47039ea340dcd2f1cdbc27db15c7f481419a6d927dfb26fbf47d0202",
+		"_publish_commit": "main:f0a2b2e85623528cf567955144ed452146cc9f8a",
 		"_npm_package_name": "joplin-plugin-read-distraction-free"
 	},
 	"io.github.wernerhertzog.joplin-tag-cloud": {
