@@ -11783,5 +11783,32 @@
 		"_publish_hash": "sha256:5618725795250de5194357fec721cb72e7b4ca0cd70d872be4c127322e435b60",
 		"_publish_commit": "main:691444ea4113022547cede57859eea1542c98d98",
 		"_npm_package_name": "joplin-plugin-secure-notes-enhanced"
+	},
+	"ai.aibirthday.joplin.video": {
+		"manifest_version": 1,
+		"id": "ai.aibirthday.joplin.video",
+		"app_min_version": "3.0",
+		"version": "1.0.0",
+		"name": "AI Birthday Video Generator",
+		"description": "AI birthday video generator from a single photo: they pop champagne on a park bench, blow out a Scorpio cake, or light a crown cake at the car window.",
+		"author": "AI Birthday Video Generator",
+		"homepage_url": "https://aibirthdayvideogenerator.com/?utm_source=joplin&utm_medium=plugin",
+		"repository_url": "https://github.com/hanshs474/joplin-plugin-aibirthday",
+		"keywords": [
+			"ai",
+			"birthday",
+			"video",
+			"image to video",
+			"seedance"
+		],
+		"categories": [
+			"productivity"
+		],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:68844a18b9f3a26083b84c869c7d318085e4cb3728479631c43664ee41235c22",
+		"_publish_commit": "main:06df7b94fd49ea1e6d610724bdf461e703568125",
+		"_npm_package_name": "joplin-plugin-aibirthday"
 	}
 }
