@@ -1,0 +1,66 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.marcsant71.secure.notes.enhanced",
+	"app_min_version": "3.6",
+	"version": "3.0.0",
+	"name": "Secure Notes Enhanced",
+	"description": "Plugin to password protect and encrypt your Joplin notes (maintained fork with Joplin 3.x compatibility fix).",
+	"author": "Marcelo Santos (fork of Aravind Potluri's Secure Notes)",
+	"homepage_url": "https://github.com/MarcSant71/joplin-plugin-secure-notes-enhanced",
+	"repository_url": "https://github.com/MarcSant71/joplin-plugin-secure-notes-enhanced",
+	"keywords": [
+		"joplin-plugin",
+		"secure-notes",
+		"encryption",
+		"password",
+		"privacy"
+	],
+	"categories": [
+		"productivity",
+		"files"
+	],
+	"platforms": [
+		"desktop",
+		"mobile"
+	],
+	"screenshots": [
+		{
+			"src": "docs/assets/sn-encryption.png",
+			"label": "Desktop Encryption"
+		},
+		{
+			"src": "docs/assets/sn-secureview-ip.png",
+			"label": "Desktop SecureView IP"
+		},
+		{
+			"src": "docs/assets/sn-secureview-op.png",
+			"label": "Desktop SecureView OP"
+		},
+		{
+			"src": "docs/assets/sn-decryption.png",
+			"label": "Desktop Decryption"
+		},
+		{
+			"src": "docs/assets/sn-settings.png",
+			"label": "Desktop Settings"
+		},
+		{
+			"src": "docs/assets/sn-mobile-secureview-ip.png",
+			"label": "Mobile SecureView IP"
+		},
+		{
+			"src": "docs/assets/sn-mobile-secureview-op.png",
+			"label": "Mobile SecureView OP"
+		}
+	],
+	"icons": {
+		"16": "docs/assets/icon-16.png",
+		"32": "docs/assets/icon-32.png",
+		"128": "docs/assets/icon-128.png",
+		"512": "docs/assets/icon-512.png"
+	},
+	"promo_tile": {},
+	"_publish_hash": "sha256:5618725795250de5194357fec721cb72e7b4ca0cd70d872be4c127322e435b60",
+	"_publish_commit": "main:691444ea4113022547cede57859eea1542c98d98",
+	"_npm_package_name": "joplin-plugin-secure-notes-enhanced"
+}
