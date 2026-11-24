@@ -1,0 +1,46 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.akiratamcat.dg-echarts",
+	"app_min_version": "3.1",
+	"version": "1.0.0",
+	"name": "dg-echarts",
+	"description": "Render Apache ECharts charts with a bundled engine. No external server, no network access. / Apache ECharts のグラフを、描画エンジン内蔵・外部通信なしで表示します。",
+	"author": "akira tamcat",
+	"homepage_url": "https://github.com/akiratamcat/joplin-plugin-dg-echarts",
+	"repository_url": "https://github.com/akiratamcat/joplin-plugin-dg-echarts",
+	"platforms": [
+		"desktop"
+	],
+	"categories": [
+		"viewer",
+		"editor"
+	],
+	"keywords": [
+		"echarts",
+		"chart",
+		"graph"
+	],
+	"screenshots": [
+		{
+			"src": "docs/images/screenshot-light.png",
+			"label": "Charts in a note, with the JSON and YAML coloured in the editor (light theme)"
+		},
+		{
+			"src": "docs/images/screenshot-dark.png",
+			"label": "The same note in the dark theme"
+		},
+		{
+			"src": "docs/images/screenshot-settings.png",
+			"label": "Settings screen"
+		}
+	],
+	"icons": {
+		"16": "icons/icon-16.png",
+		"32": "icons/icon-32.png",
+		"48": "icons/icon-48.png",
+		"128": "icons/icon-128.png"
+	},
+	"_publish_hash": "sha256:55c56905e95e3079034db8657ffd25385218ebeb988ae01514a87fbf8a5556e7",
+	"_publish_commit": "main:769358b3d0ea209d651049c2dc78a88822827f65",
+	"_npm_package_name": "joplin-plugin-dg-echarts"
+}
