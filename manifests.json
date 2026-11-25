@@ -11385,7 +11385,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.joplin-enhanced-rendering",
 		"app_min_version": "3.7",
-		"version": "0.3.0",
+		"version": "0.4.0",
 		"platforms": [
 			"desktop",
 			"mobile"
@@ -11413,6 +11413,14 @@
 				"label": "Mermaid rendering"
 			},
 			{
+				"src": "images/mermaid-editing.png",
+				"label": "Mermaid editing with preview"
+			},
+			{
+				"src": "images/mermaid-fullscreen.png",
+				"label": "Mermaid fullscreen dialog"
+			},
+			{
 				"src": "images/math.png",
 				"label": "Math rendering"
 			}
@@ -11421,8 +11429,8 @@
 			"src": "images/promo_tile.png",
 			"label": "Enhanced Rendering Promo Tile"
 		},
-		"_publish_hash": "sha256:306901e922d120f6e9e28681582ab458fa47f0f8457882e2fec69e89bec32fb4",
-		"_publish_commit": "main:dee8671601745ad89dcde8f8558ed105c8f15f07",
+		"_publish_hash": "sha256:90128cd4cabd8ec15e048302100504f233a62c8adde356645758b40502b47917",
+		"_publish_commit": "main:9c118c44c906a29c440b2f961fc27e1e007044d6",
 		"_npm_package_name": "joplin-plugin-enhanced-rendering"
 	},
 	"io.github.spingras.hue-md": {
