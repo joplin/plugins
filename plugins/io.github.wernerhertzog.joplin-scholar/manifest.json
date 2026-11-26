@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "io.github.wernerhertzog.joplin-scholar",
 	"app_min_version": "3.3",
-	"version": "0.20.0",
+	"version": "0.21.0",
 	"name": "Joplin Scholar",
 	"description": "Live typeset PDF preview and LaTeX export for academic writing.",
 	"author": "Werner Hertzog",
