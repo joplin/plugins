@@ -11907,5 +11907,27 @@
 		"_publish_hash": "sha256:d6700b2923c733aba01223334ff2012e8d774ac93485d1496866228307676516",
 		"_publish_commit": "master:3ec4de2867879e1d5494c6b30c1d2e8ed45fb95b",
 		"_npm_package_name": "joplin-plugin-note-history-diff"
+	},
+	"markitdown-import.joplin": {
+		"manifest_version": 1,
+		"id": "markitdown-import.joplin",
+		"name": "markitdown-import",
+		"app_min_version": "3.0",
+		"version": "0.3.0",
+		"title": "MarkItDown Import",
+		"description": "Import Word, PDF, PowerPoint, Excel, HTML, EPUB… files as Markdown notes, converted locally, tagged MarkItDown.",
+		"author": "Doume20",
+		"homepage_url": "https://github.com/Doume-20/MarkItDown-Joplin-Plugin",
+		"repository_url": "https://github.com/Doume-20/MarkItDown-Joplin-Plugin",
+		"keywords": [
+			"import",
+			"markitdown",
+			"word",
+			"pdf",
+			"docx",
+			"pptx",
+			"xlsx"
+		],
+		"_npm_package_name": "joplin-plugin-markitdown-import"
 	}
 }
