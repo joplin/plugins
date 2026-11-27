@@ -1,0 +1,36 @@
+{
+	"manifest_version": 1,
+	"id": "com.getaktar.joplin",
+	"app_min_version": "3.7",
+	"version": "0.1.0",
+	"platforms": [
+		"desktop"
+	],
+	"name": "Aktar",
+	"description": "Paste or drop files into a note and get links from your own S3, Cloudflare R2 or Backblaze B2 bucket.",
+	"author": "Mert Topuz",
+	"homepage_url": "https://getaktar.com",
+	"repository_url": "https://github.com/getaktar/joplin",
+	"keywords": [
+		"s3",
+		"r2",
+		"cloudflare",
+		"backblaze",
+		"b2",
+		"upload",
+		"image",
+		"screenshot",
+		"attachments",
+		"minio"
+	],
+	"categories": [
+		"files",
+		"integrations"
+	],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:6ee6da4f977a52985129853e043767736393b056e01deaef2c1bd94692296bcd",
+	"_publish_commit": "main:d6dfcc41273feefce2b6b22d7c10be37120e6cf1",
+	"_npm_package_name": "joplin-plugin-aktar"
+}
