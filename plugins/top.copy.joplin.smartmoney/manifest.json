@@ -1,0 +1,29 @@
+{
+	"manifest_version": 1,
+	"id": "top.copy.joplin.smartmoney",
+	"app_min_version": "2.13",
+	"version": "0.1.0",
+	"name": "copy.top smart money",
+	"description": "See the coins top crypto traders on fomo and pumpfun are buying, and the top traders leaderboard, in a side panel. Insert either one as a Markdown table in your trading journal. Live data from copy.top, free, no key. Figures are data, not advice.",
+	"author": "copy.top",
+	"homepage_url": "https://copy.top/docs?utm_source=joplin",
+	"keywords": [
+		"crypto",
+		"trading",
+		"trading journal",
+		"smart money",
+		"solana",
+		"memecoins",
+		"pumpfun",
+		"fomo",
+		"copy.top",
+		"leaderboard"
+	],
+	"categories": [
+		"integrations"
+	],
+	"platforms": [
+		"desktop"
+	],
+	"_npm_package_name": "joplin-plugin-copytop"
+}
