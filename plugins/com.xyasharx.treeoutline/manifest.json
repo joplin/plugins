@@ -2,9 +2,10 @@
 	"manifest_version": 1,
 	"id": "com.xyasharx.treeoutline",
 	"app_min_version": "2.8.0",
-	"version": "1.0.6",
+	"app_min_version_mobile": "3.0.0",
+	"version": "1.1.0",
 	"name": "TreeOutline",
-	"description": "Hierarchical table of contents and outline panel with collapsible sections, search filtering, and bidirectional RTL/LTR support.",
+	"description": "Hierarchical table of contents and outline panel with active heading scroll-spy, collapsible sections, search filtering, link/TOC actions, and bidirectional RTL/LTR support.",
 	"author": "Yashar",
 	"homepage_url": "https://github.com/xyasharx/joplin-plugin-tree-outline",
 	"repository_url": "https://github.com/your-username/joplin-plugin-tree-outline",
@@ -14,11 +15,33 @@
 		"table-of-contents",
 		"tree",
 		"navigation",
-		"headings"
+		"headings",
+		"scroll-spy",
+		"rtl"
+	],
+	"categories": [
+		"productivity",
+		"editor",
+		"viewer",
+		"personal knowledge management"
 	],
 	"platforms": [
 		"desktop",
 		"mobile"
 	],
+	"screenshots": [
+		{
+			"src": "https://raw.githubusercontent.com/xyasharx/joplin-plugin-tree-outline/main/images/screenshot-desktop.png",
+			"label": "TreeOutline desktop panel showing active heading scroll-spy, hierarchical numbering, level badges, and heading link context menu"
+		},
+		{
+			"src": "https://raw.githubusercontent.com/xyasharx/joplin-plugin-tree-outline/main/images/screenshot-dark-settings.png",
+			"label": "TreeOutline dark theme with WCAG AA contrast, native Joplin settings panel, and search match highlighting"
+		}
+	],
+	"promo_tile": {
+		"src": "https://raw.githubusercontent.com/xyasharx/joplin-plugin-tree-outline/main/images/promo_tile.png",
+		"label": "TreeOutline hierarchical Table of Contents plugin for Joplin Desktop and Mobile"
+	},
 	"_npm_package_name": "joplin-plugin-tree-outline"
 }
