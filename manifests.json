@@ -12053,5 +12053,34 @@
 			"desktop"
 		],
 		"_npm_package_name": "joplin-plugin-copytop"
+	},
+	"com.aicheckerhumanizer.joplin": {
+		"manifest_version": 1,
+		"id": "com.aicheckerhumanizer.joplin",
+		"app_min_version": "3.0",
+		"version": "1.0.0",
+		"name": "AI Checker Humanizer",
+		"description": "Check selected note text for AI writing and humanize it, using your AI Checker Humanizer API key.",
+		"author": "AI Checker Humanizer",
+		"homepage_url": "https://aicheckerhumanizer.com/ai-detector",
+		"repository_url": "https://github.com/supertj/aicheckerhumanizer-joplin",
+		"keywords": [
+			"ai detection",
+			"humanize",
+			"writing"
+		],
+		"categories": [
+			"editor",
+			"integrations"
+		],
+		"platforms": [
+			"desktop"
+		],
+		"icons": {
+			"48": "icons/icon-48.png"
+		},
+		"_publish_hash": "sha256:f25e978f906379a4916fc1a33650ab25306b3ae40151a316109b2b8159736985",
+		"_publish_commit": "main:33ca5d063fb05cdfe2f6e8f2633ad1d6256ceaee",
+		"_npm_package_name": "joplin-plugin-ai-checker-humanizer"
 	}
 }
